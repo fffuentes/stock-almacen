@@ -4,6 +4,7 @@ Uso::
 
     python main.py                  # Ejecución normal (requiere configuración previa)
     python main.py configure        # Asistente de configuración interactivo
+    python main.py config           # Mostrar configuración actual
     python main.py test             # Diagnóstico del entorno SAP
     python main.py test --verbose   # Diagnóstico detallado (exploración COM)
     python main.py session          # Prueba del administrador de sesiones
@@ -51,19 +52,26 @@ def _run_configure(framework: Framework) -> None:
     wizard.run()
 
 
-def _run_test(framework: Framework, verbose: bool = False) -> None:
-    """Ejecuta el diagnóstico del entorno SAP.
+def _run_show_config(framework: Framework) -> None:
+    """Muestra la configuración actual del Framework.
 
-    Realiza verificaciones de solo lectura sobre la configuración,
-    SAP GUI, SAP GUI Scripting y sesiones activas.
+    Lee la configuración desde ``ConfigManager`` sin modificarla.
 
     Parameters
     ----------
     framework : Framework
-        Instancia del framework para acceder al gestor de configuración.
-    verbose : bool
-        Si es ``True``, ejecuta el modo de exploración COM detallada.
+        Instancia del framework.
     """
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        print("Ejecute: python main.py configure")
+        return
+
+    framework.config_manager.load()
+    print(framework.config_manager.get_summary())
+
+
+def _run_test(framework: Framework, verbose: bool = False) -> None:
     if verbose:
         debug = SAPDebug(framework.config_manager)
         debug.run()
@@ -214,6 +222,12 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
         print("ERROR")
         print("[!] No hay configuración. Ejecute: python main.py configure")
         return
+    # Cargar configuración explícitamente
+    try:
+        _ = framework.config_manager.load()
+    except Exception as exc:
+        print(f"ERROR\n[!] {exc}")
+        return
     print("OK\n")
 
     # Cargar workflow
@@ -234,6 +248,44 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
     engine: ExecutionEngine = ExecutionEngine(session_mgr)
     engine.run(workflow)
     session_mgr._release_com()
+
+
+def _run_connections(framework: Framework) -> None:
+    """Explora las conexiones SAP Logon visibles via COM.
+
+    Herramienta de diagnóstico independiente. No modifica
+    ningún componente del Framework.
+    """
+    from core.connection_explorer import ConnectionExplorer
+
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        return
+    framework.config_manager.load()
+
+    explorer = ConnectionExplorer(
+        sap_logon_path=framework.config_manager.config.sap_logon_path
+    )
+    explorer.run()
+
+
+def _run_login_test(framework: Framework) -> None:
+    """Prueba experimentalmente OpenConnection con distintos nombres.
+
+    Herramienta de diagnóstico independiente.
+    """
+    from core.open_connection_tester import OpenConnectionTester
+
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        return
+    framework.config_manager.load()
+
+    tester = OpenConnectionTester(
+        sap_logon_path=framework.config_manager.config.sap_logon_path,
+        sap_system=framework.config_manager.config.sap_system,
+    )
+    tester.run()
 
 
 def _run_default(framework: Framework) -> None:
@@ -273,6 +325,8 @@ def main() -> None:
         _run_default(framework)
     elif len(args) == 1 and args[0] == "configure":
         _run_configure(framework)
+    elif len(args) == 1 and args[0] == "config":
+        _run_show_config(framework)
     elif len(args) >= 1 and args[0] == "test":
         verbose: bool = "--verbose" in args or "-v" in args
         _run_test(framework, verbose=verbose)
@@ -282,8 +336,12 @@ def main() -> None:
         _run_resources(framework)
     elif len(args) == 2 and args[0] == "run":
         _run_workflow(framework, args[1].upper())
+    elif len(args) == 1 and args[0] == "connections":
+        _run_connections(framework)
+    elif len(args) == 1 and args[0] == "login-test":
+        _run_login_test(framework)
     else:
-        print(f"Uso: python main.py [configure|test|session|resources|run <transacción>]")
+        print(f"Uso: python main.py [configure|config|test|session|resources|run <tx>|connections]")
         print(f"Argumento no reconocido: {' '.join(args)}")
         raise SystemExit(1)
 

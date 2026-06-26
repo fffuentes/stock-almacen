@@ -47,6 +47,11 @@ class SessionManager:
         self._config_manager: ConfigManager = config_manager
         self._application: Any = None  # Objeto COM Application
         self._framework_session: Optional[SAPSession] = None
+        self._require_login: bool = False
+
+    def enable_login(self) -> None:
+        """Activa la verificación de login al conectar."""
+        self._require_login = True
 
     # ------------------------------------------------------------------
     # Propiedades
@@ -56,6 +61,11 @@ class SessionManager:
     def framework_session(self) -> Optional[SAPSession]:
         """Devuelve la sesión creada por el Framework, o ``None``."""
         return self._framework_session
+
+    @property
+    def config_manager(self) -> "ConfigManager":
+        """Gestor de configuración del Framework."""
+        return self._config_manager
 
     @property
     def has_framework_session(self) -> bool:
@@ -87,6 +97,17 @@ class SessionManager:
         import win32com.client
 
         pythoncom.CoInitialize()
+
+        # Garantizar que SAP Logon esté abierto y listo via COM
+        from core.sap_connector import SAPConnector
+        connector: SAPConnector = SAPConnector(self._config_manager)
+        connector.ensure_running()
+
+        # Garantizar que exista sesión SAP autenticada (solo si se requiere)
+        if self._require_login:
+            from core.login_manager import LoginManager
+            login: LoginManager = LoginManager(self._config_manager)
+            login.ensure_logged_in()
 
         try:
             sap_gui_auto: Any = win32com.client.GetObject("SAPGUI")

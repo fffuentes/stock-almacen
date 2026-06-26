@@ -18,6 +18,9 @@ from .workflow_normalizer import WorkflowNormalizer
 from .workflow_definition import WorkflowDefinition, WorkflowStatus
 from .action_registry import ActionRegistry
 from .execution_engine import ExecutionEngine
+from .sap_waiter import SAPWaiter
+from .sap_connector import SAPConnector
+from .login_manager import LoginManager, LoginState
 
 __all__ = [
     "Framework",
@@ -38,6 +41,10 @@ __all__ = [
     "WorkflowNormalizer",
     "ActionRegistry",
     "ExecutionEngine",
+    "SAPWaiter",
+    "SAPConnector",
+    "LoginManager",
+    "LoginState",
     "WorkflowDefinition",
     "WorkflowStatus",
     "SessionInfo",

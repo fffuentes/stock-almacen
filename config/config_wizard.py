@@ -59,7 +59,16 @@ class ConfigWizard:
         config: FrameworkConfig = FrameworkConfig()
 
         config.sap_logon_path = self._ask_sap_logon_path()
-        config.sap_system = self._ask_required("Sistema SAP", "PRD")
+
+        # Descubrir y seleccionar conexión SAP Logon automáticamente
+        self._discover_and_select_connection(config)
+
+        config.sap_system = self._ask_required(
+            "Sistema SAP (ej. PRD, QAS)", "PRD"
+        )
+        config.system_name = self._ask_required(
+            "System Name real de SAP (ej. PS4, QS4)", config.sap_system
+        )
         config.sap_client = self._ask_required("Cliente SAP", "100")
         config.sap_language = self._ask_required("Idioma SAP", "ES")
         config.sap_user = self._ask_required("Usuario SAP")
@@ -87,6 +96,131 @@ class ConfigWizard:
             if os.path.isfile(candidate):
                 return candidate
         return None
+
+    # ------------------------------------------------------------------
+    def _discover_and_select_connection(self, config: FrameworkConfig) -> None:
+        """Descubre conexiones SAP Logon y permite al usuario seleccionar una.
+
+        Parameters
+        ----------
+        config : FrameworkConfig
+            Configuración donde se almacenará la conexión seleccionada.
+        """
+        print("\n" + "-" * 45)
+        print("  Descubriendo conexiones SAP...")
+        print("-" * 45)
+
+        connections: List[str] = self._list_sap_connections(config)
+
+        if not connections:
+            print("\n[!] No se detectaron conexiones en SAP Logon.")
+            print("    Se solicitará el nombre manualmente.")
+            config.sap_connection = self._ask_required(
+                "Nombre exacto de la conexión SAP Logon"
+            )
+            return
+
+        print(f"\n  Conexiones SAP encontradas:")
+        for i, name in enumerate(connections):
+            print(f"    [{i + 1}] {name}")
+
+        print()
+        while True:
+            choice: str = input(
+                f"  Seleccione la conexión [1-{len(connections)}]: "
+            ).strip()
+            try:
+                idx: int = int(choice) - 1
+                if 0 <= idx < len(connections):
+                    config.sap_connection = connections[idx]
+                    print(f"\n  [✓] Conexión seleccionada: {config.sap_connection}")
+                    return
+            except ValueError:
+                pass
+            print(f"  [!] Ingrese un número entre 1 y {len(connections)}.")
+
+    # ------------------------------------------------------------------
+    @staticmethod
+    def _list_sap_connections(config: FrameworkConfig) -> List[str]:
+        """Obtiene la lista de conexiones disponibles en SAP Logon.
+
+        Parameters
+        ----------
+        config : FrameworkConfig
+            Configuración con la ruta de SAP Logon.
+
+        Returns
+        -------
+        list[str]
+            Nombres de conexiones encontradas.
+        """
+        connections: List[str] = []
+
+        # Verificar que SAP Logon esté corriendo
+        import subprocess
+        try:
+            result = subprocess.run(
+                ["tasklist", "/FI", "IMAGENAME eq saplogon.exe"],
+                capture_output=True, text=True, timeout=5,
+            )
+            running = "saplogon.exe" in result.stdout.lower()
+        except Exception:
+            running = False
+
+        if not running:
+            sap_path: str = config.sap_logon_path
+            if sap_path and Path(sap_path).exists():
+                print("    Iniciando SAP Logon...")
+                subprocess.Popen(
+                    [sap_path], shell=False,
+                    stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                )
+                import time
+                time.sleep(2)
+
+        # Obtener conexiones via COM
+        import pythoncom
+        import win32com.client
+
+        try:
+            pythoncom.CoInitialize()
+            sap_gui = win32com.client.GetObject("SAPGUI")
+            application = sap_gui.GetScriptingEngine
+        except Exception:
+            return connections
+
+        # Intentar obtener Children del application
+        try:
+            children = application.Children
+            count = children.Count if children else 0
+            for i in range(count):
+                try:
+                    conn = children(i)
+                    desc = str(conn.Description or "")
+                    if desc:
+                        connections.append(desc)
+                except Exception:
+                    pass
+        except Exception:
+            pass
+
+        # También intentar SapGuiAuto.Children
+        if not connections:
+            try:
+                children = sap_gui.Children
+                count = children.Count if children else 0
+                for i in range(count):
+                    try:
+                        conn = children(i)
+                        desc = str(conn.Description or conn.Name or "")
+                        if desc:
+                            connections.append(desc)
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
+        return connections
 
     # ------------------------------------------------------------------
     def _ask_sap_logon_path(self) -> str:
