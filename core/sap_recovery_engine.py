@@ -136,7 +136,11 @@ class SAPRecoveryEngine:
     # ------------------------------------------------------------------
 
     def _open_connection(self) -> None:
-        """Abre la conexión SAP configurada."""
+        """Abre la conexión SAP configurada.
+
+        Si falla por un error de conectividad, intenta cerrar el
+        diálogo nativo de error y lanza ``ConnectionUnavailableError``.
+        """
         import win32com.client
 
         connection_name: str = self._config.config.sap_connection
@@ -146,16 +150,44 @@ class SAPRecoveryEngine:
                 "Ejecute: python main.py configure"
             )
 
+        print(f"  Intentando abrir conexión: {connection_name} ... ",
+              end="", flush=True)
+
         try:
             sap_gui = win32com.client.GetObject("SAPGUI")
             application = sap_gui.GetScriptingEngine
             application.OpenConnection(connection_name)
+            print("OK")
         except Exception as exc:
-            raise RuntimeError(
-                f"No se pudo abrir la conexión '{connection_name}'.\n"
-                f"Verifique que SAP Logon esté abierto y la conexión exista.\n"
-                f"Error COM: {exc}"
+            print("ERROR")
+            # Intentar cerrar diálogo nativo de error de conexión
+            self._try_close_native_error_dialog()
+
+            # Si se cerró el diálogo, la causa es falta de conectividad
+            from core.exceptions import ConnectionUnavailableError
+            raise ConnectionUnavailableError(
+                f"No fue posible establecer conexión con SAP.\n"
+                f"Conexión: {connection_name}\n"
+                f"El diálogo de error fue cerrado automáticamente.\n"
+                f"Workflow cancelado. Estado final: CONNECTION_UNAVAILABLE"
             ) from exc
+
+    # ------------------------------------------------------------------
+
+    def _try_close_native_error_dialog(self) -> None:
+        """Intenta cerrar el diálogo nativo de error de conexión."""
+        print("  Buscando diálogo nativo de error...")
+        from core.native_dialog_manager import NativeDialogManager
+        mgr = NativeDialogManager()
+        result = mgr.close_connection_error()
+
+        if result.handled:
+            print("  Diálogo encontrado y cerrado automáticamente.")
+            print("  Conexión no disponible.")
+        elif result.found:
+            print("  Diálogo encontrado pero no se pudo cerrar.")
+        else:
+            print("  No se detectó diálogo nativo de error.")
 
     # ------------------------------------------------------------------
 

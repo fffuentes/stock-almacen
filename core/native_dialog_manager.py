@@ -57,8 +57,14 @@ class NativeDialogManager:
         "Error de distribución de carga",
         "rc=",
         "no fue posible establecer conexión",
-        "cannot connect",
-        "connection",
+        "cannot connect to",
+        "could not connect",
+        "connection attempt failed",
+    ]
+
+    # Títulos de diálogos de error de conexión
+    _ERROR_TITLES: list[str] = [
+        "SAP GUI for Windows",
     ]
 
     # ------------------------------------------------------------------
@@ -84,7 +90,11 @@ class NativeDialogManager:
                 return True
 
             title: str = win32gui.GetWindowText(hwnd)
-            if "SAP GUI for Windows" not in title and "SAP Logon" not in title:
+            # Solo diálogos de error (no ventana principal de SAP Logon)
+            is_error_title = any(
+                et in title for et in self._ERROR_TITLES
+            )
+            if not is_error_title:
                 return True
 
             # Verificar proceso
