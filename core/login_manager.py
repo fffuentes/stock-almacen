@@ -85,7 +85,7 @@ class LoginManager:
         return self._state == LoginState.READY
 
     # ------------------------------------------------------------------
-    # Método público principal
+    # Métodos públicos
     # ------------------------------------------------------------------
 
     def ensure_logged_in(self) -> Any:
@@ -102,7 +102,7 @@ class LoginManager:
         Raises
         ------
         RuntimeError
-            Si el login falla en cualquier estado.
+            Si el login falla.
         """
         import pythoncom
         import win32com.client
@@ -113,13 +113,29 @@ class LoginManager:
             self._state = LoginState.READY
             return self._session_com
 
-        # Ejecutar máquina de estados
+        return self.login()
+
+    # ------------------------------------------------------------------
+
+    def login(self) -> Any:
+        """Ejecuta el login sin verificar estado previo.
+
+        El llamante (SAPRecoveryEngine) ya determinó que se necesita
+        login. Este método solo ejecuta, no decide.
+
+        Returns
+        -------
+        Any
+            Referencia COM a la sesión SAP autenticada.
+
+        Raises
+        ------
+        RuntimeError
+            Si el login falla en cualquier estado.
+        """
         self._state = LoginState.IDLE
 
         try:
-            self._state = LoginState.OPEN_CONNECTION
-            self._open_connection()
-
             self._state = LoginState.WAIT_LOGIN_SCREEN
             self._wait_login_screen()
 
@@ -219,11 +235,19 @@ class LoginManager:
 
     def _wait_login_screen(self) -> None:
         """Espera hasta que aparezca la pantalla de login."""
+        import win32com.client
+        # Obtener referencia fresca al application
+        sap_gui = win32com.client.GetObject("SAPGUI")
+        self._application = sap_gui.GetScriptingEngine
+
         # Obtener una sesión para el waiter
         try:
-            session = self._connection.Children(0)
+            conn = self._application.Children(0)
+            session = conn.Children(0)
         except Exception:
-            session = self._application.Children(0).Children(0)
+            raise RuntimeError(
+                "No se encontraron sesiones para la pantalla de login."
+            )
 
         self._waiter = SAPWaiter(session)
 

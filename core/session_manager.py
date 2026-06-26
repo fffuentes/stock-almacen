@@ -98,16 +98,11 @@ class SessionManager:
 
         pythoncom.CoInitialize()
 
-        # Garantizar que SAP Logon esté abierto y listo via COM
-        from core.sap_connector import SAPConnector
-        connector: SAPConnector = SAPConnector(self._config_manager)
-        connector.ensure_running()
-
-        # Garantizar que exista sesión SAP autenticada (solo si se requiere)
+        # Delegar toda la recuperación de estado a SAPRecoveryEngine
         if self._require_login:
-            from core.login_manager import LoginManager
-            login: LoginManager = LoginManager(self._config_manager)
-            login.ensure_logged_in()
+            from core.sap_recovery_engine import SAPRecoveryEngine
+            recovery = SAPRecoveryEngine(self._config_manager)
+            recovery.ensure_ready()
 
         try:
             sap_gui_auto: Any = win32com.client.GetObject("SAPGUI")
