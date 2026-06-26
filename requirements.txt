@@ -1,0 +1,5 @@
+# SAP Automation Framework (SAF) - Fase 2
+# Dependencias base del proyecto.
+
+# SAP GUI Scripting (interfaz COM)
+pywin32>=305

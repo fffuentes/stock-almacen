@@ -1,0 +1,73 @@
+{
+  "transaction": "MB52",
+  "steps": [
+    {
+      "step": 1,
+      "action": "start_transaction",
+      "transaction": "mb52"
+    },
+    {
+      "step": 2,
+      "action": "confirm"
+    },
+    {
+      "step": 3,
+      "action": "press_button",
+      "target": "wnd[0]/tbar[1]/btn[17]"
+    },
+    {
+      "step": 4,
+      "action": "set_field",
+      "field": "txtV-LOW",
+      "value": "FRAMEWORK 1.0",
+      "target": "wnd[1]/usr/txtV-LOW"
+    },
+    {
+      "step": 5,
+      "action": "set_field",
+      "field": "txtENAME-LOW",
+      "value": "GP01MNCOOREP",
+      "target": "wnd[1]/usr/txtENAME-LOW"
+    },
+    {
+      "step": 6,
+      "action": "press_button",
+      "target": "wnd[1]/tbar[0]/btn[8]"
+    },
+    {
+      "step": 7,
+      "action": "execute"
+    },
+    {
+      "step": 8,
+      "action": "select_menu",
+      "target": "wnd[0]/mbar/menu[0]/menu[3]/menu[2]"
+    },
+    {
+      "step": 9,
+      "action": "select_menu",
+      "target": "wnd[1]/usr/subSUBSCREEN_STEPLOOP:SAPLSPO5:0150/sub:SAPLSPO5:0150/radSPOPLI-SELFLAG[1,0]"
+    },
+    {
+      "step": 10,
+      "action": "press_button",
+      "target": "wnd[1]/tbar[0]/btn[0]"
+    },
+    {
+      "step": 11,
+      "action": "export_file",
+      "filename": "MB52.txt",
+      "path_source": "framework_configuration"
+    },
+    {
+      "step": 12,
+      "action": "press_button",
+      "target": "wnd[1]/tbar[0]/btn[11]"
+    },
+    {
+      "step": 13,
+      "action": "send_vkey",
+      "value": 3
+    }
+  ]
+}
