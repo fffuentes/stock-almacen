@@ -1,0 +1,243 @@
+{
+  "resource": "MB52.vbs",
+  "transaction": "MB52",
+  "statistics": {
+    "recognized": 13,
+    "ignored": 18,
+    "lines": 33
+  },
+  "steps": [
+    {
+      "step": 1,
+      "source_line": 16,
+      "source": "session.findById(\"wnd[0]/tbar[0]/okcd\").text = \"mb52\"",
+      "type": "set_text",
+      "strategy": "field",
+      "data": {
+        "find_by_id": "wnd[0]/tbar[0]/okcd",
+        "field": "okcd",
+        "value": "mb52"
+      }
+    },
+    {
+      "step": 2,
+      "source_line": 17,
+      "source": "session.findById(\"wnd[0]\").sendVKey 0",
+      "type": "send_vkey",
+      "strategy": "vkey",
+      "data": {
+        "find_by_id": "wnd[0]",
+        "value": 0
+      }
+    },
+    {
+      "step": 3,
+      "source_line": 18,
+      "source": "session.findById(\"wnd[0]/tbar[1]/btn[17]\").press",
+      "type": "press_button",
+      "strategy": "button",
+      "data": {
+        "find_by_id": "wnd[0]/tbar[1]/btn[17]"
+      }
+    },
+    {
+      "step": 4,
+      "source_line": 19,
+      "source": "session.findById(\"wnd[1]/usr/txtV-LOW\").text = \"FRAMEWORK 1.0\"",
+      "type": "set_text",
+      "strategy": "field",
+      "data": {
+        "find_by_id": "wnd[1]/usr/txtV-LOW",
+        "field": "txtV-LOW",
+        "value": "FRAMEWORK 1.0"
+      }
+    },
+    {
+      "step": 5,
+      "source_line": 20,
+      "source": "session.findById(\"wnd[1]/usr/txtENAME-LOW\").text = \"GP01MNCOOREP\"",
+      "type": "set_text",
+      "strategy": "field",
+      "data": {
+        "find_by_id": "wnd[1]/usr/txtENAME-LOW",
+        "field": "txtENAME-LOW",
+        "value": "GP01MNCOOREP"
+      }
+    },
+    {
+      "step": 6,
+      "source_line": 22,
+      "source": "session.findById(\"wnd[1]/tbar[0]/btn[8]\").press",
+      "type": "press_button",
+      "strategy": "button",
+      "data": {
+        "find_by_id": "wnd[1]/tbar[0]/btn[8]"
+      }
+    },
+    {
+      "step": 7,
+      "source_line": 23,
+      "source": "session.findById(\"wnd[0]\").sendVKey 8",
+      "type": "send_vkey",
+      "strategy": "vkey",
+      "data": {
+        "find_by_id": "wnd[0]",
+        "value": 8
+      }
+    },
+    {
+      "step": 8,
+      "source_line": 24,
+      "source": "session.findById(\"wnd[0]/mbar/menu[0]/menu[3]/menu[2]\").select",
+      "type": "select_menu",
+      "strategy": "menu",
+      "data": {
+        "find_by_id": "wnd[0]/mbar/menu[0]/menu[3]/menu[2]"
+      }
+    },
+    {
+      "step": 9,
+      "source_line": 25,
+      "source": "session.findById(\"wnd[1]/usr/subSUBSCREEN_STEPLOOP:SAPLSPO5:0150/sub:SAPLSPO5:0150/radSPOPLI-SELFLAG[1,0]\").select",
+      "type": "select_menu",
+      "strategy": "menu",
+      "data": {
+        "find_by_id": "wnd[1]/usr/subSUBSCREEN_STEPLOOP:SAPLSPO5:0150/sub:SAPLSPO5:0150/radSPOPLI-SELFLAG[1,0]"
+      }
+    },
+    {
+      "step": 10,
+      "source_line": 27,
+      "source": "session.findById(\"wnd[1]/tbar[0]/btn[0]\").press",
+      "type": "press_button",
+      "strategy": "button",
+      "data": {
+        "find_by_id": "wnd[1]/tbar[0]/btn[0]"
+      }
+    },
+    {
+      "step": 11,
+      "source_line": 29,
+      "source": "session.findById(\"wnd[1]/usr/ctxtDY_FILENAME\").text = \"MB52.txt\"",
+      "type": "export",
+      "strategy": "local_file",
+      "data": {
+        "path": "C:\\Users\\ffuentes\\OneDrive - Embotelladora la Mariposa,S.A\\Documents\\",
+        "filename": "MB52.txt"
+      }
+    },
+    {
+      "step": 12,
+      "source_line": 31,
+      "source": "session.findById(\"wnd[1]/tbar[0]/btn[11]\").press",
+      "type": "press_button",
+      "strategy": "button",
+      "data": {
+        "find_by_id": "wnd[1]/tbar[0]/btn[11]"
+      }
+    },
+    {
+      "step": 13,
+      "source_line": 33,
+      "source": "session.findById(\"wnd[0]\").sendVKey 3",
+      "type": "send_vkey",
+      "strategy": "vkey",
+      "data": {
+        "find_by_id": "wnd[0]",
+        "value": 3
+      }
+    }
+  ],
+  "ignored": [
+    {
+      "line": 1,
+      "reason": "infrastructure",
+      "source": "﻿If Not IsObject(application) Then"
+    },
+    {
+      "line": 2,
+      "reason": "infrastructure",
+      "source": "Set SapGuiAuto  = GetObject(\"SAPGUI\")"
+    },
+    {
+      "line": 3,
+      "reason": "infrastructure",
+      "source": "Set application = SapGuiAuto.GetScriptingEngine"
+    },
+    {
+      "line": 4,
+      "reason": "infrastructure",
+      "source": "End If"
+    },
+    {
+      "line": 5,
+      "reason": "infrastructure",
+      "source": "If Not IsObject(connection) Then"
+    },
+    {
+      "line": 6,
+      "reason": "infrastructure",
+      "source": "Set connection = application.Children(0)"
+    },
+    {
+      "line": 7,
+      "reason": "infrastructure",
+      "source": "End If"
+    },
+    {
+      "line": 8,
+      "reason": "infrastructure",
+      "source": "If Not IsObject(session) Then"
+    },
+    {
+      "line": 9,
+      "reason": "infrastructure",
+      "source": "Set session    = connection.Children(0)"
+    },
+    {
+      "line": 10,
+      "reason": "infrastructure",
+      "source": "End If"
+    },
+    {
+      "line": 11,
+      "reason": "infrastructure",
+      "source": "If IsObject(WScript) Then"
+    },
+    {
+      "line": 12,
+      "reason": "infrastructure",
+      "source": "WScript.ConnectObject session,     \"on\""
+    },
+    {
+      "line": 13,
+      "reason": "infrastructure",
+      "source": "WScript.ConnectObject application, \"on\""
+    },
+    {
+      "line": 14,
+      "reason": "infrastructure",
+      "source": "End If"
+    },
+    {
+      "line": 15,
+      "reason": "infrastructure",
+      "source": "session.findById(\"wnd[0]\").maximize"
+    },
+    {
+      "line": 21,
+      "reason": "infrastructure",
+      "source": "session.findById(\"wnd[1]/usr/txtV-LOW\").caretPosition = 13"
+    },
+    {
+      "line": 26,
+      "reason": "infrastructure",
+      "source": "session.findById(\"wnd[1]/usr/subSUBSCREEN_STEPLOOP:SAPLSPO5:0150/sub:SAPLSPO5:0150/radSPOPLI-SELFLAG[1,0]\").setFocus"
+    },
+    {
+      "line": 30,
+      "reason": "infrastructure",
+      "source": "session.findById(\"wnd[1]/usr/ctxtDY_FILENAME\").caretPosition = 8"
+    }
+  ]
+}
