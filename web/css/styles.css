@@ -1,0 +1,433 @@
+/* ================================================================
+   SAP Automation Framework — Portal MB52
+   Tema oscuro moderno · Profesional · Elegante
+   ================================================================ */
+
+/* --- Reset & Base -------------------------------------------------- */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Fondos */
+    --bg-primary: #0d1117;
+    --bg-secondary: #131722;
+    --bg-card: #1a1d2e;
+    --bg-card-hover: #1f2338;
+    --bg-input: #23273d;
+    --bg-header-status: #151828;
+
+    /* Texto */
+    --text-primary: #e8eaf0;
+    --text-secondary: #a0a5be;
+    --text-muted: #6d7188;
+
+    /* Acento — azul sobrio */
+    --accent: #4f8ef7;
+    --accent-hover: #639ef9;
+    --accent-dim: rgba(79, 142, 247, 0.10);
+    --accent-glow: rgba(79, 142, 247, 0.18);
+
+    /* Bordes */
+    --border: #282c40;
+    --border-light: #343850;
+
+    /* Radios */
+    --radius: 12px;
+    --radius-sm: 8px;
+    --radius-xs: 6px;
+
+    /* Sombras */
+    --shadow: 0 2px 14px rgba(0, 0, 0, 0.28);
+    --shadow-lg: 0 6px 30px rgba(0, 0, 0, 0.40);
+    --shadow-card: 0 1px 8px rgba(0, 0, 0, 0.22);
+
+    /* Tipografía */
+    --font: "Segoe UI", system-ui, -apple-system, sans-serif;
+    --font-mono: "Cascadia Code", "Fira Code", "Consolas", monospace;
+
+    /* Transición base */
+    --transition: 0.2s ease;
+}
+
+html {
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: var(--font);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.5;
+    min-height: 100vh;
+}
+
+
+/* ================================================================
+   HEADER
+   ================================================================ */
+
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 36px;
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(8px);
+}
+
+.header-left {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.app-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: -0.3px;
+}
+
+.app-subtitle {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--accent);
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+}
+
+/* --- Header status card (esquina superior derecha) ----------------- */
+
+.header-status {
+    display: flex;
+    gap: 24px;
+    background: var(--bg-header-status);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 20px;
+    box-shadow: var(--shadow-card);
+}
+
+.status-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    min-width: 110px;
+}
+
+.status-item + .status-item {
+    border-left: 1px solid var(--border);
+    padding-left: 20px;
+}
+
+.status-label {
+    font-size: 0.65rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-value {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    transition: color var(--transition);
+}
+
+.status-pending {
+    color: #f0a050;
+    font-family: var(--font);
+    font-size: 0.78rem;
+}
+
+.status-ok {
+    color: #4ec97a;
+    font-family: var(--font);
+    font-size: 0.78rem;
+}
+
+
+/* ================================================================
+   MAIN CONTENT
+   ================================================================ */
+
+.app-main {
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 28px 36px 52px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+
+/* ================================================================
+   CARDS
+   ================================================================ */
+
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px 30px;
+    box-shadow: var(--shadow-card);
+    transition: border-color var(--transition), box-shadow var(--transition);
+}
+
+.card:hover {
+    border-color: var(--border-light);
+    box-shadow: var(--shadow);
+}
+
+/* --- Card header (título + acciones a la derecha) ------------------ */
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    letter-spacing: -0.15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.card-title::before {
+    content: "";
+    display: inline-block;
+    width: 4px;
+    height: 18px;
+    background: var(--accent);
+    border-radius: 2px;
+}
+
+/* --- Results counter ---------------------------------------------- */
+
+.results-counter {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    background: var(--bg-input);
+    padding: 5px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    transition: background var(--transition);
+}
+
+.results-counter strong {
+    color: var(--accent);
+    font-weight: 700;
+}
+
+
+/* ================================================================
+   SEARCH INPUT
+   ================================================================ */
+
+.search-input {
+    width: 100%;
+    max-width: 560px;
+    padding: 13px 18px;
+    font-family: var(--font);
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    outline: none;
+    transition: border-color var(--transition), box-shadow var(--transition),
+                background var(--transition);
+}
+
+.search-input::placeholder {
+    color: var(--text-muted);
+    font-style: italic;
+    opacity: 0.7;
+}
+
+.search-input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 4px var(--accent-glow);
+    background: #272b44;
+}
+
+.search-input:disabled {
+    opacity: 0.48;
+    cursor: not-allowed;
+    filter: grayscale(20%);
+}
+
+/* --- Search hint -------------------------------------------------- */
+
+.search-hint {
+    margin-top: 10px;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+
+/* ================================================================
+   TABLE
+   ================================================================ */
+
+.table-container {
+    overflow: hidden;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+    position: relative;
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.84rem;
+    white-space: nowrap;
+}
+
+.results-table thead {
+    background: linear-gradient(180deg, #1f2340 0%, #1a1d34 100%);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.results-table th {
+    padding: 14px 18px;
+    text-align: left;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.6px;
+    border-bottom: 2px solid var(--border);
+    transition: color var(--transition), background var(--transition);
+    user-select: none;
+}
+
+.results-table th:hover {
+    color: var(--accent);
+    background: rgba(79, 142, 247, 0.06);
+}
+
+.results-table th:first-child {
+    border-radius: var(--radius-sm) 0 0 0;
+}
+
+.results-table th:last-child {
+    border-radius: 0 var(--radius-sm) 0 0;
+}
+
+.results-table td {
+    padding: 13px 18px;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border);
+    transition: background var(--transition);
+}
+
+.results-table tbody tr:hover td {
+    background: var(--bg-card-hover);
+}
+
+
+/* ================================================================
+   EMPTY STATE
+   ================================================================ */
+
+.empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 24px;
+    gap: 12px;
+}
+
+.empty-icon {
+    font-size: 2.6rem;
+    opacity: 0.35;
+    filter: grayscale(40%);
+}
+
+.empty-text {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+
+/* ================================================================
+   COLUMN WIDTHS — Distribución visual de la tabla
+   ================================================================ */
+
+/* Ancho mínimo fijo para códigos cortos (Material, Alm., UMB, etc.) */
+.col-fixed {
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
+}
+
+/* Columna expansible — consume el espacio sobrante (Texto breve material) */
+.col-expand {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 0;  /* para que table-layout:auto funcione con expand */
+}
+
+/* Columnas numéricas — ancho ajustado al contenido, alineadas derecha */
+.col-number {
+    width: 1%;
+    white-space: nowrap;
+    text-align: right;
+}
+
+
+/* ================================================================
+   SCROLLBAR
+   ================================================================ */
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border-light);
+    border-radius: 3px;
+    transition: background var(--transition);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
+}
+
+::-webkit-scrollbar-corner {
+    background: transparent;
+}

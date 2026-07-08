@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAP Automation Framework — Portal MB52</title>
+
+    <!-- Favicon (emoji temporal) -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📦</text></svg>">
+
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- ============================================================
+         HEADER
+         ============================================================ -->
+    <header class="app-header">
+        <div class="header-left">
+            <h1 class="app-title">SAP Automation Framework</h1>
+            <p class="app-subtitle">Portal MB52</p>
+        </div>
+
+        <!-- Tarjeta de estado en esquina superior derecha -->
+        <div class="header-status">
+            <div class="status-item">
+                <span class="status-label">Última actualización</span>
+                <span class="status-value">--</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">Cantidad de registros</span>
+                <span class="status-value">--</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">Estado</span>
+                <span class="status-value status-pending">Esperando datos...</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- ============================================================
+         MAIN CONTENT
+         ============================================================ -->
+    <main class="app-main">
+
+        <!-- Tarjeta 1: Buscar Material -->
+        <section class="card">
+            <div class="card-header">
+                <h2 class="card-title">Buscar Material</h2>
+            </div>
+            <input
+                type="search"
+                class="search-input"
+                placeholder="Buscar código o descripción..."
+                disabled
+            >
+            <p class="search-hint">
+                Escriba parte del código o descripción del material.<br>
+                La búsqueda será automática.
+            </p>
+        </section>
+
+        <!-- Tarjeta 2: Resultados -->
+        <section class="card">
+            <div class="card-header">
+                <h2 class="card-title">Resultados</h2>
+                <span class="results-counter">Resultados encontrados: <strong>0</strong></span>
+            </div>
+
+            <div class="table-container">
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <!-- Encabezados generados por table.js -->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Filas generadas por table.js -->
+                    </tbody>
+                </table>
+
+                <!-- Mensaje de empty state -->
+                <div class="empty-state">
+                    <span class="empty-icon">📋</span>
+                    <p class="empty-text">No hay datos cargados.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ============================================================
+         SCRIPTS
+         ============================================================ -->
+    <script src="js/app.js"></script>
+    <script src="js/parser.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/table.js"></script>
+
+</body>
+</html>
