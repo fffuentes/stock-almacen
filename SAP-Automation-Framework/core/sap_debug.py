@@ -171,7 +171,7 @@ class SAPDebug:
         print("  VBS: Set application = SapGuiAuto.GetScriptingEngine")
         print(self._SEPARATOR)
 
-        # Intento 1: Acceso como propiedad (sin paréntesis) — patrón VBS
+        # Acceso como propiedad (sin paréntesis) — patrón VBS
         try:
             application = sap_gui_auto.GetScriptingEngine
             print("  ✓ Application obtenido (vía propiedad GetScriptingEngine)")
@@ -180,19 +180,6 @@ class SAPDebug:
             return application
         except Exception:
             print("  ✗ GetScriptingEngine como propiedad falló")
-            print("  Excepción completa:")
-            traceback.print_exc()
-
-        # Intento 2: Acceso como método (con paréntesis) — alternativa
-        print("\n  Intentando como método: GetScriptingEngine()")
-        try:
-            application = sap_gui_auto.GetScriptingEngine()
-            print("  ✓ Application obtenido (vía método GetScriptingEngine())")
-            print(f"  Tipo:  {type(application).__name__}")
-            print(f"  repr:  {application!r}")
-            return application
-        except Exception:
-            print("  ✗ GetScriptingEngine() como método también falló")
             print("  Excepción completa:")
             traceback.print_exc()
 
@@ -318,18 +305,7 @@ class SAPDebug:
             print("    ✗ Falló connection.Children")
             print("    Excepción completa:")
             traceback.print_exc()
-
-            # Intentar alternativa: connection.Sessions
-            print("\n    Intentando alternativa: connection.Sessions")
-            try:
-                sessions = connection.Sessions
-                scount = sessions.Count
-                print("    ✓ connection.Sessions disponible")
-                print(f"    Count: {scount}")
-            except Exception:
-                print("    ✗ connection.Sessions también falló")
-                traceback.print_exc()
-                return
+            return
 
         if scount == 0:
             print("    (Count = 0, no hay sesiones en esta conexión)")

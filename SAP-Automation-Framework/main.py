@@ -4,6 +4,7 @@ Uso::
 
     python main.py                  # Ejecución normal (requiere configuración previa)
     python main.py configure        # Asistente de configuración interactivo
+    python main.py config           # Mostrar configuración actual
     python main.py test             # Diagnóstico del entorno SAP
     python main.py test --verbose   # Diagnóstico detallado (exploración COM)
     python main.py session          # Prueba del administrador de sesiones
@@ -25,6 +26,7 @@ from core.resource_manager import ResourceManager
 from core.resource import ResourceStatus
 from core.workflow import Workflow
 from core.execution_engine import ExecutionEngine
+from core.exceptions import ConnectionUnavailableError
 from config.config_wizard import ConfigWizard
 
 
@@ -51,19 +53,26 @@ def _run_configure(framework: Framework) -> None:
     wizard.run()
 
 
-def _run_test(framework: Framework, verbose: bool = False) -> None:
-    """Ejecuta el diagnóstico del entorno SAP.
+def _run_show_config(framework: Framework) -> None:
+    """Muestra la configuración actual del Framework.
 
-    Realiza verificaciones de solo lectura sobre la configuración,
-    SAP GUI, SAP GUI Scripting y sesiones activas.
+    Lee la configuración desde ``ConfigManager`` sin modificarla.
 
     Parameters
     ----------
     framework : Framework
-        Instancia del framework para acceder al gestor de configuración.
-    verbose : bool
-        Si es ``True``, ejecuta el modo de exploración COM detallada.
+        Instancia del framework.
     """
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        print("Ejecute: python main.py configure")
+        return
+
+    framework.config_manager.load()
+    print(framework.config_manager.get_summary())
+
+
+def _run_test(framework: Framework, verbose: bool = False) -> None:
     if verbose:
         debug = SAPDebug(framework.config_manager)
         debug.run()
@@ -214,6 +223,12 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
         print("ERROR")
         print("[!] No hay configuración. Ejecute: python main.py configure")
         return
+    # Cargar configuración explícitamente
+    try:
+        _ = framework.config_manager.load()
+    except Exception as exc:
+        print(f"ERROR\n[!] {exc}")
+        return
     print("OK\n")
 
     # Cargar workflow
@@ -232,8 +247,119 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
     # Ejecutar
     session_mgr: SessionManager = SessionManager(framework.config_manager)
     engine: ExecutionEngine = ExecutionEngine(session_mgr)
-    engine.run(workflow)
-    session_mgr._release_com()
+    try:
+        engine.run(workflow)
+    except ConnectionUnavailableError as exc:
+        print(f"\n{exc}")
+    finally:
+        session_mgr._release_com()
+
+
+def _run_connections(framework: Framework) -> None:
+    """Explora las conexiones SAP Logon visibles via COM.
+
+    Herramienta de diagnóstico independiente. No modifica
+    ningún componente del Framework.
+    """
+    from core.connection_explorer import ConnectionExplorer
+
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        return
+    framework.config_manager.load()
+
+    explorer = ConnectionExplorer(
+        sap_logon_path=framework.config_manager.config.sap_logon_path
+    )
+    explorer.run()
+
+
+def _run_login_test(framework: Framework) -> None:
+    """Prueba experimentalmente OpenConnection con distintos nombres.
+
+    Herramienta de diagnóstico independiente.
+    """
+    from core.open_connection_tester import OpenConnectionTester
+
+    if not framework.config_manager.exists():
+        print("\n[!] No hay configuración.")
+        return
+    framework.config_manager.load()
+
+    tester = OpenConnectionTester(
+        sap_logon_path=framework.config_manager.config.sap_logon_path,
+        sap_system=framework.config_manager.config.sap_system,
+    )
+    tester.run()
+
+
+def _run_state(framework: Framework) -> None:
+    """Detecta el estado actual de SAP (solo lectura)."""
+    from core.sap_state_detector import SAPStateDetector
+    d = SAPStateDetector(); info = d.detect()
+    print(f"\n{'='*50}\n  SAP STATE DETECTOR\n{'='*50}")
+    if info.analysis:
+        for conn in info.analysis:
+            print(f"\n  Conexión {conn.connection_id}: {conn.description}")
+            for sess in conn.sessions:
+                print(f"  Sesión {sess.session_id}: {sess.system} {sess.client} {sess.user} {sess.transaction or '-'}")
+                for win in sess.windows:
+                    print(f"    {win.window_id}: {win.state_detected.name}  {'✓ ' + ', '.join(win.controls) if win.controls else ''}")
+    print(f"\n  Estado: {info.state.name} ({info.confidence}%)\n  {info.message}")
+
+
+def _run_popup(framework: Framework) -> None:
+    """Detecta popups SAP modales."""
+    import win32com.client
+    try:
+        g=win32com.client.GetObject("SAPGUI").GetScriptingEngine
+        s=g.Children(0).Children(0)
+    except: print("\n[!] No se pudo conectar a SAP GUI."); return
+    from core.sap_popup_manager import SAPPopupManager
+    m=SAPPopupManager(s); p=m.detect()
+    if not p: print("\nNo hay popup activo."); return
+    print(f"\n  Popup: {p.popup_type.name}\n  Título: {p.title}\n  Mensaje: {p.message}")
+    for b in p.buttons: print(f"    [{b.index}] {b.text}")
+
+
+def _run_win_dialogs(framework: Framework) -> None:
+    """Explora ventanas nativas de Windows."""
+    from core.windows_dialog_explorer import WindowsDialogExplorer
+    e=WindowsDialogExplorer(); dialogs=e.find_dialogs()
+    print(f"\n{'='*50}\n  Windows Dialog Explorer\n{'='*50}")
+    if not dialogs: print("\n  No se encontraron diálogos SAP."); return
+    for w in dialogs:
+        print(f"\n  Ventana: {hex(w.handle)} {w.process_name} {w.class_name} '{w.title}'")
+        for i,c in enumerate(w.children):
+            print(f"  [{i}] {c.class_name} '{c.text}' ID={c.control_id}")
+            if i>8: print(f"  ... ({len(w.children)-i-1} más)"); break
+
+
+def _run_native_dialog(framework: Framework, args: list) -> None:
+    """Gestiona diálogos nativos de Windows en SAP Logon."""
+    from core.native_dialog_manager import NativeDialogManager
+    m=NativeDialogManager()
+    verbose = "--verbose" in args
+    close = "--close" in args
+
+    if verbose: print("\n  Buscando diálogo...")
+    r = m.find_connection_error()
+
+    if verbose:
+        print(f"  Ventanas inspeccionadas: (Win32 EnumWindows)")
+        if r.found: print(f"  Proceso:  {r.process}\n  Clase:    {r.class_name}\n  Título:   {r.window_title}\n  Mensaje:  {r.message[:100]}\n  Coincide: Sí")
+        else: print("  Coincide: No")
+
+    if close and r.found:
+        print("\n  Buscando botón...")
+        result = m.close_connection_error()
+        if verbose: print(f"  Enviando BM_CLICK...\n  Botón presionado: {result.button_pressed}")
+        if result.handled: print("\n  Diálogo cerrado correctamente.")
+        else: print("\n  [!] Diálogo encontrado pero no se pudo cerrar.")
+    elif r.found:
+        print(f"\n  Native Dialog\n  Encontrado: Sí\n  Proceso: {r.process}\n  Título: {r.window_title}\n  Mensaje: {r.message[:100]}")
+    else:
+        print("\n  No existe diálogo nativo activo.")
 
 
 def _run_default(framework: Framework) -> None:
@@ -273,6 +399,8 @@ def main() -> None:
         _run_default(framework)
     elif len(args) == 1 and args[0] == "configure":
         _run_configure(framework)
+    elif len(args) == 1 and args[0] == "config":
+        _run_show_config(framework)
     elif len(args) >= 1 and args[0] == "test":
         verbose: bool = "--verbose" in args or "-v" in args
         _run_test(framework, verbose=verbose)
@@ -282,8 +410,20 @@ def main() -> None:
         _run_resources(framework)
     elif len(args) == 2 and args[0] == "run":
         _run_workflow(framework, args[1].upper())
+    elif len(args) == 1 and args[0] == "connections":
+        _run_connections(framework)
+    elif len(args) == 1 and args[0] == "login-test":
+        _run_login_test(framework)
+    elif len(args) == 1 and args[0] == "state":
+        _run_state(framework)
+    elif len(args) == 1 and args[0] == "popup":
+        _run_popup(framework)
+    elif len(args) == 1 and args[0] == "win-dialogs":
+        _run_win_dialogs(framework)
+    elif len(args) >= 1 and args[0] == "native-dialog":
+        _run_native_dialog(framework, args)
     else:
-        print(f"Uso: python main.py [configure|test|session|resources|run <transacción>]")
+        print(f"Uso: python main.py [configure|config|test|session|resources|run <tx>|connections|state|popup|win-dialogs|native-dialog]")
         print(f"Argumento no reconocido: {' '.join(args)}")
         raise SystemExit(1)
 

@@ -9,7 +9,6 @@ a su Handler correspondiente. No conoce clases concretas.
 
 from __future__ import annotations
 
-import time
 from pathlib import Path
 from typing import Any, Optional
 
@@ -17,6 +16,8 @@ from core.workflow import Workflow, WorkflowStep
 from core.action_registry import ActionRegistry
 from core.session_manager import SessionManager
 from core.sap_session import SAPSession
+from core.sap_waiter import SAPWaiter
+from config.config_manager import ConfigManager
 
 
 class ExecutionEngine:
@@ -47,6 +48,14 @@ class ExecutionEngine:
         """
         self._session_manager: SessionManager = session_manager
         self._session: Optional[SAPSession] = None
+        self._config_manager: ConfigManager = session_manager.config_manager
+
+        # Activar login automático para ejecución de workflows
+        self._session_manager.enable_login()
+
+        # Asegurar que la configuración esté cargada
+        if self._config_manager.exists():
+            self._config_manager.load()
 
         # Cargar todos los handlers (importa los módulos de acciones)
         self._ensure_actions_loaded()
@@ -81,8 +90,14 @@ class ExecutionEngine:
             print(f"Ejecutando workflow: {workflow.transaction}")
             print(f"Pasos: {total}\n")
 
+            # Crear waiter inteligente (reemplaza time.sleep)
+            waiter: SAPWaiter = SAPWaiter(com)
+
             for step in workflow.steps:
-                self._execute_step(step, com, total)
+                self._execute_step(step, com, waiter, total)
+
+            # Verificar archivos exportados
+            self._verify_exports(workflow)
 
             print("\nWorkflow finalizado exitosamente.")
             return True
@@ -106,6 +121,7 @@ class ExecutionEngine:
         self,
         step: WorkflowStep,
         com: Any,
+        waiter: SAPWaiter,
         total: int,
     ) -> None:
         """Ejecuta un paso individual del workflow.
@@ -116,6 +132,8 @@ class ExecutionEngine:
             Paso a ejecutar.
         com : Any
             Referencia COM de la sesión SAP.
+        waiter : SAPWaiter
+            Motor de espera inteligente.
         total : int
             Total de pasos del workflow.
 
@@ -139,12 +157,48 @@ class ExecutionEngine:
 
         # Ejecutar
         handler = handler_cls()
+
+        # Inyectar contexto de framework en pasos que lo requieran
+        if action == "export_file":
+            step.data["export_path"] = self._config_manager.config.exports_path
+
         handler.execute(step, com)
 
-        # Pequeña pausa para que SAP procese
-        time.sleep(0.3)
+        # Espera inteligente: SAPWaiter reemplaza time.sleep fijo
+        waiter.wait_ready()
 
         print("OK")
+
+    # ------------------------------------------------------------------
+    # Verificación de exportaciones
+    # ------------------------------------------------------------------
+
+    def _verify_exports(self, workflow: Workflow) -> None:
+        """Verifica que los archivos exportados existan en disco.
+
+        Parameters
+        ----------
+        workflow : Workflow
+            Workflow ejecutado.
+        """
+        export_path: str = self._config_manager.config.exports_path
+
+        for step in workflow.steps:
+            if step.action != "export_file":
+                continue
+
+            filename: str = step.data.get("filename", "")
+            full_path: Path = Path(export_path) / filename
+
+            print(f"\nVerificando exportación...")
+            print(f"  Archivo: {full_path}")
+
+            if full_path.exists():
+                size: int = full_path.stat().st_size
+                print(f"  Exportación completada.")
+                print(f"  Tamaño: {size} bytes")
+            else:
+                print(f"  [ERROR] El archivo no fue encontrado.")
 
     # ------------------------------------------------------------------
     # Carga de acciones

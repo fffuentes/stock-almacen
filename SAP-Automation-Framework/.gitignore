@@ -1,0 +1,37 @@
+# Archivos de configuración con datos sensibles
+config/settings.json
+config/settings.local.json
+*.secret.json
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+
+# Archivos temporales y logs
+temp/*
+logs/*
+!logs/.gitkeep
+!temp/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+Desktop.ini

@@ -44,7 +44,9 @@ class FrameworkConfig:
     """
 
     sap_logon_path: str = ""
+    sap_connection: str = ""
     sap_system: str = ""
+    system_name: str = ""
     sap_client: str = ""
     sap_language: str = "ES"
     sap_user: str = ""
@@ -191,6 +193,12 @@ class ConfigManager:
         if not cfg.sap_system.strip():
             errors.append("Sistema SAP es obligatorio.")
 
+        if not cfg.sap_connection.strip():
+            errors.append("Conexión SAP Logon es obligatoria.")
+
+        if not cfg.system_name.strip():
+            errors.append("Nombre de sistema SAP (SystemName) es obligatorio.")
+
         if not cfg.sap_client.strip():
             errors.append("Cliente SAP es obligatorio.")
 
@@ -230,7 +238,9 @@ class ConfigManager:
             "  CONFIGURACIÓN SAF",
             "=" * 55,
             f"  SAP Logon        : {cfg.sap_logon_path}",
+            f"  Conexión SAP     : {cfg.sap_connection}",
             f"  Sistema SAP      : {cfg.sap_system}",
+            f"  System Name      : {cfg.system_name}",
             f"  Cliente          : {cfg.sap_client}",
             f"  Idioma           : {cfg.sap_language}",
             f"  Usuario          : {cfg.sap_user}",
