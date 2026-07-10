@@ -58,6 +58,8 @@ html {
     font-size: 15px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    height: 100%;
+    overflow: hidden;
 }
 
 body {
@@ -65,7 +67,10 @@ body {
     background: var(--bg-primary);
     color: var(--text-primary);
     line-height: 1.5;
-    min-height: 100vh;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -167,12 +172,15 @@ body {
    ================================================================ */
 
 .app-main {
-    max-width: 1360px;
+    max-width: 96vw;
     margin: 0 auto;
-    padding: 28px 36px 52px;
+    padding: 28px 16px 0;
     display: flex;
     flex-direction: column;
     gap: 22px;
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
 }
 
 
@@ -293,28 +301,40 @@ body {
    TABLE
    ================================================================ */
 
-.table-container {
+/* Tarjeta de resultados: altura flexible + scroll interno */
+.card-results {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
     overflow: hidden;
+}
+
+.card-results .table-container {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: auto;
     border-radius: var(--radius-sm);
     border: 1px solid var(--border);
     position: relative;
+    min-height: 0;
 }
 
 .results-table {
     width: 100%;
+    table-layout: auto;
     border-collapse: collapse;
     font-size: 0.84rem;
-    white-space: nowrap;
 }
 
 .results-table thead {
     background: linear-gradient(180deg, #1f2340 0%, #1a1d34 100%);
-    position: sticky;
-    top: 0;
-    z-index: 2;
 }
 
 .results-table th {
+    position: sticky;
+    top: 0;
+    z-index: 5;
     padding: 14px 18px;
     text-align: left;
     font-weight: 600;
@@ -325,6 +345,7 @@ body {
     border-bottom: 2px solid var(--border);
     transition: color var(--transition), background var(--transition);
     user-select: none;
+    background: linear-gradient(180deg, #1f2340 0%, #1a1d34 100%);
 }
 
 .results-table th:hover {
@@ -382,26 +403,23 @@ body {
    COLUMN WIDTHS — Distribución visual de la tabla
    ================================================================ */
 
-/* Ancho mínimo fijo para códigos cortos (Material, Alm., UMB, etc.) */
+/* Columnas de código corto: ancho fijo compacto */
 .col-fixed {
-    width: 1%;
-    white-space: nowrap;
+    width: 85px;
     text-align: center;
+    white-space: nowrap;
 }
 
-/* Columna expansible — consume el espacio sobrante (Texto breve material) */
+/* Columna protagonista: ocupa TODO el espacio restante */
 .col-expand {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 0;  /* para que table-layout:auto funcione con expand */
+    /* Sin width — el navegador le asigna el espacio sobrante */
 }
 
-/* Columnas numéricas — ancho ajustado al contenido, alineadas derecha */
+/* Columnas numéricas: suficiente ancho para encabezados */
 .col-number {
-    width: 1%;
-    white-space: nowrap;
+    width: 130px;
     text-align: right;
+    white-space: nowrap;
 }
 
 
