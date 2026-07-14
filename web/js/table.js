@@ -95,6 +95,36 @@ function _clasificarColumna(headerName) {
     return clases.join(" ");
 }
 
+// ═══════════════════════════════════════════════════════════════
+// Utilidades para columnas calculadas
+// ═══════════════════════════════════════════════════════════════
+
+/**
+ * Convierte una cadena con formato SAP (comas para miles, punto decimal)
+ * en un número flotante utilizable para cálculos.
+ *
+ * @param {string} raw — Valor crudo (ej: "93,375.02", "5,757", "0.00")
+ * @returns {number}
+ */
+function parseNumber(raw) {
+    if (!raw || raw === "—") return NaN;
+    return parseFloat(String(raw).replace(/,/g, ""));
+}
+
+/**
+ * Formatea un número como moneda para mostrar en columna monetaria.
+ *
+ * @param {number} value — Valor numérico.
+ * @returns {string} Ej: "Q16.22", "Q1,253.80"
+ */
+function formatCurrency(value) {
+    if (isNaN(value)) return "—";
+    return "Q" + value.toLocaleString("en-US", {
+        minimumFractionDigits: 2,
+        maximumFractionDigits: 2,
+    });
+}
+
 /**
  * Renderiza la tabla de resultados de forma completamente dinámica.
  *
@@ -106,9 +136,32 @@ function renderTable(headers, rows) {
 
     // ── DIAGNÓSTICO ───────────────────────────────────────────────
     console.log(`[table.js] Cantidad de filas recibidas: ${count}`);
-    console.log(`[table.js] Cantidad de columnas: ${headers.length}`);
+    console.log(`[table.js] Cantidad de columnas (original): ${headers.length}`);
     if (count === 0) {
         console.log("[table.js] Render cancelado: sin registros");
+    }
+    // ──────────────────────────────────────────────────────────────
+
+    // ── COLUMNA CALCULADA: Valor Unitario ─────────────────────────
+    // Trabajar sobre una copia de headers para no modificar el original.
+    const tableHeaders = [...headers];
+    const valorLibreIdx = tableHeaders.indexOf("Valor libre util.");
+    const libreIdx = tableHeaders.indexOf("LibrUtiliz");
+    const nuevaColumna = "Valor Unitario";
+
+    if (valorLibreIdx !== -1 && libreIdx !== -1 && count > 0) {
+        tableHeaders.splice(valorLibreIdx + 1, 0, nuevaColumna);
+
+        for (const row of rows) {
+            const valorLibre = parseNumber(row["Valor libre util."]);
+            const libre = parseNumber(row["LibrUtiliz"]);
+
+            if (libre === 0 || isNaN(libre) || isNaN(valorLibre)) {
+                row[nuevaColumna] = "—";
+            } else {
+                row[nuevaColumna] = formatCurrency(valorLibre / libre);
+            }
+        }
     }
     // ──────────────────────────────────────────────────────────────
 
@@ -123,7 +176,7 @@ function renderTable(headers, rows) {
     // 1. Generar encabezados dinámicamente (con clases CSS) -------------
     if (theadRow) {
         theadRow.innerHTML = "";
-        for (const h of headers) {
+        for (const h of tableHeaders) {
             const th = document.createElement("th");
             th.textContent = h;
             const clase = _clasificarColumna(h);
@@ -164,7 +217,7 @@ function renderTable(headers, rows) {
     for (const row of rows) {
         const tr = document.createElement("tr");
 
-        for (const h of headers) {
+        for (const h of tableHeaders) {
             const td = document.createElement("td");
             const valor = (row[h] !== undefined ? row[h] : "");
             td.textContent = sanitizeDisplayValue(valor);
@@ -209,6 +262,6 @@ function renderTable(headers, rows) {
     }
 
     // ── DIAGNÓSTICO ───────────────────────────────────────────────
-    console.log(`[table.js] Render completado: ${count} filas × ${headers.length} columnas.`);
+    console.log(`[table.js] Render completado: ${count} filas × ${tableHeaders.length} columnas.`);
     // ──────────────────────────────────────────────────────────────
 }

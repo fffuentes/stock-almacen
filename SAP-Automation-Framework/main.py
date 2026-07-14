@@ -247,12 +247,52 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
     # Ejecutar
     session_mgr: SessionManager = SessionManager(framework.config_manager)
     engine: ExecutionEngine = ExecutionEngine(session_mgr)
+    workflow_ok: bool = False
     try:
-        engine.run(workflow)
+        workflow_ok = engine.run(workflow)
     except ConnectionUnavailableError as exc:
         print(f"\n{exc}")
     finally:
         session_mgr._release_com()
+
+    # --- GitManager: publicación automática si el workflow fue exitoso ---
+    if workflow_ok:
+        print()
+        _run_git_publish(framework)
+
+
+def _run_git_publish(framework: Framework) -> None:
+    """Publica automáticamente cambios en el repositorio Git.
+
+    Se ejecuta únicamente después de que el workflow haya
+    finalizado correctamente. No modifica el proceso de
+    exportación ni la copia del archivo TXT.
+
+    Parameters
+    ----------
+    framework : Framework
+        Instancia del framework para acceder a la configuración.
+    """
+    from core.git_manager import GitManager
+
+    try:
+        # Asegurar que la configuración esté cargada
+        if not framework.config_manager.exists():
+            print("[GitManager] No hay configuración. Omitiendo publicación.")
+            return
+
+        cfg = framework.config_manager.load()
+
+        repo_path: str = cfg.git_repo_path.strip()
+        if not repo_path:
+            print("[GitManager] Ruta de repositorio Git no configurada. Omitiendo publicación.")
+            return
+
+        manager = GitManager(repo_path)
+        manager.publish()
+
+    except Exception as exc:
+        print(f"[GitManager] [ERROR] Publicación fallida: {exc}")
 
 
 def _run_connections(framework: Framework) -> None:
