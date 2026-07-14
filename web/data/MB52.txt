@@ -966,7 +966,7 @@
 		316383	0230	MRE011	LAMINA DE ACERO INOX DE 1/8" 4*8"	UN	        3	       0	       0	        7,098.21	             0.00	            0.00
 		316385	0230	MRE014	GRASA OMEGA 57 P/COJ. U21854	UN	       12	       0	       0	        8,250.00	             0.00	            0.00
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        6	       0	       0	       13,675.95	             0.00	            0.00
-		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	       10	       0	       0	          117.50	             0.00	            0.00
+		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        8	       0	       0	           94.00	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        5	       0	       0	          229.25	             0.00	            0.00
 		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	       12	       0	       0	          417.94	             0.00	            0.00
 		316414	0230	MRE005	REDUCIRDOR QS 6-4 FRESTO	UN	       13	       0	       0	          479.14	             0.00	            0.00
@@ -1693,7 +1693,7 @@
 		3399631	0230	MRE002	RODAMIENTO W 6004-2RS1 INOXIDABLE	UN	        2	       0	       0	          412.50	             0.00	            0.00
 		3399696	0230	MRE014	celerol DG 7800 0906005370	UN	       12	       0	       0	        5,965.16	             0.00	            0.00
 		3400498	0230	MRE108	KIT. REP. VALV. AR 2" 5107	UN	        1	       0	       0	        3,169.64	             0.00	            0.00
-		3400652	0230	MRE883	CORREA 20C7914SPC50STR	UN	        4	       0	       0	       24,767.86	             0.00	            0.00
+		3400652	0230	MRE883	CORREA 20C7914SPC50STR	UN	        2	       0	       0	       12,383.93	             0.00	            0.00
 		3400791	0230	MRE130	1081761 - BEARING	UN	        1	       0	       0	        7,122.31	             0.00	            0.00
 		3400993	0231	MRE993	CLAMP R V2-4P D1=25 D2=30 0902438837	UN	       11	       0	       0	       17,582.73	             0.00	            0.00
 		3400995	0231	MRE993	CLAMP L 0902479204	UN	        5	       0	       0	        4,344.78	             0.00	            0.00
@@ -2489,7 +2489,6 @@
 		3451964	0231	MRE000178	MOTORREDUCTOR 0902077155	UN	        1	       0	       0	       10,589.68	             0.00	            0.00
 		3452260	0231	MRE186	RODILLO 0904304684	UN	        2	       0	       0	        2,818.86	             0.00	            0.00
 		3452261	0231	MRE186	RODILLO 0904304579	UN	        2	       0	       0	        3,094.24	             0.00	            0.00
-		3452533	0230	MRE198	GUIA CUELLO BOT. PEPSI 1723408700	UN	        1	       0	       0	        5,406.58	             0.00	            0.00
 		3452544	0231	MRE197	MOTOR CHT 63 B4 B5 0,18KW 80382887	UN	        1	       0	       0	        5,676.00	             0.00	            0.00
 		3452545	0231	MRE197	CAJA REDUCTORA CH-04 P R.28 80382889	UN	        1	       0	       0	        3,066.99	             0.00	            0.00
 		3452546	0231	MRE197	BANDA ELEVADORA MATR 12/176 80393670	UN	        1	       0	       0	       37,886.61	             0.00	            0.00
@@ -2813,6 +2812,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3506006	0230	MRE001	RACOR DN 80 ACERO INOX	UN	        1	       0	       0	          526.83	             0.00	            0.00
 		3506007	0230	MRE005	UNIDAD D MANTTO LFR-D-MINI RAIZ 1/4 K743	UN	        1	       0	       0	          709.82	             0.00	            0.00
 		3506271	0230	MRE002	CHUMACERA RCSMF 20-XL	UN	        2	       0	       0	        2,005.46	             0.00	            0.00
+		3506401	0230	MRE051	BOMBA NEUMATICA DE DOBLE DIAFRAGMA 1	UN	        1	       0	       0	       22,321.43	             0.00	            0.00
 		3506468	0230	MRE012	BARRERA REFLEX VIDRIO OBG8000 R200 2EP	UN	        1	       0	       0	        2,159.25	             0.00	            0.00
 		3506741	0230	MRE115	TUERCA DE LA GUIA VASTAGO FAJ-A39/G018	UN	        8	       0	       0	          532.99	             0.00	            0.00
 		3506742	0230	MRE115	GUIA DE VASTAGO FAJ-A39/G017	UN	        8	       0	       0	          532.99	             0.00	            0.00
@@ -3469,4 +3469,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,597,288.25	             0.00	        4,772.13
+	*									   17,601,795.67	             0.00	        4,772.13
