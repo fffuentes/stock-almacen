@@ -1090,7 +1090,7 @@
 		323733	0230	MRE117	TORNILLO 7010.0434/09/4011.2963	UN	        4	       0	       0	          496.09	             0.00	            0.00
 		323803	0230	MRE129	FRONT BEARING 2 1/1" KT368 SHAFT 227,105	UN	        4	       0	       0	       19,285.72	             0.00	            0.00
 		323828	0230	MRE130	MEJORADOR DE DIESEL XP3	UN	        1	       0	       0	          211.08	             0.00	            0.00
-		324453	0230	MRE199	CONJUNTO BOLLA (FLOTE) PMH 22LE92S(18)	UN	        4	       0	       0	          775.38	             0.00	            0.00
+		324453	0230	MRE199	CONJUNTO BOLLA (FLOTE) PMH 22LE92S(18)	UN	        3	       0	       0	          581.53	             0.00	            0.00
 		324613	0230	MRE113	COLUMILLA 158232/002-19-185226	UN	        4	       0	       0	        2,605.68	             0.00	            0.00
 		324657	0230	MRE118	GUIA DE ENTRADA	UN	       37	       0	       0	       23,092.05	             0.00	            0.00
 		324797	0230	MRE113	SLIDE RING161383/001-34-214911	UN	        2	       0	       0	          878.05	             0.00	            0.00
@@ -1202,7 +1202,7 @@
 		331374	0230	MRE118	EMPAQUE DE HULE P/CANJILON LAV2	UN	    7,093	       0	       0	        6,649.69	             0.00	            0.00
 		3313832	0230	MRE012	MICRORELE 24VDC 6A #2961105 PHOENIX CON	UN	        9	       0	       0	        2,658.65	             0.00	            0.00
 		331386	0231	MRE211	ASSY, CPU CONFIGURED/PROG 44222	UN	        1	       0	       0	      197,323.90	             0.00	            0.00
-		3313868	0230	MRE012	PRENSA ESTOPA PG - 9	UN	       12	       0	       0	           79.66	             0.00	            0.00
+		3313868	0230	MRE012	PRENSA ESTOPA PG - 9	UN	       11	       0	       0	           73.02	             0.00	            0.00
 		3314061	0230	MRE003	RETENEDOR 22*32*7	UN	        3	       0	       0	          105.80	             0.00	            0.00
 		3314071	0230	MRE003	RETENEDOR 40*62*8	UN	        2	       0	       0	           56.06	             0.00	            0.00
 		3314122	0230	MRE005	RACOR RECTO 1/4"X12MM	UN	        5	       0	       0	          164.37	             0.00	            0.00
@@ -1294,7 +1294,7 @@
 		3325604	0230	MRE012	SIMATIC HMI TP1500 6AV2124-0QC02-0AX0	UN	        1	       0	       0	       42,582.59	             0.00	            0.00
 		3325661	0230	MRE005	JUNTAS FESTO DNC-80-PPV-A	JGO	        5	       0	       0	        9,795.76	             0.00	            0.00
 		3325697	0230	MRE001	CHEQUE VERTICAL 2" ACERO INOX CLAMP.	UN	        2	       0	       0	        2,857.15	             0.00	            0.00
-		3325699	0230	MRE011	ESPUMA DE/POLIURETANO SIKABOOM 500ML	UN	        4	       0	       0	          339.38	             0.00	            0.00
+		3325699	0230	MRE011	ESPUMA DE/POLIURETANO SIKABOOM 500ML	UN	        3	       0	       0	          254.53	             0.00	            0.00
 		3325762	0230	MRE010	CINTA DE VYNIL 1/2" BLANCA 6001266U	UN	       11	       0	       0	        3,371.01	             0.00	            0.00
 		332608	0231	MRE295	PRESSURE SPRING 1-099-04-732-0	UN	        4	       0	       0	          117.08	             0.00	            0.00
 		3326220	0230	MRE001	VALVULA MARIPOSA DE 3" TYPO WAFER	UN	        2	       0	       0	        1,482.14	             0.00	            0.00
@@ -1695,7 +1695,6 @@
 		3400996	0230	MRE993	KR-V1-4P D1=25 D2=30 0902479206	UN	        5	       0	       0	        4,344.78	             0.00	            0.00
 		3401018	0230	MRE993	MAGNETIC SENSOR 0903364344	UN	        1	       0	       0	          361.37	             0.00	            0.00
 		3401021	0231	MRE993	PROXIMITY SENSOR INDUCTIVE 0903708884	UN	        1	       0	       0	          531.27	             0.00	            0.00
-		3401184	0231	MRE535	JUNTA 8L50001332	UN	        2	       0	       0	        8,555.54	             0.00	            0.00
 		3401235	0230	MRE569	ORING ORM 0060-20 NBR 80046643	UN	        1	       0	       0	            4.01	             0.00	            0.00
 		3401243	0230	MRE197	ARBOL CARDÁN C130GIUNT2054	UN	        1	       0	       0	        7,889.07	             0.00	            0.00
 		3401252	0230	MRE101	PCO2-2400 12MTH MAINTENENCE KI T	UN	        1	       0	       0	       52,839.29	             0.00	            0.00
@@ -1876,7 +1875,6 @@
 		3420840	0231	MRE1063	CONVERTIDOR/TRANSFORMA 0-904-14-199-2	UN	        1	       0	       0	          959.04	             0.00	            0.00
 		3420846	0231	MRE1063	RODAMIENTO 6006 0-905-66-981-5	UN	        1	       0	       0	           26.80	             0.00	            0.00
 		3421353	0230	MRE535	8L50005171 GREASE	UN	        1	       0	       0	       12,026.79	             0.00	            0.00
-		3421388	0231	MRE535	8L10024406 BLADE	UN	        1	       0	       0	          256.17	             0.00	            0.00
 		3421453	0230	MRE569	CONECT SAC-3P-M-8MR/1.5-PUR 80029589	UN	       12	       0	       0	        1,692.81	             0.00	            0.00
 		3421785	0230	MRE606	80078268 MODULO BASE 6ES7 141	UN	        2	       0	       0	        8,967.01	             0.00	            0.00
 		3421786	0230	MRE606	80078270 MODULO BASE 6ES7 143	UN	        3	       0	       0	       15,189.01	             0.00	            0.00
@@ -2096,6 +2094,7 @@
 		3437688	0231	MRE1116	Retro-reflective P.E. sensor 905253087	UN	        1	       0	       0	        1,479.91	             0.00	            0.00
 		3437691	0231	MRE1116	2/2-way valve 905405008	UN	        1	       0	       0	        1,870.23	             0.00	            0.00
 		3437692	0230	MRE1116	Parallel helical gear motor 905419819	UN	        1	       0	       0	       30,866.45	             0.00	            0.00
+		3437693	0231	MRE1116	Gripper chain MX 1873 SS 905421750	UN	        4	       0	       0	       23,464.22	             0.00	            0.00
 		3437694	0230	MRE1116	Worm gear motor 0.25kW 49 905422169	UN	        1	       0	       0	        6,419.99	             0.00	            0.00
 		3437695	0230	MRE1116	Thermostat 905462409	UN	        1	       0	       0	          189.71	             0.00	            0.00
 		3437696	0231	MRE1121	Interface ET200SP Profinet HF 905496746	UN	        1	       0	       0	        3,025.32	             0.00	            0.00
@@ -2142,7 +2141,6 @@
 		3444898	0231	MRE012	WEB PANEL 7" CPU ARM CORTEX A9 2ESC20040	UN	        1	       0	       0	       15,900.66	             0.00	            0.00
 		3444927	0230	MRE569	PANEL 8010280600	UN	        2	       0	       0	        8,732.20	             0.00	            0.00
 		3444928	0230	MRE569	CINTA TRANSPORTE R10 G3 8010290600	UN	        1	       0	       0	        1,932.06	             0.00	            0.00
-		3445553	0231	MRE471	FUELLE 8L50001376	UN	        2	       0	       0	          926.17	             0.00	            0.00
 		3445728	0230	MRE1164	SEAL SILICON GREASE 04-1KG 301142150404	KG	        9	       0	       0	       18,758.59	             0.00	            0.00
 		3445730	0230	MRE1164	KHS MULTI GREASE 01-19 KG 301142150106	KG	       57	       0	       0	       18,903.82	             0.00	            0.00
 		3445735	0230	MRE1164	CHAIN FLUID 150 01-22L 301142110107	L	       44	       0	       0	       12,303.60	             0.00	            0.00
@@ -2595,10 +2593,6 @@
 		3455999	0231	MRE1221	JUEGO DE JUNTAS 903833577	UN	        2	       0	       0	        8,112.04	             0.00	            0.00
 		345603	0230	MRE449	REBUILD KIT 02VA-K1000	UN	        3	       0	       0	        2,769.09	             0.00	            0.00
 		345608	0230	MRE449	CENTERING BELL 0855-P1001-1400	UN	       30	       0	       0	        2,812.50	             0.00	            0.00
-		3456412	0231	MRE535	MOTORREDUCTOR TANQUE DE GOMA  8L70017306	UN	        1	       0	       0	      134,785.82	             0.00	            0.00
-		3456413	0231	MRE535	CONJUNTO RODILLO DE GOMA 8L10103665	UN	        1	       0	       0	      204,090.03	             0.00	            0.00
-		3456414	0231	MRE535	ABRAZADERA 8L50000695	UN	        4	       0	       0	          153.59	             0.00	            0.00
-		3456415	0231	MRE535	SOPORTE 8L10020526	UN	        1	       0	       0	       10,030.08	             0.00	            0.00
 		3456843	0231	MRE115	GUIA DE RESORTE MEDIA LUNA FAJ A39/G014	UN	        5	       0	       0	          239.87	             0.00	            0.00
 		3456845	0231	MRE115	TULIPA SUPERIOR E INFERIOR FAJ-A39/G011	UN	        5	       0	       0	          930.77	             0.00	            0.00
 		3456847	0231	MRE115	TORNILLO PASO DE AIRE FAJ-A39/G013	UN	        5	       0	       0	          620.51	             0.00	            0.00
@@ -2703,6 +2697,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349109	0230	MRE131	GASKET DMP023197/021	UN	       11	       0	       0	        6,637.74	             0.00	            0.00
 		349111	0230	MRE131	SLYDRING DMP023202/002	UN	        4	       0	       0	        1,824.52	             0.00	            0.00
 		349116	0230	MRE131	SPRING C300MOLLA0104	UN	      210	       0	       0	        1,804.32	             0.00	            0.00
+		349118	0230	MRE131	PNEUMATI CYLINDER C700CILIN0645	UN	        5	       0	       0	       15,394.93	             0.00	            0.00
 		349120	0230	MRE131	FITTING C750PNEUM0779	UN	        6	       0	       0	        1,720.86	             0.00	            0.00
 		349121	0230	MRE131	SLYDRING DMP007379/004	UN	       15	       0	       0	        3,676.06	             0.00	            0.00
 		349122	0230	MRE131	SLYDRING DMP007379/005	UN	      146	       0	       0	       12,351.46	             0.00	            0.00
@@ -2834,7 +2829,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        4	       0	       0	       11,100.24	             0.00	            0.00
 		3511112	0230	MRE012	VARIADOR ABB ACS310-03E-25A4-4 INVERTER	UN	        2	       0	       0	       16,765.18	             0.00	            0.00
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
-		3511514	0280	MRE012	SENSOR DE PH CPS77E-1700 0-14PH	UN	        1	       0	       0	       12,592.86	             0.00	            0.00
+		3511514	0230	MRE012	SENSOR DE PH CPS77E-1700 0-14PH	UN	        1	       0	       0	       12,592.86	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
@@ -2857,7 +2852,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		354691	0230	MRE452	MARTS MST KZ010224 (KZ010513)	UN	        1	       0	       0	       39,854.06	             0.00	            0.00
 		354790	0230	MRE508	CARTUCHO LFP-D-MAXI-40 5001991	UN	        3	       0	       0	          551.35	             0.00	            0.00
 		356305	0230	MRE453	BUSHING XSM-1012-10 80039075	UN	        1	       0	       0	           22.30	             0.00	            0.00
-		356520	0231	MRE486	ESFERA CROMO 8MM 8L50000618	UN	        1	       0	       0	            8.94	             0.00	            0.00
 		356744	0230	MRE131	32 IN-PUT CARD 24V.DC C800SSSSS0427	UN	        1	       0	       0	        4,834.38	             0.00	            0.00
 		356745	0230	MRE131	32 OUT-PUT CARD 24V. DC C800SSSSS0428	UN	        1	       0	       0	        6,791.61	             0.00	            0.00
 		356749	0230	MRE131	BLOQUE DE CONEXION M12 C800SSSSS0621	UN	       14	       0	       0	       22,669.94	             0.00	            0.00
@@ -2947,8 +2941,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		362210	0230	MRE535	PLACA TRANSFERENCIA 8L10074002	UN	        1	       0	       0	       12,319.60	             0.00	            0.00
 		362211	0230	MRE535	ROSCADOR RODILLO COLA 8L20000254	UN	        1	       0	       0	        4,967.03	             0.00	            0.00
 		362213	0230	MRE535	INDICADOR DE NIVEL 05572362 80302365	UN	        1	       0	       0	        2,161.03	             0.00	            0.00
-		362217	0231	MRE535	CUCHILLA FIJA 8L10006689	UN	        4	       0	       0	       45,476.16	             0.00	            0.00
-		362218	0231	MRE535	CUCHILLA ROTATORIA 8L10006688	UN	        4	       0	       0	       48,278.39	             0.00	            0.00
 		362452	0230	MRE535	CORREA PASO8M 30MM 160 DIENTES L 1.28M	UN	        1	       0	       0	          322.41	             0.00	            0.00
 		363223	0230	MRE569	MODULO BECKHOOF EL1014 80028181	UN	        1	       0	       0	          475.37	             0.00	            0.00
 		363805	0230	MRE569	RESISTENCIA TERMICA F023607 502681200	UN	        2	       0	       0	        7,940.48	             0.00	            0.00
@@ -3073,7 +3065,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		372091	0230	MRE029	CEPILLO MN100092	UN	        2	       0	       0	        1,625.16	             0.00	            0.00
 		372092	0230	MRE029	ENLACE MN300075	UN	        2	       0	       0	           97.17	             0.00	            0.00
 		372093	0230	MRE029	SOPORTE MA237861	UN	        3	       0	       0	        1,562.26	             0.00	            0.00
-		372210	0231	MRE535	CASTIGADOR TORNILLO MICROM. 8L50001585	UN	        1	       0	       0	            5.89	             0.00	            0.00
 		372222	0230	MRE535	CORREA DENTADA 8L50000481	UN	        1	       0	       0	          212.63	             0.00	            0.00
 		372468	0230	MRE197	SELLO DMP023715/001	UN	        2	       0	       0	        1,669.84	             0.00	            0.00
 		372469	0230	MRE197	SELLO DMP023721/001	UN	        2	       0	       0	       10,686.83	             0.00	            0.00
@@ -3205,7 +3196,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		385114	0230	MRE455	ANTIVIBRADOR C301AMMOR2005	UN	        4	       0	       0	           65.02	             0.00	            0.00
 		385116	0230	MRE455	ANILLO DE CAD. SIMPLE 3/4 DM0025562/003	UN	        1	       0	       0	        2,555.04	             0.00	            0.00
 		385140	0230	MRE455	BUSSOLA CONICA C153CALET2043	UN	        2	       0	       0	          357.14	             0.00	            0.00
-		385182	0231	MRE524	EJE 8L10000565	UN	        1	       0	       0	        1,517.33	             0.00	            0.00
 		385199	0230	MRE455	CORREA C205CINGH2043	UN	        1	       0	       0	        2,949.88	             0.00	            0.00
 		386123	0230	MRE535	PATIN DELANTERO AXL 3 LTS 80327795	UN	        3	       0	       0	        6,241.18	             0.00	            0.00
 		386125	0230	MRE535	PATIN TRASERO AXL 3 LTS 80327797	UN	        3	       0	       0	        6,156.24	             0.00	            0.00
@@ -3313,7 +3303,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		388374	0230	MRE535	RESISTENCIA 8L60000154 F998SACMI0080	UN	        1	       0	       0	          550.11	             0.00	            0.00
 		388375	0230	MRE535	RESISTENCIA 8L60000156 F998SACMI0081	UN	        1	       0	       0	          679.86	             0.00	            0.00
 		388376	0230	MRE535	RESIsTENCIA 8L60000155 F998SACMI0082	UN	        1	       0	       0	          600.86	             0.00	            0.00
-		388381	0231	MRE535	SCREW 8L10181187	UN	        1	       0	       0	        1,113.35	             0.00	            0.00
 		388394	0230	MRE535	PULEGGIA 80328974	UN	        1	       0	       0	        6,570.78	             0.00	            0.00
 		388416	0230	MRE535	ACCESORIRIOS AMMORTIZZATORE 80069973	UN	        1	       0	       0	        1,172.25	             0.00	            0.00
 		388421	0230	MRE535	PATINES	UN	        6	       0	       0	       19,059.44	             0.00	            0.00
@@ -3465,4 +3454,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,564,889.99	             0.00	        4,772.13
+	*									   17,148,266.34	             0.00	        4,772.13
