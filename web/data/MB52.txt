@@ -2834,6 +2834,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        4	       0	       0	       11,100.24	             0.00	            0.00
 		3511112	0230	MRE012	VARIADOR ABB ACS310-03E-25A4-4 INVERTER	UN	        2	       0	       0	       16,765.18	             0.00	            0.00
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
+		3511514	0280	MRE012	SENSOR DE PH CPS77E-1700 0-14PH	UN	        1	       0	       0	       12,592.86	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
@@ -3464,4 +3465,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,552,297.13	             0.00	        4,772.13
+	*									   17,564,889.99	             0.00	        4,772.13
