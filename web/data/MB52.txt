@@ -3,7 +3,7 @@
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    4,043	       0	       0	       63,447.43	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    8,043	       0	       0	      126,999.43	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	       17	       0	       0	          567.34	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        5	       0	       0	          207.74	             0.00	            0.00
@@ -389,7 +389,7 @@
 		301880	0230	MRE011	CODO 3/4" 90° A.INOX	UN	        2	       0	       0	           43.75	             0.00	            0.00
 		301881	0230	MRE011	CODO 3/4" 90º H.G.	UN	        6	       0	       0	           77.52	             0.00	            0.00
 		301901	0230	MRE011	COPLA 1" H.G.	UN	        3	       0	       0	           34.92	             0.00	            0.00
-		301903	0230	MRE011	COPLA 1/2" H.G.	UN	        4	       0	       0	           35.36	             0.00	            0.00
+		301903	0230	MRE011	COPLA 1/2" H.G.	UN	        3	       0	       0	           26.52	             0.00	            0.00
 		301904	0230	MRE011	COPLA 1/2" PVC	UN	        6	       0	       0	           13.31	             0.00	            0.00
 		301905	0230	MRE011	COPLA 1/4" A.INOX	UN	       13	       0	       0	          138.31	             0.00	            0.00
 		301908	0230	MRE011	COPLA 2" H.G.	UN	       10	       0	       0	          193.80	             0.00	            0.00
@@ -451,7 +451,7 @@
 		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        2	       0	       0	        7,544.65	             0.00	            0.00
 		302224	0230	MRE011	REDUCIDOR BUSHING 1" A 1/2" H.G.	UN	        5	       0	       0	           53.52	             0.00	            0.00
 		302226	0230	MRE011	REDUCIDOR BUSHING 1" A 3/4" H.G.	UN	        1	       0	       0	           11.77	             0.00	            0.00
-		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	        8	       0	       0	           71.44	             0.00	            0.00
+		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	        7	       0	       0	           62.51	             0.00	            0.00
 		302234	0230	MRE011	REDUCIDOR BUSHING 1 1/2" A 1" H.G.	UN	        5	       0	       0	           84.84	             0.00	            0.00
 		302239	0230	MRE011	UNION REDUCTOR BUSHING HG 2IN X 1 1/2IN	UN	        2	       0	       0	           46.50	             0.00	            0.00
 		302245	0230	MRE011	REDUCCION BUSHING INOX 3/4 - 1/2 NPT	UN	        3	       0	       0	           40.90	             0.00	            0.00
@@ -495,7 +495,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       51	       0	       0	          113.73	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       46	       0	       0	          102.58	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        3	       0	       0	          819.65	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
 		302447	0230	MRE011	UNION UNIVERSAL 1 1/2" H.G.	UN	        4	       0	       0	          340.01	             0.00	            0.00
@@ -1157,7 +1157,7 @@
 		3305200	0230	MRE013	TUERCA DE SEGURIDAD 5MM INOX	UN	       20	       0	       0	           19.58	             0.00	            0.00
 		3305302	0230	MRE005	KIT EMPAQUES CILIND. FESTO DNC-50-PPV-S2	UN	        3	       0	       0	        7,291.61	             0.00	            0.00
 		3305401	0230	MRE011	ABRAZADERA CLAMP DE 4" ACERO INOX.	UN	        4	       0	       0	          169.08	             0.00	            0.00
-		3305426	0230	MRE011	VALVULA DE 1/2" TOMA MUESTRA SANIT.	UN	        4	       0	       0	        1,214.66	             0.00	            0.00
+		3305426	0230	MRE011	VALVULA DE 1/2" TOMA MUESTRA SANIT.	UN	        3	       0	       0	          910.99	             0.00	            0.00
 		3305436	0230	MRE012	SENSOR INDUCTIVO E2A-M12LN08-M1-B1 24VDC	UN	        3	       0	       0	        4,888.41	             0.00	            0.00
 		3305839	0230	MRE011	TUBO 1" ACERO INOX SANITARIO	UN	        4	       0	       0	          807.91	             0.00	            0.00
 		3305873	0230	MRE012	SENSOR FOTOELECTRICO WTV190T-P430 SICK	UN	        1	       0	       0	        4,548.50	             0.00	            0.00
@@ -2697,7 +2697,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349109	0230	MRE131	GASKET DMP023197/021	UN	       11	       0	       0	        6,637.74	             0.00	            0.00
 		349111	0230	MRE131	SLYDRING DMP023202/002	UN	        4	       0	       0	        1,824.52	             0.00	            0.00
 		349116	0230	MRE131	SPRING C300MOLLA0104	UN	      210	       0	       0	        1,804.32	             0.00	            0.00
-		349118	0230	MRE131	PNEUMATI CYLINDER C700CILIN0645	UN	        5	       0	       0	       15,394.93	             0.00	            0.00
+		349118	0231	MRE131	PNEUMATI CYLINDER C700CILIN0645	UN	        5	       0	       0	       15,394.93	             0.00	            0.00
 		349120	0230	MRE131	FITTING C750PNEUM0779	UN	        6	       0	       0	        1,720.86	             0.00	            0.00
 		349121	0230	MRE131	SLYDRING DMP007379/004	UN	       15	       0	       0	        3,676.06	             0.00	            0.00
 		349122	0230	MRE131	SLYDRING DMP007379/005	UN	      146	       0	       0	       12,351.46	             0.00	            0.00
@@ -2829,7 +2829,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        4	       0	       0	       11,100.24	             0.00	            0.00
 		3511112	0230	MRE012	VARIADOR ABB ACS310-03E-25A4-4 INVERTER	UN	        2	       0	       0	       16,765.18	             0.00	            0.00
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
-		3511514	0230	MRE012	SENSOR DE PH CPS77E-1700 0-14PH	UN	        1	       0	       0	       12,592.86	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
@@ -3454,4 +3453,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,148,266.34	             0.00	        4,772.13
+	*									   17,198,892.89	             0.00	        4,772.13
