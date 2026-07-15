@@ -96,8 +96,6 @@
 		300403	0230	MRE002	RODAMIENTO 6202 2RS = 0-400-30-423-1	UN	        5	       0	       0	          153.95	             0.00	            0.00
 		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	       11	       0	       0	          326.42	             0.00	            0.00
 		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	       12	       0	       0	          301.84	             0.00	            0.00
-		300407	0230	MRE002	RODAMIENTO 6204 2RS	UN	        2	       0	       0	           78.40	             0.00	            0.00
-		300408	0230	MRE002	RODAMIENTO 6204 ZZ HT 51	UN	        2	       0	       0	           56.84	             0.00	            0.00
 		300409	0230	MRE002	RODAMIENTO 6205 2RS 0-900-41-502-7	UN	        6	       0	       0	          230.78	             0.00	            0.00
 		300410	0230	MRE002	RODAMIENTO 6205 ZZ HT 51	UN	        5	       0	       0	          166.00	             0.00	            0.00
 		300411	0230	MRE002	RODAMIENTO 6206 2RS C3 (CAA476)	UN	        5	       0	       0	          256.55	             0.00	            0.00
@@ -966,7 +964,7 @@
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        6	       0	       0	       13,675.95	             0.00	            0.00
 		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        8	       0	       0	           94.00	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        5	       0	       0	          229.25	             0.00	            0.00
-		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	       12	       0	       0	          417.94	             0.00	            0.00
+		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	        8	       0	       0	          278.63	             0.00	            0.00
 		316414	0230	MRE005	REDUCIRDOR QS 6-4 FRESTO	UN	       13	       0	       0	          479.14	             0.00	            0.00
 		316574	0230	MRE013	TUERCA HEX.SEGURIDAD 5/8"" NC INOX.	UN	       49	       0	       0	        1,181.39	             0.00	            0.00
 		316591	0230	MRE011	BARRA ACERO INOX 10MM	TF	    2.500	       0	       0	           33.50	             0.00	            0.00
@@ -1178,7 +1176,7 @@
 		3309552	0230	MRE007	2Pz ORDENADORES P/N 128 GUIA DE RODILLOS	UN	        1	       0	       0	        2,671.40	             0.00	            0.00
 		3309874	0230	MRE012	SENSOR DE PERSION SICK S/N 09070042	UN	        2	       0	       0	        9,164.63	             0.00	            0.00
 		3309877	0230	MRE012	SENSOR FOTOELECTRICO SICK WL27-3P2450	UN	        3	       0	       0	        6,467.80	             0.00	            0.00
-		3309878	0230	MRE005	REGULADOR FESTO GR-QS-6	UN	        6	       0	       0	        1,727.07	             0.00	            0.00
+		3309878	0230	MRE005	REGULADOR FESTO GR-QS-6	UN	        2	       0	       0	          575.69	             0.00	            0.00
 		3310393	0230	MRE108	BOMBA AUX PRESION P/DIESEL PLANTA ELECT	UN	        1	       0	       0	        7,310.83	             0.00	            0.00
 		3310548	0230	MRE012	CONECTOR RECTO M12-5 C/CABLE 5mts. SICK	UN	        5	       0	       0	          909.47	             0.00	            0.00
 		3310549	0230	MRE012	CONECTOR CODO M12-5 C/CABLE 5mts. SICK	UN	        6	       0	       0	        1,076.23	             0.00	            0.00
@@ -3466,4 +3464,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,553,723.06	             0.00	        4,772.13
+	*									   17,552,297.13	             0.00	        4,772.13
