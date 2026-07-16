@@ -319,7 +319,7 @@
 		301685	0230	MRE011	ABRAZADERA 1" CASTIGADERA	UN	       25	       0	       0	          198.53	             0.00	            0.00
 		301686	0230	MRE011	ABRAZADERA 1" HANGERDE PENDULO	UN	        9	       0	       0	           20.25	             0.00	            0.00
 		301688	0230	MRE011	ABRAZADERA 1/2" CASTIGADERA	UN	       19	       0	       0	          137.01	             0.00	            0.00
-		301689	0230	MRE011	ABRAZADERA 1/2" HANGERDE PENDULO	UN	       22	       0	       0	           45.76	             0.00	            0.00
+		301689	0230	MRE011	ABRAZADERA 1/2" HANGERDE PENDULO	UN	       12	       0	       0	           24.96	             0.00	            0.00
 		301690	0230	MRE011	ABRAZADERA 1/2" UNISTRUT	UN	       10	       0	       0	           19.50	             0.00	            0.00
 		301691	0230	MRE011	LAMINA MOSQUITERA H.N. 3' X 7' X 1/32"	UN	        3	       0	       0	          595.28	             0.00	            0.00
 		301693	0230	MRE011	ABRAZADERA 2" CASTIGADERA A/I	UN	       23	       0	       0	          585.35	             0.00	            0.00
@@ -366,7 +366,7 @@
 		301814	0230	MRE011	CANDADO 40MM	UN	       24	       0	       0	        1,087.40	             0.00	            0.00
 		301818	0230	MRE011	CEPILLO DE ALAMBRE	UN	       20	       0	       0	          392.80	             0.00	            0.00
 		301819	0230	MRE011	CEPILLO DE ALAMBRE CIRCULAR	UN	        5	       0	       0	          379.45	             0.00	            0.00
-		301827	0230	MRE011	CHORRO 1/2" CON ROSCA	UN	        4	       0	       0	          482.16	             0.00	            0.00
+		301827	0230	MRE011	CHORRO 1/2" CON ROSCA	UN	        2	       0	       0	          241.08	             0.00	            0.00
 		301832	0230	MRE011	CINTA 2" SEÑALIZACION AMARILLA	UN	        8	       0	       0	          700.65	             0.00	            0.00
 		301833	0230	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        7	       0	       0	          859.36	             0.00	            0.00
 		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       20	       0	       0	          888.06	             0.00	            0.00
@@ -376,7 +376,6 @@
 		301856	0230	MRE011	CODO 1 1/2" 90º H.G.	UN	        4	       0	       0	          171.44	             0.00	            0.00
 		301858	0230	MRE011	CODO 1" 90° A. INOX.304 ROSCABLE	UN	        5	       0	       0	          142.88	             0.00	            0.00
 		301860	0230	MRE011	CODO 1" 90º H.G.	UN	        4	       0	       0	           78.56	             0.00	            0.00
-		301861	0230	MRE011	CODO 1/2" A 90° PVC	UN	        2	       0	       0	            2.24	             0.00	            0.00
 		301863	0230	MRE011	CODO 1/2" 90° A. INOX.	UN	        4	       0	       0	          100.00	             0.00	            0.00
 		301864	0230	MRE011	CODO 1/2" 90º H.G.	UN	        5	       0	       0	           24.60	             0.00	            0.00
 		301868	0230	MRE011	CODO 1/4" 90° A.INOX	UN	        3	       0	       0	           23.56	             0.00	            0.00
@@ -865,7 +864,7 @@
 		304849	0230	MRE005	RACOR CODO QSL 1/8-4	UN	        5	       0	       0	          130.59	             0.00	            0.00
 		304856	0230	MRE006	SPROCKET 60B-18	UN	        2	       0	       0	          258.49	             0.00	            0.00
 		305136	0230	MRE011	TUBO GALVANIZADO DE 1/2	UN	        7	       0	       0	          736.37	             0.00	            0.00
-		305138	0230	MRE011	TUBO PVC DE 1/2"	UN	        9	       0	       0	          243.48	             0.00	            0.00
+		305138	0230	MRE011	TUBO PVC DE 1/2"	UN	        3	       0	       0	           81.16	             0.00	            0.00
 		305185	0230	MRE012	UPS 850VA 120V APC	UN	        1	       0	       0	          725.50	             0.00	            0.00
 		305201	0230	MRE012	BORNE A TIERRA AB1T432	UN	       15	       0	       0	          308.85	             0.00	            0.00
 		305392	0230	MRE013	TORNILLO HEX. 3/4" * 4"	UN	       13	       0	       0	          508.40	             0.00	            0.00
@@ -910,7 +909,6 @@
 		308473	0230	MRE001	EMPAQUE 5" BUNA	UN	       20	       0	       0	        2,518.00	             0.00	            0.00
 		308587	0230	MRE012	ENTRADA DIGITAL 6ES5421-8MA12	UN	        1	       0	       0	        2,410.72	             0.00	            0.00
 		308623	0230	MRE025	BROCA DE COBALTO 1/8"	UN	       18	       0	       0	           96.47	             0.00	            0.00
-		308871	0230	MRE012	CABLE TSJ 3 * 12	M	       50	       0	       0	          952.50	             0.00	            0.00
 		309021	0230	MRE011	ANGULAR 1/8" * 1" * 20' INOXIDABLE	UN	        3	       0	       0	        1,084.83	             0.00	            0.00
 		309162	0230	MRE011	MANGUERA TRANSPARENTE 3/4"	M	       92	       0	       0	          982.56	             0.00	            0.00
 		309393	0230	MRE002	RODAMIENTO 6903 2RS	UN	       13	       0	       0	          797.71	             0.00	            0.00
@@ -3457,4 +3455,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,174,115.82	             0.00	        4,772.13
+	*									   17,172,736.88	             0.00	        4,772.13
