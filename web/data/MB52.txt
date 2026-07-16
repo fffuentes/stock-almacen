@@ -1251,7 +1251,7 @@
 		3321400	0230	MRE012	INSPECTOR DE BOTELLAS LLENAS AV 100002	UN	        1	       0	       0	      463,982.17	             0.00	            0.00
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
-		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      170	       0	       0	        1,906.62	             0.00	            0.00
+		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      145	       0	       0	        1,626.23	             0.00	            0.00
 		3321827	0230	MRE010	ROTULAS GE 35-ES-2RS R	UN	        1	       0	       0	          216.29	             0.00	            0.00
 		3321948	0230	MRE012	SUPRESTHOR TRS9 p 480 VAC 300KAP Cat."B"	UN	        1	       0	       0	        1,325.90	             0.00	            0.00
 		3322020	0230	MRE012	CONECTOR P/BOBINA MSN1W-110-50/60-OD	UN	        7	       0	       0	          236.04	             0.00	            0.00
@@ -1280,7 +1280,6 @@
 		3325049	0230	MRE011	HEMBRA PLATINA 1 1/4 x 3/16 INOX.	UN	        5	       0	       0	        2,321.44	             0.00	            0.00
 		332508	0230	MRE012	DIGITAL INPUT MODULE 6ES7 131-4BF00-0AA0	UN	        1	       0	       0	          855.36	             0.00	            0.00
 		3325110	0230	MRE011	ELECTRODO TUNGSTENO 1/8" PARA TIG	UN	        5	       0	       0	          178.59	             0.00	            0.00
-		3325163	0230	MRE011	ANGULAR 1 1/4" x 3*16 ACERO INOX.	UN	        3	       0	       0	        1,831.18	             0.00	            0.00
 		3325201	0230	MRE012	SENSOR PEPPERL+FUCHS MLV1254-G76B124128	UN	        1	       0	       0	        2,060.45	             0.00	            0.00
 		3325240	0230	MRE004	CORREA A23	UN	        3	       0	       0	           72.76	             0.00	            0.00
 		3325256	0230	MRE002	RODAMIENTO DE RODILLOS MU1309	UN	        4	       0	       0	        1,460.02	             0.00	            0.00
@@ -3454,4 +3453,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,177,620.60	             0.00	        4,772.13
+	*									   17,175,509.03	             0.00	        4,772.13
