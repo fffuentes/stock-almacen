@@ -94,7 +94,7 @@
 		300387	0230	MRE002	RODAMIENTO 6017 2RS = 3412908	UN	        4	       0	       0	        2,194.50	             0.00	            0.00
 		300401	0230	MRE002	RODAMIENTO 6201 2RS	UN	        9	       0	       0	          108.02	             0.00	            0.00
 		300403	0230	MRE002	RODAMIENTO 6202 2RS = 0-400-30-423-1	UN	        5	       0	       0	          153.95	             0.00	            0.00
-		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	       11	       0	       0	          326.42	             0.00	            0.00
+		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	       10	       0	       0	          296.75	             0.00	            0.00
 		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	       12	       0	       0	          301.84	             0.00	            0.00
 		300409	0230	MRE002	RODAMIENTO 6205 2RS 0-900-41-502-7	UN	        5	       0	       0	          192.32	             0.00	            0.00
 		300410	0230	MRE002	RODAMIENTO 6205 ZZ HT 51	UN	        5	       0	       0	          166.00	             0.00	            0.00
@@ -112,7 +112,7 @@
 		300433	0230	MRE002	RODAMIENTO 6303 2RS	UN	        7	       0	       0	          322.01	             0.00	            0.00
 		300434	0230	MRE002	RODAMIENTO 6304 2RS SKF	UN	        5	       0	       0	          250.45	             0.00	            0.00
 		300435	0230	MRE002	RODAMIENTO 6305 2RS	UN	        3	       0	       0	          209.38	             0.00	            0.00
-		300436	0230	MRE002	RODAMIENTO 6306 2RS	UN	        4	       0	       0	          343.76	             0.00	            0.00
+		300436	0230	MRE002	RODAMIENTO 6306 2RS	UN	        3	       0	       0	          257.82	             0.00	            0.00
 		300437	0230	MRE002	RODAMIENTO 6307 2RS	UN	        5	       0	       0	          578.60	             0.00	            0.00
 		300438	0230	MRE002	RODAMIENTO 6308-2Z C3	UN	        7	       0	       0	        1,025.81	             0.00	            0.00
 		300439	0230	MRE002	RODAMIENTO 6309 2RS	UN	        6	       0	       0	        1,136.13	             0.00	            0.00
@@ -167,7 +167,6 @@
 		300657	0230	MRE003	RETENEDOR 323238	UN	        2	       0	       0	           16.00	             0.00	            0.00
 		300665	0230	MRE003	RETENEDOR 35*54*8	UN	        3	       0	       0	           40.15	             0.00	            0.00
 		300666	0230	MRE003	RETENEDOR 35X47X7	UN	        6	       0	       0	          155.62	             0.00	            0.00
-		300668	0230	MRE003	RETENEDOR 35*52*7	UN	        2	       0	       0	          147.13	             0.00	            0.00
 		300670	0230	MRE003	RETENEDOR 35*72*10 L1 MRE054	UN	        2	       0	       0	           80.22	             0.00	            0.00
 		300676	0230	MRE003	RETENEDOR 40*85*11	UN	        6	       0	       0	          322.00	             0.00	            0.00
 		300677	0230	MRE003	RETENEDOR 40*90*8	UN	        5	       0	       0	          598.20	             0.00	            0.00
@@ -424,7 +423,7 @@
 		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	       13	       0	       0	           52.26	             0.00	            0.00
 		302094	0230	MRE011	LIJA DE AGUA No. 80	UN	       16	       0	       0	           58.68	             0.00	            0.00
 		302095	0230	MRE011	LIJA DE ESMERIL No. 80	UN	       54	       0	       0	          409.83	             0.00	            0.00
-		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	       17	       0	       0	        4,599.18	             0.00	            0.00
+		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	       15	       0	       0	        4,058.10	             0.00	            0.00
 		302111	0230	MRE011	MACHUELO 3/16" NC	UN	        6	       0	       0	          178.58	             0.00	            0.00
 		302117	0230	MRE011	MACHUELO 4MM	JGO	        3	       0	       0	          209.45	             0.00	            0.00
 		302120	0230	MRE011	MACHUELO 5MM	JGO	        2	       0	       0	          223.22	             0.00	            0.00
@@ -475,7 +474,7 @@
 		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	        2	       0	       0	          151.78	             0.00	            0.00
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        5	       0	       0	          401.79	             0.00	            0.00
 		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	       18	       0	       0	          192.78	             0.00	            0.00
-		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       14	       0	       0	          408.17	             0.00	            0.00
+		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       13	       0	       0	          379.01	             0.00	            0.00
 		302356	0230	MRE011	TAPON HEMBRA 1/2" PVC	UN	        3	       0	       0	           12.07	             0.00	            0.00
 		302360	0230	MRE011	TAPON HEMBRA 1" PVC	UN	        7	       0	       0	           16.64	             0.00	            0.00
 		302370	0230	MRE011	TAPON MACHO 1" PVC	UN	        3	       0	       0	           29.90	             0.00	            0.00
@@ -857,7 +856,7 @@
 		304674	0230	MRE001	TUBO 2" ACERO INOX 304	UN	        2	       0	       0	          943.89	             0.00	            0.00
 		304706	0230	MRE002	RODAMIENTO 30203	UN	        6	       0	       0	          412.85	             0.00	            0.00
 		304781	0230	MRE003	RETENEDOR 20*52*7	UN	        4	       0	       0	          199.29	             0.00	            0.00
-		304787	0230	MRE003	RETENEDOR 30*62*7	UN	        8	       0	       0	          239.29	             0.00	            0.00
+		304787	0230	MRE003	RETENEDOR 30*62*7	UN	        6	       0	       0	          179.47	             0.00	            0.00
 		304804	0230	MRE003	RETENEDOR 45X62X8	UN	        6	       0	       0	          301.45	             0.00	            0.00
 		304839	0230	MRE004	CORREA B87	UN	        2	       0	       0	          157.36	             0.00	            0.00
 		304849	0230	MRE005	RACOR CODO QSL 1/8-4	UN	        5	       0	       0	          130.59	             0.00	            0.00
@@ -1126,7 +1125,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       11	       0	       0	        5,057.85	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      609	       0	       0	        3,806.25	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      604	       0	       0	        3,775.00	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        3	       0	       0	           96.41	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -3453,4 +3452,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,175,245.30	             0.00	        4,772.13
+	*									   17,174,321.25	             0.00	        4,772.13
