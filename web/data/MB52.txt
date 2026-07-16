@@ -244,7 +244,7 @@
 		301085	0230	MRE005	RACOR QS-1/2-16	UN	        7	       0	       0	          629.72	             0.00	            0.00
 		301086	0230	MRE005	RACOR QS-1/4-10	UN	       21	       0	       0	          597.22	             0.00	            0.00
 		301087	0230	MRE005	RACOR QS-1/4-12 RECTO	UN	       27	       0	       0	          893.16	             0.00	            0.00
-		301088	0230	MRE005	RACOR QS-1/4-6 RECTO	UN	       30	       0	       0	          591.90	             0.00	            0.00
+		301088	0230	MRE005	RACOR QS-1/4-6 RECTO	UN	       28	       0	       0	          552.44	             0.00	            0.00
 		301089	0230	MRE005	RACOR QS-1/4-8 RECTO	UN	      502	       0	       0	        9,424.70	             0.00	            0.00
 		301091	0230	MRE005	RACOR QS-1/8-6 RECTO	UN	       29	       0	       0	          521.70	             0.00	            0.00
 		301092	0230	MRE005	RACOR QS-1/8-8 RECTO	UN	       24	       0	       0	          515.28	             0.00	            0.00
@@ -443,7 +443,7 @@
 		302163	0230	MRE011	NIPLE 1/4" * 3" A.INOX	UN	        5	       0	       0	           97.92	             0.00	            0.00
 		302164	0230	MRE011	NIPLE 1/4" * 3" H.G.	UN	        6	       0	       0	           55.27	             0.00	            0.00
 		302170	0230	MRE011	NITROGENO GASEOSO EN CILINDRO	UN	        1	       0	       0	          216.07	             0.00	            0.00
-		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        1	       0	       0	          225.89	             0.00	            0.00
+		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        2	       0	       0	          441.97	             0.00	            0.00
 		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	        7	       0	       0	          141.12	             0.00	            0.00
 		302200	0230	MRE011	PERMATEX No.1 (FORM A GASKET)	UN	        3	       0	       0	          306.13	             0.00	            0.00
 		302208	0230	MRE011	PISTOLA PARA CARTUCHO SILICONE	UN	        1	       0	       0	           71.43	             0.00	            0.00
@@ -517,7 +517,7 @@
 		302479	0230	MRE011	VALVULA BOLA 1/2" PVC	UN	        5	       0	       0	           53.55	             0.00	            0.00
 		302480	0230	MRE011	VALVULA 3/4" DE BOLA ACERO INOXIDABLE	UN	        2	       0	       0	          160.71	             0.00	            0.00
 		302483	0230	MRE011	VALVULA DE BOLA 1 1/4" ACERO INOXIDABLE	UN	        2	       0	       0	          767.86	             0.00	            0.00
-		302484	0230	MRE011	VALVULA DE BOLA 1/4" 200 PSI A.INOX	UN	        2	       0	       0	          118.69	             0.00	            0.00
+		302484	0230	MRE011	VALVULA DE BOLA 1/4" 200 PSI A.INOX	UN	        1	       0	       0	           59.34	             0.00	            0.00
 		302494	0230	MRE011	VALVULA DE BOLA 2" H/N	UN	        4	       0	       0	        1,334.08	             0.00	            0.00
 		302500	0230	MRE011	VALVULA DE COMPUERTA 1" HN	UN	        1	       0	       0	          500.00	             0.00	            0.00
 		302535	0230	MRE011	VARILLA TIG INOXIDABLE 1/8" DE APORTE.	LB	        5	       0	       0	          357.15	             0.00	            0.00
@@ -833,7 +833,7 @@
 		303981	0230	MRE012	FOTOCELDA 15A 240V	UN	        3	       0	       0	          151.50	             0.00	            0.00
 		303986	0230	MRE012	TUBO CONDUIT DE ALUMINIO 1/2"	UN	        3	       0	       0	          338.52	             0.00	            0.00
 		303988	0230	MRE013	ROLDANA DE PRESION 1/4"	UN	       52	       0	       0	           40.17	             0.00	            0.00
-		303994	0230	MRE011	CANDADO 70MM	UN	        4	       0	       0	          557.32	             0.00	            0.00
+		303994	0230	MRE011	CANDADO 70MM	UN	        3	       0	       0	          417.99	             0.00	            0.00
 		304001	0230	MRE001	VALVULA MARIPOSA 2" ACERO INOX CLAMP	UN	        5	       0	       0	        2,723.17	             0.00	            0.00
 		304011	0230	MRE002	RODAMIENTO 3305 2RS IGUAL 5305W2	UN	        4	       0	       0	        1,489.05	             0.00	            0.00
 		304012	0230	MRE002	COJINETE KR 35 PPX	UN	        4	       0	       0	        1,299.48	             0.00	            0.00
@@ -874,7 +874,7 @@
 		306550	0230	MRE012	CONTACTOR 3RT1044-1AL20	UN	        1	       0	       0	        1,443.04	             0.00	            0.00
 		306671	0230	MRE002	CHUMACERA UCF 208-108D1	UN	        3	       0	       0	          841.53	             0.00	            0.00
 		306679	0230	MRE011	ANGULAR 3/16" * 1 1/2" * 20` ACERO INOX	UN	        4	       0	       0	        2,678.56	             0.00	            0.00
-		306700	0230	MRE005	RACOR QST-10	UN	       21	       0	       0	        1,560.08	             0.00	            0.00
+		306700	0230	MRE005	RACOR QST-10	UN	       20	       0	       0	        1,485.79	             0.00	            0.00
 		306701	0230	MRE005	RACOR QS 3/8-10	UN	        6	       0	       0	          181.08	             0.00	            0.00
 		306874	0230	MRE013	TORNILLO 3/16 * 2" HEXAGONAL	UN	       76	       0	       0	          115.53	             0.00	            0.00
 		306880	0230	MRE013	TORNILLO HEXAGONAL 10 * 80MM INOX	UN	       18	       0	       0	          455.58	             0.00	            0.00
@@ -986,7 +986,7 @@
 		320598	0231	MRE062	BUSH 0-129-90-003-7 0906335189	UN	       10	       0	       0	          240.44	             0.00	            0.00
 		320647	0230	MRE062	EMPAQUETADURA 0-023-70-063-7	UN	        6	       0	       0	          238.59	             0.00	            0.00
 		320723	0231	MRE062	PRESSURE PIECE 1-351-80-016-0	UN	        6	       0	       0	           73.98	             0.00	            0.00
-		320815	0230	MRE063	CINTA ADH.TESA SOPEL BAND 05338-01 10*15	UN	       11	       0	       0	        1,841.15	             0.00	            0.00
+		320815	0230	MRE063	CINTA ADH.TESA SOPEL BAND 05338-01 10*15	UN	       10	       0	       0	        1,673.77	             0.00	            0.00
 		321034	0230	MRE067	SENSOR 12MM 7-330-00-206-1 0901443696 NB	UN	        3	       0	       0	          646.21	             0.00	            0.00
 		321248	0230	MRE073	CORTE POS 27 0001411001 ALAMB TUGSTENO	UN	        6	       0	       0	          250.98	             0.00	            0.00
 		321313	0230	MRE075	EMPAQUE 0-169-00-000-1 0-901-24-724-5	UN	        3	       0	       0	          618.44	             0.00	            0.00
@@ -3453,4 +3453,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,175,509.03	             0.00	        4,772.13
+	*									   17,175,245.30	             0.00	        4,772.13
