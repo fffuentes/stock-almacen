@@ -1,66 +1,127 @@
 console.log("SAP Automation Framework Web");
 
 // ── Estado global del Portal ─────────────────────────────────────────
-let _allHeaders = [];   // Nombres de columna detectados
-let _allRows = [];      // Arreglo completo de objetos (sin filtrar)
+let _allHeaders = [];       // Nombres de columna detectados
+let _allRows = [];          // Arreglo completo de objetos (sin filtrar)
+let _lastFileHash = null;   // Hash del último MB52.txt cargado
+let _currentFilter = "";    // Texto actual del buscador
 
-/**
- * Punto de entrada del Portal MB52.
- *
- * 1. Lee el archivo MB52.txt mediante el parser dinámico.
- * 2. Guarda el arreglo original en variables globales.
- * 3. Configura el listener de búsqueda en tiempo real.
- * 4. Renderiza la tabla completa.
- */
+/** ── Punto de entrada del Portal ─────────────────────────────────── */
 document.addEventListener("DOMContentLoaded", async () => {
-    try {
-        const { headers, rows } = await loadMB52();
+    await _loadAndRender();
 
-        // ── DIAGNÓSTICO ───────────────────────────────────────────
-        console.log("[app.js] headers.length:", headers.length);
-        console.log("[app.js] rows.length:", rows.length);
-        console.log("[app.js] headers:", headers);
-        if (rows.length > 0) {
-            console.log("[app.js] primer registro:", JSON.stringify(rows[0], null, 2));
-        } else {
-            console.log("[app.js] primer registro: N/A");
-        }
-        // ──────────────────────────────────────────────────────────
+    // Iniciar polling cada 30 segundos
+    setInterval(_checkForUpdates, 30000);
+});
+
+/** ── Carga completa: download → parse → render ───────────────────── */
+async function _loadAndRender() {
+    const statusEl = document.querySelector(".status-value.status-pending");
+    try {
+        if (statusEl) statusEl.textContent = "Cargando...";
+
+        const { headers, rows, fileHash, fileDate } = await loadMB52();
 
         // Guardar datos originales
         _allHeaders = headers;
         _allRows = rows;
+        _lastFileHash = fileHash;
 
         // Renderizar tabla completa
         renderTable(headers, rows);
 
-        // Configurar búsqueda en tiempo real
-        _setupSearch();
+        // Configurar búsqueda en tiempo real (solo primera vez)
+        if (!window.__searchConfigured) {
+            _setupSearch();
+            window.__searchConfigured = true;
+        } else {
+            // Re-aplicar filtro si existía
+            _applyCurrentFilter();
+        }
 
+        // Actualizar fecha con la del archivo real
+        _updateFileDate(fileDate);
+
+        if (statusEl) {
+            statusEl.textContent = "Datos cargados";
+            statusEl.classList.remove("status-pending");
+            statusEl.classList.add("status-ok");
+        }
+
+        console.log(`[_loadAndRender] OK — ${rows.length} registros, hash: ${fileHash}`);
     } catch (err) {
-        console.error("app.js: error durante la carga inicial:", err);
-        // Mantener el estado vacío.
+        console.error("app.js: error durante la carga:", err);
+        if (statusEl) {
+            statusEl.textContent = "Error de actualización";
+            statusEl.classList.remove("status-ok");
+            statusEl.classList.add("status-pending");
+        }
     }
-});
+}
 
-/**
- * Configura el listener "input" sobre el cuadro de búsqueda.
- *
- * Cada vez que el usuario escribe, se filtran los datos originales
- * y se re-renderiza la tabla SIN modificar el arreglo _allRows.
- */
+/** ── Polling: detectar cambios en MB52.txt ───────────────────────── */
+async function _checkForUpdates() {
+    try {
+        const url = "data/MB52.txt?t=" + Date.now();
+        const resp = await fetch(url, { cache: "no-store" });
+        if (!resp.ok) return;
+
+        const text = await resp.text();
+        const newHash = _simpleHash(text);
+
+        if (newHash === _lastFileHash) {
+            return; // sin cambios
+        }
+
+        console.log("[poll] Cambio detectado en MB52.txt — recargando...");
+        const statusEl = document.querySelector(".status-value.status-ok");
+        if (statusEl) statusEl.textContent = "Actualizando...";
+
+        await _loadAndRender();
+    } catch (err) {
+        console.warn("[poll] Error al verificar actualización:", err);
+    }
+}
+
+/** ── Hash simple para detectar cambios ───────────────────────────── */
+function _simpleHash(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const ch = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + ch;
+        hash |= 0;
+    }
+    return hash.toString(36);
+}
+
+/** ── Actualizar fecha del archivo en el header ────────────────────── */
+function _updateFileDate(fileDate) {
+    const fechaEl = document.querySelectorAll(".status-value")[0];
+    if (fechaEl && fileDate) {
+        fechaEl.textContent = fileDate;
+    }
+}
+
+/** ── Re-aplicar filtro actual después de recarga ──────────────────── */
+function _applyCurrentFilter() {
+    const searchInput = document.querySelector(".search-input");
+    if (!searchInput || !searchInput.value) return;
+
+    const term = searchInput.value;
+    const filtered = filterMaterials(_allRows, term);
+    renderTable(_allHeaders, filtered);
+}
+
+/** ── Configurar búsqueda en tiempo real ──────────────────────────── */
 function _setupSearch() {
     const searchInput = document.querySelector(".search-input");
-    if (!searchInput) {
-        return;
-    }
+    if (!searchInput) return;
 
-    // Habilitar el input (estaba disabled en la interfaz inicial)
     searchInput.disabled = false;
 
     searchInput.addEventListener("input", () => {
-        const term = searchInput.value;
-        const filtered = filterMaterials(_allRows, term);
+        _currentFilter = searchInput.value;
+        const filtered = filterMaterials(_allRows, _currentFilter);
         renderTable(_allHeaders, filtered);
     });
 }

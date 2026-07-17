@@ -210,5 +210,55 @@ async function loadMB52() {
     console.log("--------------------------------");
     // ──────────────────────────────────────────────────────────────
 
-    return { headers, rows, dataLines, skipped };
+    // ── Calcular hash y extraer fecha del archivo ─────────────────
+    const fileHash = _hashTexto(texto);
+    let fileDate = "";
+    try {
+        fileDate = _extraerFecha(texto, respuesta);
+    } catch (err) {
+        console.warn("_extraerFecha falló:", err);
+        fileDate = "";
+    }
+    // ──────────────────────────────────────────────────────────────
+
+    return { headers, rows, dataLines, skipped, fileHash, fileDate };
+}
+
+/** ── Hash simple del contenido para detectar cambios ─────────────── */
+function _hashTexto(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const ch = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + ch;
+        hash |= 0;
+    }
+    return hash.toString(36);
+}
+
+/** ── Extraer fecha/hora del archivo MB52 ────────────────────────────
+ *  1. Fecha: de la primera línea del TXT (formato SAP DD.MM.YYYY)
+ *  2. Hora: del header HTTP Last-Modified del servidor
+ */
+function _extraerFecha(texto, respuesta) {
+    // 1. Fecha desde el contenido SAP
+    const primeraLinea = texto.split("\n")[0] || "";
+    const matchFecha = primeraLinea.match(/(\d{2}\.\d{2}\.\d{4})/);
+    const fecha = matchFecha ? matchFecha[1] : "";
+
+    // 2. Hora desde el header Last-Modified del servidor
+    let hora = "";
+    if (respuesta && respuesta.headers) {
+        const lastMod = respuesta.headers.get("Last-Modified");
+        if (lastMod) {
+            const d = new Date(lastMod);
+            if (!isNaN(d.getTime())) {
+                hora = d.toLocaleTimeString("es-GT", {
+                    hour: "2-digit",
+                    minute: "2-digit",
+                });
+            }
+        }
+    }
+
+    return fecha + (hora ? " " + hora : "");
 }

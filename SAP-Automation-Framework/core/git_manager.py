@@ -14,9 +14,10 @@ exportado y copiado correctamente los archivos generados.
 from __future__ import annotations
 
 import subprocess
+import time
 from datetime import datetime
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Optional, Tuple
 
 
 class GitManager:
@@ -48,6 +49,10 @@ class GitManager:
     # Rama y remoto de publicación
     _REMOTE: str = "origin"
     _BRANCH: str = "main"
+
+    # Reintentos del push
+    _PUSH_MAX_RETRIES: int = 3
+    _PUSH_RETRY_DELAYS: Tuple[int, ...] = (5, 10)
 
     # ------------------------------------------------------------------
     def __init__(self, repo_path: str | Path) -> None:
@@ -183,7 +188,7 @@ class GitManager:
             # 2. Verificar si ya existen commits pendientes de publicar
             if self._has_unpushed_commits():
                 print("[GitManager] Commits pendientes detectados. Publicando...")
-                self.push()
+                self._push_with_retry()
                 print(f"[GitManager] {self.MSG_UNPUSHED_PUBLISHED}")
                 return True
 
@@ -198,8 +203,8 @@ class GitManager:
             message: str = f"Actualización MB52 - {timestamp}"
             self.commit(message)
 
-            # 5. Push
-            self.push()
+            # 5. Push (con reintentos)
+            self._push_with_retry()
 
             print(f"[GitManager] {self.MSG_PUBLISH_OK}")
             return True
@@ -222,6 +227,46 @@ class GitManager:
     # ------------------------------------------------------------------
     # Métodos privados
     # ------------------------------------------------------------------
+
+    def _push_with_retry(self) -> None:
+        """Ejecuta ``git push origin main`` con reintentos automáticos.
+
+        Realiza hasta 3 intentos. Entre el 1.º y 2.º espera 5 segundos;
+        entre el 2.º y 3.º espera 10 segundos. Si los tres fallan,
+        relanza exactamente la excepción original.
+
+        Durante los reintentos **no** ejecuta ``git add`` ni
+        ``git commit``. Solo reintenta el push.
+
+        Raises
+        ------
+        subprocess.CalledProcessError
+            Si los tres intentos de push fallan.
+        """
+        last_error: Optional[subprocess.CalledProcessError] = None
+
+        for attempt in range(1, self._PUSH_MAX_RETRIES + 1):
+            try:
+                print(
+                    f"  git push {self._REMOTE} {self._BRANCH} "
+                    f"({attempt}/{self._PUSH_MAX_RETRIES})... ",
+                    end="", flush=True,
+                )
+                self._run_git(["push", self._REMOTE, self._BRANCH])
+                print("OK")
+                return  # Push exitoso
+            except subprocess.CalledProcessError as exc:
+                last_error = exc
+                print("Error durante Push.")
+
+                if attempt < self._PUSH_MAX_RETRIES:
+                    delay: int = self._PUSH_RETRY_DELAYS[attempt - 1]
+                    print(f"    Reintentando en {delay} segundos...")
+                    time.sleep(delay)
+
+        # Los tres intentos fallaron — relanzar la última excepción
+        assert last_error is not None
+        raise last_error
 
     def _has_unpushed_commits(self) -> bool:
         """Detecta si existen commits locales pendientes de publicar.
