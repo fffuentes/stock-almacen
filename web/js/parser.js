@@ -237,21 +237,27 @@ function _hashTexto(str) {
 
 /** ── Extraer fecha/hora del archivo MB52 ────────────────────────────
  *  1. Fecha: de la primera línea del TXT (formato SAP DD.MM.YYYY)
- *  2. Hora: del header HTTP Last-Modified del servidor
+ *  2. Hora: del header HTTP Last-Modified (solo si es confiable)
+ *
+ *  En local (file://) Last-Modified es la hora actual → se ignora.
+ *  En GitHub Pages es la hora real del commit → se usa.
  */
 function _extraerFecha(texto, respuesta) {
-    // 1. Fecha desde el contenido SAP
+    // 1. Fecha desde el contenido SAP (siempre confiable)
     const primeraLinea = texto.split("\n")[0] || "";
     const matchFecha = primeraLinea.match(/(\d{2}\.\d{2}\.\d{4})/);
     const fecha = matchFecha ? matchFecha[1] : "";
 
-    // 2. Hora desde el header Last-Modified del servidor
+    // 2. Hora desde Last-Modified (solo si NO es local)
     let hora = "";
     if (respuesta && respuesta.headers) {
         const lastMod = respuesta.headers.get("Last-Modified");
         if (lastMod) {
             const d = new Date(lastMod);
-            if (!isNaN(d.getTime())) {
+            const ahora = Date.now();
+            // Si Last-Modified fue hace más de 5 segundos, es confiable
+            // (en local devuelve la hora actual ≈ 0 segundos de diferencia)
+            if (!isNaN(d.getTime()) && (ahora - d.getTime()) > 5000) {
                 hora = d.toLocaleTimeString("es-GT", {
                     hour: "2-digit",
                     minute: "2-digit",
