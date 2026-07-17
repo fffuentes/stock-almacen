@@ -232,7 +232,7 @@
 		301032	0230	MRE005	MANOMETRO RAIZ 1/4" 0-60 PSI GLICERINA	UN	        2	       0	       0	          213.19	             0.00	            0.00
 		301033	0230	MRE005	MANOMETRO RAIZ 1/4" 0-100 PSI C.2.5"	UN	        4	       0	       0	          935.06	             0.00	            0.00
 		301034	0230	MRE005	MANOMETRO RAIZ 1/4" 0-100 PSI GLICERINA	UN	        4	       0	       0	          840.47	             0.00	            0.00
-		301037	0230	MRE005	MANOMETRO RAIZ 1/4" 0-160 PSI	UN	        3	       0	       0	          388.38	             0.00	            0.00
+		301037	0230	MRE005	MANOMETRO RAIZ 1/4" 0-160 PSI	UN	        2	       0	       0	          258.92	             0.00	            0.00
 		301038	0230	MRE005	MANOMETRO RAIZ 1/4" 0-160 PSI GLICERINA	UN	        1	       0	       0	          136.19	             0.00	            0.00
 		301040	0230	MRE005	MANOMETRO RAIZ 1/4" 0-200 PSI C/GLICERIN	UN	        2	       0	       0	          591.30	             0.00	            0.00
 		301041	0230	MRE005	MANOMETRO RAIZ 1/4" 0-30 PSI	UN	        4	       0	       0	          582.59	             0.00	            0.00
@@ -3453,4 +3453,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,047,318.16	             0.00	       14,754.28
+	*									   17,047,188.70	             0.00	       14,754.28
