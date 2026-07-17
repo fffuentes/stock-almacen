@@ -40,6 +40,7 @@ class GitManager:
     # Constantes ---------------------------------------------------------
     MSG_NO_CHANGES: str = "No existen cambios para publicar."
     MSG_PUBLISH_OK: str = "Repositorio actualizado correctamente."
+    MSG_UNPUSHED_PUBLISHED: str = "Commit(s) pendientes publicados correctamente."
 
     # Ruta relativa del archivo a publicar (respecto a la raíz del repo)
     _PUBLISH_FILE: str = "web/data/MB52.txt"
@@ -156,10 +157,12 @@ class GitManager:
         Flujo:
 
         1. ``validate_repository()``
-        2. ``has_changes()`` — si no hay cambios, retorna ``True`` sin
+        2. Verificar commits pendientes de publicación.
+           Si existen → solo ``push()``, sin ``add`` ni ``commit``.
+        3. ``has_changes()`` — si no hay cambios, retorna ``True`` sin
            hacer nada más.
-        3. ``commit()``
-        4. ``push()``
+        4. ``commit()``
+        5. ``push()``
 
         Returns
         -------
@@ -177,18 +180,25 @@ class GitManager:
             self.validate_repository()
             print(f"[GitManager] Repositorio validado: {self._repo_path}")
 
-            # 2. Verificar cambios
+            # 2. Verificar si ya existen commits pendientes de publicar
+            if self._has_unpushed_commits():
+                print("[GitManager] Commits pendientes detectados. Publicando...")
+                self.push()
+                print(f"[GitManager] {self.MSG_UNPUSHED_PUBLISHED}")
+                return True
+
+            # 3. Verificar cambios en working tree
             if not self.has_changes():
                 print(f"[GitManager] {self.MSG_NO_CHANGES}")
                 return True
 
-            # 3. Commit (con mensaje por defecto)
+            # 4. Commit (con mensaje por defecto)
             print("[GitManager] Cambios detectados. Publicando...")
             timestamp: str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             message: str = f"Actualización MB52 - {timestamp}"
             self.commit(message)
 
-            # 4. Push
+            # 5. Push
             self.push()
 
             print(f"[GitManager] {self.MSG_PUBLISH_OK}")
@@ -212,6 +222,27 @@ class GitManager:
     # ------------------------------------------------------------------
     # Métodos privados
     # ------------------------------------------------------------------
+
+    def _has_unpushed_commits(self) -> bool:
+        """Detecta si existen commits locales pendientes de publicar.
+
+        Compara ``HEAD`` contra ``origin/main`` usando
+        ``git rev-list --count``.
+
+        Returns
+        -------
+        bool
+            ``True`` si hay al menos un commit local sin publicar.
+        """
+        try:
+            output: str = self._run_git(
+                ["rev-list", "--count", f"{self._REMOTE}/{self._BRANCH}..HEAD"]
+            )
+            count: int = int(output.strip())
+            return count > 0
+        except (subprocess.CalledProcessError, ValueError):
+            # Si la rama remota no existe aún, no hay commits pendientes
+            return False
 
     def _run_git(self, args: List[str]) -> str:
         """Ejecuta un comando de Git en el repositorio configurado.
