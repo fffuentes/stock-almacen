@@ -785,7 +785,7 @@
 		303729	0230	MRE013	TORNILLO HEXAGONAL 6 * 45MM INOX	UN	       12	       0	       0	           77.91	             0.00	            0.00
 		303730	0230	MRE013	TORNILLO HEXAGONAL 8 *100MM INOX.	UN	       39	       0	       0	        1,054.05	             0.00	            0.00
 		303733	0230	MRE013	TORNILLO HEXAGONAL 8 * 30MM INOX	UN	       14	       0	       0	           91.84	             0.00	            0.00
-		303734	0230	MRE013	TORNILLO HEXAGONAL 8 * 60MM INOX	UN	       30	       0	       0	          640.54	             0.00	            0.00
+		303734	0230	MRE013	TORNILLO HEXAGONAL 8 * 60MM INOX	UN	       28	       0	       0	          597.84	             0.00	            0.00
 		303736	0230	MRE013	TORNILLO HEXAGONAL 8 * 25MM INOX	UN	       60	       0	       0	          367.20	             0.00	            0.00
 		303738	0230	MRE013	TORNILLO HEXAGONAL 6 * 80MM INOX	UN	       40	       0	       0	          419.76	             0.00	            0.00
 		303739	0230	MRE013	TORNILLO HEXAGONAL 10 * 40MM INOX	UN	       38	       0	       0	          381.04	             0.00	            0.00
@@ -811,7 +811,7 @@
 		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	       67	       0	       0	          232.49	             0.00	            0.00
 		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	       21	       0	       0	           18.69	             0.00	            0.00
 		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	       99	       0	       0	           88.99	             0.00	            0.00
-		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       33	       0	       0	           41.25	             0.00	            0.00
+		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       31	       0	       0	           38.75	             0.00	            0.00
 		303796	0230	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	       41	       0	       0	           36.49	             0.00	            0.00
 		303797	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX R/FINA	UN	       14	       0	       0	           42.57	             0.00	            0.00
 		303801	0230	MRE013	TUERCA HEXAGONAL 14MM INOX	UN	       88	       0	       0	          337.18	             0.00	            0.00
@@ -3453,4 +3453,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,047,363.36	             0.00	       14,754.28
+	*									   17,047,318.16	             0.00	       14,754.28
