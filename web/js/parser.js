@@ -39,8 +39,9 @@ async function loadMB52() {
 
     // 1. Obtener el archivo como texto -----------------------------------
     let texto;
+    let respuesta;
     try {
-        const respuesta = await fetch(url);
+        respuesta = await fetch(url);
         if (!respuesta.ok) {
             throw new Error(
                 `No se pudo leer "${url}" (HTTP ${respuesta.status})`
@@ -213,15 +214,18 @@ async function loadMB52() {
     // ── Calcular hash y extraer fecha del archivo ─────────────────
     const fileHash = _hashTexto(texto);
     let fileDate = "";
+    let etag = "";
+    let lastModified = "";
     try {
         fileDate = _extraerFecha(texto, respuesta);
+        etag = respuesta.headers.get("ETag") || "";
+        lastModified = respuesta.headers.get("Last-Modified") || "";
     } catch (err) {
         console.warn("_extraerFecha falló:", err);
-        fileDate = "";
     }
     // ──────────────────────────────────────────────────────────────
 
-    return { headers, rows, dataLines, skipped, fileHash, fileDate };
+    return { headers, rows, dataLines, skipped, fileHash, fileDate, etag, lastModified };
 }
 
 /** ── Hash simple del contenido para detectar cambios ─────────────── */

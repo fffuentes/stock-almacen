@@ -4,6 +4,8 @@ console.log("SAP Automation Framework Web");
 let _allHeaders = [];       // Nombres de columna detectados
 let _allRows = [];          // Arreglo completo de objetos (sin filtrar)
 let _lastFileHash = null;   // Hash del último MB52.txt cargado
+let _lastETag = null;       // ETag del último archivo (para polling ligero)
+let _lastModified = null;   // Last-Modified del último archivo
 let _currentFilter = "";    // Texto actual del buscador
 
 /** ── Punto de entrada del Portal ─────────────────────────────────── */
@@ -20,12 +22,14 @@ async function _loadAndRender() {
     try {
         if (statusEl) statusEl.textContent = "Cargando...";
 
-        const { headers, rows, fileHash, fileDate } = await loadMB52();
+        const { headers, rows, fileHash, fileDate, etag, lastModified } = await loadMB52();
 
         // Guardar datos originales
         _allHeaders = headers;
         _allRows = rows;
         _lastFileHash = fileHash;
+        _lastETag = etag;
+        _lastModified = lastModified;
 
         // Renderizar tabla completa
         renderTable(headers, rows);
@@ -35,7 +39,6 @@ async function _loadAndRender() {
             _setupSearch();
             window.__searchConfigured = true;
         } else {
-            // Re-aplicar filtro si existía
             _applyCurrentFilter();
         }
 
@@ -48,7 +51,7 @@ async function _loadAndRender() {
             statusEl.classList.add("status-ok");
         }
 
-        console.log(`[_loadAndRender] OK — ${rows.length} registros, hash: ${fileHash}`);
+        console.log(`[_loadAndRender] OK — ${rows.length} registros`);
     } catch (err) {
         console.error("app.js: error durante la carga:", err);
         if (statusEl) {
@@ -59,23 +62,34 @@ async function _loadAndRender() {
     }
 }
 
-/** ── Polling: detectar cambios en MB52.txt ───────────────────────── */
+/** ── Polling optimizado: detectar cambios vía headers HTTP ────────── */
 async function _checkForUpdates() {
     try {
         const url = "data/MB52.txt?t=" + Date.now();
-        const resp = await fetch(url, { cache: "no-store" });
+        const resp = await fetch(url, {
+            method: "GET",
+            cache: "no-cache",
+        });
+
         if (!resp.ok) return;
 
-        const text = await resp.text();
-        const newHash = _simpleHash(text);
+        // Leer headers ligeros primero
+        const etag = resp.headers.get("ETag") || "";
+        const lastMod = resp.headers.get("Last-Modified") || "";
 
-        if (newHash === _lastFileHash) {
-            return; // sin cambios
+        // Si ambos headers coinciden con los últimos, sin cambios
+        if (etag && lastMod && etag === _lastETag && lastMod === _lastModified) {
+            return; // sin cambios, sin descargar body
         }
 
-        console.log("[poll] Cambio detectado en MB52.txt — recargando...");
+        // Cambio detectado → descargar y recargar
+        console.log("[poll] Cambio detectado — recargando...");
         const statusEl = document.querySelector(".status-value.status-ok");
         if (statusEl) statusEl.textContent = "Actualizando...";
+
+        // Guardar nuevos headers
+        _lastETag = etag;
+        _lastModified = lastMod;
 
         await _loadAndRender();
     } catch (err) {
