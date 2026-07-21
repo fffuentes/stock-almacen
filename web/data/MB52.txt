@@ -530,7 +530,7 @@
 		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	        4	       0	       0	          159.69	             0.00	            0.00
 		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       98	       0	       0	          836.92	             0.00	            0.00
 		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       22	       0	       0	          619.97	             0.00	            0.00
-		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      113	       0	       0	        1,685.06	             0.00	            0.00
+		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      107	       0	       0	        1,595.59	             0.00	            0.00
 		302583	0230	MRE012	BATERIA RECARG. 4.8VDC /270MAH /CR-P2 6V	UN	        3	       0	       0	          941.77	             0.00	            0.00
 		302599	0230	MRE012	BOBINA 120V. 60HZ DANFOSS	UN	        2	       0	       0	        1,419.63	             0.00	            0.00
 		302606	0230	MRE012	BOBINA 24VDC MSFG FESTO	UN	        6	       0	       0	        1,500.82	             0.00	            0.00
@@ -1341,7 +1341,7 @@
 		3332364	0230	MRE012	CINTA DE AISLAR COLOR AMARILLO	UN	       12	       0	       0	          174.92	             0.00	            0.00
 		3332391	0230	MRE011	CAUCHO LOVEJOY S-FLEX SIZE 9	UN	        1	       0	       0	          533.04	             0.00	            0.00
 		3332420	0230	MRE011	BARRA DE ACERO 1045 DIAMETRO 45MM	TF	        6	       0	       0	        1,411.03	             0.00	            0.00
-		3332480	0230	MRE014	POWER LUBE LUBRICANTE GRADO ALIMENT.	UN	        5	       0	       0	          641.39	             0.00	            0.00
+		3332480	0230	MRE014	POWER LUBE LUBRICANTE GRADO ALIMENT.	UN	        3	       0	       0	          384.83	             0.00	            0.00
 		3332965	0230	MRE011	CORTINA TRANSP.PVC REF.CON VENA	UN	        1	       0	       0	        2,708.93	             0.00	            0.00
 		3333045	0230	MRE001	CHEQUE VERTICAL INOX CLAMP 3"	UN	        1	       0	       0	        2,866.07	             0.00	            0.00
 		3333046	0230	MRE001	CHEQUE VERTICAL INOX CLAMP 2 1/2"	UN	        1	       0	       0	        2,454.43	             0.00	            0.00
@@ -1585,7 +1585,6 @@
 		3358090	0230	MRE005	JUEGO DE JUNTAS P/DNC-63-PPV-(A)	UN	        3	       0	       0	        5,350.32	             0.00	            0.00
 		3358106	0230	MRE012	PROCESADOR COMPACTLOGIX DUAL ETHER W/DLR	UN	        1	       0	       0	       22,208.84	             0.00	            0.00
 		3358112	0230	MRE007	BANDA MODULAR SERIE 550FT PASO1 8.7*85MM	TF	       50	       0	       0	        3,273.84	             0.00	            0.00
-		3358169	0230	MRE011	DISCO SIERRA CIRCULAR 7 1/4 X60D ECO	UN	        2	       0	       0	          133.86	             0.00	            0.00
 		3358207	0230	MRE012	TRANSFORMADOR MGT 1640	UN	        1	       0	       0	          145.00	             0.00	            0.00
 		3358243	0230	MRE005	MANGUERA PUN-H-6X1-TLB-500	M	      100	       0	       0	        1,103.00	             0.00	            0.00
 		3358244	0230	MRE005	MANGUERA PUN-H-8X1.25-TBL-400	M	      100	       0	       0	        1,625.00	             0.00	            0.00
@@ -2752,8 +2751,8 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349595	0230	MRE113	TWIST ELENCOXR09AA006A FIG.85927/POS.901	UN	        1	       0	       0	       54,372.22	             0.00	            0.00
 		349622	0230	MRE008	CORREA DENTADA INLINE VERDE HPK022238 ST	UN	        4	       0	       0	       27,668.13	             0.00	            0.00
 		349880	0230	MRE108	MANGUERA FLEXIBLE 1/2" X 34	UN	        1	       0	       0	        1,959.82	             0.00	            0.00
-		3500092	0230	MRE008	ADITIVO PARA LIMPIEZA GENERAL	UN	        9	       0	       0	        2,086.10	             0.00	            0.00
-		3500093	0230	MRE008	ADDITIVE-A188-4 X 0.8L	UN	        9	       0	       0	        2,628.90	             0.00	            0.00
+		3500092	0230	MRE008	ADITIVO PARA LIMPIEZA GENERAL	UN	        8	       0	       0	        1,854.31	             0.00	            0.00
+		3500093	0230	MRE008	ADDITIVE-A188-4 X 0.8L	UN	        8	       0	       0	        2,336.80	             0.00	            0.00
 		3500094	0230	MRE008	TINTA MB243-4X0.8L	UN	        3	       0	       0	        6,260.73	             0.00	            0.00
 		3500096	0230	MRE011	RESORTE 122MM X 22MM CALIBRE 18" ACERADO	UN	        5	       0	       0	          781.25	             0.00	            0.00
 		3501550	0230	MRE353	20J300A8502 0 JOINT FIBRE	UN	       29	       0	       0	        8,594.33	             0.00	            0.00
@@ -3311,7 +3310,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		389313	0230	MRE416	ARANDELA MF301277	UN	       33	       0	       0	            7.67	             0.00	            0.00
 		389317	0230	MOP100	FLOTADOR P/TRANSDUCTOR DE PRESION	UN	        1	       0	       0	        5,356.34	             0.00	            0.00
 		389318	0230	MOP100	BLOQUE COMPENSADOR DE ALTURA	UN	        1	       0	       0	        5,190.98	             0.00	            0.00
-		389404	0230	MRE420	O RING 14.90*7.8*3.60 MM DUREZA 70° A	UN	      160	       0	       0	          787.20	             0.00	            0.00
+		389404	0230	MRE420	O RING 14.90*7.8*3.60 MM DUREZA 70° A	UN	      160	       0	       0	          785.71	             0.00	            0.00
 		389452	0230	MRE535	POLEA 8L10023697	UN	        1	       0	       0	        9,970.46	             0.00	            0.00
 		389507	0230	MRE029	SOPORTE EK200113	UN	       12	       0	       0	        5,182.02	             0.00	            0.00
 		389603	0231	MRE443	ESTAQUILLA SEPARADO MA801090	UN	       12	       0	       0	        5,203.24	             0.00	            0.00
@@ -3450,4 +3449,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,136,560.92	             0.00	       14,754.28
+	*									   17,135,555.65	             0.00	       14,754.28
