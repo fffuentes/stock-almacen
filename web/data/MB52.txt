@@ -340,7 +340,7 @@
 		301744	0230	MRE011	BOQUILLA CORTE ACETILENO 6290-2	UN	        3	       0	       0	          175.63	             0.00	            0.00
 		301746	0230	MRE011	BROCA 8MM HSS	UN	        5	       0	       0	          131.70	             0.00	            0.00
 		301754	0230	MRE011	BROCA 1/4" COBALTO	UN	       22	       0	       0	          707.08	             0.00	            0.00
-		301755	0230	MRE011	BROCA 1/4" HSS	UN	       12	       0	       0	          108.18	             0.00	            0.00
+		301755	0230	MRE011	BROCA 1/4" HSS	UN	       10	       0	       0	           90.15	             0.00	            0.00
 		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	       10	       0	       0	           62.50	             0.00	            0.00
 		301757	0230	MRE011	BROCA HSS 1/8 IN	UN	        3	       0	       0	           24.78	             0.00	            0.00
 		301758	0230	MRE011	BROCA 1/8" TUGSTENO	UN	       31	       0	       0	        5,905.96	             0.00	            0.00
@@ -666,7 +666,7 @@
 		303451	0230	MRE013	ROLDANA DE PRESION 6MM INOX	UN	      100	       0	       0	           54.00	             0.00	            0.00
 		303452	0230	MRE013	ROLDANA DE PRESION 8MM INOX	UN	       72	       0	       0	           50.40	             0.00	            0.00
 		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       84	       0	       0	          149.52	             0.00	            0.00
-		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	      100	       0	       0	           14.00	             0.00	            0.00
+		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	       96	       0	       0	           13.44	             0.00	            0.00
 		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	      120	       0	       0	          345.60	             0.00	            0.00
 		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       53	       0	       0	          121.34	             0.00	            0.00
 		303459	0230	MRE013	ROLDANA PLANA 16MM INOX.	UN	       71	       0	       0	          273.66	             0.00	            0.00
@@ -753,7 +753,7 @@
 		303653	0230	MRE013	TORNILLO HEX. 1/2" * 2" INOX R/C	UN	       18	       0	       0	          174.78	             0.00	            0.00
 		303656	0230	MRE013	TORNILLO HEX. 1/4" * 1" INOX.	UN	      129	       0	       0	          165.62	             0.00	            0.00
 		303658	0230	MRE013	TORNILLO HEX. 1/4" * 1/2" INOX	UN	       22	       0	       0	           33.88	             0.00	            0.00
-		303659	0230	MRE013	TORNILLO HEX. 1/4" * 2" INOXIDABLE	UN	       64	       0	       0	          199.28	             0.00	            0.00
+		303659	0230	MRE013	TORNILLO HEX. 1/4" * 2" INOXIDABLE	UN	       60	       0	       0	          186.82	             0.00	            0.00
 		303663	0230	MRE013	TORNILLO HEX. 3/16" * 1" INOX	UN	       76	       0	       0	          269.80	             0.00	            0.00
 		303665	0230	MRE013	TORNILLO HEX. 3/4"*3 1/2" INOX R CORRIDA	UN	        7	       0	       0	          267.76	             0.00	            0.00
 		303667	0230	MRE013	TORNILLO HEX. 3/8" * 3" INOXIDABLE	UN	       56	       0	       0	          313.07	             0.00	            0.00
@@ -795,7 +795,7 @@
 		303754	0230	MRE013	TORNILLO HEXAGONAL 5 * 16MM INOXIDABLE	UN	       19	       0	       0	           35.72	             0.00	            0.00
 		303757	0230	MRE013	TORNILLO HEXAGONAL 6 * 25M INOX42-9003B	UN	       19	       0	       0	           42.53	             0.00	            0.00
 		303767	0230	MRE013	TUERCA HEXAGONAL 1/2" INOX.	UN	       90	       0	       0	          160.21	             0.00	            0.00
-		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       98	       0	       0	           86.90	             0.00	            0.00
+		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       94	       0	       0	           83.35	             0.00	            0.00
 		303771	0230	MRE013	TUERCA HEXAGONAL 10MM INOX.	UN	       90	       0	       0	          286.28	             0.00	            0.00
 		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       46	       0	       0	          163.99	             0.00	            0.00
 		303773	0230	MRE013	TUERCA HEXAGONAL 3MM INOX	UN	       40	       0	       0	            7.51	             0.00	            0.00
@@ -1860,7 +1860,7 @@
 		3419783	0231	MRE544	VALVE MANIFOLD 0-902-55-500-6	UN	        1	       0	       0	        4,027.06	             0.00	            0.00
 		3419859	0231	MRE899	Solenoid valve G 1/8" 0-904-26-233-4	UN	        1	       0	       0	        8,086.60	             0.00	            0.00
 		3419882	0231	MRE895	O-RING 12x1.5 NBR 0-162-20-045-2	UN	        4	       0	       0	            3.70	             0.00	            0.00
-		3419888	0231	MRE906	PlainBearBush15x17x12 0-900-01-750-6	UN	       20	       0	       0	          292.70	             0.00	            0.00
+		3419888	0230	MRE906	PlainBearBush15x17x12 0-900-01-750-6	UN	       15	       0	       0	          219.52	             0.00	            0.00
 		3419902	0230	MRE905	Bearing set 0-903-36-391-4	UN	        2	       0	       0	        6,829.79	             0.00	            0.00
 		3419912	0230	MRE899	Ball bearing 61800 2RS 0-954-00-300-1	UN	        4	       0	       0	          197.20	             0.00	            0.00
 		3419996	0230	MRE895	BLOW MOLD DEWPOINT SENSOR 0-903-91-321-1	UN	        1	       0	       0	        5,364.75	             0.00	            0.00
@@ -3450,4 +3450,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,136,688.34	             0.00	       14,754.28
+	*									   17,136,580.56	             0.00	       14,754.28
