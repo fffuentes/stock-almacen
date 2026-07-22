@@ -643,6 +643,7 @@
 		303386	0230	MRE013	CASTIGADOR ALLEN 3/8" * 3/8" INOXIDABLE	UN	       30	       0	       0	          147.56	             0.00	            0.00
 		303387	0230	MRE013	CASTIGADOR ALLEN SS 3/8IN X1/2IN	UN	       21	       0	       0	           67.41	             0.00	            0.00
 		303388	0230	MRE013	CASTIGADOR ALLEN 4 * 8 MM INOX.	UN	       10	       0	       0	            6.70	             0.00	            0.00
+		303388	0280	MRE013	CASTIGADOR ALLEN 4 * 8 MM INOX.	UN	       10	       0	       0	            6.70	             0.00	            0.00
 		303389	0230	MRE013	CASTIGADOR ALLEN 5 * 5 MM INOX.	UN	       24	       0	       0	           21.53	             0.00	            0.00
 		303390	0230	MRE013	CASTIGADOR ALLEN SS 5/16IN X1/2IN	UN	       25	       0	       0	          273.17	             0.00	            0.00
 		303391	0230	MRE013	CASTIGADOR ALLEN 5/16" * 3/4"	UN	        6	       0	       0	           12.06	             0.00	            0.00
@@ -703,7 +704,8 @@
 		303496	0230	MRE013	TORNILLO ALLEN 1/2 * 2" INOX. R/CORRIDA	UN	       30	       0	       0	          409.84	             0.00	            0.00
 		303497	0230	MRE013	TORNILLO ALLEN 1/4 * 1" INOX.	UN	       80	       0	       0	          102.55	             0.00	            0.00
 		303498	0230	MRE013	TORNILLO C/PLANA ALLEN 1/4" * 1" INOX	UN	       48	       0	       0	          166.56	             0.00	            0.00
-		303499	0230	MRE013	TORNILLO ALLEN 1/4" * 3/4" INOX	UN	       16	       0	       0	           17.38	             0.00	            0.00
+		303499	0230	MRE013	TORNILLO ALLEN 1/4" * 3/4" INOX	UN	       16	       0	       0	           11.09	             0.00	            0.00
+		303499	0280	MRE013	TORNILLO ALLEN 1/4" * 3/4" INOX	UN	      100	       0	       0	           69.29	             0.00	            0.00
 		303501	0230	MRE013	TORNILLO ALLEN 10 * 45MM INOX.	UN	       50	       0	       0	          523.06	             0.00	            0.00
 		303502	0230	MRE013	TORNILLO ALLEN 10 * 20MM INOXIDABLE	UN	       18	       0	       0	          140.03	             0.00	            0.00
 		303503	0230	MRE013	TORNILLO ALLEN 10 * 25MM INOX. 7484-9	UN	       37	       0	       0	          218.63	             0.00	            0.00
@@ -823,7 +825,8 @@
 		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	       21	       0	       0	           18.69	             0.00	            0.00
 		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	       99	       0	       0	           88.99	             0.00	            0.00
 		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       31	       0	       0	           38.75	             0.00	            0.00
-		303796	0230	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	       41	       0	       0	           36.49	             0.00	            0.00
+		303796	0230	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	       41	       0	       0	           18.46	             0.00	            0.00
+		303796	0280	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	      100	       0	       0	           45.03	             0.00	            0.00
 		303797	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX R/FINA	UN	       14	       0	       0	           42.57	             0.00	            0.00
 		303801	0230	MRE013	TUERCA HEXAGONAL 14MM INOX	UN	       88	       0	       0	          337.18	             0.00	            0.00
 		303802	0230	MRE013	TUERCA DE SEGURIDAD 12MM INOXIDABLE	UN	       36	       0	       0	           68.37	             0.00	            0.00
@@ -3474,4 +3477,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,128,088.38	             0.00	       14,754.28
+	*									   17,128,185.08	             0.00	       14,754.28
