@@ -325,7 +325,6 @@
 		301691	0230	MRE011	LAMINA MOSQUITERA H.N. 3' X 7' X 1/32"	UN	        3	       0	       0	          595.28	             0.00	            0.00
 		301693	0230	MRE011	ABRAZADERA 2" CASTIGADERA A/I	UN	       23	       0	       0	          585.35	             0.00	            0.00
 		301695	0230	MRE011	ABRAZADERA 3" CASTIGADERA	UN	        2	       0	       0	           67.86	             0.00	            0.00
-		301697	0230	MRE011	ABRAZADERA 3/4" CASTIGADERA	UN	      318	       0	       0	        2,414.05	             0.00	            0.00
 		301701	0230	MRE011	ABRAZADERA 4" CASTIGADERA	UN	        3	       0	       0	          128.73	             0.00	            0.00
 		301704	0230	MRE011	ACETILENO UN 1001	UN	        2	       0	       0	        1,178.58	             0.00	            0.00
 		301710	0230	MRE011	ADAPTADOR HEMBRA PVC 1/2"	UN	        6	       0	       0	           12.62	             0.00	            0.00
@@ -449,7 +448,7 @@
 		302164	0230	MRE011	NIPLE 1/4" * 3" H.G.	UN	        6	       0	       0	           55.27	             0.00	            0.00
 		302170	0230	MRE011	NITROGENO GASEOSO EN CILINDRO	UN	        1	       0	       0	          216.07	             0.00	            0.00
 		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        2	       0	       0	          441.97	             0.00	            0.00
-		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	        7	       0	       0	          141.12	             0.00	            0.00
+		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	        5	       0	       0	          100.80	             0.00	            0.00
 		302200	0230	MRE011	PERMATEX No.1 (FORM A GASKET)	UN	        3	       0	       0	          306.13	             0.00	            0.00
 		302208	0230	MRE011	PISTOLA PARA CARTUCHO SILICONE	UN	        1	       0	       0	           71.43	             0.00	            0.00
 		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        1	       0	       0	        3,772.32	             0.00	            0.00
@@ -581,7 +580,7 @@
 		302806	0230	MRE012	COPLA ELECTRICA 2"	UN	       30	       0	       0	           17.25	             0.00	            0.00
 		302825	0230	MRE012	ESPIGA TRIFASICA 250V 50A AGUILA	UN	        3	       0	       0	           84.89	             0.00	            0.00
 		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       18	       0	       0	          128.69	             0.00	            0.00
-		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        3	       0	       0	          128.83	             0.00	            0.00
+		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        2	       0	       0	           85.89	             0.00	            0.00
 		302844	0230	MRE012	FLIPON 2*50 AMP. SIEMENS	UN	        5	       0	       0	          548.76	             0.00	            0.00
 		302850	0230	MRE012	FLIPON BIPOLAR 20 AMP.	UN	        3	       0	       0	          329.92	             0.00	            0.00
 		302855	0230	MRE012	FLIPON 3POLOS 50A 480/277V GHB3050 EATON	UN	        1	       0	       0	          709.82	             0.00	            0.00
@@ -1517,7 +1516,6 @@
 		3346264	0230	MRE012	PANEL LED 2X2 40W DL LUXLITE	UN	        5	       0	       0	        1,237.75	             0.00	            0.00
 		3346337	0230	MRE003	RETENEDOR 17 X 47 X 8	UN	        8	       0	       0	           66.61	             0.00	            0.00
 		3346383	0230	MRE006	SPROCKET 60B 27	UN	        3	       0	       0	        1,051.33	             0.00	            0.00
-		3346385	0230	MRE002	CHUMACERA D/PARED TERM. FYWK 1 1/4"	UN	        8	       0	       0	        6,062.72	             0.00	            0.00
 		3346389	0230	MRE013	TORNILLO HEX. 1/2" x 3" INOX.	UN	       29	       0	       0	          545.64	             0.00	            0.00
 		3346420	0230	MRE013	TORNILLO HEX. 5/8" x 2" INOX.	UN	       19	       0	       0	          404.92	             0.00	            0.00
 		3346421	0230	MRE013	TORNILLO HEX. 5/8" x 3 1/2" INOX.	UN	       27	       0	       0	          723.33	             0.00	            0.00
@@ -2391,6 +2389,28 @@
 		3450806	0231	MRE1185	FILTRO 383X328X150 20754553	UN	       16	       0	       0	       17,019.34	             0.00	            0.00
 		3451039	0230	MRE014	KRONES CELEROL L 7006 1000GR 0904173559	UN	        1	       0	       0	       14,217.27	             0.00	            0.00
 		3451063	0231	MRE760	200 ANILLO DESLIZANTE 0906889326	UN	        2	       0	       0	        8,392.91	             0.00	            0.00
+		3451143	0231	MRE1185	CONVERTIDOR DE FRECUENCIA 301268710018	UN	        1	       0	       0	       37,040.21	             0.00	            0.00
+		3451144	0231	MRE1185	CONVERTIDOR DE FRECUENCIA 301268710017	UN	        1	       0	       0	        5,130.29	             0.00	            0.00
+		3451145	0231	MRE1185	INDICADOR DE POSICION 301023308560	UN	        1	       0	       0	          667.33	             0.00	            0.00
+		3451147	0231	MRE1185	ACCIONAMIENTO LINEAL ESTATO 301251980043	UN	        1	       0	       0	       33,126.70	             0.00	            0.00
+		3451148	0231	MRE1185	CONVERTIDOR DE FRECUENCIA 301268715290	UN	        1	       0	       0	       18,437.89	             0.00	            0.00
+		3451149	0231	MRE1185	REGULADOR DE CALEFACCION 301268899211	UN	        1	       0	       0	       32,959.13	             0.00	            0.00
+		3451150	0231	MRE1185	REGULADOR DE CALEFACCION 301268899210	UN	        1	       0	       0	       15,114.84	             0.00	            0.00
+		3451151	0231	MRE1185	ENTRADA DIGITAL PROFINET 301999958409	UN	        1	       0	       0	        5,365.24	             0.00	            0.00
+		3451152	0231	MRE1185	ENTRADA ANALOGICA AI 4XRTD 301268753742	UN	        1	       0	       0	        3,355.17	             0.00	            0.00
+		3451153	0231	MRE1185	PIROMETRO TRANSDUCTOR IN300/IN 50249528	UN	        1	       0	       0	       23,491.57	             0.00	            0.00
+		3451154	0231	MRE1185	SERVOMOTOR NMNENN11.0 N4500 301251980128	UN	        1	       0	       0	       16,550.12	             0.00	            0.00
+		3451155	0231	MRE1185	SERVORREGULADOR DC600V/2X5A 301268713762	UN	        1	       0	       0	       13,662.06	             0.00	            0.00
+		3451156	0231	MRE1185	SERVORREGULADOR 301268710169	UN	        1	       0	       0	       29,687.88	             0.00	            0.00
+		3451160	0231	MRE1185	FUSIBLE 20A/600VAC/300VDC 301999988542	UN	        3	       0	       0	          945.36	             0.00	            0.00
+		3451161	0231	MRE1185	FUSIBLE NEOZED/D01/10A 301263316030	UN	       10	       0	       0	           25.24	             0.00	            0.00
+		3451162	0231	MRE1185	FUSIBLE NEOZED D02 301263316060	UN	        3	       0	       0	           90.88	             0.00	            0.00
+		3451164	0231	MRE1185	JUEGO DE JUNTAS NR 133609 DN16 20550947	UN	        1	       0	       0	        1,577.96	             0.00	            0.00
+		3451165	0231	MRE1185	JUEGO DE JUNTAS NR 101015 DN50 20550946	UN	        1	       0	       0	        2,941.59	             0.00	            0.00
+		3451166	0231	MRE1185	MODULO ETHERNET/PROFI 301264310029	UN	        1	       0	       0	        4,057.92	             0.00	            0.00
+		3451167	0231	MRE1185	MODULO DE ENTRADA IO-LINK 301268750205	UN	        2	       0	       0	        3,619.71	             0.00	            0.00
+		3451170	0231	MRE1185	MODULO DE RED PROFINET 301268856345	UN	        2	       0	       0	       14,985.14	             0.00	            0.00
+		3451171	0231	MRE1185	ACOPLADOR DE BUS DE CAMPO 301268750189	UN	        3	       0	       0	       13,122.00	             0.00	            0.00
 		3451183	0231	MRE1186	VALVULA DE ABRIR/ CERRAR 301999984515	UN	        1	       0	       0	       50,210.37	             0.00	            0.00
 		3451184	0231	MRE1186	JUEGO RECA VALVU AJUSTE DN6 301999964196	UN	        1	       0	       0	        8,248.08	             0.00	            0.00
 		3451185	0231	MRE1186	CONO VALVU REGULADO DN65-80 301999967757	UN	        1	       0	       0	        2,668.41	             0.00	            0.00
@@ -2629,7 +2649,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3457057	0231	MRE989	TRANSDUCTOR DE PRESION 2ETD10066	UN	        2	       0	       0	        2,990.09	             0.00	            0.00
 		345706	0230	MRE443	PEINE DE TRANSFERENCIA MA901971	UN	       20	       0	       0	       11,152.59	             0.00	            0.00
 		3458197	0231	MRE569	SISTEMA DE UNIDAD DE VALVULAS 80042695	UN	        2	       0	       0	      416,719.87	             0.00	            0.00
-		3458804	0230	MRE1115	PLACA SENSOR L-COM 5500 178385/85423990	UN	        1	       0	       0	       17,765.30	             0.00	            0.00
+		3458804	0231	MRE1115	PLACA SENSOR L-COM 5500 178385/85423990	UN	        1	       0	       0	       17,765.30	             0.00	            0.00
 		346783	0230	MRE438	SEAL GDI425 (80000GDI425)	UN	        4	       0	       0	          635.92	             0.00	            0.00
 		346867	0230	MRE295	O-RING 0-900-06-024-2	UN	        4	       0	       0	        1,346.25	             0.00	            0.00
 		347231	0230	MRE008	FILTER 5 MICRON 44369	UN	        1	       0	       0	          284.57	             0.00	            0.00
@@ -2810,7 +2830,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3505085	0230	MRE012	FUSIBLE TIPO K 200AMP	UN	        5	       0	       0	        1,627.05	             0.00	            0.00
 		3505198	0230	MRE012	RECTIFICADOR DE FRENO 8253846 SEW	UN	        2	       0	       0	          885.00	             0.00	            0.00
 		3505297	0230	MRE005	RACOR ACERO INOX NPQR-L-Q6	UN	       10	       0	       0	        3,708.48	             0.00	            0.00
-		3505303	0230	MRE002	COBERTOR PARA CHUMACERA SKF 30 MM	UN	        6	       0	       0	          294.66	             0.00	            0.00
 		3505318	0230	MRE008	ADITIVO A2188-4X0.8L	UN	       11	       0	       0	        3,677.30	             0.00	            0.00
 		3505319	0230	MRE008	TINTA MB2243-4X0.8L	UN	        6	       0	       0	       13,031.76	             0.00	            0.00
 		3505345	0230	MRE117	BOMBA REXROTH F 000 510 707 19W17-7362	UN	        1	       0	       0	        7,839.29	             0.00	            0.00
@@ -2852,7 +2871,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
 		3511814	0230	MRE011	SELLO MECANICO VERTICAL 16MM	UN	        2	       0	       0	        2,410.72	             0.00	            0.00
-		3511972	0230	MRE002	CHUMACERA INOX SSFY511M EJE 55MM	UN	        2	       0	       0	        5,803.58	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
 		351383	0230	MRE113	TUERCA HHA016/26/210823	UN	        7	       0	       0	           35.87	             0.00	            0.00
@@ -3478,4 +3496,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,145,950.38	             0.00	       14,754.28
+	*									   17,407,246.34	             0.00	       14,754.28
