@@ -804,7 +804,7 @@
 		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       94	       0	       0	           83.35	             0.00	            0.00
 		303771	0230	MRE013	TUERCA HEXAGONAL 10MM INOX.	UN	       90	       0	       0	          286.28	             0.00	            0.00
 		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       46	       0	       0	          163.99	             0.00	            0.00
-		303773	0230	MRE013	TUERCA HEXAGONAL 3MM INOX	UN	       40	       0	       0	            7.51	             0.00	            0.00
+		303773	0230	MRE013	TUERCA HEXAGONAL 3MM INOX	UN	       36	       0	       0	            6.76	             0.00	            0.00
 		303774	0230	MRE013	TUERCA HEXAGONAL 3/16" INOX	UN	      267	       0	       0	          216.27	             0.00	            0.00
 		303775	0230	MRE013	TUERCA HEXAGONAL 3/4" HIERRO NEGRO	UN	        5	       0	       0	           12.95	             0.00	            0.00
 		303776	0230	MRE013	TUERCA HEXAGONAL 3/4" INOX	UN	       66	       0	       0	          463.01	             0.00	            0.00
@@ -2853,7 +2853,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3510271	0230	MRE011	FUSIBLE SIEMENS 3NE1331-0 350A	UN	        6	       0	       0	        5,035.71	             0.00	            0.00
 		3510412	0230	MRE012	ARRANCADOR SUAVE 5.5 KW 3RW3017-1BB04	UN	        1	       0	       0	        2,560.46	             0.00	            0.00
 		351079	0230	MRE507	DISTANCIADOR DE COMPENSACION 4000109601	UN	       12	       0	       0	        4,402.60	             0.00	            0.00
-		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        4	       0	       0	       11,100.24	             0.00	            0.00
+		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        3	       0	       0	        8,325.18	             0.00	            0.00
 		3511112	0230	MRE012	VARIADOR ABB ACS310-03E-25A4-4 INVERTER	UN	        2	       0	       0	       16,765.18	             0.00	            0.00
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
@@ -3484,4 +3484,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,552,042.23	             0.00	       14,754.28
+	*									   17,549,266.42	             0.00	       14,754.28
