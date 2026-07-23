@@ -532,7 +532,7 @@
 		302575	0230	MRE012	BATERIA 1.5 V TIPO "D" GRANDE	UN	       16	       0	       0	          351.75	             0.00	            0.00
 		302576	0230	MRE012	BATERIA 3.6 V P/SIMATIC 100 U SIEMENS	UN	        3	       0	       0	        2,441.07	             0.00	            0.00
 		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	        9	       0	       0	          299.19	             0.00	            0.00
-		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       46	       0	       0	          392.84	             0.00	            0.00
+		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	        6	       0	       0	           51.24	             0.00	            0.00
 		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       22	       0	       0	          619.97	             0.00	            0.00
 		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      110	       0	       0	        1,640.33	             0.00	            0.00
 		302583	0230	MRE012	BATERIA RECARG. 4.8VDC /270MAH /CR-P2 6V	UN	        3	       0	       0	          941.77	             0.00	            0.00
@@ -3484,4 +3484,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,549,266.42	             0.00	       14,754.28
+	*									   17,548,924.82	             0.00	       14,754.28
