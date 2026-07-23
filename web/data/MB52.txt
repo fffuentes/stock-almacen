@@ -448,7 +448,8 @@
 		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	        5	       0	       0	          100.80	             0.00	            0.00
 		302200	0230	MRE011	PERMATEX No.1 (FORM A GASKET)	UN	        3	       0	       0	          306.13	             0.00	            0.00
 		302208	0230	MRE011	PISTOLA PARA CARTUCHO SILICONE	UN	        1	       0	       0	           71.43	             0.00	            0.00
-		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        1	       0	       0	        3,772.32	             0.00	            0.00
+		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        1	       0	       0	        3,743.30	             0.00	            0.00
+		302219	0280	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        1	       0	       0	        3,743.30	             0.00	            0.00
 		302224	0230	MRE011	REDUCIDOR BUSHING 1" A 1/2" H.G.	UN	        5	       0	       0	           53.52	             0.00	            0.00
 		302226	0230	MRE011	REDUCIDOR BUSHING 1" A 3/4" H.G.	UN	        1	       0	       0	           11.77	             0.00	            0.00
 		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	        7	       0	       0	           62.51	             0.00	            0.00
@@ -531,7 +532,7 @@
 		302575	0230	MRE012	BATERIA 1.5 V TIPO "D" GRANDE	UN	       16	       0	       0	          351.75	             0.00	            0.00
 		302576	0230	MRE012	BATERIA 3.6 V P/SIMATIC 100 U SIEMENS	UN	        3	       0	       0	        2,441.07	             0.00	            0.00
 		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	        9	       0	       0	          299.19	             0.00	            0.00
-		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       94	       0	       0	          802.76	             0.00	            0.00
+		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       46	       0	       0	          392.84	             0.00	            0.00
 		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       22	       0	       0	          619.97	             0.00	            0.00
 		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      110	       0	       0	        1,640.33	             0.00	            0.00
 		302583	0230	MRE012	BATERIA RECARG. 4.8VDC /270MAH /CR-P2 6V	UN	        3	       0	       0	          941.77	             0.00	            0.00
@@ -833,7 +834,7 @@
 		303951	0230	MRE007	PEINETA S/400/1200 C/ACC.(A4D4R5XXX) L9	UN	        8	       0	       0	        1,758.23	             0.00	            0.00
 		303951	0231	MRE007	PEINETA S/400/1200 C/ACC.(A4D4R5XXX) L9	UN	       20	       0	       0	        4,395.59	             0.00	            0.00
 		303968	0230	MRE011	ANGULAR 3/4" * 1/8" * 20'	UN	        5	       0	       0	          700.00	             0.00	            0.00
-		303980	0230	MRE012	CABLE TSJ 2 * 14 AWG	M	       50	       0	       0	          450.00	             0.00	            0.00
+		303980	0230	MRE012	CABLE TSJ 2 * 14 AWG	M	       40	       0	       0	          360.00	             0.00	            0.00
 		303981	0230	MRE012	FOTOCELDA 15A 240V	UN	        3	       0	       0	          151.50	             0.00	            0.00
 		303986	0230	MRE012	TUBO CONDUIT DE ALUMINIO 1/2"	UN	        3	       0	       0	          338.52	             0.00	            0.00
 		303988	0230	MRE013	ROLDANA DE PRESION 1/4"	UN	       52	       0	       0	           40.17	             0.00	            0.00
@@ -992,7 +993,7 @@
 		320598	0231	MRE062	BUSH 0-129-90-003-7 0906335189	UN	       10	       0	       0	          240.44	             0.00	            0.00
 		320647	0230	MRE062	EMPAQUETADURA 0-023-70-063-7	UN	        6	       0	       0	          238.59	             0.00	            0.00
 		320723	0231	MRE062	PRESSURE PIECE 1-351-80-016-0	UN	        6	       0	       0	           73.98	             0.00	            0.00
-		320815	0230	MRE063	CINTA ADH.TESA SOPEL BAND 05338-01 10*15	UN	       10	       0	       0	        1,673.77	             0.00	            0.00
+		320815	0230	MRE063	CINTA ADH.TESA SOPEL BAND 05338-01 10*15	UN	        9	       0	       0	        1,506.39	             0.00	            0.00
 		321034	0230	MRE067	SENSOR 12MM 7-330-00-206-1 0901443696 NB	UN	        3	       0	       0	          646.21	             0.00	            0.00
 		321248	0230	MRE073	CORTE POS 27 0001411001 ALAMB TUGSTENO	UN	        6	       0	       0	          250.98	             0.00	            0.00
 		321313	0230	MRE075	EMPAQUE 0-169-00-000-1 0-901-24-724-5	UN	        3	       0	       0	          618.44	             0.00	            0.00
@@ -1257,7 +1258,7 @@
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321690	0230	MRE011	LAMINA POLICARBONATO de 1/8x4*x8*	UN	        1	       0	       0	          803.55	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
-		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      111	       0	       0	        1,244.91	             0.00	            0.00
+		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	       73	       0	       0	          818.72	             0.00	            0.00
 		3321827	0230	MRE010	ROTULAS GE 35-ES-2RS R	UN	        1	       0	       0	          216.29	             0.00	            0.00
 		3321948	0230	MRE012	SUPRESTHOR TRS9 p 480 VAC 300KAP Cat."B"	UN	        1	       0	       0	        1,325.90	             0.00	            0.00
 		3322020	0230	MRE012	CONECTOR P/BOBINA MSN1W-110-50/60-OD	UN	        7	       0	       0	          236.04	             0.00	            0.00
@@ -1540,7 +1541,7 @@
 		3352457	0230	MRE011	CEPILLO RECTANG. C/CERDA DE NYLON 0.5 MM	UN	        4	       0	       0	        7,071.44	             0.00	            0.00
 		3352510	0230	MRE012	LED0161 TUBO LED T8 18W CLARO 6400K	UN	        2	       0	       0	           51.80	             0.00	            0.00
 		3352517	0230	MRE012	SEN0003 SEN MOVIMIENTO 800W PARED LUXITE	UN	        2	       0	       0	          188.39	             0.00	            0.00
-		3352519	0230	MRE012	MICRO RELE 110 VOLTIOS CON BASE	UN	       22	       0	       0	        5,487.98	             0.00	            0.00
+		3352519	0230	MRE012	MICRO RELE 110 VOLTIOS CON BASE	UN	       21	       0	       0	        5,238.53	             0.00	            0.00
 		3352571	0230	MRE005	MANOMETRO DIAL 4" 0-100 PSI 1/2"NPTM	UN	        1	       0	       0	          259.19	             0.00	            0.00
 		3352573	0230	MRE010	CINTA METRICA 8M. PUNTA MAGNETICA	UN	        2	       0	       0	          182.15	             0.00	            0.00
 		3352952	0230	MRE001	EMPAQUE BUNA DN 85	UN	        2	       0	       0	          267.86	             0.00	            0.00
@@ -3483,4 +3484,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,549,670.89	             0.00	       14,754.28
+	*									   17,552,042.23	             0.00	       14,754.28
