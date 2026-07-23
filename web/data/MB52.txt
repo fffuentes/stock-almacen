@@ -352,7 +352,7 @@
 		301777	0230	MRE011	BROCA 5/16" CONCRETO	UN	        5	       0	       0	           44.65	             0.00	            0.00
 		301781	0230	MRE011	BROCA 5/8" CONCRETO.	UN	        2	       0	       0	           35.35	             0.00	            0.00
 		301783	0230	MRE011	BROCA 6MM. HSS	UN	        2	       0	       0	           34.82	             0.00	            0.00
-		301789	0230	MRE011	BROCA DE CENTRO No. 3	UN	        5	       0	       0	          464.24	             0.00	            0.00
+		301789	0230	MRE011	BROCA DE CENTRO No. 3	UN	        4	       0	       0	          371.39	             0.00	            0.00
 		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	        4	       0	       0	          250.00	             0.00	            0.00
 		301791	0230	MRE011	BROCA DE CENTRO No. 5	UN	        3	       0	       0	          133.95	             0.00	            0.00
 		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	       15	       0	       0	           73.65	             0.00	            0.00
@@ -428,7 +428,7 @@
 		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	       12	       0	       0	        3,246.48	             0.00	            0.00
 		302111	0230	MRE011	MACHUELO 3/16" NC	UN	        6	       0	       0	          178.58	             0.00	            0.00
 		302117	0230	MRE011	MACHUELO 4MM	JGO	        3	       0	       0	          209.45	             0.00	            0.00
-		302120	0230	MRE011	MACHUELO 5MM	JGO	        2	       0	       0	          223.22	             0.00	            0.00
+		302120	0230	MRE011	MACHUELO 5MM	JGO	        1	       0	       0	          111.61	             0.00	            0.00
 		302121	0230	MRE011	MACHUELO 6MM* 1	JGO	        5	       0	       0	          168.15	             0.00	            0.00
 		302122	0230	MRE011	MACHUELO 8MM * 1.25	JGO	        3	       0	       0	          361.62	             0.00	            0.00
 		302125	0230	MRE011	MACHUELO 12MM*1.50	UN	        4	       0	       0	          339.26	             0.00	            0.00
@@ -531,9 +531,9 @@
 		302575	0230	MRE012	BATERIA 1.5 V TIPO "D" GRANDE	UN	       16	       0	       0	          351.75	             0.00	            0.00
 		302576	0230	MRE012	BATERIA 3.6 V P/SIMATIC 100 U SIEMENS	UN	        3	       0	       0	        2,441.07	             0.00	            0.00
 		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	        9	       0	       0	          299.19	             0.00	            0.00
-		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       98	       0	       0	          836.92	             0.00	            0.00
+		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       94	       0	       0	          802.76	             0.00	            0.00
 		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       22	       0	       0	          619.97	             0.00	            0.00
-		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      104	       0	       0	        1,550.85	             0.00	            0.00
+		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	      110	       0	       0	        1,640.33	             0.00	            0.00
 		302583	0230	MRE012	BATERIA RECARG. 4.8VDC /270MAH /CR-P2 6V	UN	        3	       0	       0	          941.77	             0.00	            0.00
 		302599	0230	MRE012	BOBINA 120V. 60HZ DANFOSS	UN	        2	       0	       0	        1,419.63	             0.00	            0.00
 		302606	0230	MRE012	BOBINA 24VDC MSFG FESTO	UN	        6	       0	       0	        1,500.82	             0.00	            0.00
@@ -636,7 +636,7 @@
 		303386	0230	MRE013	CASTIGADOR ALLEN 3/8" * 3/8" INOXIDABLE	UN	       30	       0	       0	          147.56	             0.00	            0.00
 		303387	0230	MRE013	CASTIGADOR ALLEN SS 3/8IN X1/2IN	UN	       21	       0	       0	           67.41	             0.00	            0.00
 		303388	0230	MRE013	CASTIGADOR ALLEN 4 * 8 MM INOX.	UN	       20	       0	       0	           13.40	             0.00	            0.00
-		303389	0230	MRE013	CASTIGADOR ALLEN 5 * 5 MM INOX.	UN	       24	       0	       0	           21.53	             0.00	            0.00
+		303389	0230	MRE013	CASTIGADOR ALLEN 5 * 5 MM INOX.	UN	       16	       0	       0	           14.35	             0.00	            0.00
 		303390	0230	MRE013	CASTIGADOR ALLEN SS 5/16IN X1/2IN	UN	       25	       0	       0	          273.17	             0.00	            0.00
 		303391	0230	MRE013	CASTIGADOR ALLEN 5/16" * 3/4"	UN	        6	       0	       0	           12.06	             0.00	            0.00
 		303394	0230	MRE013	CASTIGADOR ALLEN 8 * 12 MM INOX	UN	       22	       0	       0	           58.74	             0.00	            0.00
@@ -1397,7 +1397,7 @@
 		3336259	0230	MRE002	ROTULA GEEW32ES	UN	        7	       0	       0	        1,560.93	             0.00	            0.00
 		3336263	0230	MRE012	SENSOR NIVEL 840E-TB1B1A104 ALLEN BRAD	UN	        1	       0	       0	        2,991.08	             0.00	            0.00
 		3336264	0230	MRE012	INTERRUPTOR DE EMERGENCIA FIRE	UN	        1	       0	       0	          642.50	             0.00	            0.00
-		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	       20	       0	       0	        4,151.68	             0.00	            0.00
+		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	        8	       0	       0	        1,660.67	             0.00	            0.00
 		3336362	0230	MRE012	SWITCH FIN DE CARRERA ZCMD21C12	UN	        2	       0	       0	        5,112.05	             0.00	            0.00
 		3336408	0230	MRE012	PUNTAS P/ MULTIMETRO FLUKE 179	UN	        2	       0	       0	           17.85	             0.00	            0.00
 		3336706	0230	MRE012	ORING PARA LAMPARA UV OPTIMA 320U	UN	       24	       0	       0	        1,114.32	             0.00	            0.00
@@ -1567,7 +1567,6 @@
 		3356548	0230	MRE012	PANEL LED 2'X4' 72W DL	UN	        8	       0	       0	        3,988.47	             0.00	            0.00
 		3356725	0230	MRE012	SENSOR DE CONDUTIV. SIGNET-3-2850-52-20	UN	        2	       0	       0	       11,950.75	             0.00	            0.00
 		3356770	0230	MRE011	MANGUERA PROLONGACION 6.907-321.0	M	        1	       0	       0	        4,736.60	             0.00	            0.00
-		3356820	0230	MRE011	CERROJO DIGITAL	UN	        2	       0	       0	        2,275.07	             0.00	            0.00
 		3356884	0230	MRE012	TARJ. DE MEMORIA CONTROL P/VARIADOR	UN	        1	       0	       0	        1,272.73	             0.00	            0.00
 		3356939	0230	MRE012	CORTACIRCUITO 15KV 100A 110KV	UN	        2	       0	       0	        1,220.00	             0.00	            0.00
 		3357213	0230	MRE012	CERAPHANT PTP33B-AA3M1PGB3EJ 2" CLAMP	UN	        2	       0	       0	       11,281.26	             0.00	            0.00
@@ -3484,4 +3483,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,554,593.29	             0.00	       14,754.28
+	*									   17,549,670.89	             0.00	       14,754.28
