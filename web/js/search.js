@@ -1,25 +1,18 @@
 /**
- * search.js — Motor de búsqueda en tiempo real para el Portal MB52.
+ * search.js — Coordinador de búsqueda para el Portal MB52.
  *
- * Busca en TODAS las columnas del dataset de forma dinámica,
- * sin conocer los nombres de las columnas. No asume que exista
- * "Material", "Descripción" ni ninguna columna en particular.
+ * Maneja el evento input del buscador y delega toda la lógica de
+ * comparación en SmartSearch (smartSearch.js).
+ *
+ * La lógica de filtrado, prioridad y normalización reside
+ * exclusivamente en SmartSearch.
  */
 
 /**
  * Filtra los registros según un texto de búsqueda.
  *
- * Recorre dinámicamente TODAS las propiedades de cada fila
- * y compara sus valores contra el texto ingresado. Si el
- * texto está vacío, retorna el arreglo completo sin cambios.
- *
- * La comparación ignora mayúsculas/minúsculas.
- *
- * Orden de prioridad en los resultados:
- *   1. Coincidencia exacta (el valor de alguna propiedad es
- *      idéntico al texto buscado).
- *   2. Empieza con (el valor comienza con el texto buscado).
- *   3. Contiene (el valor contiene el texto en cualquier posición).
+ * Delega la comparación de cada fila en SmartSearch.matches() y
+ * ordena los resultados por puntuación (score) descendente.
  *
  * @param {Object[]} rows       — Arreglo original de objetos.
  * @param {string}   searchText — Texto ingresado por el usuario.
@@ -31,40 +24,19 @@ function filterMaterials(rows, searchText) {
         return rows;
     }
 
-    const term = searchText.trim().toLowerCase();
-
-    // Clasificar cada fila en uno de tres niveles de prioridad
-    const exactas = [];
-    const empieza = [];
-    const contiene = [];
+    const scored = [];
 
     for (const row of rows) {
-        let mejorNivel = 0; // 0 = no coincide, 1 = contiene, 2 = empieza, 3 = exacta
+        const result = SmartSearch.matches(row, searchText);
 
-        // Recorrer TODAS las propiedades del objeto dinámicamente
-        for (const key of Object.keys(row)) {
-            const valor = String(row[key] ?? "").toLowerCase();
-
-            if (valor === term) {
-                mejorNivel = Math.max(mejorNivel, 3);
-            } else if (valor.startsWith(term) && mejorNivel < 2) {
-                mejorNivel = Math.max(mejorNivel, 2);
-            } else if (valor.includes(term) && mejorNivel < 1) {
-                mejorNivel = Math.max(mejorNivel, 1);
-            }
+        if (result.matched) {
+            scored.push({ row, score: result.score });
         }
-
-        // Asignar al grupo correspondiente
-        if (mejorNivel === 3) {
-            exactas.push(row);
-        } else if (mejorNivel === 2) {
-            empieza.push(row);
-        } else if (mejorNivel === 1) {
-            contiene.push(row);
-        }
-        // mejorNivel === 0 → no se incluye
     }
 
-    // Concatenar en orden de prioridad
-    return [...exactas, ...empieza, ...contiene];
+    // Ordenar por score descendente (mayor puntuación primero)
+    scored.sort((a, b) => b.score - a.score);
+
+    // Retornar solo las filas
+    return scored.map((item) => item.row);
 }
