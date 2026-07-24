@@ -2737,10 +2737,10 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349132	0230	MRE131	GASKET DMP022946/002	UN	       64	       0	       0	        1,373.44	             0.00	            0.00
 		349133	0230	MRE131	GASKET DMP022946/003	UN	      125	       0	       0	        2,695.33	             0.00	            0.00
 		349134	0230	MRE131	BUSHING C158CUSC.0108	UN	      170	       0	       0	        7,083.92	             0.00	            0.00
-		349135	0230	MRE131	SPRING C300MOLLA0126	UN	      255	       0	       0	        4,172.45	             0.00	            0.00
+		349135	0230	MRE131	SPRING C300MOLLA0126	UN	      230	       0	       0	        3,763.39	             0.00	            0.00
 		349136	0230	MRE131	PUFFER DMP022952/001	UN	       60	       0	       0	        7,140.21	             0.00	            0.00
-		349137	0230	MRE131	BUSHING DMP022952/004	UN	       75	       0	       0	       11,114.96	             0.00	            0.00
-		349138	0230	MRE131	BUSHING DMP022952/005	UN	       90	       0	       0	       18,116.05	             0.00	            0.00
+		349137	0230	MRE131	BUSHING DMP022952/004	UN	       70	       0	       0	       10,373.96	             0.00	            0.00
+		349138	0230	MRE131	BUSHING DMP022952/005	UN	       85	       0	       0	       17,109.60	             0.00	            0.00
 		349139	0230	MRE131	NECK BRAKETS DMP023016/008	UN	        3	       0	       0	        4,228.43	             0.00	            0.00
 		349140	0230	MRE131	NECK GRIPPER DX DMP023018/014	UN	       20	       0	       0	       33,489.74	             0.00	            0.00
 		349141	0230	MRE131	NECK GRIPPER DX DMP023018/015	UN	       15	       0	       0	       17,444.77	             0.00	            0.00
@@ -3025,7 +3025,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		365447	0230	MRE618	WEDGE,ADJUSTMENT 34275	UN	        1	       0	       0	          863.85	             0.00	            0.00
 		365449	0230	MRE618	KIT,OPT,TRIG,CNVR MT,W/O CONN 37302-2	UN	        2	       0	       0	       28,031.30	             0.00	            0.00
 		365450	0230	MRE012	CONECTOR HEMBRA 90° 5 PINES DOS-1205-W	UN	       10	       0	       0	        1,598.46	             0.00	            0.00
-		365452	0230	MRE012	CONECTOR RECTO HEMBRA 5 PINES DOS-1205-G	UN	        5	       0	       0	          911.45	             0.00	            0.00
+		365452	0230	MRE012	CONECTOR RECTO HEMBRA 5 PINES DOS-1205-G	UN	        5	       0	       0	          911.43	             0.00	            0.00
 		365453	0230	MRE012	CONECTOR RECTO MACHO 5 PINES STE-1205-G	UN	        4	       0	       0	        1,433.04	             0.00	            0.00
 		365456	0230	MRE528	sONJUNTO CINTURON BTL 1270MM 47140	UN	        2	       0	       0	        2,572.81	             0.00	            0.00
 		365458	0230	MRE528	ENCODER EJE HUECO 500PPR 94936	UN	        2	       0	       0	       21,658.70	             0.00	            0.00
@@ -3486,4 +3486,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,598,582.18	             0.00	       14,754.28
+	*									   17,596,425.65	             0.00	       14,754.28
