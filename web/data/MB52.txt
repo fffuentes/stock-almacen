@@ -1227,7 +1227,7 @@
 		3317013	0230	MRE002	RODAMIENTO 6316 ZZC3	UN	        2	       0	       0	        2,695.00	             0.00	            0.00
 		3317143	0230	MRE006	MEDIO ESLABON 80	UN	        7	       0	       0	          267.25	             0.00	            0.00
 		3317492	0230	MRE012	PRENSA ESTOPA PG 15	UN	       13	       0	       0	          143.63	             0.00	            0.00
-		3317493	0230	MRE012	PRENSA ESTOPA PG 20	UN	       10	       0	       0	          198.98	             0.00	            0.00
+		3317493	0230	MRE012	PRENSA ESTOPA PG 20	UN	        8	       0	       0	          159.18	             0.00	            0.00
 		3317822	0230	MRE011	FILTRO DE ACEITE LFP 1652	UN	        2	       0	       0	          310.78	             0.00	            0.00
 		3317917	0230	MRE013	TORNILLO AVELLANADO 8*30MM INOX	UN	       20	       0	       0	          107.20	             0.00	            0.00
 		3317955	0230	MRE001	HEMBRA INOX . DE 1/4 * 1	UN	        3	       0	       0	        1,125.00	             0.00	            0.00
@@ -3486,4 +3486,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,596,425.65	             0.00	       14,754.28
+	*									   17,596,385.85	             0.00	       14,754.28
