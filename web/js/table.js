@@ -237,6 +237,24 @@ function renderTable(headers, rows) {
 
     tbody.appendChild(fragmento);
 
+    // ── Material Viewer: clic en fila abre el visor ───────────────
+    tbody.addEventListener("click", (e) => {
+        const tr = e.target.closest("tr");
+        if (!tr) return;
+
+        // Encontrar el índice de la fila clickeada (DOM)
+        const htmlRows = Array.from(tbody.querySelectorAll("tr"));
+        const idx = htmlRows.indexOf(tr);
+        if (idx === -1) return;
+
+        // rows es el parámetro original de renderTable (datos MB52)
+        const rowData = rows[idx];
+        if (rowData) {
+            MaterialViewer.open(rowData, tableHeaders);
+        }
+    });
+    // ──────────────────────────────────────────────────────────────
+
     // 7. Actualizar indicadores del header ------------------------------
     if (statusValue) {
         statusValue.textContent = "Datos cargados";
