@@ -20,6 +20,10 @@ const MaterialViewer = (function () {
      * @param {string[]} headers — Nombres de columna (para detectar campos).
      */
     function open(row, headers) {
+        // Eliminar cualquier overlay anterior (máximo 1)
+        document.querySelector(".mv-overlay")?.remove();
+        _overlay = null;
+
         _currentRow = row;
         const materialCode = _safeText(row["Material"]);
         _createOverlay(row, headers, materialCode);
@@ -43,18 +47,14 @@ const MaterialViewer = (function () {
     }
 
     /**
-     * Cierra el visor.
+     * Cierra el visor. Elimina el overlay del DOM inmediatamente.
      */
     function close() {
-        if (!_overlay) return;
-        _overlay.classList.remove("mv--visible");
-        _overlay.addEventListener("transitionend", () => {
-            if (_overlay && _overlay.parentNode) {
-                _overlay.parentNode.removeChild(_overlay);
-            }
+        if (_overlay) {
+            _overlay.remove();
             _overlay = null;
-            _currentRow = null;
-        }, { once: true });
+        }
+        _currentRow = null;
     }
 
     // ── Construcción del DOM del modal ─────────────────────────────

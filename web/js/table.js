@@ -216,6 +216,7 @@ function renderTable(headers, rows) {
 
     for (const row of rows) {
         const tr = document.createElement("tr");
+        tr.__rowData = row;  // asociar objeto MB52 a la fila
 
         for (const h of tableHeaders) {
             const td = document.createElement("td");
@@ -237,22 +238,20 @@ function renderTable(headers, rows) {
 
     tbody.appendChild(fragmento);
 
-    // ── Material Viewer: clic en fila abre el visor ───────────────
-    tbody.addEventListener("click", (e) => {
-        const tr = e.target.closest("tr");
-        if (!tr) return;
+    // ── Material Viewer: registrar listener UNA sola vez ───────────
+    if (!window.__mvListenerReady) {
+        tbody.addEventListener("click", (e) => {
+            const tr = e.target.closest("tr");
+            if (!tr) return;
 
-        // Encontrar el índice de la fila clickeada (DOM)
-        const htmlRows = Array.from(tbody.querySelectorAll("tr"));
-        const idx = htmlRows.indexOf(tr);
-        if (idx === -1) return;
-
-        // rows es el parámetro original de renderTable (datos MB52)
-        const rowData = rows[idx];
-        if (rowData) {
-            MaterialViewer.open(rowData, tableHeaders);
-        }
-    });
+            // Obtener el objeto MB52 asociado a la fila
+            const rowData = tr.__rowData;
+            if (rowData) {
+                MaterialViewer.open(rowData, tableHeaders);
+            }
+        });
+        window.__mvListenerReady = true;
+    }
     // ──────────────────────────────────────────────────────────────
 
     // 7. Actualizar indicadores del header ------------------------------
