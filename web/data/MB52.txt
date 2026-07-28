@@ -43,6 +43,7 @@
 		300186	0230	MRE002	CHUMACERA 50MM SY 510	UN	        3	       0	       0	          909.26	             0.00	            0.00
 		300187	0230	MRE002	CHUMACERA 55MM FY 511M	UN	        2	       0	       0	        5,089.30	             0.00	            0.00
 		300191	0230	MRE002	CHUMACERA F209J UC209	UN	        7	       0	       0	        1,777.07	             0.00	            0.00
+		300196	0280	MRE002	CHUMACERA UCF 207-D1	UN	        5	       0	       0	          913.40	             0.00	            0.00
 		300209	0230	MRE002	CUNA 88610 HM SKF	UN	        3	       0	       0	          389.31	             0.00	            0.00
 		300213	0230	MRE002	MANGUITO H322	UN	        2	       0	       0	        1,767.18	             0.00	            0.00
 		300215	0230	MRE002	RODAMIENTO 6012 2ZZ C3	UN	       12	       0	       0	        1,863.38	             0.00	            0.00
@@ -96,12 +97,14 @@
 		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	       10	       0	       0	          296.75	             0.00	            0.00
 		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	       12	       0	       0	          301.84	             0.00	            0.00
 		300407	0230	MRE002	RODAMIENTO 6204 2RS	UN	       10	       0	       0	          312.50	             0.00	            0.00
+		300408	0280	MRE002	RODAMIENTO 6204 ZZ HT 51	UN	        6	       0	       0	          164.40	             0.00	            0.00
 		300409	0230	MRE002	RODAMIENTO 6205 2RS 0-900-41-502-7	UN	        5	       0	       0	          192.32	             0.00	            0.00
 		300410	0230	MRE002	RODAMIENTO 6205 ZZ HT 51	UN	        5	       0	       0	          166.00	             0.00	            0.00
 		300411	0230	MRE002	RODAMIENTO 6206 2RS C3 (CAA476)	UN	        5	       0	       0	          256.55	             0.00	            0.00
 		300412	0230	MRE002	RODAMIENTO 6207 2RS	UN	        6	       0	       0	          443.58	             0.00	            0.00
 		300413	0230	MRE002	RODAMIENTO 6208 2RS	UN	        4	       0	       0	          392.42	             0.00	            0.00
-		300414	0230	MRE002	RODAMIENTO 6209 2RS	UN	        2	       0	       0	          238.05	             0.00	            0.00
+		300414	0230	MRE002	RODAMIENTO 6209 2RS	UN	        2	       0	       0	          222.82	             0.00	            0.00
+		300414	0280	MRE002	RODAMIENTO 6209 2RS	UN	        4	       0	       0	          445.63	             0.00	            0.00
 		300415	0230	MRE002	RODAMIENTO 6210 2RS = 344733	UN	        7	       0	       0	          947.04	             0.00	            0.00
 		300417	0230	MRE002	RODAMIENTO 6212 2RS	UN	        5	       0	       0	        1,190.37	             0.00	            0.00
 		300418	0230	MRE002	RODAMIENTO 6213 2RS	UN	        6	       0	       0	        1,125.00	             0.00	            0.00
@@ -152,7 +155,8 @@
 		300588	0230	MRE003	RETENEDOR 17X30X7	UN	        5	       0	       0	           89.75	             0.00	            0.00
 		300589	0230	MRE003	RETENEDOR 17*32*7 = 221730	UN	        7	       0	       0	          118.28	             0.00	            0.00
 		300590	0230	MRE003	RETENEDOR 17*40*7	UN	        6	       0	       0	          109.80	             0.00	            0.00
-		300595	0230	MRE003	RETENEDOR 18*35*8 = 221735	UN	        4	       0	       0	           73.85	             0.00	            0.00
+		300595	0230	MRE003	RETENEDOR 18*35*8 = 221735	UN	        4	       0	       0	           86.92	             0.00	            0.00
+		300595	0280	MRE003	RETENEDOR 18*35*8 = 221735	UN	        4	       0	       0	           86.92	             0.00	            0.00
 		300599	0230	MRE003	RETENEDOR 20*35*7	UN	       10	       0	       0	          162.82	             0.00	            0.00
 		300602	0230	MRE003	RETENEDOR 20*47*7	UN	       12	       0	       0	          359.86	             0.00	            0.00
 		300620	0230	MRE003	RETENEDOR 25*35*8	UN	       14	       0	       0	          211.78	             0.00	            0.00
@@ -168,6 +172,7 @@
 		300657	0230	MRE003	RETENEDOR 323238	UN	        2	       0	       0	           16.00	             0.00	            0.00
 		300665	0230	MRE003	RETENEDOR 35*54*8	UN	        3	       0	       0	           40.15	             0.00	            0.00
 		300666	0230	MRE003	RETENEDOR 35X47X7	UN	        6	       0	       0	          155.62	             0.00	            0.00
+		300668	0280	MRE003	RETENEDOR 35*52*7	UN	        5	       0	       0	          164.55	             0.00	            0.00
 		300670	0230	MRE003	RETENEDOR 35*72*10 L1 MRE054	UN	        2	       0	       0	           80.22	             0.00	            0.00
 		300676	0230	MRE003	RETENEDOR 40*85*11	UN	        6	       0	       0	          322.00	             0.00	            0.00
 		300677	0230	MRE003	RETENEDOR 40*90*8	UN	        5	       0	       0	          598.20	             0.00	            0.00
@@ -201,6 +206,7 @@
 		300834	0230	MRE004	CORREA A37	UN	        3	       0	       0	           57.48	             0.00	            0.00
 		300835	0230	MRE004	CORREA A40	UN	        4	       0	       0	           81.50	             0.00	            0.00
 		300836	0230	MRE004	CORREA A42	UN	        3	       0	       0	           53.57	             0.00	            0.00
+		300837	0280	MRE004	CORREA A43	UN	        5	       0	       0	          116.10	             0.00	            0.00
 		300838	0230	MRE004	CORREA A46	UN	        3	       0	       0	           78.55	             0.00	            0.00
 		300843	0230	MRE004	CORREA A53	UN	        6	       0	       0	          214.80	             0.00	            0.00
 		300848	0230	MRE004	CORREA A61	UN	        2	       0	       0	          106.08	             0.00	            0.00
@@ -267,7 +273,8 @@
 		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        4	       0	       0	          448.04	             0.00	            0.00
 		301166	0230	MRE005	UNIDAD MANTENIMIENTO FRC-1/2"-D-MIDI	UN	        2	       0	       0	        4,469.92	             0.00	            0.00
 		301183	0230	MRE006	CADENA DOBLE No. 60 P/ESLABON	TF	       20	       0	       0	        1,574.72	             0.00	            0.00
-		301186	0230	MRE006	CADENA No. 60 P/ESLABON	TF	       10	       0	       0	          465.13	             0.00	            0.00
+		301186	0230	MRE006	CADENA No. 60 P/ESLABON	TF	       10	       0	       0	          483.67	             0.00	            0.00
+		301186	0280	MRE006	CADENA No. 60 P/ESLABON	TF	       10	       0	       0	          483.67	             0.00	            0.00
 		301190	0230	MRE006	CADENA No.40 P/ESLABON	TF	       20	       0	       0	          442.99	             0.00	            0.00
 		301192	0230	MRE006	CADENA No.60 P/ESLABON INOXIDABLE	TF	       20	       0	       0	        2,587.20	             0.00	            0.00
 		301193	0230	MRE006	CADENA No.80 DOBLE P/ESLABON	TF	       20	       0	       0	        2,693.14	             0.00	            0.00
@@ -3485,4 +3492,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,525,035.50	             0.00	       14,754.28
+	*									   17,527,426.55	             0.00	       14,754.28
