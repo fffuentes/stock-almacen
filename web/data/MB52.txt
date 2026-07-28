@@ -370,7 +370,7 @@
 		301827	0230	MRE011	CHORRO 1/2" CON ROSCA	UN	       12	       0	       0	          821.43	             0.00	            0.00
 		301832	0230	MRE011	CINTA 2" SEÑALIZACION AMARILLA	UN	        8	       0	       0	          700.65	             0.00	            0.00
 		301833	0230	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        7	       0	       0	          859.36	             0.00	            0.00
-		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       34	       0	       0	        1,562.70	             0.00	            0.00
+		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       33	       0	       0	        1,516.74	             0.00	            0.00
 		301835	0230	MRE011	CINTA DE ALUMINIO 2"" AUTOADHESIVA	UN	        5	       0	       0	          625.00	             0.00	            0.00
 		301837	0230	MRE011	CINTA PLASTICA DE "PELIGRO" AMARILLA	UN	        4	       0	       0	          339.31	             0.00	            0.00
 		301845	0230	MRE011	CODO 3" 90° H.N. ROSCABLE	UN	        1	       0	       0	          162.20	             0.00	            0.00
@@ -970,8 +970,8 @@
 		316385	0230	MRE014	GRASA OMEGA 57 P/COJ. U21854	UN	        4	       0	       0	        2,750.00	             0.00	            0.00
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        5	       0	       0	       11,396.62	             0.00	            0.00
 		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        8	       0	       0	           94.00	             0.00	            0.00
-		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        5	       0	       0	          229.25	             0.00	            0.00
-		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	        8	       0	       0	          278.63	             0.00	            0.00
+		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        3	       0	       0	          137.55	             0.00	            0.00
+		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	        6	       0	       0	          208.97	             0.00	            0.00
 		316414	0230	MRE005	REDUCIRDOR QS 6-4 FRESTO	UN	       12	       0	       0	          442.28	             0.00	            0.00
 		316574	0230	MRE013	TUERCA HEX.SEGURIDAD 5/8"" NC INOX.	UN	       49	       0	       0	        1,181.39	             0.00	            0.00
 		316591	0230	MRE011	BARRA ACERO INOX 10MM	TF	    2.500	       0	       0	           33.50	             0.00	            0.00
@@ -1135,7 +1135,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       11	       0	       0	        5,057.85	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      508	       0	       0	        3,175.00	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      506	       0	       0	        3,162.50	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        3	       0	       0	           96.41	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -3492,4 +3492,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,527,426.55	             0.00	       14,754.28
+	*									   17,527,206.73	             0.00	       14,754.28
