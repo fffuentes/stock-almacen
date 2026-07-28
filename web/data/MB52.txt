@@ -122,7 +122,7 @@
 		300440	0230	MRE002	RODAMIENTO 6310-2Z FAG	UN	        7	       0	       0	        1,615.89	             0.00	            0.00
 		300441	0230	MRE002	RODAMIENTO 6311 2RS C3	UN	        6	       0	       0	        2,411.03	             0.00	            0.00
 		300443	0230	MRE002	RODAMIENTO 6312 2RS C3	UN	        5	       0	       0	        2,723.86	             0.00	            0.00
-		300445	0230	MRE002	RODAMIENTO 6313 2RS	UN	        4	       0	       0	        2,214.32	             0.00	            0.00
+		300445	0230	MRE002	RODAMIENTO 6313 2RS	UN	        2	       0	       0	        1,107.16	             0.00	            0.00
 		300446	0230	MRE002	RODAMIENTO 6315 SELLO METAL	UN	        2	       0	       0	        1,500.01	             0.00	            0.00
 		300456	0230	MRE002	RODAMIENTO 6904 2RS 61904 RODILLO LANF	UN	       21	       0	       0	        1,751.24	             0.00	            0.00
 		300460	0230	MRE002	RODAMIENTO 7204 B E P SKF	UN	        2	       0	       0	          272.24	             0.00	            0.00
@@ -192,7 +192,7 @@
 		300748	0230	MRE003	RETENEDOR 60*75*9	UN	        5	       0	       0	          167.65	             0.00	            0.00
 		300750	0230	MRE003	RETENEDOR 60*85*8	UN	        3	       0	       0	          135.33	             0.00	            0.00
 		300755	0230	MRE003	RETENEDOR 65*100*10 = 226550	UN	       12	       0	       0	          623.28	             0.00	            0.00
-		300757	0230	MRE003	RETENEDOR 65*90*10 AE=3409	UN	        3	       0	       0	          169.36	             0.00	            0.00
+		300757	0230	MRE003	RETENEDOR 65*90*10 AE=3409	UN	        2	       0	       0	          112.91	             0.00	            0.00
 		300760	0230	MRE003	RETENEDOR 70*100*10	UN	        3	       0	       0	          203.56	             0.00	            0.00
 		300762	0230	MRE003	RETENEDOR 70*110*10 DOBLE LABIO	UN	        1	       0	       0	           49.33	             0.00	            0.00
 		300764	0230	MRE003	RETENEDOR 70*90*10 = 227040	UN	        6	       0	       0	          327.33	             0.00	            0.00
@@ -908,7 +908,6 @@
 		308142	0230	MRE011	BROCA 3/16" CONCRETO	UN	        2	       0	       0	            8.89	             0.00	            0.00
 		308195	0230	MRE004	CORREA A44	UN	        3	       0	       0	           60.60	             0.00	            0.00
 		308230	0230	MRE011	BURIL DE PASTILLA 1/2" DERECHO	UN	       10	       0	       0	          624.98	             0.00	            0.00
-		308294	0230	MRE003	RETENEDOR 45*85*10	UN	        2	       0	       0	          125.28	             0.00	            0.00
 		308302	0230	MRE001	TUBO 2 1/2" INOX SANITARIO	UN	        3	       0	       0	        3,011.01	             0.00	            0.00
 		308337	0230	MRE011	ANGULAR 2" * 2" * 1/4	UN	        2	       0	       0	        4,025.66	             0.00	            0.00
 		308414	0230	MRE005	FILTRO REGULADOR LFR-1-D-MAXI	UN	        1	       0	       0	        1,569.64	             0.00	            0.00
@@ -2862,7 +2861,8 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3511548	0230	MRE011	GUIA ENCAUZAMIENTO POS 15D PMR0137PACK	UN	        1	       0	       0	        1,425.89	             0.00	            0.00
 		3511549	0230	MRE011	PLACA DE ENTRADA IZQ POS 19S PMR0138PACK	UN	        1	       0	       0	        2,193.75	             0.00	            0.00
 		3511550	0230	MRE011	BANDERIN INTERCAMBIO POS 14 PMR0135PACK	UN	        1	       0	       0	        6,579.46	             0.00	            0.00
-		3511725	0230	MRE012	FUSIBLE F5A 250V	UN	       20	       0	       0	          357.20	             0.00	            0.00
+		3511589	0280	MRE012	PLACA 3AUA0000128978 ABB-ZINT-592 +N8205	UN	        1	       0	       0	       11,289.88	             0.00	            0.00
+		3511725	0230	MRE012	FUSIBLE F5A 250V	UN	       20	       0	       0	          357.14	             0.00	            0.00
 		3511814	0230	MRE011	SELLO MECANICO VERTICAL 16MM	UN	        2	       0	       0	        2,410.72	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
@@ -3491,4 +3491,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,526,044.34	             0.00	       14,754.28
+	*									   17,536,045.27	             0.00	       14,754.28
