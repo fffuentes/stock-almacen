@@ -1539,7 +1539,7 @@
 		3352409	0230	MRE012	TUBO LED T8 18 W. WESTINGHOUSE	UN	       10	       0	       0	          259.00	             0.00	            0.00
 		3352457	0230	MRE011	CEPILLO RECTANG. C/CERDA DE NYLON 0.5 MM	UN	        4	       0	       0	        7,071.44	             0.00	            0.00
 		3352517	0230	MRE012	SEN0003 SEN MOVIMIENTO 800W PARED LUXITE	UN	        2	       0	       0	          188.39	             0.00	            0.00
-		3352519	0230	MRE012	MICRO RELE 110 VOLTIOS CON BASE	UN	       20	       0	       0	        4,989.08	             0.00	            0.00
+		3352519	0230	MRE012	MICRO RELE 110 VOLTIOS CON BASE	UN	       19	       0	       0	        4,739.63	             0.00	            0.00
 		3352571	0230	MRE005	MANOMETRO DIAL 4" 0-100 PSI 1/2"NPTM	UN	        1	       0	       0	          259.19	             0.00	            0.00
 		3352952	0230	MRE001	EMPAQUE BUNA DN 85	UN	        2	       0	       0	          267.86	             0.00	            0.00
 		3352954	0230	MRE005	GRASA ESPECIAL FESTO 20 ML. LUB-KB2	UN	        3	       0	       0	          227.57	             0.00	            0.00
@@ -3488,4 +3488,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,548,991.52	             0.00	       14,754.28
+	*									   17,548,742.07	             0.00	       14,754.28
