@@ -980,7 +980,7 @@
 		318942	0230	MRE014	ACEITE T 68 P/COMPRESOR DE CALDERA	GLN	       20	       0	       0	        3,669.42	             0.00	            0.00
 		318980	0230	MRE001	TUBO CUADRADO DE 1.1/2"x 1.1/2"x 1.5 INO	TF	        5	       0	       0	        1,352.70	             0.00	            0.00
 		318981	0230	MRE001	ANGULAR 3/4" x 3/4" x 1/8" LARGO INOX.	UN	        5	       0	       0	        2,142.85	             0.00	            0.00
-		318984	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 2" INOX	UN	        8	       0	       0	          300.00	             0.00	            0.00
+		318984	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 2" INOX	UN	        7	       0	       0	          262.50	             0.00	            0.00
 		318985	0230	MRE001	ABRAZADERA DE FIJACION H. DE 2.1/2" INOX	UN	        2	       0	       0	           55.36	             0.00	            0.00
 		318986	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 1" INOX	UN	       10	       0	       0	          167.70	             0.00	            0.00
 		319319	0230	MRE011	ARMAFLEX EN LAMINAS 36 X 48 X 3/4"	UN	        3	       0	       0	          952.36	             0.00	            0.00
@@ -3488,4 +3488,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,548,352.10	             0.00	       14,754.28
+	*									   17,548,314.60	             0.00	       14,754.28
