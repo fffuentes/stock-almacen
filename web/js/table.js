@@ -222,6 +222,17 @@ function renderTable(headers, rows) {
             const td = document.createElement("td");
             const valor = (row[h] !== undefined ? row[h] : "");
             td.textContent = sanitizeDisplayValue(valor);
+
+            // ── Indicador de fotografía dentro de Material ──────
+            if (h === "Material" && window.MaterialImages && window.MaterialImages.has(row["Material"])) {
+                const icon = document.createElement("span");
+                icon.className = "material-image-icon";
+                icon.title = "Fotografía disponible";
+                icon.textContent = " 📷";
+                td.appendChild(icon);
+            }
+            // ───────────────────────────────────────────────────
+
             // Tooltip con el texto completo para columnas con ellipsis
             if (valor.length > 0) {
                 td.title = valor;

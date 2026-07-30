@@ -10,11 +10,29 @@ let _currentFilter = "";    // Texto actual del buscador
 
 /** ── Punto de entrada del Portal ─────────────────────────────────── */
 document.addEventListener("DOMContentLoaded", async () => {
+    // Cargar índice de fotografías (debe estar listo antes del render)
+    await _loadImageIndex();
+
     await _loadAndRender();
 
     // Iniciar polling cada 30 segundos
     setInterval(_checkForUpdates, 30000);
 });
+
+/** ── Cargar índice de materiales con fotografía ──────────────────── */
+async function _loadImageIndex() {
+    try {
+        const resp = await fetch("images/materials/material-index.json");
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const data = await resp.json();
+        window.MaterialImages = new Set(data.materials);
+        console.log("[app.js] Índice de imágenes cargado:", data.materials.length, "materiales");
+    } catch (err) {
+        // Si falla, inicializar vacío sin romper el Portal
+        window.MaterialImages = new Set();
+        console.warn("[app.js] No se pudo cargar material-index.json:", err.message);
+    }
+}
 
 /** ── Carga completa: download → parse → render ───────────────────── */
 async function _loadAndRender() {

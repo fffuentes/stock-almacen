@@ -101,17 +101,20 @@ class GitManager:
 
     # ------------------------------------------------------------------
     def has_changes(self) -> bool:
-        """Determina si existen cambios pendientes en el repositorio.
+        """Determina si existen cambios pendientes en el archivo publicado.
 
-        Ejecuta ``git status --porcelain`` y retorna ``True`` si la
-        salida no está vacía.
+        Ejecuta ``git status --porcelain -- <archivo>`` usando el archivo
+        configurado en ``self._PUBLISH_FILE`` y retorna ``True`` solo si
+        ese archivo tiene cambios.
 
         Returns
         -------
         bool
-            ``True`` si hay archivos modificados, añadidos o eliminados.
+            ``True`` si el archivo publicado está modificado, añadido o eliminado.
         """
-        output: str = self._run_git(["status", "--porcelain"])
+        output: str = self._run_git(
+            ["status", "--porcelain", "--", self._PUBLISH_FILE]
+        )
         return bool(output.strip())
 
     # ------------------------------------------------------------------

@@ -410,6 +410,12 @@ body {
     white-space: nowrap;
 }
 
+/* Columna Material: alineada a la izquierda (primera .col-fixed de cada fila) */
+tr .col-fixed:first-child,
+thead .col-fixed:first-child {
+    text-align: left;
+}
+
 /* Columna protagonista: ocupa TODO el espacio restante */
 .col-expand {
     /* Sin width — el navegador le asigna el espacio sobrante */
@@ -531,6 +537,23 @@ body {
     height: 100%;
     object-fit: contain;
     display: block;
+}
+
+/* ================================================================
+   MATERIAL IMAGE INDICATOR — Icono dentro de columna Material
+   ================================================================ */
+
+.material-image-icon {
+    font-size: 0.8rem;
+    cursor: default;
+    user-select: none;
+    opacity: 0.55;
+    transition: opacity var(--transition);
+    margin-left: 6px;
+}
+
+tr:hover .material-image-icon {
+    opacity: 0.85;
 }
 
 ::-webkit-scrollbar {

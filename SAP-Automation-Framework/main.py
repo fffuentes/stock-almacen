@@ -27,6 +27,7 @@ from core.resource import ResourceStatus
 from core.workflow import Workflow
 from core.execution_engine import ExecutionEngine
 from core.exceptions import ConnectionUnavailableError
+from core.image_index_generator import ImageIndexGenerator
 from config.config_wizard import ConfigWizard
 
 
@@ -255,9 +256,15 @@ def _run_workflow(framework: Framework, transaction: str) -> None:
     finally:
         session_mgr._release_com()
 
-    # --- GitManager: publicación automática si el workflow fue exitoso ---
+    # --- Generación de índice de material y publicación Git ---
     if workflow_ok:
-        print()
+        try:
+            generator = ImageIndexGenerator(framework.base_dir)
+            generator.generate()
+        except Exception as exc:
+            print(f"[ImageIndexGenerator] [ERROR] No se pudo generar el índice de materiales: {exc}")
+            return
+
         _run_git_publish(framework)
 
 
