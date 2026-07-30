@@ -127,7 +127,7 @@
 		300460	0230	MRE002	RODAMIENTO 7204 B E P SKF	UN	        2	       0	       0	          272.24	             0.00	            0.00
 		300463	0230	MRE002	RODAMIENTO 7304B	UN	        2	       0	       0	          533.92	             0.00	            0.00
 		300465	0230	MRE002	RODAMIENTO 7306 2RS BEP SKF	UN	        6	       0	       0	        1,149.85	             0.00	            0.00
-		300471	0230	MRE001	NIPLE 1/4" CORRIDO INOX (TODO ROSCA)	UN	        7	       0	       0	           75.04	             0.00	            0.00
+		300471	0230	MRE001	NIPLE 1/4" CORRIDO INOX (TODO ROSCA)	UN	        6	       0	       0	           64.32	             0.00	            0.00
 		300473	0230	MRE002	RODAMIENTO 88649	UN	        5	       0	       0	          797.98	             0.00	            0.00
 		300476	0230	MRE002	RODAMIENTO AK-LM 501349/Q	UN	        1	       0	       0	          114.92	             0.00	            0.00
 		300486	0230	MRE002	RODAMIENTO CON CUNA No. 30308	UN	        2	       0	       0	          256.96	             0.00	            0.00
@@ -670,7 +670,7 @@
 		303452	0230	MRE013	ROLDANA DE PRESION 8MM INOX	UN	       72	       0	       0	           50.40	             0.00	            0.00
 		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       84	       0	       0	          149.52	             0.00	            0.00
 		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	       96	       0	       0	           13.44	             0.00	            0.00
-		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	      116	       0	       0	          334.08	             0.00	            0.00
+		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	      112	       0	       0	          322.56	             0.00	            0.00
 		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       53	       0	       0	          121.34	             0.00	            0.00
 		303459	0230	MRE013	ROLDANA PLANA 16MM INOX.	UN	       71	       0	       0	          273.66	             0.00	            0.00
 		303460	0230	MRE013	ROLDANA PLANA 3/16" INOXIDABLE	UN	       55	       0	       0	           53.95	             0.00	            0.00
@@ -678,7 +678,7 @@
 		303462	0230	MRE013	ROLDANA PLANA 3/8" INOXIDABLE	UN	       54	       0	       0	           67.51	             0.00	            0.00
 		303463	0230	MRE013	ROLDANA PLANA 5/16" INOXIDABLE	UN	       59	       0	       0	           36.26	             0.00	            0.00
 		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       92	       0	       0	           66.24	             0.00	            0.00
-		303466	0230	MRE013	ROLDANA PLANA 8MM INOX.	UN	      117	       0	       0	          105.10	             0.00	            0.00
+		303466	0230	MRE013	ROLDANA PLANA 8MM INOX.	UN	      113	       0	       0	          101.51	             0.00	            0.00
 		303467	0230	MRE013	ROLDANA DE PRESION 3/4" INOX.	UN	       71	       0	       0	          203.98	             0.00	            0.00
 		303468	0230	MRE013	PIN EXPANSION 4 * 10 MM INOX	UN	       19	       0	       0	          221.79	             0.00	            0.00
 		303472	0230	MRE013	SEGURO EXTERIOR 64MM INOXIDABLE	UN	        1	       0	       0	          102.68	             0.00	            0.00
@@ -730,7 +730,7 @@
 		303554	0230	MRE013	TORNILLO ALLEN 6 * 20MM H.N. GRADO 12.9	UN	        6	       0	       0	            2.44	             0.00	            0.00
 		303556	0230	MRE013	TORNILLO C/PLANA ALLEN 6 * 30MM INOX	UN	       16	       0	       0	           42.88	             0.00	            0.00
 		303557	0230	MRE013	TORNILLO ALLEN 6 * 80MM INOX R/C	UN	       25	       0	       0	          830.50	             0.00	            0.00
-		303560	0230	MRE013	TORNILLO ALLEN 8 * 25MM INOX	UN	      105	       0	       0	          367.34	             0.00	            0.00
+		303560	0230	MRE013	TORNILLO ALLEN 8 * 25MM INOX	UN	      101	       0	       0	          353.35	             0.00	            0.00
 		303561	0230	MRE013	TORNILLO ALLEN 8 * 40MM INOX.	UN	       40	       0	       0	          218.40	             0.00	            0.00
 		303562	0230	MRE013	TORNILLO ALLEN 8 * 50MM INOX	UN	       21	       0	       0	          217.40	             0.00	            0.00
 		303563	0230	MRE013	TORNILLO ALLEN 8 * 90MM INOX R/C	UN	       27	       0	       0	        1,406.58	             0.00	            0.00
@@ -778,7 +778,7 @@
 		303713	0230	MRE013	TORNILLO HEX. 7/16" * 3/4"	UN	       16	       0	       0	           65.99	             0.00	            0.00
 		303714	0230	MRE013	TORNILLO HEXAGONAL 10 *150MM INOX	UN	       28	       0	       0	        1,889.82	             0.00	            0.00
 		303716	0230	MRE013	TORNILLO HEXAGONAL 10 * 20MM INOX	UN	       19	       0	       0	          131.79	             0.00	            0.00
-		303717	0230	MRE013	TORNILLO HEXAGONAL 10 * 25MM INOX	UN	       37	       0	       0	          273.06	             0.00	            0.00
+		303717	0230	MRE013	TORNILLO HEXAGONAL 10 * 25MM INOX	UN	       33	       0	       0	          243.54	             0.00	            0.00
 		303719	0230	MRE013	TORNILLO HEXAGONAL 12 * 30MM INOX	UN	       28	       0	       0	          123.32	             0.00	            0.00
 		303723	0230	MRE013	TORNILLO HEXAGONAL 4 * 40MM INOX R/C	UN	      115	       0	       0	          217.63	             0.00	            0.00
 		303724	0230	MRE013	TORNILLO HEXAGONAL 5 * 40MM INOX R/C	UN	       21	       0	       0	           82.95	             0.00	            0.00
@@ -963,7 +963,7 @@
 		316383	0230	MRE011	LAMINA DE ACERO INOX DE 1/8" 4*8"	UN	        3	       0	       0	        7,098.21	             0.00	            0.00
 		316385	0230	MRE014	GRASA OMEGA 57 P/COJ. U21854	UN	        4	       0	       0	        2,750.00	             0.00	            0.00
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        5	       0	       0	       11,396.62	             0.00	            0.00
-		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        8	       0	       0	           94.00	             0.00	            0.00
+		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        7	       0	       0	           82.25	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        3	       0	       0	          137.55	             0.00	            0.00
 		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	        6	       0	       0	          208.97	             0.00	            0.00
 		316414	0230	MRE005	REDUCIRDOR QS 6-4 FRESTO	UN	       12	       0	       0	          442.28	             0.00	            0.00
@@ -1567,7 +1567,7 @@
 		3357303	0230	MRE011	LLAVE MAESTRA DE CANDDO MASTER LOCK 3D	UN	        1	       0	       0	           60.72	             0.00	            0.00
 		3357313	0230	MRE011	LLAVE P/LAVABO INDIVIDUAL C/ SENSOR	UN	        3	       0	       0	        2,578.34	             0.00	            0.00
 		3357406	0230	MRE011	TOPE PARA PUERTA AL PISO DE 4"	UN	        3	       0	       0	          141.14	             0.00	            0.00
-		3357440	0230	MOP101	RELANIT 100	GLN	       41	       0	       0	       14,772.44	             0.00	            0.00
+		3357440	0230	MOP101	RELANIT 100	GLN	       40	       0	       0	       14,412.14	             0.00	            0.00
 		3357466	0230	MRE014	CEPSA GRASA BLAMEDOL GB2 NSF	LB	       18	       0	       0	        1,086.86	             0.00	            0.00
 		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      220	       0	       0	        8,593.75	             0.00	            0.00
 		3357562	0230	MRE001	MIRILLA PARA TUBO CLAMP SS316 2 " INOXPA	UN	        2	       0	       0	        2,053.58	             0.00	            0.00
@@ -3482,4 +3482,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,568,641.83	             0.00	       14,754.28
+	*									   17,568,200.44	             0.00	       14,754.28
