@@ -464,7 +464,7 @@
 		302329	0230	MRE011	SELLO MECANICO 1 1/2" PAC SEAL	UN	        8	       0	       0	        1,250.28	             0.00	            0.00
 		302330	0230	MRE011	SELLO MECANICO 1-1/4IN	UN	        4	       0	       0	          464.29	             0.00	            0.00
 		302331	0230	MRE011	SELLO MECANICO 1 1/8"	UN	        7	       0	       0	          624.99	             0.00	            0.00
-		302332	0230	MRE011	SELLO MECANICO 1 3/4" RESORTE LARGO.	UN	        3	       0	       0	          669.64	             0.00	            0.00
+		302332	0230	MRE011	SELLO MECANICO 1 3/4" RESORTE LARGO.	UN	        2	       0	       0	          446.43	             0.00	            0.00
 		302333	0230	MRE011	SELLO MECANICO 1 5/8"	UN	        2	       0	       0	          642.85	             0.00	            0.00
 		302336	0230	MRE011	SELLO MECANICO 3/4"	UN	        3	       0	       0	          226.19	             0.00	            0.00
 		302337	0230	MRE011	SELLO MECANICO 30MM	UN	        2	       0	       0	          401.79	             0.00	            0.00
@@ -3474,4 +3474,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,559,992.17	             0.00	       14,754.28
+	*									   17,559,768.96	             0.00	       14,754.28
