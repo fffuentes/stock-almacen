@@ -1,9 +1,9 @@
-04.08.2026                                   Salida dinámica de lista                                                                                        1
+05.08.2026                                   Salida dinámica de lista                                                                                        1
 
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    8,713	       0	       0	      157,524.29	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    6,883	       0	       0	      124,439.31	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	       17	       0	       0	          567.34	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        5	       0	       0	          207.74	             0.00	            0.00
@@ -326,7 +326,7 @@
 		301714	0230	MRE011	ADAPTADOR MACHO PVC 1/2"	UN	        6	       0	       0	           16.30	             0.00	            0.00
 		301715	0230	MRE011	ADAPTADOR MACHO 2" PVC	UN	       14	       0	       0	          106.40	             0.00	            0.00
 		301716	0230	MRE011	ADAPTADOR MACHO PVC 3/4"	UN	       12	       0	       0	           36.52	             0.00	            0.00
-		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	       19	       0	       0	          933.05	             0.00	            0.00
+		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	       18	       0	       0	          883.94	             0.00	            0.00
 		301720	0230	MRE011	FILTRO HIDRAULICO ROSCA NPT 1-1/4"	GLN	        1	       0	       0	        1,704.46	             0.00	            0.00
 		301729	0230	MRE011	AVELLANADOR 1/2" A 45°	UN	        4	       0	       0	        1,178.56	             0.00	            0.00
 		301730	0230	MRE011	AVELLANADOR 1/4" A 1" 90° RECTO	UN	        3	       0	       0	        1,223.74	             0.00	            0.00
@@ -1123,7 +1123,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       11	       0	       0	        5,057.85	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      460	       0	       0	        2,875.00	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      440	       0	       0	        2,750.00	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        3	       0	       0	           96.41	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -1561,7 +1561,7 @@
 		3357303	0230	MRE011	LLAVE MAESTRA DE CANDDO MASTER LOCK 3D	UN	        1	       0	       0	           60.72	             0.00	            0.00
 		3357313	0230	MRE011	LLAVE P/LAVABO INDIVIDUAL C/ SENSOR	UN	        3	       0	       0	        2,578.34	             0.00	            0.00
 		3357406	0230	MRE011	TOPE PARA PUERTA AL PISO DE 4"	UN	        3	       0	       0	          141.14	             0.00	            0.00
-		3357440	0230	MOP101	RELANIT 100	GLN	       37	       0	       0	       13,331.23	             0.00	            0.00
+		3357440	0230	MOP101	RELANIT 100	GLN	       36	       0	       0	       12,970.93	             0.00	            0.00
 		3357466	0230	MRE014	CEPSA GRASA BLAMEDOL GB2 NSF	LB	       18	       0	       0	        1,086.86	             0.00	            0.00
 		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      220	       0	       0	        8,593.75	             0.00	            0.00
 		3357562	0230	MRE001	MIRILLA PARA TUBO CLAMP SS316 2 " INOXPA	UN	        2	       0	       0	        2,053.58	             0.00	            0.00
@@ -1647,6 +1647,7 @@
 		3381889	0230	MRE011	CEDAZO MOSQUITERO GALVANIZADO	YD	       20	       0	       0	          437.60	             0.00	            0.00
 		3381924	0230	MRE156	SELLO MECANICO GS TYPE TRICLOVER 1 1/8"	UN	        1	       0	       0	          760.98	             0.00	            0.00
 		3381948	0230	MRE011	TUBO CUADRADO  1/2 HIERRO NEGRO CHAPA 16	UN	        6	       0	       0	          243.78	             0.00	            0.00
+		3382005	0280	MRE012	MANIJA  NZM1-XTVD EATON	UN	        2	       0	       0	        2,991.08	             0.00	            0.00
 		3382098	0230	MRE012	SOPORTE P/INSTA S2 P/RU21,3RB 30/31 3RR2	UN	        1	       0	       0	           66.97	             0.00	            0.00
 		3382398	0230	MRE011	SELLADOR LOCTITE 567	UN	        3	       0	       0	          729.91	             0.00	            0.00
 		3382522	0230	MRE012	6ES7 132-4BD020AA0 SIMATIC 5ET DC 24V/0.	UN	        1	       0	       0	          741.07	             0.00	            0.00
@@ -2799,7 +2800,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3504971	0230	MRE003	RETENEDOR 100*89*09	UN	        2	       0	       0	        1,242.85	             0.00	            0.00
 		350508	0230	MRE475	JUNTA C130GIUNT0017	UN	        1	       0	       0	        3,230.55	             0.00	            0.00
 		3505082	0230	MRE012	CONTACTOR SCHNEIDER ELECTRIC LC1K09	UN	        2	       0	       0	        2,254.48	             0.00	            0.00
-		3505083	0230	MRE014	ACEITE LUNARIA NH 68	GLN	       35	       0	       0	        6,250.00	             0.00	            0.00
+		3505083	0230	MRE014	ACEITE LUNARIA NH 68	GLN	       30	       0	       0	        5,357.14	             0.00	            0.00
 		3505085	0230	MRE012	FUSIBLE TIPO K 200AMP	UN	        5	       0	       0	        1,627.05	             0.00	            0.00
 		3505198	0230	MRE012	RECTIFICADOR DE FRENO 8253846 SEW	UN	        2	       0	       0	          885.00	             0.00	            0.00
 		3505297	0230	MRE005	RACOR ACERO INOX NPQR-L-Q6	UN	       10	       0	       0	        3,708.48	             0.00	            0.00
@@ -2841,6 +2842,8 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3510947	0230	MRE012	SENSOR OPTICO PRK3C.A3/4T-M8	UN	        3	       0	       0	        8,325.18	             0.00	            0.00
 		3511112	0230	MRE012	VARIADOR ABB ACS310-03E-25A4-4 INVERTER	UN	        1	       0	       0	        8,382.59	             0.00	            0.00
 		3511165	0230	MRE004	CORREA TRAPEZOIDAL SPA 3082	UN	        6	       0	       0	        2,544.72	             0.00	            0.00
+		3511515	0280	MRE012	EXTENSION DE EJE EATON NZM1/2-XV6 260191	UN	        2	       0	       0	          937.50	             0.00	            0.00
+		3511516	0280	MRE012	INTERRUPTOR DE SEGURIDAD TP-2131A024M	UN	        2	       0	       0	        2,946.44	             0.00	            0.00
 		351154	0230	MRE507	MOD POTENCIA PM-E 5026786	UN	        1	       0	       0	          160.56	             0.00	            0.00
 		3511545	0230	MRE005	CILINDRO NEUMATICO PMR0140PACK	UN	        1	       0	       0	        3,772.32	             0.00	            0.00
 		3511546	0230	MRE011	PLACA DE ENTRADA DER POS 19D PMR0139PACK	UN	        1	       0	       0	        2,193.75	             0.00	            0.00
@@ -3403,7 +3406,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		391910	0230	MRE569	ARBOL 4031563901	UN	        1	       0	       0	        3,428.70	             0.00	            0.00
 		392047	0230	MRE014	KRONES CELEROL FL7201 0-903-13-941-0	L	       10	       0	       0	        4,247.95	             0.00	            0.00
 		392049	0230	MRE014	KRONES CELEROL FL7203 0-903-15-066-9	L	        5	       0	       0	        2,322.19	             0.00	            0.00
-		392051	0230	MRE014	KRONES CELEROL L7003 0-904-17-345-2	UN	        8	       0	       0	        7,409.56	             0.00	            0.00
+		392051	0230	MRE014	KRONES CELEROL L7003 0-904-17-345-2	UN	        6	       0	       0	        5,557.17	             0.00	            0.00
 		392144	0230	MRE569	LENGUETA A8X7X28 UNI6604-69 5042261	UN	        1	       0	       0	            3.12	             0.00	            0.00
 		392145	0230	MRE569	PIN CIL. DE ROSCA INTERNA 5011075	UN	        2	       0	       0	           12.47	             0.00	            0.00
 		392174	0231	MRE014	KRONES CELEROL L7008 0-903-95-291-5	UN	       18	       0	       0	       22,186.71	             0.00	            0.00
@@ -3476,4 +3479,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,543,575.56	             0.00	       14,754.28
+	*									   17,514,085.94	             0.00	       14,754.28
