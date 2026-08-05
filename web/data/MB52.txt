@@ -570,7 +570,7 @@
 		302805	0230	MRE012	COPLA ELECTRICA 1/2"	UN	        2	       0	       0	           72.20	             0.00	            0.00
 		302806	0230	MRE012	COPLA ELECTRICA 2"	UN	       30	       0	       0	           17.25	             0.00	            0.00
 		302825	0230	MRE012	ESPIGA TRIFASICA 250V 50A AGUILA	UN	        3	       0	       0	           84.89	             0.00	            0.00
-		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       17	       0	       0	          121.54	             0.00	            0.00
+		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       16	       0	       0	          114.39	             0.00	            0.00
 		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        2	       0	       0	           85.89	             0.00	            0.00
 		302844	0230	MRE012	FLIPON 2*50 AMP. SIEMENS	UN	        5	       0	       0	          548.76	             0.00	            0.00
 		302850	0230	MRE012	FLIPON BIPOLAR 20 AMP.	UN	        3	       0	       0	          329.92	             0.00	            0.00
@@ -612,7 +612,7 @@
 		303219	0230	MRE012	TAPADERA PARA TOMACORRIENTE	UN	       11	       0	       0	           95.23	             0.00	            0.00
 		303273	0230	MRE012	TERMINAL MACHO AISL.C-63-1203 16-14AWG	UN	       81	       0	       0	          115.83	             0.00	            0.00
 		303310	0230	MRE012	TIMBRE DE CAMPANA 110V.	UN	        2	       0	       0	          263.53	             0.00	            0.00
-		303317	0230	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	        8	       0	       0	           77.21	             0.00	            0.00
+		303317	0230	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	        7	       0	       0	           67.56	             0.00	            0.00
 		303331	0230	MRE012	TUBO DUCTO 1/2"	TF	       40	       0	       0	          258.10	             0.00	            0.00
 		303366	0230	MRE012	VENTILADOR 120V.TIPO PANEL	UN	        2	       0	       0	          274.00	             0.00	            0.00
 		303370	0230	MRE012	VENTILADOR TIPO PANEL 220V. 60HZ 40W	UN	        2	       0	       0	        5,147.80	             0.00	            0.00
@@ -1614,6 +1614,7 @@
 		3360180	0230	MRE011	POSTE MOVIL D/PINZA LLEN. L3 A.INOX 304	UN	        7	       0	       0	        2,031.26	             0.00	            0.00
 		3360181	0230	MRE011	POSTE FIJO D/PINZA LLEN. L3 A.INOX 304	UN	        6	       0	       0	          937.50	             0.00	            0.00
 		3360208	0230	MRE012	SENSOR REFLECTIVO O5G500 O5PGFAKG/US	UN	        2	       0	       0	        6,937.00	             0.00	            0.00
+		3360279	0280	MRE012	LAMPRA T/CAMPANA LED 200WTS LUZ BLANCA	UN	        6	       0	       0	        6,231.00	             0.00	            0.00
 		3360327	0230	MRE012	SENSOR INDUCTIVO IME30-NPSZ0S	UN	        1	       0	       0	          896.71	             0.00	            0.00
 		3360417	0230	MRE109	SELLO MECANICO COMP/VILTER 448 2 1/2"	UN	        1	       0	       0	        8,125.00	             0.00	            0.00
 		3360460	0230	MRE011	VALVULA FLOTE 1/2" BRONCE COMPLETO	UN	        2	       0	       0	          683.93	             0.00	            0.00
@@ -2861,6 +2862,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		351937	0230	MRE508	RODAMIENTO INA LR 204 2RSR 5035589	UN	        8	       0	       0	        1,070.33	             0.00	            0.00
 		352837	0230	MRE553	MOLLA 4005306700	UN	       24	       0	       0	        2,281.83	             0.00	            0.00
 		353352	0231	MRE546	ANILLO "O" 8*2 EPDM 0-162-20-012-4	UN	       20	       0	       0	           44.67	             0.00	            0.00
+		353583	0280	MRE012	POWER SUPPLY 6EP1334-3BA10	UN	        1	       0	       0	        3,175.00	             0.00	            0.00
 		353759	0230	MRE013	TORNILLO ALLEN 6 * 15 MM HN	UN	       41	       0	       0	           43.02	             0.00	            0.00
 		353806	0230	MRE105	DIGATE KZ100054	UN	        1	       0	       0	        7,806.75	             0.00	            0.00
 		353807	0230	MRE740	RELE ESTADO SOLIDO EG100663 (EE300022)	UN	        3	       0	       0	       11,442.67	             0.00	            0.00
@@ -3479,4 +3481,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,514,085.94	             0.00	       14,754.28
+	*									   17,523,475.14	             0.00	       14,754.28
