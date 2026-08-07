@@ -408,7 +408,7 @@
 		301943	0230	MRE011	ELECTRODO 3/32" 6011	LB	       10	       0	       0	          160.79	             0.00	            0.00
 		301944	0230	MRE011	ELECTRODO PUNTO CAFÉ 3/32" 6013	LB	       12	       0	       0	          161.01	             0.00	            0.00
 		301945	0230	MRE011	ELECTRODO 3/32" 7018	LB	       12	       0	       0	          202.07	             0.00	            0.00
-		301946	0230	MRE011	ELECTRODO 3/32" ACERO INOX UTP65	LB	        8	       0	       0	          571.44	             0.00	            0.00
+		301946	0230	MRE011	ELECTRODO 3/32" ACERO INOX UTP65	LB	        7	       0	       0	          500.01	             0.00	            0.00
 		301961	0230	MRE011	ESPAGUETI 1/4"	TF	        9	       0	       0	          160.73	             0.00	            0.00
 		301962	0230	MRE011	ESPAGUETI 4MM	TF	       20	       0	       0	           54.00	             0.00	            0.00
 		301967	0230	MRE011	ESTOPA 1/2" TEFLONADA	TF	       15	       0	       0	          468.75	             0.00	            0.00
@@ -592,9 +592,11 @@
 		302907	0230	MRE012	FUSIBLE 2AMP 5*20MM 250V	UN	        5	       0	       0	           11.20	             0.00	            0.00
 		302933	0230	MRE012	FUSIBLE TRI-ONIC 2A 250V CLASE RK5 TR2R	UN	       11	       0	       0	           88.00	             0.00	            0.00
 		302941	0230	MRE012	FUSIBLE VIDRIO 6AMP 6.3X32MM	UN	        7	       0	       0	           35.69	             0.00	            0.00
+		302944	0280	MRE012	GUARDAMOTOR 3RV DE 20-26 3RV1021-4DA10	UN	        2	       0	       0	        1,518.00	             0.00	            0.00
 		302946	0230	MRE012	GUARDAMOTOR 3RV1031-4FA1028- 40 AMP.	UN	        2	       0	       0	        2,375.01	             0.00	            0.00
 		302949	0230	MRE012	GUARDAMOTOR 3VU 22-32 AMP 3RV1031-4EA10	UN	        1	       0	       0	        1,268.26	             0.00	            0.00
 		302952	0230	MRE012	GUARDAMOTOR 3VU13 DE 2.4-4A 3RV1021-1EA1	UN	        1	       0	       0	          680.47	             0.00	            0.00
+		302953	0280	MRE012	GUARDAMOTOR 3VU13 DE 4-6A 3RV1021-1GA10	UN	        2	       0	       0	        1,160.72	             0.00	            0.00
 		302956	0230	MRE012	GUARDAMOTOR 3VU1600 36-52A 3RV1031-4AA10	UN	        2	       0	       0	        2,900.68	             0.00	            0.00
 		303014	0230	MRE012	LAMPARA DE EMERGENCIA 2 FOCOS	UN	       10	       0	       0	        1,350.99	             0.00	            0.00
 		303030	0230	MRE012	LUZ PILOTO AMARILLA TIPO LED 110VAC	UN	        3	       0	       0	          535.71	             0.00	            0.00
@@ -843,7 +845,7 @@
 		304001	0230	MRE001	VALVULA MARIPOSA 2" ACERO INOX CLAMP	UN	        4	       0	       0	        2,178.54	             0.00	            0.00
 		304011	0230	MRE002	RODAMIENTO 3305 2RS IGUAL 5305W2	UN	        4	       0	       0	        1,489.05	             0.00	            0.00
 		304012	0230	MRE002	COJINETE KR 35 PPX	UN	        4	       0	       0	        1,299.48	             0.00	            0.00
-		304021	0230	MRE007	PERFIL PLANO 1/8 * 2" PLASTIDUR	M	       25	       0	       0	        4,866.25	             0.00	            0.00
+		304021	0230	MRE007	PERFIL PLANO 1/8 * 2" PLASTIDUR	M	       15	       0	       0	        2,919.75	             0.00	            0.00
 		304071	0230	MRE012	CONDULET LB 11/2"	UN	        1	       0	       0	           66.87	             0.00	            0.00
 		304072	0230	MRE012	VENTILADOR PLASTICO P/MOTOR.	UN	        2	       0	       0	        1,112.97	             0.00	            0.00
 		304190	0230	MRE011	TUBO 2" HIERRO GALVANIZADO	UN	        2	       0	       0	        1,517.86	             0.00	            0.00
@@ -1234,7 +1236,7 @@
 		3317493	0230	MRE012	PRENSA ESTOPA PG 20	UN	        8	       0	       0	          159.18	             0.00	            0.00
 		3317822	0230	MRE011	FILTRO DE ACEITE LFP 1652	UN	        2	       0	       0	          310.78	             0.00	            0.00
 		3317917	0230	MRE013	TORNILLO AVELLANADO 8*30MM INOX	UN	       20	       0	       0	          107.20	             0.00	            0.00
-		3317955	0230	MRE001	HEMBRA INOX . DE 1/4 * 1	UN	        3	       0	       0	        1,125.00	             0.00	            0.00
+		3317955	0230	MRE001	HEMBRA INOX . DE 1/4 * 1	UN	        2	       0	       0	          750.00	             0.00	            0.00
 		3318197	0230	MRE001	PLATINA INOX DE 1/8" X 3/4"	UN	        2	       0	       0	          193.75	             0.00	            0.00
 		3319354	0230	MRE013	TORNILLO C/PLANA ALLEN 5 * 40MM INOX	UN	       28	       0	       0	           73.64	             0.00	            0.00
 		3319355	0230	MRE013	TORNILLO C/PLANA ALLEN 6 * 40MM INOX	UN	       21	       0	       0	           65.09	             0.00	            0.00
@@ -3492,4 +3494,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,520,364.31	             0.00	       14,754.28
+	*									   17,520,650.10	             0.00	       14,754.28
