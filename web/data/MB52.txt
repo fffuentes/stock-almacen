@@ -486,7 +486,7 @@
 		302371	0230	MRE011	TAPON MACHO 1/2" PVC	UN	        6	       0	       0	           24.12	             0.00	            0.00
 		302373	0230	MRE011	TAPON MACHO 1/4" A. INOX NPT	UN	        3	       0	       0	           33.49	             0.00	            0.00
 		302376	0230	MRE011	TAPON MACHO HG 1 IN NPT	UN	        3	       0	       0	           21.45	             0.00	            0.00
-		302377	0230	MRE011	TAPON MACHO 1 1/2" H.G.	UN	       13	       0	       0	          297.63	             0.00	            0.00
+		302377	0230	MRE011	TAPON MACHO 1 1/2" H.G.	UN	       12	       0	       0	          274.74	             0.00	            0.00
 		302379	0230	MRE011	TAPON MACHO HG 2 IN NPT	UN	        4	       0	       0	          123.13	             0.00	            0.00
 		302382	0230	MRE011	TAPON MACHO 3/4" H.G.	UN	        5	       0	       0	           44.08	             0.00	            0.00
 		302394	0230	MRE011	TE 1 1/2" H.G.	UN	        3	       0	       0	          139.43	             0.00	            0.00
@@ -1499,6 +1499,7 @@
 		3344951	0230	MRE011	ACRILICO 3/16" 4 X 8	UN	        1	       0	       0	          736.59	             0.00	            0.00
 		3345457	0231	MRE014	CELEROL FL7201 0903139410/0902813197	L	       20	       0	       0	        8,240.03	             0.00	            0.00
 		3345458	0231	MRE014	CELEROL FL7203 5L 0-903-15-066-9	L	       10	       0	       0	        4,577.54	             0.00	            0.00
+		3345481	0280	MRE012	S7 MEMORY CARD, 512B 6ES79538LJ310AA0	UN	        2	       0	       0	        5,370.00	             0.00	            0.00
 		3345551	0231	MRE014	CELEROL L7003 500G 0-904-17-345-2	UN	       12	       0	       0	        7,801.42	             0.00	            0.00
 		3346264	0230	MRE012	PANEL LED 2X2 40W DL LUXLITE	UN	        5	       0	       0	        1,237.75	             0.00	            0.00
 		3346337	0230	MRE003	RETENEDOR 17 X 47 X 8	UN	        8	       0	       0	           66.61	             0.00	            0.00
@@ -1522,6 +1523,7 @@
 		3350127	0230	MRE011	BARRA CUADRADA COLD ROLED 1/4" X 1/4"	TF	        5	       0	       0	           62.68	             0.00	            0.00
 		3350128	0230	MRE011	BARRA CUADRADA COLD ROLED 3/8" X 3/8"	TF	        7	       0	       0	           71.19	             0.00	            0.00
 		3350129	0230	MRE002	RODAMIENTO 6205-2RSH/C3GJN	UN	        3	       0	       0	          150.46	             0.00	            0.00
+		3350254	0280	MRE012	VARIADOR FREC VLT 134U7747 1.5Kw 2HP	UN	        1	       0	       0	        9,093.24	             0.00	            0.00
 		3350259	0230	MRE485	BALIN INOX 3/16	UN	       75	       0	       0	          882.75	             0.00	            0.00
 		3350518	0230	MRE012	CABLE GPT 1X2.5MM2 ROJO 14 AWG	M	      200	       0	       0	          607.90	             0.00	            0.00
 		3350556	0230	MRE006	CADENA TRANSP ACER INOX REXNORD/10M31M	M	        3	       0	       0	        1,757.14	             0.00	            0.00
@@ -1555,6 +1557,7 @@
 		3353633	0230	MRE012	CABLE No. 14 THHN NEGRO	M	      200	       0	       0	          607.90	             0.00	            0.00
 		3354850	0230	MRE005	VALVULA DE ASIENTO INCLINADO DE 3/4"	UN	        4	       0	       0	        6,187.86	             0.00	            0.00
 		3355444	0230	MRE002	RODAMIENTO 6801 2RS	UN	        8	       0	       0	          584.33	             0.00	            0.00
+		3355594	0280	MRE012	BREAKER G.E. 3P 30A C/G THQL	UN	        1	       0	       0	           44.65	             0.00	            0.00
 		3356353	0230	MRE003	RETENEDOR 95*170*13	UN	        2	       0	       0	          375.00	             0.00	            0.00
 		3356355	0230	MRE001	VAL CLAMP SIN MANERAL SS304L 2 1/2" INOX	UN	        1	       0	       0	        1,022.33	             0.00	            0.00
 		3356456	0230	MRE007	GUIA TIPO U UHMW DE 1.5"* 3 MTS	UN	        1	       0	       0	          982.14	             0.00	            0.00
@@ -2864,6 +2867,9 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		3511549	0230	MRE011	PLACA DE ENTRADA IZQ POS 19S PMR0138PACK	UN	        1	       0	       0	        2,193.75	             0.00	            0.00
 		3511550	0230	MRE011	BANDERIN INTERCAMBIO POS 14 PMR0135PACK	UN	        1	       0	       0	        6,579.46	             0.00	            0.00
 		3511724	0230	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	        8,214.30	             0.00	            0.00
+		3511991	0280	MRE012	ESPIGA TWISTLOCK INDUSTRIAL	UN	        1	       0	       0	           92.25	             0.00	            0.00
+		3511992	0280	MRE012	TOMACORRIENTE_TWISTLOCK_INDUSTRIAL	UN	        1	       0	       0	          128.51	             0.00	            0.00
+		3512004	0280	MRE012	CABLE TSJ 2*8	M	       30	       0	       0	        1,109.40	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
 		351383	0230	MRE113	TUERCA HHA016/26/210823	UN	        7	       0	       0	           35.87	             0.00	            0.00
@@ -3494,4 +3500,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,520,650.10	             0.00	       14,754.28
+	*									   17,536,465.26	             0.00	       14,754.28
