@@ -963,7 +963,6 @@
 		316288	0230	MRE005	KIT EMPAQUE P/CILINDRO ADVULQ-50-60-P-AS	UN	        3	       0	       0	        1,712.48	             0.00	            0.00
 		316332	0230	MRE007	HEMBRA PLATINA ACERO INOX DE 2"x1/4"x 4M	UN	        3	       0	       0	        1,901.79	             0.00	            0.00
 		316383	0230	MRE011	LAMINA DE ACERO INOX DE 1/8" 4*8"	UN	        3	       0	       0	        7,098.21	             0.00	            0.00
-		316385	0230	MRE014	GRASA OMEGA 57 P/COJ. U21854	UN	        4	       0	       0	        2,750.00	             0.00	            0.00
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	       10	       0	       0	       24,316.97	             0.00	            0.00
 		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        7	       0	       0	           82.25	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        3	       0	       0	          137.55	             0.00	            0.00
@@ -1253,7 +1252,6 @@
 		3321239	0230	MRE006	SEGURO UNION P/CADENA No. 50 INOXIDABLE	UN	        6	       0	       0	          202.22	             0.00	            0.00
 		3321308	0230	MRE012	BOBINA MSN1W-110-50/60-OD	UN	        4	       0	       0	          688.79	             0.00	            0.00
 		3321326	0230	MRE007	PERFIL TIPO "T" 5 mm MESA	UN	        4	       0	       0	          892.88	             0.00	            0.00
-		3321400	0230	MRE012	INSPECTOR DE BOTELLAS LLENAS AV 100002	UN	        1	       0	       0	      490,031.51	             0.00	            0.00
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321690	0230	MRE011	LAMINA POLICARBONATO de 1/8x4*x8*	UN	        1	       0	       0	          803.55	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
@@ -1877,7 +1875,6 @@
 		3420630	0230	MRE535	AMORTIGUADOR TRASERO 1.75ML 8L10239965	UN	        1	       0	       0	        1,198.21	             0.00	            0.00
 		3420840	0231	MRE1063	CONVERTIDOR/TRANSFORMA 0-904-14-199-2	UN	        1	       0	       0	          959.04	             0.00	            0.00
 		3420846	0231	MRE1063	RODAMIENTO 6006 0-905-66-981-5	UN	        1	       0	       0	           26.80	             0.00	            0.00
-		3421353	0230	MRE535	8L50005171 GREASE	UN	        1	       0	       0	       12,026.79	             0.00	            0.00
 		3421453	0230	MRE569	CONECT SAC-3P-M-8MR/1.5-PUR 80029589	UN	       12	       0	       0	        1,692.81	             0.00	            0.00
 		3421785	0230	MRE606	80078268 MODULO BASE 6ES7 141	UN	        2	       0	       0	        8,967.01	             0.00	            0.00
 		3421786	0230	MRE606	80078270 MODULO BASE 6ES7 143	UN	        3	       0	       0	       15,189.01	             0.00	            0.00
@@ -3495,4 +3492,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   17,095,531.06	             0.00	       14,754.28
+	*									   16,590,722.76	             0.00	       14,754.28
