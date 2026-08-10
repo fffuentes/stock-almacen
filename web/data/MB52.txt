@@ -313,7 +313,7 @@
 		301422	0230	MRE007	SPROCKET NS881 25T REX 35mm.BIPARTIDO	UN	        6	       0	       0	        4,519.29	             0.00	            0.00
 		301433	0230	MRE008	ACTUADOR P/VALVULA 205993	UN	        3	       0	       0	          941.68	             0.00	            0.00
 		301680	0230	MRE011	ABRAZADERA 1 1/2" CASTIGADERA INOXIDABLE	UN	        6	       0	       0	          120.54	             0.00	            0.00
-		301681	0230	MRE011	ABRAZADERA 1 1/2" HANGER PENDULO	UN	       23	       0	       0	           74.80	             0.00	            0.00
+		301681	0230	MRE011	ABRAZADERA 1 1/2" HANGER PENDULO	UN	       19	       0	       0	           61.79	             0.00	            0.00
 		301682	0230	MRE011	ABRAZADERA 1 1/2" UNISTRUD	UN	        4	       0	       0	           17.12	             0.00	            0.00
 		301683	0230	MRE011	ABRAZADERA HANGER HG 1 1/4 IN CLAMP	UN	       10	       0	       0	           30.40	             0.00	            0.00
 		301684	0230	MRE011	ABRAZADERA 1 1/4" UNISTRUT	UN	       15	       0	       0	           66.68	             0.00	            0.00
@@ -461,12 +461,12 @@
 		302259	0230	MRE011	REDUCIDOR CAMPANA 1" A 3/4" H.G.	UN	        4	       0	       0	           53.56	             0.00	            0.00
 		302266	0230	MRE011	REDUCIDOR CAMPANA 2" A 1" H.G.	UN	        4	       0	       0	          145.84	             0.00	            0.00
 		302272	0230	MRE011	UNION REDUCTOR CAMPANA HG 1/2IN X 3/4IN	UN	        2	       0	       0	           20.95	             0.00	            0.00
-		302281	0230	MRE011	REMACHE 1/8" TIP TOP	UN	      438	       0	       0	          157.55	             0.00	            0.00
+		302281	0230	MRE011	REMACHE 1/8" TIP TOP	UN	      426	       0	       0	          153.23	             0.00	            0.00
 		302287	0230	MRE011	RUDUCIDOR 1" A ½" PVC	UN	        5	       0	       0	          196.47	             0.00	            0.00
 		302300	0230	MRE011	SEGURO EXTERIOR 33mm.	UN	        2	       0	       0	           34.20	             0.00	            0.00
 		302319	0230	MRE011	SEGURO INTERNO 45mm HIERRO NEGRO	UN	       10	       0	       0	          518.51	             0.00	            0.00
 		302320	0230	MRE011	SEGURO INTERNO 55 MM INOXIDABLE	UN	        2	       0	       0	          593.57	             0.00	            0.00
-		302323	0230	MRE011	SELLADOR ADHESIVO 243 LOCTITE 242	UN	        2	       0	       0	          583.93	             0.00	            0.00
+		302323	0230	MRE011	SELLADOR ADHESIVO 243 LOCTITE 242	UN	        1	       0	       0	          291.96	             0.00	            0.00
 		302329	0230	MRE011	SELLO MECANICO 1 1/2" PAC SEAL	UN	        8	       0	       0	        1,250.28	             0.00	            0.00
 		302330	0230	MRE011	SELLO MECANICO 1-1/4IN	UN	        4	       0	       0	          464.29	             0.00	            0.00
 		302331	0230	MRE011	SELLO MECANICO 1 1/8"	UN	        7	       0	       0	          624.99	             0.00	            0.00
@@ -496,7 +496,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       16	       0	       0	           35.68	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	        8	       0	       0	           17.84	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        1	       0	       0	          307.87	             0.00	            0.00
 		302417	0280	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        3	       0	       0	          923.61	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
@@ -682,7 +682,7 @@
 		303461	0230	MRE013	ROLDANA PLANA 3/4" INOX	UN	       20	       0	       0	           53.00	             0.00	            0.00
 		303462	0230	MRE013	ROLDANA PLANA 3/8" INOXIDABLE	UN	       54	       0	       0	           67.51	             0.00	            0.00
 		303463	0230	MRE013	ROLDANA PLANA 5/16" INOXIDABLE	UN	       59	       0	       0	           36.26	             0.00	            0.00
-		303464	0230	MRE013	ROLDANA PLANA 5/8" INOXIDABLE	UN	       80	       0	       0	           64.80	             0.00	            0.00
+		303464	0230	MRE013	ROLDANA PLANA 5/8" INOXIDABLE	UN	       68	       0	       0	           55.08	             0.00	            0.00
 		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       86	       0	       0	           61.92	             0.00	            0.00
 		303466	0230	MRE013	ROLDANA PLANA 8MM INOX.	UN	      113	       0	       0	          101.51	             0.00	            0.00
 		303467	0230	MRE013	ROLDANA DE PRESION 3/4" INOX.	UN	       71	       0	       0	          203.98	             0.00	            0.00
@@ -778,7 +778,7 @@
 		303693	0230	MRE013	TORNILLO HEX. 5/16" * 1 1/2" INOX	UN	       19	       0	       0	           83.17	             0.00	            0.00
 		303695	0230	MRE013	TORNILLO HEX. 5/8" * 1 1/2" INOXIDABLE	UN	       30	       0	       0	          294.84	             0.00	            0.00
 		303698	0230	MRE013	TORNILLO HEX. 5/8" * 2 1/2" INOX	UN	       21	       0	       0	          153.72	             0.00	            0.00
-		303702	0230	MRE013	TORNILLO HEX. 5/8" * 4" INOX.	UN	       25	       0	       0	          636.25	             0.00	            0.00
+		303702	0230	MRE013	TORNILLO HEX. 5/8" * 4" INOX.	UN	       13	       0	       0	          330.85	             0.00	            0.00
 		303703	0230	MRE013	TORNILLO HEX. 5/8" * 5" INOXIDABLE	UN	       19	       0	       0	        1,205.55	             0.00	            0.00
 		303713	0230	MRE013	TORNILLO HEX. 7/16" * 3/4"	UN	       16	       0	       0	           65.99	             0.00	            0.00
 		303714	0230	MRE013	TORNILLO HEXAGONAL 10 *150MM INOX	UN	       28	       0	       0	        1,889.82	             0.00	            0.00
@@ -815,7 +815,7 @@
 		303780	0230	MRE013	TUERCA HEXAGONAL 4MM INOX.	UN	       24	       0	       0	           21.36	             0.00	            0.00
 		303783	0230	MRE013	TUERCA HEXAGONAL 5/16" INOX.	UN	      116	       0	       0	           73.44	             0.00	            0.00
 		303784	0230	MRE013	TUERCA 5/16" ROSCA FINA	UN	       34	       0	       0	          307.60	             0.00	            0.00
-		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	       33	       0	       0	          114.51	             0.00	            0.00
+		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	       21	       0	       0	           72.87	             0.00	            0.00
 		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	        6	       0	       0	            5.34	             0.00	            0.00
 		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	       93	       0	       0	           83.60	             0.00	            0.00
 		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       18	       0	       0	           22.50	             0.00	            0.00
@@ -907,11 +907,11 @@
 		308195	0230	MRE004	CORREA A44	UN	        3	       0	       0	           60.60	             0.00	            0.00
 		308230	0230	MRE011	BURIL DE PASTILLA 1/2" DERECHO	UN	       10	       0	       0	          624.98	             0.00	            0.00
 		308302	0230	MRE001	TUBO 2 1/2" INOX SANITARIO	UN	        3	       0	       0	        3,011.01	             0.00	            0.00
-		308337	0230	MRE011	ANGULAR 2" * 2" * 1/4	UN	        2	       0	       0	        4,025.66	             0.00	            0.00
+		308337	0230	MRE011	ANGULAR 2" * 2" * 1/4	UN	        1	       0	       0	        2,012.83	             0.00	            0.00
 		308414	0230	MRE005	FILTRO REGULADOR LFR-1-D-MAXI	UN	        1	       0	       0	        1,569.64	             0.00	            0.00
 		308473	0230	MRE001	EMPAQUE 5" BUNA	UN	       20	       0	       0	        2,518.00	             0.00	            0.00
 		308587	0230	MRE012	ENTRADA DIGITAL 6ES5421-8MA12	UN	        1	       0	       0	        2,410.72	             0.00	            0.00
-		308623	0230	MRE025	BROCA DE COBALTO 1/8"	UN	        4	       0	       0	           21.44	             0.00	            0.00
+		308623	0230	MRE025	BROCA DE COBALTO 1/8"	UN	        2	       0	       0	           10.72	             0.00	            0.00
 		308871	0230	MRE012	CABLE TSJ 3 * 12	M	       25	       0	       0	          476.34	             0.00	            0.00
 		309021	0230	MRE011	ANGULAR 1/8" * 1" * 20' INOXIDABLE	UN	        3	       0	       0	        1,084.83	             0.00	            0.00
 		309162	0230	MRE011	MANGUERA TRANSPARENTE 3/4"	M	       92	       0	       0	          982.56	             0.00	            0.00
@@ -1016,7 +1016,6 @@
 		323307	0230	MRE109	BEAR BEARING AND LOCK PIN105-R P.11KT353	UN	        6	       0	       0	       28,928.58	             0.00	            0.00
 		323312	0230	MRE109	BOBINA 110V. P/VALV.SOL.DELTA POWER	UN	        4	       0	       0	        5,441.97	             0.00	            0.00
 		323331	0230	MRE109	FRONT BEARING 3" SHAFT KT369 105-R P37	UN	        1	       0	       0	        4,821.43	             0.00	            0.00
-		323360	0230	MRE109	MANOMETRO 30-150PSI AMMONIA 1204C	UN	        2	       0	       0	        2,232.15	             0.00	            0.00
 		323512	0230	MRE113	ABRAZADERA 012558-4	UN	       12	       0	       0	       13,680.02	             0.00	            0.00
 		323513	0230	MRE113	ABRAZADERA 80000149564	UN	       37	       0	       0	       15,113.24	             0.00	            0.00
 		323515	0230	MRE113	ANILLO 113738/001-91-205988	UN	        7	       0	       0	          520.59	             0.00	            0.00
@@ -3491,4 +3490,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,589,681.55	             0.00	       14,754.28
+	*									   16,584,741.95	             0.00	       14,754.28
