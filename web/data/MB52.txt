@@ -326,9 +326,9 @@
 		301693	0230	MRE011	ABRAZADERA 2" CASTIGADERA A/I	UN	       23	       0	       0	          585.35	             0.00	            0.00
 		301701	0230	MRE011	ABRAZADERA 4" CASTIGADERA	UN	        3	       0	       0	          128.73	             0.00	            0.00
 		301704	0230	MRE011	ACETILENO UN 1001	UN	        2	       0	       0	        1,178.58	             0.00	            0.00
-		301710	0230	MRE011	ADAPTADOR HEMBRA PVC 1/2"	UN	        6	       0	       0	           12.62	             0.00	            0.00
+		301710	0230	MRE011	ADAPTADOR HEMBRA PVC 1/2"	UN	        5	       0	       0	           10.52	             0.00	            0.00
 		301712	0230	MRE011	ADAPTADOR HEMBRA PVC 3/4"	UN	        4	       0	       0	           11.03	             0.00	            0.00
-		301714	0230	MRE011	ADAPTADOR MACHO PVC 1/2"	UN	        6	       0	       0	           16.30	             0.00	            0.00
+		301714	0230	MRE011	ADAPTADOR MACHO PVC 1/2"	UN	        5	       0	       0	           13.58	             0.00	            0.00
 		301715	0230	MRE011	ADAPTADOR MACHO 2" PVC	UN	       14	       0	       0	          106.40	             0.00	            0.00
 		301716	0230	MRE011	ADAPTADOR MACHO PVC 3/4"	UN	       12	       0	       0	           36.52	             0.00	            0.00
 		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	       12	       0	       0	          589.28	             0.00	            0.00
@@ -476,7 +476,7 @@
 		302337	0230	MRE011	SELLO MECANICO 30MM	UN	        2	       0	       0	          401.79	             0.00	            0.00
 		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	        2	       0	       0	          151.78	             0.00	            0.00
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        4	       0	       0	          321.43	             0.00	            0.00
-		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	       10	       0	       0	          107.10	             0.00	            0.00
+		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	        9	       0	       0	           96.39	             0.00	            0.00
 		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       10	       0	       0	          291.55	             0.00	            0.00
 		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	        8	       0	       0	          203.58	             0.00	            0.00
 		302356	0230	MRE011	TAPON HEMBRA 1/2" PVC	UN	        3	       0	       0	           12.07	             0.00	            0.00
@@ -496,7 +496,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       17	       0	       0	           37.91	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       16	       0	       0	           35.68	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        1	       0	       0	          307.87	             0.00	            0.00
 		302417	0280	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        3	       0	       0	          923.61	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
@@ -1814,7 +1814,6 @@
 		3415883	0230	MRE211	BELT,BOTTLE RETAINING 70000247	UN	        6	       0	       0	        1,588.14	             0.00	            0.00
 		3415883	0231	MRE211	BELT,BOTTLE RETAINING 70000247	UN	        2	       0	       0	          529.38	             0.00	            0.00
 		3415904	0230	MRE211	BELT,BOTTLE RETAINER,UPPER 70000601	UN	        1	       0	       0	          511.72	             0.00	            0.00
-		3415904	0231	MRE211	BELT,BOTTLE RETAINER,UPPER 70000601	UN	        2	       0	       0	        1,023.45	             0.00	            0.00
 		3415915	0230	MRE211	ASSY,POTENTIOMETER,LCPL200-20 70000839	UN	        1	       0	       0	       10,642.61	             0.00	            0.00
 		3415930	0230	MRE455	TOOTHED BAR DM0026080/000	UN	        2	       0	       0	        4,107.17	             0.00	            0.00
 		3416986	0230	MRE000178	CALIBRE DE AJUSTE 2-080-56-312-0	UN	        1	       0	       0	       17,555.88	             0.00	            0.00
@@ -3492,4 +3491,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,590,722.76	             0.00	       14,754.28
+	*									   16,589,681.55	             0.00	       14,754.28
