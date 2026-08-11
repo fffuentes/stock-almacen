@@ -49,7 +49,7 @@
 		300213	0230	MRE002	MANGUITO H322	UN	        2	       0	       0	        1,767.18	             0.00	            0.00
 		300215	0230	MRE002	RODAMIENTO 6012 2ZZ C3	UN	       12	       0	       0	        1,863.38	             0.00	            0.00
 		300216	0230	MRE002	RODAMIENTO 6003 CAA343 P. 13 = 300370	UN	       16	       0	       0	          323.35	             0.00	            0.00
-		300236	0230	MRE002	RODAMIENTO 6203 2RSH/C3	UN	        7	       0	       0	        1,093.75	             0.00	            0.00
+		300236	0230	MRE002	RODAMIENTO 6203 2RSH/C3	UN	        9	       0	       0	        1,406.25	             0.00	            0.00
 		300237	0230	MRE002	RODAMIENTO 205 UC D1 25mm YAR 205-2F	UN	        4	       0	       0	          417.00	             0.00	            0.00
 		300238	0230	MRE002	RODAMIENTO 206-102 UC	UN	        4	       0	       0	          551.08	             0.00	            0.00
 		300240	0230	MRE002	RODAMIENTO 207-UC D1	UN	       10	       0	       0	        1,946.18	             0.00	            0.00
@@ -96,7 +96,7 @@
 		300387	0230	MRE002	RODAMIENTO 6017 2RS = 3412908	UN	        4	       0	       0	        2,194.50	             0.00	            0.00
 		300401	0230	MRE002	RODAMIENTO 6201 2RS	UN	        9	       0	       0	          108.02	             0.00	            0.00
 		300403	0230	MRE002	RODAMIENTO 6202 2RS = 0-400-30-423-1	UN	       12	       0	       0	          345.39	             0.00	            0.00
-		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	       10	       0	       0	          296.75	             0.00	            0.00
+		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	        8	       0	       0	          237.40	             0.00	            0.00
 		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	       12	       0	       0	          301.84	             0.00	            0.00
 		300408	0230	MRE002	RODAMIENTO 6204 ZZ HT 51	UN	        3	       0	       0	           82.20	             0.00	            0.00
 		300409	0230	MRE002	RODAMIENTO 6205 2RS 0-900-41-502-7	UN	        5	       0	       0	          192.32	             0.00	            0.00
@@ -1571,7 +1571,7 @@
 		3357406	0230	MRE011	TOPE PARA PUERTA AL PISO DE 4"	UN	        3	       0	       0	          141.14	             0.00	            0.00
 		3357440	0230	MOP101	RELANIT 100	GLN	       31	       0	       0	       11,169.43	             0.00	            0.00
 		3357466	0230	MRE014	CEPSA GRASA BLAMEDOL GB2 NSF	LB	       18	       0	       0	        1,086.86	             0.00	            0.00
-		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      220	       0	       0	        8,593.75	             0.00	            0.00
+		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      200	       0	       0	        7,812.50	             0.00	            0.00
 		3357562	0230	MRE001	MIRILLA PARA TUBO CLAMP SS316 2 " INOXPA	UN	        2	       0	       0	        2,053.58	             0.00	            0.00
 		3357616	0230	MRE012	RELE/SEGURIDAD PILZ PNOZ-X4 24VDC 2.5W	UN	        1	       0	       0	        3,071.47	             0.00	            0.00
 		3357666	0230	MRE002	RODAMIENTO NUTR205A SEGUIDOR DE LEVA	UN	       21	       0	       0	        9,455.48	             0.00	            0.00
@@ -3480,4 +3480,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,457,436.86	             0.00	       14,754.28
+	*									   16,456,908.76	             0.00	       14,754.28
