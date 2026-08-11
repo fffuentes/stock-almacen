@@ -312,7 +312,7 @@
 		301420	0230	MRE007	SPROCKET NS815 25T45mm.REXNORD	UN	       10	       0	       0	        8,190.07	             0.00	            0.00
 		301422	0230	MRE007	SPROCKET NS881 25T REX 35mm.BIPARTIDO	UN	        6	       0	       0	        4,519.29	             0.00	            0.00
 		301433	0230	MRE008	ACTUADOR P/VALVULA 205993	UN	        3	       0	       0	          941.68	             0.00	            0.00
-		301680	0230	MRE011	ABRAZADERA 1 1/2" CASTIGADERA INOXIDABLE	UN	        6	       0	       0	          120.54	             0.00	            0.00
+		301680	0230	MRE011	ABRAZADERA 1 1/2" CASTIGADERA INOXIDABLE	UN	        2	       0	       0	           40.18	             0.00	            0.00
 		301681	0230	MRE011	ABRAZADERA 1 1/2" HANGER PENDULO	UN	       19	       0	       0	           61.79	             0.00	            0.00
 		301682	0230	MRE011	ABRAZADERA 1 1/2" UNISTRUD	UN	        4	       0	       0	           17.12	             0.00	            0.00
 		301683	0230	MRE011	ABRAZADERA HANGER HG 1 1/4 IN CLAMP	UN	       10	       0	       0	           30.40	             0.00	            0.00
@@ -426,7 +426,7 @@
 		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	        4	       0	       0	           13.10	             0.00	            0.00
 		302091	0280	MRE011	LIJA DE AGUA No. 400	UN	       30	       0	       0	           98.22	             0.00	            0.00
 		302094	0230	MRE011	LIJA DE AGUA No. 80	UN	        7	       0	       0	           25.67	             0.00	            0.00
-		302095	0230	MRE011	LIJA DE ESMERIL No. 80	UN	       40	       0	       0	          303.57	             0.00	            0.00
+		302095	0230	MRE011	LIJA DE ESMERIL No. 80	UN	       38	       0	       0	          288.39	             0.00	            0.00
 		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	        9	       0	       0	        2,434.86	             0.00	            0.00
 		302111	0230	MRE011	MACHUELO 3/16" NC	UN	        6	       0	       0	          178.58	             0.00	            0.00
 		302117	0230	MRE011	MACHUELO 4MM	JGO	        3	       0	       0	          209.45	             0.00	            0.00
@@ -3484,4 +3484,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,517,952.08	             0.00	       14,754.28
+	*									   16,517,856.54	             0.00	       14,754.28
