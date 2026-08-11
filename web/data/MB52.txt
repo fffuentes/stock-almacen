@@ -36,7 +36,7 @@
 		300162	0230	MRE002	CHUMACERA 209-112 UCP D1 FAG	UN	        3	       0	       0	        1,179.74	             0.00	            0.00
 		300166	0230	MRE002	CHUMACERA 2" FY Y SY	UN	        1	       0	       0	          386.50	             0.00	            0.00
 		300172	0230	MRE002	CHUMACERA 30MM 206 FYTB30TF	UN	        5	       0	       0	        1,266.30	             0.00	            0.00
-		300173	0230	MRE002	CHUMACERA 30MM FY UCF	UN	        4	       0	       0	          783.17	             0.00	            0.00
+		300173	0230	MRE002	CHUMACERA 30MM FY UCF	UN	        2	       0	       0	          391.58	             0.00	            0.00
 		300176	0230	MRE002	CHUMACERA 35MM SY	UN	       12	       0	       0	        3,382.56	             0.00	            0.00
 		300177	0230	MRE002	CHUMACERA 40MM FY UCF	UN	       11	       0	       0	        3,116.80	             0.00	            0.00
 		300179	0230	MRE002	CHUMACERA 40MM SY UCP208-D1	UN	        1	       0	       0	          215.37	             0.00	            0.00
@@ -49,7 +49,7 @@
 		300213	0230	MRE002	MANGUITO H322	UN	        2	       0	       0	        1,767.18	             0.00	            0.00
 		300215	0230	MRE002	RODAMIENTO 6012 2ZZ C3	UN	       12	       0	       0	        1,863.38	             0.00	            0.00
 		300216	0230	MRE002	RODAMIENTO 6003 CAA343 P. 13 = 300370	UN	       16	       0	       0	          323.35	             0.00	            0.00
-		300236	0230	MRE002	RODAMIENTO 6203 2RSH/C3	UN	        9	       0	       0	        1,406.25	             0.00	            0.00
+		300236	0230	MRE002	RODAMIENTO 6203 2RSH/C3	UN	        7	       0	       0	        1,093.75	             0.00	            0.00
 		300237	0230	MRE002	RODAMIENTO 205 UC D1 25mm YAR 205-2F	UN	        4	       0	       0	          417.00	             0.00	            0.00
 		300238	0230	MRE002	RODAMIENTO 206-102 UC	UN	        4	       0	       0	          551.08	             0.00	            0.00
 		300240	0230	MRE002	RODAMIENTO 207-UC D1	UN	       10	       0	       0	        1,946.18	             0.00	            0.00
@@ -208,7 +208,7 @@
 		300836	0230	MRE004	CORREA A42	UN	        3	       0	       0	           53.57	             0.00	            0.00
 		300837	0230	MRE004	CORREA A43	UN	       11	       0	       0	          244.15	             0.00	            0.00
 		300838	0230	MRE004	CORREA A46	UN	        3	       0	       0	           78.55	             0.00	            0.00
-		300843	0230	MRE004	CORREA A53	UN	        6	       0	       0	          214.80	             0.00	            0.00
+		300843	0230	MRE004	CORREA A53	UN	        3	       0	       0	          107.40	             0.00	            0.00
 		300848	0230	MRE004	CORREA A61	UN	        7	       0	       0	          290.23	             0.00	            0.00
 		300853	0230	MRE004	CORREA B100	UN	        5	       0	       0	          424.01	             0.00	            0.00
 		300854	0230	MRE004	CORREA B108	UN	        9	       0	       0	          802.49	             0.00	            0.00
@@ -331,7 +331,7 @@
 		301714	0230	MRE011	ADAPTADOR MACHO PVC 1/2"	UN	        5	       0	       0	           13.58	             0.00	            0.00
 		301715	0230	MRE011	ADAPTADOR MACHO 2" PVC	UN	       14	       0	       0	          106.40	             0.00	            0.00
 		301716	0230	MRE011	ADAPTADOR MACHO PVC 3/4"	UN	       12	       0	       0	           36.52	             0.00	            0.00
-		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	        9	       0	       0	          441.96	             0.00	            0.00
+		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	        8	       0	       0	          392.85	             0.00	            0.00
 		301720	0230	MRE011	FILTRO HIDRAULICO ROSCA NPT 1-1/4"	GLN	        1	       0	       0	        1,704.46	             0.00	            0.00
 		301729	0230	MRE011	AVELLANADOR 1/2" A 45°	UN	        4	       0	       0	        1,178.56	             0.00	            0.00
 		301730	0230	MRE011	AVELLANADOR 1/4" A 1" 90° RECTO	UN	        3	       0	       0	        1,223.74	             0.00	            0.00
@@ -788,7 +788,7 @@
 		303725	0230	MRE013	TORNILLO HEXAGONAL 6 * 20MM INOX	UN	       90	       0	       0	          189.90	             0.00	            0.00
 		303726	0230	MRE013	TORNILLO HEXAGONAL 6 * 40MM INOX R/C	UN	       65	       0	       0	          231.09	             0.00	            0.00
 		303729	0230	MRE013	TORNILLO HEXAGONAL 6 * 45MM INOX	UN	       12	       0	       0	           77.91	             0.00	            0.00
-		303730	0230	MRE013	TORNILLO HEXAGONAL 8 *100MM INOX.	UN	       39	       0	       0	        1,054.05	             0.00	            0.00
+		303730	0230	MRE013	TORNILLO HEXAGONAL 8 *100MM INOX.	UN	       35	       0	       0	          945.94	             0.00	            0.00
 		303733	0230	MRE013	TORNILLO HEXAGONAL 8 * 30MM INOX	UN	        4	       0	       0	           26.24	             0.00	            0.00
 		303734	0230	MRE013	TORNILLO HEXAGONAL 8 * 60MM INOX	UN	       28	       0	       0	          597.84	             0.00	            0.00
 		303736	0230	MRE013	TORNILLO HEXAGONAL 8 * 25MM INOX	UN	       60	       0	       0	          367.20	             0.00	            0.00
@@ -1127,7 +1127,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       11	       0	       0	        5,057.85	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      377	       0	       0	        2,356.25	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      372	       0	       0	        2,325.00	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        3	       0	       0	           96.41	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -1343,7 +1343,7 @@
 		3332364	0230	MRE012	CINTA DE AISLAR COLOR AMARILLO	UN	       11	       0	       0	          160.34	             0.00	            0.00
 		3332391	0230	MRE011	CAUCHO LOVEJOY S-FLEX SIZE 9	UN	        3	       0	       0	        1,599.12	             0.00	            0.00
 		3332420	0230	MRE011	BARRA DE ACERO 1045 DIAMETRO 45MM	TF	        6	       0	       0	        1,411.03	             0.00	            0.00
-		3332480	0230	MRE014	POWER LUBE LUBRICANTE GRADO ALIMENT.	UN	       28	       0	       0	        3,591.84	             0.00	            0.00
+		3332480	0230	MRE014	POWER LUBE LUBRICANTE GRADO ALIMENT.	UN	       26	       0	       0	        3,335.28	             0.00	            0.00
 		3332965	0230	MRE011	CORTINA TRANSP.PVC REF.CON VENA	UN	        1	       0	       0	        2,708.93	             0.00	            0.00
 		3333045	0230	MRE001	CHEQUE VERTICAL INOX CLAMP 3"	UN	        1	       0	       0	        2,866.07	             0.00	            0.00
 		3333046	0230	MRE001	CHEQUE VERTICAL INOX CLAMP 2 1/2"	UN	        1	       0	       0	        2,454.43	             0.00	            0.00
@@ -1569,7 +1569,7 @@
 		3357303	0230	MRE011	LLAVE MAESTRA DE CANDDO MASTER LOCK 3D	UN	        1	       0	       0	           60.72	             0.00	            0.00
 		3357313	0230	MRE011	LLAVE P/LAVABO INDIVIDUAL C/ SENSOR	UN	        3	       0	       0	        2,578.34	             0.00	            0.00
 		3357406	0230	MRE011	TOPE PARA PUERTA AL PISO DE 4"	UN	        3	       0	       0	          141.14	             0.00	            0.00
-		3357440	0230	MOP101	RELANIT 100	GLN	       32	       0	       0	       11,529.73	             0.00	            0.00
+		3357440	0230	MOP101	RELANIT 100	GLN	       31	       0	       0	       11,169.43	             0.00	            0.00
 		3357466	0230	MRE014	CEPSA GRASA BLAMEDOL GB2 NSF	LB	       18	       0	       0	        1,086.86	             0.00	            0.00
 		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      220	       0	       0	        8,593.75	             0.00	            0.00
 		3357562	0230	MRE001	MIRILLA PARA TUBO CLAMP SS316 2 " INOXPA	UN	        2	       0	       0	        2,053.58	             0.00	            0.00
@@ -2712,10 +2712,9 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349104	0230	MRE131	GASKET C500GUARN0692	UN	       74	       0	       0	          292.10	             0.00	            0.00
 		349105	0230	MRE131	GASKET OR 4131 (EPDM) C500GUARN0728	UN	       60	       0	       0	          558.50	             0.00	            0.00
 		349106	0230	MRE131	GASKET C500GUARN0811	UN	       30	       0	       0	        4,921.64	             0.00	            0.00
-		349107	0230	MRE131	GASKET DMP023197/017	UN	        4	       0	       0	        8,054.41	             0.00	            0.00
+		349107	0230	MRE131	GASKET DMP023197/017	UN	        2	       0	       0	        4,027.20	             0.00	            0.00
 		349108	0230	MRE131	GASKET DMP023197/018	UN	        4	       0	       0	        7,362.31	             0.00	            0.00
 		349109	0230	MRE131	GASKET DMP023197/021	UN	       10	       0	       0	        6,034.31	             0.00	            0.00
-		349111	0230	MRE131	SLYDRING DMP023202/002	UN	        4	       0	       0	        1,824.52	             0.00	            0.00
 		349118	0230	MRE131	PNEUMATI CYLINDER C700CILIN0645	UN	        5	       0	       0	       18,976.54	             0.00	            0.00
 		349120	0230	MRE131	FITTING C750PNEUM0779	UN	        6	       0	       0	        1,720.86	             0.00	            0.00
 		349121	0230	MRE131	SLYDRING DMP007379/004	UN	       15	       0	       0	        3,676.06	             0.00	            0.00
@@ -3009,8 +3008,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		365269	0230	MRE535	KIT DE REPUESTO EASYLUB ELITE	UN	        1	       0	       0	          133.93	             0.00	            0.00
 		365384	0230	MRE535	PATIN DELANTE 600/750ML-8L10109222	UN	        6	       0	       0	       11,445.14	             0.00	            0.00
 		365386	0230	MRE535	PATIN TRASERO 600/750ML-8L10109223	UN	        6	       0	       0	       11,445.14	             0.00	            0.00
-		365388	0230	MRE535	BRIDA 600ML-8L10109220	UN	        1	       0	       0	        8,980.98	             0.00	            0.00
-		365389	0230	MRE535	BRIDA 750ML-8L10109235	UN	        1	       0	       0	        8,980.98	             0.00	            0.00
 		365390	0230	MRE535	PATIN DELANTE 1.75ML-8L10096281	UN	        3	       0	       0	        6,013.68	             0.00	            0.00
 		365391	0230	MRE535	AMORTIGUADOR DELANTE 1.75ML-8L10007165	UN	        3	       0	       0	        4,953.80	             0.00	            0.00
 		365392	0230	MRE535	PATIN TRASERO 1.75ML-8L10096283	UN	        3	       0	       0	        6,013.68	             0.00	            0.00
@@ -3019,7 +3016,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		365445	0230	MRE197	KIT DE EMPAQUES 80062824	UN	       25	       0	       0	       10,108.23	             0.00	            0.00
 		365447	0230	MRE618	WEDGE,ADJUSTMENT 34275	UN	        1	       0	       0	          863.85	             0.00	            0.00
 		365449	0230	MRE618	KIT,OPT,TRIG,CNVR MT,W/O CONN 37302-2	UN	        2	       0	       0	       28,031.30	             0.00	            0.00
-		365450	0230	MRE012	CONECTOR HEMBRA 90° 5 PINES DOS-1205-W	UN	       10	       0	       0	        1,598.46	             0.00	            0.00
+		365450	0230	MRE012	CONECTOR HEMBRA 90° 5 PINES DOS-1205-W	UN	        8	       0	       0	        1,278.77	             0.00	            0.00
 		365452	0230	MRE012	CONECTOR RECTO HEMBRA 5 PINES DOS-1205-G	UN	        2	       0	       0	          364.57	             0.00	            0.00
 		365453	0230	MRE012	CONECTOR RECTO MACHO 5 PINES STE-1205-G	UN	        2	       0	       0	          716.52	             0.00	            0.00
 		365456	0230	MRE528	sONJUNTO CINTURON BTL 1270MM 47140	UN	        2	       0	       0	        2,572.81	             0.00	            0.00
@@ -3232,7 +3229,6 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		386130	0230	MRE535	AMORTIGUADOR DELANTERO 600ML 80063420	UN	        3	       0	       0	        4,951.75	             0.00	            0.00
 		386131	0230	MRE535	PATIN TRASERO 600ML 80327802	UN	        3	       0	       0	        7,910.73	             0.00	            0.00
 		386132	0230	MRE535	AMORTIGUADOR TRASERO 600ML 80063423	UN	        3	       0	       0	        4,937.46	             0.00	            0.00
-		386133	0230	MRE535	BRIDA 600ML 80327803	UN	        2	       0	       0	       14,512.22	             0.00	            0.00
 		386135	0230	MRE535	AMORTIGUADOR DELAN 12OZS F998SACMI0401	UN	        3	       0	       0	        3,516.76	             0.00	            0.00
 		386136	0230	MRE535	PATIN DELANTERO 12OZS 80079092	UN	        3	       0	       0	        4,523.43	             0.00	            0.00
 		386147	0230	MRE197	MOLLA FEDER 8L10036824	UN	        1	       0	       0	          313.11	             0.00	            0.00
@@ -3484,4 +3480,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,517,856.54	             0.00	       14,754.28
+	*									   16,477,594.12	             0.00	       14,754.28
