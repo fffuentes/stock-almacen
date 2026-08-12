@@ -423,7 +423,7 @@
 		302034	0230	MRE011	FRESA 5/16" 4 FILOS HSS	UN	        3	       0	       0	          205.86	             0.00	            0.00
 		302062	0230	MRE011	JABON ORANGE TOUGH P/MANOS	GLN	        2	       0	       0	          491.08	             0.00	            0.00
 		302085	0230	MRE011	LIJA DE AGUA No. 100	UN	       90	       0	       0	          316.34	             0.00	            0.00
-		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	        4	       0	       0	           13.10	             0.00	            0.00
+		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	        2	       0	       0	            6.55	             0.00	            0.00
 		302091	0280	MRE011	LIJA DE AGUA No. 400	UN	       30	       0	       0	           98.22	             0.00	            0.00
 		302094	0230	MRE011	LIJA DE AGUA No. 80	UN	        3	       0	       0	           11.00	             0.00	            0.00
 		302095	0230	MRE011	LIJA DE ESMERIL No. 80	UN	       36	       0	       0	          273.21	             0.00	            0.00
@@ -1375,7 +1375,7 @@
 		3335409	0230	MRE029	TORNILLO ALLEN MF300673	UN	        4	       0	       0	           19.91	             0.00	            0.00
 		3335417	0230	MRE012	SENSOR PRESION PHT-RB010ST10ST1050AMS0Z	UN	        1	       0	       0	       10,711.75	             0.00	            0.00
 		3335450	0230	MRE029	CILINDRO MN010199	UN	        1	       0	       0	        3,109.51	             0.00	            0.00
-		3335472	0230	MRE013	TORNILLO P/TABLA YESO 1/8¨ x 1 1/4¨	UN	      119	       0	       0	           36.89	             0.00	            0.00
+		3335472	0230	MRE013	TORNILLO P/TABLA YESO 1/8¨ x 1 1/4¨	UN	      107	       0	       0	           33.17	             0.00	            0.00
 		333551	0230	MRE006	MEDIO PASO 120	UN	        2	       0	       0	          341.64	             0.00	            0.00
 		3335548	0230	MRE012	SIRENA CON ESTROBO FIRE 24 VDC	UN	        1	       0	       0	          525.00	             0.00	            0.00
 		3335620	0230	MRE007	SPROCKET NS815 25T 40mm BIPARTIDO	UN	        7	       0	       0	        5,224.67	             0.00	            0.00
@@ -2688,7 +2688,7 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		349084	0230	MRE131	GASKET C500GUARN0792	UN	        3	       0	       0	          282.80	             0.00	            0.00
 		349085	0230	MRE131	GASKET C500GUARN0793	UN	      156	       0	       0	          575.95	             0.00	            0.00
 		349086	0230	MRE131	GASKET C500GUARN0795	UN	       90	       0	       0	        5,673.44	             0.00	            0.00
-		349087	0230	MRE131	GASKET C500GUARN0796	UN	      175	       0	       0	        4,546.02	             0.00	            0.00
+		349087	0230	MRE131	GASKET C500GUARN0796	UN	       25	       0	       0	          649.43	             0.00	            0.00
 		349087	0231	MRE131	GASKET C500GUARN0796	UN	       15	       0	       0	          389.66	             0.00	            0.00
 		349088	0230	MRE131	GASKET C500GUARN0798	UN	      172	       0	       0	          708.83	             0.00	            0.00
 		349089	0230	MRE131	GASKETS OR 2043 (EPDM) C500GUARN2002	UN	      270	       0	       0	        1,238.08	             0.00	            0.00
@@ -3477,4 +3477,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,406,853.47	             0.00	       16,160.53
+	*									   16,402,946.61	             0.00	       16,160.53
