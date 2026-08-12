@@ -572,7 +572,7 @@
 		302805	0230	MRE012	COPLA ELECTRICA 1/2"	UN	        2	       0	       0	           72.20	             0.00	            0.00
 		302806	0230	MRE012	COPLA ELECTRICA 2"	UN	       30	       0	       0	           17.25	             0.00	            0.00
 		302825	0230	MRE012	ESPIGA TRIFASICA 250V 50A AGUILA	UN	        3	       0	       0	           84.89	             0.00	            0.00
-		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       10	       0	       0	           71.49	             0.00	            0.00
+		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	        8	       0	       0	           57.19	             0.00	            0.00
 		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        2	       0	       0	           85.89	             0.00	            0.00
 		302844	0230	MRE012	FLIPON 2*50 AMP. SIEMENS	UN	        5	       0	       0	          548.76	             0.00	            0.00
 		302850	0230	MRE012	FLIPON BIPOLAR 20 AMP.	UN	        3	       0	       0	          329.92	             0.00	            0.00
@@ -1248,7 +1248,7 @@
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321690	0230	MRE011	LAMINA POLICARBONATO de 1/8x4*x8*	UN	        1	       0	       0	          803.55	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
-		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      477	       0	       0	        5,365.96	             0.00	            0.00
+		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      473	       0	       0	        5,320.96	             0.00	            0.00
 		3321827	0230	MRE010	ROTULAS GE 35-ES-2RS R	UN	        1	       0	       0	          216.29	             0.00	            0.00
 		3321948	0230	MRE012	SUPRESTHOR TRS9 p 480 VAC 300KAP Cat."B"	UN	        1	       0	       0	        1,325.90	             0.00	            0.00
 		3322020	0230	MRE012	CONECTOR P/BOBINA MSN1W-110-50/60-OD	UN	        7	       0	       0	          236.04	             0.00	            0.00
@@ -3473,4 +3473,4 @@ EVDIS00IT0 2FVEE0007	UN	        1	       0	       0	        3,282.57	           
 		399694	0231	MRE989	PT1000 SENSOR PROBE 2EST807795	UN	        3	       0	       0	        1,097.21	             0.00	            0.00
 		399708	0231	MRE989	PT1000 TEMPERATURE PROBE 2EST807793	UN	        3	       0	       0	          598.62	             0.00	            0.00
 
-	*									   16,399,314.20	             0.00	       16,160.53
+	*									   16,399,254.90	             0.00	       16,160.53
