@@ -339,7 +339,7 @@
 		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	       50	       0	       0	        2,633.98	             0.00	            0.00
 		301720	0230	MRE011	FILTRO HIDRAULICO ROSCA NPT 1-1/4"	GLN	        1	       0	       0	        1,704.46	             0.00	            0.00
 		301723	0230	MRE011	AMONIACO CILINDRO	LB	      550	       0	       0	        6,880.50	             0.00	            0.00
-		301727	0230	MRE011	ARGON EN CILINDRO	UN	        2	       0	       0	        1,500.72	             0.00	            0.00
+		301727	0230	MRE011	ARGON EN CILINDRO	UN	        1	       0	       0	          750.36	             0.00	            0.00
 		301729	0230	MRE011	AVELLANADOR 1/2" A 45°	UN	        2	       0	       0	          589.28	             0.00	            0.00
 		301730	0230	MRE011	AVELLANADOR 1/4" A 1" 90° RECTO	UN	        3	       0	       0	        1,223.74	             0.00	            0.00
 		301731	0230	MRE011	AVELLANADOR 3/4" 45° RAIZ 1/2"	UN	        3	       0	       0	          798.14	             0.00	            0.00
@@ -411,7 +411,7 @@
 		301937	0230	MRE011	ELECTRODO 1/8" 6013 PUNTO CAFE	LB	       22	       0	       0	          301.69	             0.00	            0.00
 		301938	0230	MRE011	ELECTRODO 1/8" 7018	LB	        6	       0	       0	           96.48	             0.00	            0.00
 		301939	0230	MRE011	ELECTRODO 1/8" A. INOX. UTP 65	LB	       14	       0	       0	        3,242.75	             0.00	            0.00
-		301940	0230	MRE011	ELECTRODO 1/8" HIERRO FUNDIDO	LB	        2	       0	       0	          507.38	             0.00	            0.00
+		301940	0230	MRE011	ELECTRODO 1/8" HIERRO FUNDIDO	LB	        1	       0	       0	          253.69	             0.00	            0.00
 		301941	0230	MRE011	ELECTRODO 1/8" UTP 312	LB	        3	       0	       0	          388.41	             0.00	            0.00
 		301942	0230	MRE011	ELECTRODO 3/32 UTP 312	LB	       15	       0	       0	        3,182.66	             0.00	            0.00
 		301943	0230	MRE011	ELECTRODO 3/32" 6011	LB	       10	       0	       0	          160.79	             0.00	            0.00
@@ -842,7 +842,7 @@
 		303981	0230	MRE012	FOTOCELDA 15A 240V	UN	        3	       0	       0	          151.50	             0.00	            0.00
 		303986	0230	MRE012	TUBO CONDUIT DE ALUMINIO 1/2"	UN	        3	       0	       0	          338.52	             0.00	            0.00
 		303988	0230	MRE013	ROLDANA DE PRESION 1/4"	UN	       52	       0	       0	           40.16	             0.00	            0.00
-		304001	0230	MRE001	VALVULA MARIPOSA 2" ACERO INOX CLAMP	UN	        3	       0	       0	        1,633.90	             0.00	            0.00
+		304001	0230	MRE001	VALVULA MARIPOSA 2" ACERO INOX CLAMP	UN	        2	       0	       0	        1,089.27	             0.00	            0.00
 		304011	0230	MRE002	RODAMIENTO 3305 2RS IGUAL 5305W2	UN	        4	       0	       0	        1,489.05	             0.00	            0.00
 		304012	0230	MRE002	COJINETE KR 35 PPX	UN	        4	       0	       0	        1,299.48	             0.00	            0.00
 		304021	0280	MRE007	PERFIL PLANO 1/8 * 2" PLASTIDUR	M	       30	       0	       0	        6,562.50	             0.00	            0.00
@@ -1201,7 +1201,7 @@
 		3313542	0230	MRE012	BATERIA 6 V.	UN	        2	       0	       0	          959.83	             0.00	            0.00
 		331374	0230	MRE118	EMPAQUE DE HULE P/CANJILON LAV2	UN	    7,093	       0	       0	        6,649.69	             0.00	            0.00
 		3313832	0230	MRE012	MICRORELE 24VDC 6A #2961105 PHOENIX CON	UN	        2	       0	       0	          590.80	             0.00	            0.00
-		3313832	0280	MRE012	MICRORELE 24VDC 6A #2961105 PHOENIX CON	UN	       15	       0	       0	        4,431.01	             0.00	            0.00
+		3313832	0280	MRE012	MICRORELE 24VDC 6A #2961105 PHOENIX CON	UN	       15	       0	       0	        4,431.04	             0.00	            0.00
 		331386	0231	MRE211	ASSY, CPU CONFIGURED/PROG 44222	UN	        1	       0	       0	      197,323.90	             0.00	            0.00
 		3313868	0230	MRE012	PRENSA ESTOPA PG - 9	UN	       11	       0	       0	           73.02	             0.00	            0.00
 		3314061	0230	MRE003	RETENEDOR 22*32*7	UN	        3	       0	       0	          105.80	             0.00	            0.00
@@ -1234,7 +1234,8 @@
 		3317822	0230	MRE011	FILTRO DE ACEITE LFP 1652	UN	        2	       0	       0	          310.78	             0.00	            0.00
 		3317917	0230	MRE013	TORNILLO AVELLANADO 8*30MM INOX	UN	       20	       0	       0	          107.20	             0.00	            0.00
 		3317955	0230	MRE001	HEMBRA INOX . DE 1/4 * 1	UN	        2	       0	       0	          750.00	             0.00	            0.00
-		3318197	0230	MRE001	PLATINA INOX DE 1/8" X 3/4"	UN	        1	       0	       0	           96.87	             0.00	            0.00
+		3318197	0230	MRE001	PLATINA INOX DE 1/8" X 3/4"	UN	        1	       0	       0	          101.71	             0.00	            0.00
+		3318197	0280	MRE001	PLATINA INOX DE 1/8" X 3/4"	UN	        5	       0	       0	          508.56	             0.00	            0.00
 		3319354	0230	MRE013	TORNILLO C/PLANA ALLEN 5 * 40MM INOX	UN	       28	       0	       0	           73.64	             0.00	            0.00
 		3319355	0230	MRE013	TORNILLO C/PLANA ALLEN 6 * 40MM INOX	UN	       19	       0	       0	           58.89	             0.00	            0.00
 		3319441	0230	MRE012	BATERIA 389A BUTTOM CELL +	UN	        5	       0	       0	          268.00	             0.00	            0.00
@@ -1978,7 +1979,7 @@
 		3429895	0231	MRE895	O-RING 45X2 EPDM PEROXIDE 0901646426	UN	        4	       0	       0	           97.72	             0.00	            0.00
 		3429906	0230	MRE895	DEEP GROOVE BALL BEARING 0900003816	UN	        1	       0	       0	           32.44	             0.00	            0.00
 		3429997	0230	MRE921	GUIDE ROLLER 8950266317	UN	        8	       0	       0	          112.95	             0.00	            0.00
-		3430016	0231	MRE921	END-TURNING SECTION 0902769814	UN	       24	       0	       0	       24,259.37	             0.00	            0.00
+		3430016	0231	MRE921	END-TURNING SECTION 0902769814	UN	       24	       0	       0	       27,308.67	             0.00	            0.00
 		3430140	0230	MRE909	AUXILIARY SWITCH 0-901-06-244-8	UN	        1	       0	       0	          130.31	             0.00	            0.00
 		3430203	0230	MRE906	RETURN ROLLER SPACER SHOULDER 0905313364	UN	       10	       0	       0	          111.87	             0.00	            0.00
 		3430274	0231	MRE895	O-RING 47X1.5 NBR 0162202132	UN	        1	       0	       0	            2.00	             0.00	            0.00
@@ -2799,7 +2800,7 @@
 		3504971	0230	MRE003	RETENEDOR 100*89*09	UN	        2	       0	       0	        1,242.85	             0.00	            0.00
 		350508	0230	MRE475	JUNTA C130GIUNT0017	UN	        1	       0	       0	        3,230.55	             0.00	            0.00
 		3505082	0230	MRE012	CONTACTOR SCHNEIDER ELECTRIC LC1K09	UN	        2	       0	       0	        2,254.48	             0.00	            0.00
-		3505083	0230	MRE014	ACEITE LUNARIA NH 68	GLN	       30	       0	       0	        5,357.14	             0.00	            0.00
+		3505083	0230	MRE014	ACEITE LUNARIA NH 68	GLN	       25	       0	       0	        4,464.28	             0.00	            0.00
 		3505085	0230	MRE012	FUSIBLE TIPO K 200AMP	UN	        5	       0	       0	        1,627.05	             0.00	            0.00
 		3505198	0230	MRE012	RECTIFICADOR DE FRENO 8253846 SEW	UN	        2	       0	       0	          885.00	             0.00	            0.00
 		3505297	0230	MRE005	RACOR ACERO INOX NPQR-L-Q6	UN	       10	       0	       0	        3,708.48	             0.00	            0.00
@@ -3473,4 +3474,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,560,361.18	             0.00	       16,160.53
+	*									   16,561,482.37	             0.00	       16,160.53
