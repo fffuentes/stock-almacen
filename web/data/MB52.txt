@@ -538,9 +538,8 @@
 		302560	0230	MRE012	LAMPARA LED AZUL DE SEGURIDAD 20 W.	UN	        8	       0	       0	        2,052.00	             0.00	            0.00
 		302562	0230	MRE012	BALASTRO 2*40 120V.	UN	        1	       0	       0	           42.65	             0.00	            0.00
 		302576	0230	MRE012	BATERIA 3.6 V P/SIMATIC 100 U SIEMENS	UN	        3	       0	       0	        2,441.07	             0.00	            0.00
-		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	        3	       0	       0	           83.60	             0.00	            0.00
-		302577	0280	MRE012	BATERIA 9V CUADRADA	UN	       15	       0	       0	          417.98	             0.00	            0.00
-		302578	0280	MRE012	BATERIA ALCALINA DOBLE AA	UN	       75	       0	       0	          402.00	             0.00	            0.00
+		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	       18	       0	       0	          501.58	             0.00	            0.00
+		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       75	       0	       0	          402.00	             0.00	            0.00
 		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       12	       0	       0	          177.54	             0.00	            0.00
 		302579	0280	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       70	       0	       0	        1,035.63	             0.00	            0.00
 		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	       82	       0	       0	        1,222.79	             0.00	            0.00
@@ -553,7 +552,7 @@
 		302657	0280	MRE012	CABLE TSJ 4*12AWG	M	      100	       0	       0	        2,791.00	             0.00	            0.00
 		302659	0230	MRE012	CAJA CUADRADA 4X4IN /TAPADERA	UN	        2	       0	       0	           23.61	             0.00	            0.00
 		302661	0230	MRE012	CAJA DE REGISTRO 4*6*6	UN	        2	       0	       0	           50.36	             0.00	            0.00
-		302674	0280	MRE012	CINCHO PLASTICO 8"	UN	    1,500	       0	       0	          480.00	             0.00	            0.00
+		302674	0230	MRE012	CINCHO PLASTICO 8"	UN	    1,500	       0	       0	          480.00	             0.00	            0.00
 		302675	0230	MRE012	CINTA PARA AISLAR No.23 SCOTCH 3M VULCAN	UN	        4	       0	       0	          685.67	             0.00	            0.00
 		302677	0230	MRE012	CINTA REFLECTIVA	UN	        3	       0	       0	        1,558.71	             0.00	            0.00
 		302686	0230	MRE012	CONDULET LL 1 1/2"	UN	        2	       0	       0	          105.46	             0.00	            0.00
@@ -583,8 +582,7 @@
 		302805	0230	MRE012	COPLA ELECTRICA 1/2"	UN	        2	       0	       0	           72.20	             0.00	            0.00
 		302806	0230	MRE012	COPLA ELECTRICA 2"	UN	       30	       0	       0	           17.25	             0.00	            0.00
 		302825	0230	MRE012	ESPIGA TRIFASICA 250V 50A AGUILA	UN	        3	       0	       0	           84.89	             0.00	            0.00
-		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	        3	       0	       0	           21.45	             0.00	            0.00
-		302827	0280	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       40	       0	       0	          285.99	             0.00	            0.00
+		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       43	       0	       0	          307.44	             0.00	            0.00
 		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        2	       0	       0	           85.89	             0.00	            0.00
 		302844	0230	MRE012	FLIPON 2*50 AMP. SIEMENS	UN	        5	       0	       0	          548.76	             0.00	            0.00
 		302850	0230	MRE012	FLIPON BIPOLAR 20 AMP.	UN	        3	       0	       0	          329.92	             0.00	            0.00
@@ -618,8 +616,8 @@
 		303098	0230	MRE012	PRESOSTATO P70CA-3 PENN	UN	        3	       0	       0	        4,456.44	             0.00	            0.00
 		303101	0230	MRE012	PULSADOR VERDE LUMINOSO E-991-00-030-1	UN	        3	       0	       0	          735.66	             0.00	            0.00
 		303102	0230	MRE012	PULSADOR ROJO 110V SIEMEMS COMPLETO	UN	        5	       0	       0	        1,227.68	             0.00	            0.00
-		303113	0280	MRE012	REFLECTOR PARA INTEMPERIE 110 VAC	UN	        5	       0	       0	        1,339.30	             0.00	            0.00
-		303114	0280	MRE012	REGLETA DE 6 ENTRADAS	UN	        8	       0	       0	          392.88	             0.00	            0.00
+		303113	0230	MRE012	REFLECTOR PARA INTEMPERIE 110 VAC	UN	        5	       0	       0	        1,339.30	             0.00	            0.00
+		303114	0230	MRE012	REGLETA DE 6 ENTRADAS	UN	        8	       0	       0	          392.88	             0.00	            0.00
 		303151	0230	MRE012	RIEL 35MM P/BORNERAS/CONTACTORES	M	        4	       0	       0	           93.18	             0.00	            0.00
 		303165	0230	MRE012	SENSOR DE PROXIMIDAD SMEO-01LED-24	UN	        2	       0	       0	        2,279.64	             0.00	            0.00
 		303179	0230	MRE012	SENSOR INDUCTIVO CILIN.18mm.PNP24VDS XS1	UN	        5	       0	       0	        3,492.49	             0.00	            0.00
@@ -628,7 +626,7 @@
 		303219	0230	MRE012	TAPADERA PARA TOMACORRIENTE	UN	        7	       0	       0	           60.60	             0.00	            0.00
 		303273	0230	MRE012	TERMINAL MACHO AISL.C-63-1203 16-14AWG	UN	       81	       0	       0	          115.83	             0.00	            0.00
 		303310	0230	MRE012	TIMBRE DE CAMPANA 110V.	UN	        2	       0	       0	          263.53	             0.00	            0.00
-		303317	0280	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	       40	       0	       0	          428.80	             0.00	            0.00
+		303317	0230	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	       40	       0	       0	          428.80	             0.00	            0.00
 		303331	0230	MRE012	TUBO DUCTO 1/2"	TF	       40	       0	       0	          258.10	             0.00	            0.00
 		303366	0230	MRE012	VENTILADOR 120V.TIPO PANEL	UN	        2	       0	       0	          274.00	             0.00	            0.00
 		303370	0230	MRE012	VENTILADOR TIPO PANEL 220V. 60HZ 40W	UN	        2	       0	       0	        5,147.80	             0.00	            0.00
@@ -1430,7 +1428,7 @@
 		3337600	0230	MRE012	CONTACTO AUX. 1NA/1NC 194E-A25-A100	UN	        3	       0	       0	          214.28	             0.00	            0.00
 		3337618	0230	MRE011	BARRA TIBER 2"	TF	        4	       0	       0	          758.87	             0.00	            0.00
 		3337619	0230	MRE011	BARRA EXAGONAL 1 3/4¨ DE ALUMINIO	TF	        1	       0	       0	          559.15	             0.00	            0.00
-		3337643	0280	MRE012	CABLE TSJ 3 X 8	M	      100	       0	       0	        5,492.00	             0.00	            0.00
+		3337643	0230	MRE012	CABLE TSJ 3 X 8	M	      100	       0	       0	        5,492.00	             0.00	            0.00
 		3337658	0230	MRE011	BARRA TIBAR DE 1 3/4¨	TF	        9	       0	       0	        1,205.29	             0.00	            0.00
 		3337672	0230	MRE012	TERMINAL P/ENTALLAR 6AWG AGU/1/2" 90°	UN	       12	       0	       0	          628.85	             0.00	            0.00
 		3337675	0230	MRE013	TORNILLO HEXAGONAL 5/8 * 4 HN GRADO 8	UN	       17	       0	       0	          212.50	             0.00	            0.00
