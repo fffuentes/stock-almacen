@@ -660,7 +660,7 @@
 		303432	0230	MRE013	PIN EXPANSION 6 * 26 MM INOX	UN	       11	       0	       0	           79.27	             0.00	            0.00
 		303435	0230	MRE013	REMACHE ALUMINIO 3/16 TIPO POP	UN	      345	       0	       0	           79.73	             0.00	            0.00
 		303438	0230	MRE013	ROLDANA DE PRESION 1 /4" INOX	UN	       94	       0	       0	           50.76	             0.00	            0.00
-		303441	0230	MRE013	ROLDANA DE PRESION 1/2" INOX	UN	       54	       0	       0	           48.06	             0.00	            0.00
+		303441	0230	MRE013	ROLDANA DE PRESION 1/2" INOX	UN	       48	       0	       0	           42.72	             0.00	            0.00
 		303442	0230	MRE013	ROLDANA DE PRESION 10MM INOX.	UN	      105	       0	       0	          239.01	             0.00	            0.00
 		303443	0230	MRE013	ROLDANA DE PRESION 16MM. INOX.	UN	       11	       0	       0	           28.18	             0.00	            0.00
 		303444	0230	MRE013	ROLDANA DE PRESION 3/16" INOXIDABLE	UN	      101	       0	       0	           45.45	             0.00	            0.00
@@ -669,7 +669,7 @@
 		303450	0230	MRE013	ROLDANA DE PRESION 5/8" INOX	UN	       28	       0	       0	           39.82	             0.00	            0.00
 		303451	0230	MRE013	ROLDANA DE PRESION 6MM INOX	UN	       90	       0	       0	           48.60	             0.00	            0.00
 		303452	0230	MRE013	ROLDANA DE PRESION 8MM INOX	UN	       45	       0	       0	           31.50	             0.00	            0.00
-		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       65	       0	       0	          115.70	             0.00	            0.00
+		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       63	       0	       0	          112.14	             0.00	            0.00
 		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	       54	       0	       0	            7.56	             0.00	            0.00
 		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	       87	       0	       0	          250.56	             0.00	            0.00
 		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       43	       0	       0	           98.45	             0.00	            0.00
@@ -700,8 +700,8 @@
 		303501	0230	MRE013	TORNILLO ALLEN 10 * 45MM INOX.	UN	       49	       0	       0	          512.60	             0.00	            0.00
 		303502	0230	MRE013	TORNILLO ALLEN 10 * 20MM INOXIDABLE	UN	       16	       0	       0	          124.47	             0.00	            0.00
 		303503	0230	MRE013	TORNILLO ALLEN 10 * 25MM INOX. 7484-9	UN	       37	       0	       0	          218.63	             0.00	            0.00
-		303505	0230	MRE013	TORNILLO ALLEN 10 * 40MM INOXIDABLE	UN	       23	       0	       0	          132.69	             0.00	            0.00
-		303508	0230	MRE013	TORNILLO ALLEN 12 * 35MM INOX	UN	       23	       0	       0	          354.80	             0.00	            0.00
+		303505	0230	MRE013	TORNILLO ALLEN 10 * 40MM INOXIDABLE	UN	       21	       0	       0	          121.15	             0.00	            0.00
+		303508	0230	MRE013	TORNILLO ALLEN 12 * 35MM INOX	UN	       21	       0	       0	          323.95	             0.00	            0.00
 		303509	0230	MRE013	TORNILLO C/PLANA ALLEN 12 * 40MM INOX	UN	       18	       0	       0	          249.20	             0.00	            0.00
 		303513	0230	MRE013	TORNILLO ALLEN 16 * 50MM. INOX.	UN	       14	       0	       0	          312.17	             0.00	            0.00
 		303515	0230	MRE013	TORNILLO ALLEN 3 * 10MM INOX	UN	       35	       0	       0	           38.06	             0.00	            0.00
@@ -796,10 +796,10 @@
 		303745	0230	MRE013	TORNILLO HEXAGONAL 12 * 40MM INOX	UN	       29	       0	       0	          389.80	             0.00	            0.00
 		303752	0230	MRE013	TORNILLO HEXAGONAL 4 * 60MM INOX	UN	       32	       0	       0	          255.33	             0.00	            0.00
 		303757	0230	MRE013	TORNILLO HEXAGONAL 6 * 25M INOX42-9003B	UN	        7	       0	       0	           15.67	             0.00	            0.00
-		303767	0230	MRE013	TUERCA HEXAGONAL 1/2" INOX.	UN	       80	       0	       0	          142.41	             0.00	            0.00
+		303767	0230	MRE013	TUERCA HEXAGONAL 1/2" INOX.	UN	       78	       0	       0	          138.85	             0.00	            0.00
 		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       94	       0	       0	           83.35	             0.00	            0.00
 		303771	0230	MRE013	TUERCA HEXAGONAL 10MM INOX.	UN	       35	       0	       0	          111.34	             0.00	            0.00
-		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       80	       0	       0	          308.56	             0.00	            0.00
+		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       78	       0	       0	          300.85	             0.00	            0.00
 		303773	0230	MRE013	TUERCA HEXAGONAL 3MM INOX	UN	       36	       0	       0	            6.76	             0.00	            0.00
 		303774	0230	MRE013	TUERCA HEXAGONAL 3/16" INOX	UN	      267	       0	       0	          216.27	             0.00	            0.00
 		303775	0230	MRE013	TUERCA HEXAGONAL 3/4" HIERRO NEGRO	UN	        5	       0	       0	           12.95	             0.00	            0.00
@@ -1141,7 +1141,6 @@
 		330332	0231	MRE186	RODILLO 8-070-25-325-5	UN	        1	       0	       0	          216.08	             0.00	            0.00
 		3303471	0230	MRE011	ESPAGUETI 1/8"	TF	       20	       0	       0	          321.58	             0.00	            0.00
 		3303634	0230	MRE011	SELLO MECANICO 1 3/8"	UN	        4	       0	       0	          745.61	             0.00	            0.00
-		3304809	0230	MRE012	BATERIA CR 2032	UN	        4	       0	       0	           98.85	             0.00	            0.00
 		3304927	0230	MRE012	BALASTRO 2*54W 120V	UN	       20	       0	       0	        2,829.85	             0.00	            0.00
 		3305131	0230	MRE004	CORREA A-41	UN	        4	       0	       0	          134.14	             0.00	            0.00
 		3305133	0230	MRE012	VARIADOR DANFOS FC302 3HP 380-500V 2.2KW	UN	        2	       0	       0	       11,524.24	             0.00	            0.00
@@ -1153,7 +1152,7 @@
 		3305873	0230	MRE012	SENSOR FOTOELECTRICO WTV190T-P430 SICK	UN	        1	       0	       0	        4,548.50	             0.00	            0.00
 		330591	0230	MRE115	RULEMAN P/PVC 9000.6992-26	UN	        4	       0	       0	          100.00	             0.00	            0.00
 		3305910	0230	MRE005	RACOR PASAMURO QSS-6	UN	        3	       0	       0	          128.40	             0.00	            0.00
-		3305941	0230	MRE001	TORNILLO HEXAGONAL 1/2" * 2 1/2" INOX	UN	       43	       0	       0	          727.83	             0.00	            0.00
+		3305941	0230	MRE001	TORNILLO HEXAGONAL 1/2" * 2 1/2" INOX	UN	       41	       0	       0	          693.98	             0.00	            0.00
 		3306611	0230	MRE012	CABLE TSJ 3*16	M	       45	       0	       0	          362.24	             0.00	            0.00
 		3308365	0230	MRE012	CANALETA PLASTICA 20MM*12.5MM  LARG 2MTS	UN	        8	       0	       0	          123.60	             0.00	            0.00
 		3308661	0230	MRE006	FAJA DE VELECIDAD VARIABLE 630 HX 200	UN	        1	       0	       0	        1,736.14	             0.00	            0.00
@@ -1316,7 +1315,7 @@
 		3330852	0230	MRE004	CORREA 14GTR-2800-37	UN	        2	       0	       0	        4,672.73	             0.00	            0.00
 		3330853	0230	MRE004	CORREA 14MGT-1750-37	UN	        2	       0	       0	        6,694.08	             0.00	            0.00
 		3330854	0230	MRE004	CORREA 14MGT-1750-68	UN	        2	       0	       0	       11,556.24	             0.00	            0.00
-		3330876	0230	MRE013	TORNILLO HEXAGONAL 1/2" * 3" HN	UN	       48	       0	       0	          219.27	             0.00	            0.00
+		3330876	0230	MRE013	TORNILLO HEXAGONAL 1/2" * 3" HN	UN	       47	       0	       0	          214.70	             0.00	            0.00
 		3330889	0230	MRE002	BEARING 6907 2RS 55X35X10	UN	        5	       0	       0	          892.90	             0.00	            0.00
 		3330952	0230	MRE012	FUSIBLE DE CRISTAL TIPO AMERICANO 30 AMP	UN	        7	       0	       0	           15.61	             0.00	            0.00
 		3330954	0230	MRE003	RETENEDOR 35*53*7	UN	        2	       0	       0	           74.02	             0.00	            0.00
@@ -2912,7 +2911,7 @@
 		358529	0230	MRE013	TUERCA HEX. 1/2" GRADO 5	UN	       76	       0	       0	           69.91	             0.00	            0.00
 		358530	0230	MRE013	ROLDANA PLANA 1/2" GRADO 5	UN	      100	       0	       0	          104.19	             0.00	            0.00
 		358571	0230	MRE013	ROLDANA DE PRESION 1/2" GRADO 5	UN	      112	       0	       0	          144.56	             0.00	            0.00
-		358572	0230	MRE013	TORNILLO HEX. 1/2" X 2" R. CORRIDA GRADO	UN	       42	       0	       0	          185.21	             0.00	            0.00
+		358572	0230	MRE013	TORNILLO HEX. 1/2" X 2" R. CORRIDA GRADO	UN	       41	       0	       0	          180.80	             0.00	            0.00
 		358882	0230	MRE131	MODULO ETHERCAT MAST CAN OPEN EL6751	UN	        2	       0	       0	       12,321.44	             0.00	            0.00
 		359101	0230	MRE113	JUNTA 103359 POS06 FIG71719	UN	       31	       0	       0	       32,094.13	             0.00	            0.00
 		359203	0230	MRE131	RONDELLA PLANA C900ROND.0051	UN	       20	       0	       0	            1.81	             0.00	            0.00
@@ -3463,4 +3462,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,463,804.62	             0.00	       16,160.53
+	*									   16,463,600.38	             0.00	       16,160.53
