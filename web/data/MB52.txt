@@ -105,7 +105,7 @@
 		300414	0230	MRE002	RODAMIENTO 6209 2RS	UN	        6	       0	       0	          668.44	             0.00	            0.00
 		300415	0230	MRE002	RODAMIENTO 6210 2RS = 344733	UN	        7	       0	       0	          947.04	             0.00	            0.00
 		300416	0230	MRE002	RODAMIENTO 6211-2Z	UN	        2	       0	       0	          365.72	             0.00	            0.00
-		300417	0230	MRE002	RODAMIENTO 6212 2RS	UN	       19	       0	       0	        3,831.85	             0.00	            0.00
+		300417	0230	MRE002	RODAMIENTO 6212 2RS	UN	       18	       0	       0	        3,630.17	             0.00	            0.00
 		300418	0230	MRE002	RODAMIENTO 6213 2RS	UN	        6	       0	       0	        1,125.00	             0.00	            0.00
 		300422	0230	MRE002	RODAMIENTO 6218	UN	        6	       0	       0	        3,254.46	             0.00	            0.00
 		300430	0230	MRE002	RODAMIENTO 6300 2RS	UN	        9	       0	       0	          253.09	             0.00	            0.00
@@ -118,7 +118,7 @@
 		300437	0230	MRE002	RODAMIENTO 6307 2RS	UN	        5	       0	       0	          578.60	             0.00	            0.00
 		300438	0230	MRE002	RODAMIENTO 6308-2Z C3	UN	       19	       0	       0	        2,461.18	             0.00	            0.00
 		300439	0230	MRE002	RODAMIENTO 6309 2RS	UN	        2	       0	       0	          372.88	             0.00	            0.00
-		300440	0230	MRE002	RODAMIENTO 6310-2Z FAG	UN	        6	       0	       0	        1,385.05	             0.00	            0.00
+		300440	0230	MRE002	RODAMIENTO 6310-2Z FAG	UN	        5	       0	       0	        1,154.21	             0.00	            0.00
 		300441	0230	MRE002	RODAMIENTO 6311 2RS C3	UN	        5	       0	       0	        2,009.19	             0.00	            0.00
 		300442	0230	MRE002	RODAMIENTO 6311 Z C3 EQUIPO OSM	UN	        2	       0	       0	          626.98	             0.00	            0.00
 		300443	0230	MRE002	RODAMIENTO 6312 2RS C3	UN	        5	       0	       0	        2,723.86	             0.00	            0.00
@@ -477,7 +477,7 @@
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        4	       0	       0	          321.43	             0.00	            0.00
 		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	        8	       0	       0	           85.68	             0.00	            0.00
 		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	        7	       0	       0	          204.08	             0.00	            0.00
-		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	       22	       0	       0	          550.00	             0.00	            0.00
+		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	       21	       0	       0	          525.00	             0.00	            0.00
 		302356	0230	MRE011	TAPON HEMBRA 1/2" PVC	UN	        3	       0	       0	           12.07	             0.00	            0.00
 		302360	0230	MRE011	TAPON HEMBRA 1" PVC	UN	        7	       0	       0	           16.64	             0.00	            0.00
 		302370	0230	MRE011	TAPON MACHO 1" PVC	UN	        3	       0	       0	           29.90	             0.00	            0.00
@@ -3047,7 +3047,7 @@
 		368305	0230	MRE451	BOTTLE STARWHEEL O-RING C500GUARN2021	UN	       12	       0	       0	          372.10	             0.00	            0.00
 		368306	0230	MRE451	O-RING C500GUARN2022	UN	        2	       0	       0	          226.67	             0.00	            0.00
 		368306	0231	MRE451	O-RING C500GUARN2022	UN	        8	       0	       0	          906.66	             0.00	            0.00
-		368307	0231	MRE451	O-RING C500GUARN2023	UN	        7	       0	       0	        3,648.48	             0.00	            0.00
+		368307	0231	MRE451	O-RING C500GUARN2023	UN	        6	       0	       0	        3,127.27	             0.00	            0.00
 		368532	0231	MRE029	RODILLO MA111901	UN	       12	       0	       0	        5,927.95	             0.00	            0.00
 		368533	0230	MRE029	VARILLA CILINDRICA MA111906	UN	        2	       0	       0	       23,209.51	             0.00	            0.00
 		368731	0230	MRE495	VIROLA 8L50000427 SIST. GRUPO ESTRELLA	UN	        1	       0	       0	           33.87	             0.00	            0.00
@@ -3462,4 +3462,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,504,114.34	             0.00	       16,160.53
+	*									   16,503,135.61	             0.00	       16,160.53
