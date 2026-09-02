@@ -318,7 +318,7 @@
 		301683	0230	MRE011	ABRAZADERA HANGER HG 1 1/4 IN CLAMP	UN	       10	       0	       0	           30.40	             0.00	            0.00
 		301684	0230	MRE011	ABRAZADERA 1 1/4" UNISTRUT	UN	       15	       0	       0	           66.68	             0.00	            0.00
 		301686	0230	MRE011	ABRAZADERA 1" HANGERDE PENDULO	UN	       19	       0	       0	           69.30	             0.00	            0.00
-		301688	0230	MRE011	ABRAZADERA 1/2" CASTIGADERA	UN	       15	       0	       0	          108.17	             0.00	            0.00
+		301688	0230	MRE011	ABRAZADERA 1/2" CASTIGADERA	UN	        7	       0	       0	           50.48	             0.00	            0.00
 		301689	0230	MRE011	ABRAZADERA 1/2" HANGERDE PENDULO	UN	        9	       0	       0	           18.72	             0.00	            0.00
 		301690	0230	MRE011	ABRAZADERA 1/2" UNISTRUT	UN	       10	       0	       0	           19.50	             0.00	            0.00
 		301691	0230	MRE011	LAMINA MOSQUITERA H.N. 3' X 7' X 1/32"	UN	        3	       0	       0	          595.28	             0.00	            0.00
@@ -388,7 +388,6 @@
 		301880	0230	MRE011	CODO 3/4" 90° A.INOX	UN	        2	       0	       0	           43.75	             0.00	            0.00
 		301881	0230	MRE011	CODO 3/4" 90º H.G.	UN	        6	       0	       0	           77.52	             0.00	            0.00
 		301901	0230	MRE011	COPLA 1" H.G.	UN	        3	       0	       0	           34.92	             0.00	            0.00
-		301903	0230	MRE011	COPLA 1/2" H.G.	UN	        3	       0	       0	           26.52	             0.00	            0.00
 		301904	0230	MRE011	COPLA 1/2" PVC	UN	       18	       0	       0	           32.15	             0.00	            0.00
 		301905	0230	MRE011	COPLA 1/4" A.INOX	UN	        9	       0	       0	           95.75	             0.00	            0.00
 		301908	0230	MRE011	COPLA 2" H.G.	UN	       10	       0	       0	          193.80	             0.00	            0.00
@@ -399,7 +398,7 @@
 		301933	0230	MRE011	DISCO 9" PARA PULIR	UN	        2	       0	       0	           61.56	             0.00	            0.00
 		301936	0230	MRE011	ELECTRODO 1/8" 6011	UN	       15	       0	       0	          237.75	             0.00	            0.00
 		301937	0230	MRE011	ELECTRODO 1/8" 6013 PUNTO CAFE	LB	       22	       0	       0	          301.69	             0.00	            0.00
-		301938	0230	MRE011	ELECTRODO 1/8" 7018	LB	        4	       0	       0	           64.32	             0.00	            0.00
+		301938	0230	MRE011	ELECTRODO 1/8" 7018	LB	        2	       0	       0	           32.16	             0.00	            0.00
 		301939	0230	MRE011	ELECTRODO 1/8" A. INOX. UTP 65	LB	       13	       0	       0	        3,011.12	             0.00	            0.00
 		301941	0230	MRE011	ELECTRODO 1/8" UTP 312	LB	        1	       0	       0	          129.47	             0.00	            0.00
 		301942	0230	MRE011	ELECTRODO 3/32 UTP 312	LB	       14	       0	       0	        2,970.48	             0.00	            0.00
@@ -435,11 +434,10 @@
 		302145	0230	MRE011	MANGUERA TAYGON 3/4"	TF	      150	       0	       0	        1,800.00	             0.00	            0.00
 		302152	0230	MRE011	NEOPRENO ¼" CON LONA	UN	        1	       0	       0	        2,107.15	             0.00	            0.00
 		302155	0230	MRE011	NIPLE 1/2" * 5" H.G.	UN	        5	       0	       0	           53.60	             0.00	            0.00
-		302156	0230	MRE011	NIPLE 1/4" * 5" H.G.	UN	        9	       0	       0	          100.53	             0.00	            0.00
+		302156	0230	MRE011	NIPLE 1/4" * 5" H.G.	UN	        6	       0	       0	           67.02	             0.00	            0.00
 		302158	0230	MRE011	NIPLE 3/4" * 3" A.INOX	UN	        3	       0	       0	           88.40	             0.00	            0.00
 		302159	0230	MRE011	NIPLE 3/4" * 5" H.G.	UN	       12	       0	       0	          111.62	             0.00	            0.00
 		302161	0230	MRE011	NIPLE 1/2" * 4" H.N. CORRIDO	UN	        3	       0	       0	           25.90	             0.00	            0.00
-		302163	0230	MRE011	NIPLE 1/4" * 3" A.INOX	UN	        2	       0	       0	           39.17	             0.00	            0.00
 		302164	0230	MRE011	NIPLE 1/4" * 3" H.G.	UN	        4	       0	       0	           36.85	             0.00	            0.00
 		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        1	       0	       0	          216.07	             0.00	            0.00
 		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	       14	       0	       0	          475.02	             0.00	            0.00
@@ -447,7 +445,6 @@
 		302208	0230	MRE011	PISTOLA PARA CARTUCHO SILICONE	UN	        1	       0	       0	           71.43	             0.00	            0.00
 		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        3	       0	       0	        1,781.25	             0.00	            0.00
 		302224	0230	MRE011	REDUCIDOR BUSHING 1" A 1/2" H.G.	UN	        5	       0	       0	           53.52	             0.00	            0.00
-		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	        3	       0	       0	           26.79	             0.00	            0.00
 		302234	0230	MRE011	REDUCIDOR BUSHING 1 1/2" A 1" H.G.	UN	        3	       0	       0	           50.90	             0.00	            0.00
 		302239	0230	MRE011	UNION REDUCTOR BUSHING HG 2IN X 1 1/2IN	UN	        2	       0	       0	           46.50	             0.00	            0.00
 		302245	0230	MRE011	REDUCCION BUSHING INOX 3/4 - 1/2 NPT	UN	        7	       0	       0	          196.92	             0.00	            0.00
@@ -469,7 +466,8 @@
 		302333	0230	MRE011	SELLO MECANICO 1 5/8"	UN	        1	       0	       0	          277.90	             0.00	            0.00
 		302333	0280	MRE011	SELLO MECANICO 1 5/8"	UN	        3	       0	       0	          833.71	             0.00	            0.00
 		302336	0230	MRE011	SELLO MECANICO 3/4"	UN	        3	       0	       0	          226.19	             0.00	            0.00
-		302337	0230	MRE011	SELLO MECANICO 30MM	UN	        1	       0	       0	          200.89	             0.00	            0.00
+		302337	0230	MRE011	SELLO MECANICO 30MM	UN	        1	       0	       0	          122.77	             0.00	            0.00
+		302337	0280	MRE011	SELLO MECANICO 30MM	UN	        5	       0	       0	          613.87	             0.00	            0.00
 		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	        2	       0	       0	          151.78	             0.00	            0.00
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        4	       0	       0	          321.43	             0.00	            0.00
 		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	        8	       0	       0	           85.68	             0.00	            0.00
@@ -492,7 +490,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       81	       0	       0	          325.61	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       79	       0	       0	          317.57	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	        1	       0	       0	          307.87	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
 		302447	0230	MRE011	UNION UNIVERSAL 1 1/2" H.G.	UN	        4	       0	       0	          340.01	             0.00	            0.00
@@ -516,7 +514,7 @@
 		302479	0230	MRE011	VALVULA BOLA 1/2" PVC	UN	        5	       0	       0	           53.55	             0.00	            0.00
 		302480	0230	MRE011	VALVULA 3/4" DE BOLA ACERO INOXIDABLE	UN	        6	       0	       0	          484.15	             0.00	            0.00
 		302483	0230	MRE011	VALVULA DE BOLA 1 1/4" ACERO INOXIDABLE	UN	        2	       0	       0	          767.86	             0.00	            0.00
-		302484	0230	MRE011	VALVULA DE BOLA 1/4" 200 PSI A.INOX	UN	        6	       0	       0	          514.74	             0.00	            0.00
+		302484	0230	MRE011	VALVULA DE BOLA 1/4" 200 PSI A.INOX	UN	        5	       0	       0	          428.95	             0.00	            0.00
 		302494	0230	MRE011	VALVULA DE BOLA 2" H/N	UN	        4	       0	       0	        1,334.08	             0.00	            0.00
 		302500	0230	MRE011	VALVULA DE COMPUERTA 1" HN	UN	        1	       0	       0	          500.00	             0.00	            0.00
 		302534	0230	MRE011	VARILLA TIG 1/16" DE APORTE. (UN=LIBRA)	UN	       10	       0	       0	          535.75	             0.00	            0.00
@@ -859,7 +857,7 @@
 		304839	0230	MRE004	CORREA B87	UN	        2	       0	       0	          157.36	             0.00	            0.00
 		304849	0230	MRE005	RACOR CODO QSL 1/8-4	UN	        5	       0	       0	          130.59	             0.00	            0.00
 		304856	0230	MRE006	SPROCKET 60B-18	UN	        2	       0	       0	          258.49	             0.00	            0.00
-		305136	0230	MRE011	TUBO GALVANIZADO DE 1/2	UN	        7	       0	       0	          736.37	             0.00	            0.00
+		305136	0230	MRE011	TUBO GALVANIZADO DE 1/2	UN	        6	       0	       0	          631.17	             0.00	            0.00
 		305138	0230	MRE011	TUBO PVC DE 1/2"	UN	        3	       0	       0	           81.16	             0.00	            0.00
 		305185	0230	MRE012	UPS 850VA 120V APC	UN	        2	       0	       0	        2,229.60	             0.00	            0.00
 		305201	0230	MRE012	BORNE A TIERRA AB1T432	UN	       15	       0	       0	          308.85	             0.00	            0.00
@@ -3459,4 +3457,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,465,232.71	             0.00	       16,160.53
+	*									   16,465,353.59	             0.00	       16,160.53
