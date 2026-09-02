@@ -354,7 +354,6 @@
 		301783	0230	MRE011	BROCA 6MM. HSS	UN	       26	       0	       0	          430.41	             0.00	            0.00
 		301789	0230	MRE011	BROCA DE CENTRO No. 3	UN	        3	       0	       0	          278.54	             0.00	            0.00
 		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	        1	       0	       0	           62.50	             0.00	            0.00
-		301791	0230	MRE011	BROCA DE CENTRO No. 5	UN	        1	       0	       0	           40.18	             0.00	            0.00
 		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	       14	       0	       0	           68.74	             0.00	            0.00
 		301794	0230	MRE011	BROCHA PLASTICO 2"	UN	        7	       0	       0	           53.20	             0.00	            0.00
 		301795	0230	MRE011	BROCHA PLASTICO 3"	UN	        5	       0	       0	           44.64	             0.00	            0.00
@@ -530,7 +529,8 @@
 		302576	0230	MRE012	BATERIA 3.6 V P/SIMATIC 100 U SIEMENS	UN	        3	       0	       0	        2,441.07	             0.00	            0.00
 		302577	0230	MRE012	BATERIA 9V CUADRADA	UN	       18	       0	       0	          501.58	             0.00	            0.00
 		302578	0230	MRE012	BATERIA ALCALINA DOBLE AA	UN	       55	       0	       0	          294.80	             0.00	            0.00
-		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       46	       0	       0	          763.17	             0.00	            0.00
+		302579	0230	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       46	       0	       0	          680.56	             0.00	            0.00
+		302579	0280	MRE012	BATERIA ALCALINA TIPO "C" 1.5V	UN	       36	       0	       0	          532.61	             0.00	            0.00
 		302580	0230	MRE012	BATERIA ALCALINA TRIPLE AAA ENERGIZER	UN	       72	       0	       0	        1,073.67	             0.00	            0.00
 		302583	0230	MRE012	BATERIA RECARG. 4.8VDC /270MAH /CR-P2 6V	UN	        3	       0	       0	          941.77	             0.00	            0.00
 		302599	0230	MRE012	BOBINA 120V. 60HZ DANFOSS	UN	        2	       0	       0	        1,419.63	             0.00	            0.00
@@ -926,7 +926,6 @@
 		310517	0230	MRE007	RODO LOCO 25T. 35MM	UN	        4	       0	       0	        2,678.60	             0.00	            0.00
 		310679	0230	MRE007	RODO LOCO 25T. 45MM	UN	        3	       0	       0	        1,387.11	             0.00	            0.00
 		310812	0230	MRE011	BARRA ACERO INOX 45MM	TF	        5	       0	       0	        2,366.07	             0.00	            0.00
-		310816	0230	MRE011	BARRA DE BRONCE 1 1/2"	TF	    1.500	       0	       0	        1,540.18	             0.00	            0.00
 		310819	0230	MRE011	BARRA DE BRONCE 3"	TF	        3	       0	       0	        6,182.14	             0.00	            0.00
 		310831	0230	MRE011	BARRA TERMOPLASTICA 1"	TF	    4.500	       0	       0	          292.72	             0.00	            0.00
 		310835	0230	MRE011	BARRA TERMOPLASTICA 3"	TF	        2	       0	       0	        1,116.08	             0.00	            0.00
@@ -1120,7 +1119,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       10	       0	       0	        4,598.05	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      175	       0	       0	        1,093.75	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      165	       0	       0	        1,031.25	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        3	       0	       0	           96.41	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -1279,7 +1278,7 @@
 		3325257	0230	MRE002	RODAMIENTO 208 WDD 40mm x 80mm x 18mm	UN	        3	       0	       0	          959.92	             0.00	            0.00
 		3325258	0230	MRE002	RODAMIENTO 6307 CON SEGURO EXT.	UN	        4	       0	       0	          726.53	             0.00	            0.00
 		3325260	0230	MRE001	MANERAL 2 POS VALV BOLA DN 80-100/3"-4"	UN	        5	       0	       0	        1,571.59	             0.00	            0.00
-		3325432	0230	MRE011	BURIL TUGSTENO DE PUNTA 1/2"	UN	        3	       0	       0	          200.89	             0.00	            0.00
+		3325432	0230	MRE011	BURIL TUGSTENO DE PUNTA 1/2"	UN	        2	       0	       0	          133.93	             0.00	            0.00
 		3325604	0230	MRE012	SIMATIC HMI TP1500 6AV2124-0QC02-0AX0	UN	        1	       0	       0	       42,582.59	             0.00	            0.00
 		3325661	0230	MRE005	JUNTAS FESTO DNC-80-PPV-A	JGO	        5	       0	       0	        9,795.76	             0.00	            0.00
 		3325697	0230	MRE001	CHEQUE VERTICAL 2" ACERO INOX CLAMP.	UN	        2	       0	       0	        2,857.15	             0.00	            0.00
@@ -2840,6 +2839,7 @@
 		3511550	0230	MRE011	BANDERIN INTERCAMBIO POS 14 PMR0135PACK	UN	        1	       0	       0	        6,579.46	             0.00	            0.00
 		3511724	0230	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	        8,214.29	             0.00	            0.00
 		3511988	0230	MRE012	MANDOGIRATORIO_3VA9257-OFK21	UN	        1	       0	       0	        2,544.65	             0.00	            0.00
+		3512003	0280	MRE012	SIMATICS7_MEMORY_CARD_6ES7954_8LL04	UN	        2	       0	       0	        3,750.00	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
 		351383	0230	MRE113	TUERCA HHA016/26/210823	UN	        7	       0	       0	           35.87	             0.00	            0.00
@@ -3459,4 +3459,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,462,742.53	             0.00	       16,160.53
+	*									   16,465,232.71	             0.00	       16,160.53
