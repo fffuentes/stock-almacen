@@ -355,7 +355,6 @@
 		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	        1	       0	       0	           62.50	             0.00	            0.00
 		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	        2	       0	       0	            9.82	             0.00	            0.00
 		301795	0230	MRE011	BROCHA PLASTICO 3"	UN	        5	       0	       0	           44.64	             0.00	            0.00
-		301796	0230	MRE011	BROCHA PLASTICO 4"	UN	       10	       0	       0	          102.70	             0.00	            0.00
 		301797	0230	MGR055	BROCHA DE CERDA 5""	UN	        6	       0	       0	          135.47	             0.00	            0.00
 		301802	0230	MRE011	MEMB EPDM SILVER II PARA DIFUSOR 9 COM	UN	       42	       0	       0	       12,708.76	             0.00	            0.00
 		301804	0230	MRE011	BURIL DE COBALTO 1/2X1/2"	UN	        4	       0	       0	          578.54	             0.00	            0.00
@@ -3437,4 +3436,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,534,600.31	             0.00	       16,160.53
+	*									   16,534,497.61	             0.00	       16,160.53
