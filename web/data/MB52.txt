@@ -404,8 +404,7 @@
 		302024	0230	MRE011	FRESA 1/8" 4 FILOS HSS	UN	        3	       0	       0	          201.00	             0.00	            0.00
 		302026	0230	MRE011	FRESA 14MM 4 FILOS HSS	UN	        3	       0	       0	          750.00	             0.00	            0.00
 		302030	0230	MRE011	FRESA 3/16" 4 FILOS HSS	UN	        2	       0	       0	          178.57	             0.00	            0.00
-		302033	0230	MRE011	FRESA 5/16" 2 FILOS HSS	UN	        2	       0	       0	          241.06	             0.00	            0.00
-		302034	0230	MRE011	FRESA 5/16" 4 FILOS HSS	UN	        8	       0	       0	        1,000.00	             0.00	            0.00
+		302034	0230	MRE011	FRESA 5/16" 4 FILOS HSS	UN	        6	       0	       0	          750.00	             0.00	            0.00
 		302085	0230	MRE011	LIJA DE AGUA No. 100	UN	       83	       0	       0	          291.74	             0.00	            0.00
 		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	       23	       0	       0	           75.31	             0.00	            0.00
 		302094	0230	MRE011	LIJA DE AGUA No. 80	UN	       53	       0	       0	          323.50	             0.00	            0.00
@@ -908,7 +907,7 @@
 		310517	0230	MRE007	RODO LOCO 25T. 35MM	UN	        4	       0	       0	        2,678.60	             0.00	            0.00
 		310679	0230	MRE007	RODO LOCO 25T. 45MM	UN	        3	       0	       0	        1,387.11	             0.00	            0.00
 		310812	0230	MRE011	BARRA ACERO INOX 45MM	TF	        5	       0	       0	        2,366.07	             0.00	            0.00
-		310816	0230	MRE011	BARRA DE BRONCE 1 1/2"	TF	    4.500	       0	       0	        2,828.61	             0.00	            0.00
+		310816	0230	MRE011	BARRA DE BRONCE 1 1/2"	TF	    3.500	       0	       0	        2,200.03	             0.00	            0.00
 		310819	0230	MRE011	BARRA DE BRONCE 3"	TF	        3	       0	       0	        6,182.14	             0.00	            0.00
 		310831	0230	MRE011	BARRA TERMOPLASTICA 1"	TF	    4.500	       0	       0	          292.72	             0.00	            0.00
 		310835	0230	MRE011	BARRA TERMOPLASTICA 3"	TF	        1	       0	       0	          558.04	             0.00	            0.00
@@ -1098,7 +1097,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       10	       0	       0	        4,598.05	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      652	       0	       0	        4,075.00	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      647	       0	       0	        4,043.75	             0.00	            0.00
 		3300821	0230	MRE012	ALARMA SONORA 110V	UN	        1	       0	       0	          574.50	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        2	       0	       0	           64.27	             0.00	            0.00
@@ -3428,4 +3427,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,590,724.56	             0.00	       16,160.53
+	*									   16,589,573.67	             0.00	       16,160.53
