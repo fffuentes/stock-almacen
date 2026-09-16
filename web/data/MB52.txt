@@ -3,7 +3,7 @@
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    7,171	       0	       0	      126,846.19	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    7,171	       0	       0	      126,845.95	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	       17	       0	       0	          567.34	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        5	       0	       0	          207.74	             0.00	            0.00
@@ -258,10 +258,10 @@
 		301113	0230	MRE005	RACOR QST-8	UN	       24	       0	       0	        1,253.71	             0.00	            0.00
 		301125	0230	MRE005	REDUCCION D-3/8-1/2 3385	UN	        7	       0	       0	          162.54	             0.00	            0.00
 		301126	0230	MRE005	REDUCIDOR NEUM. D-1/8i-1/4a	UN	        4	       0	       0	           48.76	             0.00	            0.00
-		301127	0230	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        2	       0	       0	        1,904.20	             0.00	            0.00
+		301127	0230	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        1	       0	       0	          952.10	             0.00	            0.00
 		301136	0230	MRE005	REGULADOR DE CAUDAL GRLA 3/8	UN	        2	       0	       0	          702.22	             0.00	            0.00
 		301140	0230	MRE005	REGULADOR DE PRESION LR-1/4-D MIDI	UN	        1	       0	       0	          921.76	             0.00	            0.00
-		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        4	       0	       0	          448.04	             0.00	            0.00
+		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        3	       0	       0	          336.03	             0.00	            0.00
 		301166	0230	MRE005	UNIDAD MANTENIMIENTO FRC-1/2"-D-MIDI	UN	        3	       0	       0	        5,806.39	             0.00	            0.00
 		301183	0230	MRE006	CADENA DOBLE No. 60 P/ESLABON	TF	       20	       0	       0	        1,574.72	             0.00	            0.00
 		301186	0230	MRE006	CADENA No. 60 P/ESLABON	TF	       20	       0	       0	          967.30	             0.00	            0.00
@@ -394,7 +394,7 @@
 		301945	0230	MRE011	ELECTRODO 3/32" 7018	LB	       11	       0	       0	          185.23	             0.00	            0.00
 		301946	0230	MRE011	ELECTRODO 3/32" ACERO INOX UTP65	LB	        2	       0	       0	          317.86	             0.00	            0.00
 		301961	0230	MRE011	ESPAGUETI 1/4"	TF	       40	       0	       0	          991.20	             0.00	            0.00
-		301962	0230	MRE011	ESPAGUETI 4MM	TF	       12	       0	       0	           32.40	             0.00	            0.00
+		301962	0230	MRE011	ESPAGUETI 4MM	TF	        8	       0	       0	           21.60	             0.00	            0.00
 		301967	0230	MRE011	ESTOPA 1/2" TEFLONADA	TF	       15	       0	       0	          468.75	             0.00	            0.00
 		301969	0230	MRE011	ESTOPA 1/8" GRAFITADA	TF	       34	       0	       0	          263.50	             0.00	            0.00
 		301973	0230	MRE011	ESTOPA 3/8" TEFLONADA	TF	        5	       0	       0	          245.53	             0.00	            0.00
@@ -451,7 +451,7 @@
 		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	        2	       0	       0	          151.78	             0.00	            0.00
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        4	       0	       0	          321.43	             0.00	            0.00
 		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	        8	       0	       0	           85.68	             0.00	            0.00
-		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       47	       0	       0	        1,204.08	             0.00	            0.00
+		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       46	       0	       0	        1,178.46	             0.00	            0.00
 		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	       15	       0	       0	          375.00	             0.00	            0.00
 		302356	0230	MRE011	TAPON HEMBRA 1/2" PVC	UN	        3	       0	       0	           12.07	             0.00	            0.00
 		302360	0230	MRE011	TAPON HEMBRA 1" PVC	UN	        7	       0	       0	           16.64	             0.00	            0.00
@@ -470,7 +470,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       41	       0	       0	          164.81	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       39	       0	       0	          156.77	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	       16	       0	       0	        4,359.22	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
 		302447	0230	MRE011	UNION UNIVERSAL 1 1/2" H.G.	UN	        4	       0	       0	          340.01	             0.00	            0.00
@@ -859,7 +859,7 @@
 		307342	0230	MRE001	CODO 2", 45° SOLDABLE INOX	UN	        3	       0	       0	          308.10	             0.00	            0.00
 		307416	0230	MRE003	RETENEDOR 30*47*7	UN	        5	       0	       0	          138.77	             0.00	            0.00
 		307437	0230	MRE005	RACOR QS-12	UN	        9	       0	       0	          501.38	             0.00	            0.00
-		307731	0230	MRE013	TORNILLO HEX. 1/2" * 4"	UN	       58	       0	       0	          656.62	             0.00	            0.00
+		307731	0230	MRE013	TORNILLO HEX. 1/2" * 4"	UN	       56	       0	       0	          633.98	             0.00	            0.00
 		307747	0230	MRE013	TORNILLO HEX. 5/16" * 3 1/2"	UN	       47	       0	       0	          446.55	             0.00	            0.00
 		307855	0230	MRE004	CORREA B54	UN	        6	       0	       0	          429.51	             0.00	            0.00
 		307980	0230	MRE013	ESPARRAGO 16 MM INOX	TF	        2	       0	       0	          441.08	             0.00	            0.00
@@ -942,7 +942,7 @@
 		318984	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 2" INOX	UN	        7	       0	       0	          262.50	             0.00	            0.00
 		318986	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 1" INOX	UN	       10	       0	       0	          167.70	             0.00	            0.00
 		319319	0230	MRE011	ARMAFLEX EN LAMINAS 36 X 48 X 3/4"	UN	        3	       0	       0	          952.36	             0.00	            0.00
-		319326	0230	MRE011	SUPER BONDER 495	UN	       33	       0	       0	        3,329.70	             0.00	            0.00
+		319326	0230	MRE011	SUPER BONDER 495	UN	       32	       0	       0	        3,228.80	             0.00	            0.00
 		319772	0230	MRE001	TUBO CUADRADO DE ACERO INOX DE 2"x2"x1.5	UN	        2	       0	       0	          834.48	             0.00	            0.00
 		319774	0230	MRE011	HEMBRA PLATINA INOX DE 1/8"x1/2"	UN	        4	       0	       0	          196.44	             0.00	            0.00
 		319819	0230	MRE004	CORREA EN V TIPO A76	UN	        6	       0	       0	          292.39	             0.00	            0.00
@@ -1088,7 +1088,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       10	       0	       0	        4,598.05	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      617	       0	       0	        3,856.25	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      607	       0	       0	        3,793.75	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        2	       0	       0	           64.27	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -1248,7 +1248,7 @@
 		3325604	0230	MRE012	SIMATIC HMI TP1500 6AV2124-0QC02-0AX0	UN	        1	       0	       0	       42,582.59	             0.00	            0.00
 		3325661	0230	MRE005	JUNTAS FESTO DNC-80-PPV-A	JGO	        5	       0	       0	        9,795.76	             0.00	            0.00
 		3325697	0230	MRE001	CHEQUE VERTICAL 2" ACERO INOX CLAMP.	UN	        2	       0	       0	        2,857.15	             0.00	            0.00
-		3325699	0230	MRE011	ESPUMA DE/POLIURETANO SIKABOOM 500ML	UN	       13	       0	       0	        1,129.46	             0.00	            0.00
+		3325699	0230	MRE011	ESPUMA DE/POLIURETANO SIKABOOM 500ML	UN	       12	       0	       0	        1,042.58	             0.00	            0.00
 		3325762	0230	MRE010	CINTA DE VYNIL 1/2" BLANCA 6001266U	UN	       11	       0	       0	        3,371.01	             0.00	            0.00
 		332608	0231	MRE295	PRESSURE SPRING 1-099-04-732-0	UN	        4	       0	       0	          117.08	             0.00	            0.00
 		3326220	0230	MRE001	VALVULA MARIPOSA DE 3" TYPO WAFER	UN	        2	       0	       0	        1,482.14	             0.00	            0.00
@@ -1435,14 +1435,12 @@
 		3343974	0230	MRE012	SENSOR AUTOSWITC DETECTOR SMC PNP	UN	        2	       0	       0	          446.43	             0.00	            0.00
 		3344095	0230	MRE012	LAMPARA LED 2 TUBOS 18 WATTS IP65	UN	       17	       0	       0	        2,440.29	             0.00	            0.00
 		3344124	0230	MRE012	PT100 TRMRSIS J-50 A 600 C 200MM	UN	        1	       0	       0	        3,566.96	             0.00	            0.00
-		3344230	0230	MRE011	RODO GIRATORIO C/FRENO INOX. 4"	UN	        2	       0	       0	        1,541.08	             0.00	            0.00
 		3344324	0230	MRE011	LAMINA POLICARBONATO DE 1/16"x4´x8´	UN	        1	       0	       0	        1,160.71	             0.00	            0.00
-		3344386	0230	MRE007	RODO FIJO 4"	UN	        2	       0	       0	        1,317.86	             0.00	            0.00
 		3344423	0230	MRE001	ABRAZADERA FIJACION HEX. DE 1 1/2" INOX	UN	        2	       0	       0	           37.50	             0.00	            0.00
 		3344464	0230	MRE013	TORNILLO BUSCA ROSCA # 08 X 2"	UN	       44	       0	       0	           34.75	             0.00	            0.00
 		3344850	0230	MRE011	FIBRA CAFÉ 7440	UN	        9	       0	       0	          148.68	             0.00	            0.00
 		3344851	0230	MRE011	FIBRA MARRON 7447	UN	       21	       0	       0	          244.18	             0.00	            0.00
-		3344852	0230	MRE011	LIMPIADOR STAINLESS STEEL	UN	       14	       0	       0	        1,312.50	             0.00	            0.00
+		3344852	0230	MRE011	LIMPIADOR STAINLESS STEEL	UN	       13	       0	       0	        1,218.75	             0.00	            0.00
 		3344853	0230	MRE011	FIBRA POWER 2000	UN	       20	       0	       0	          156.15	             0.00	            0.00
 		3344930	0230	MRE012	MODULO DE SALIDA DIGITAL 1769-OA16	UN	        1	       0	       0	        6,194.15	             0.00	            0.00
 		3345457	0231	MRE014	CELEROL FL7201 0903139410/0902813197	L	       20	       0	       0	        8,240.03	             0.00	            0.00
@@ -1626,7 +1624,7 @@
 		3395268	0230	MRE012	VARIADOR POWER FLEX 525 20 HP 480 VAC	UN	        1	       0	       0	       15,404.28	             0.00	            0.00
 		3395695	0230	MRE007	BANDA XLG1505-595MM REXNORD	TF	  137.630	       0	       0	       90,534.49	             0.00	            0.00
 		3396091	0230	MRE001	FLANGE INOX  2 1/2"	UN	        1	       0	       0	          437.50	             0.00	            0.00
-		3396176	0230	MRE007	SPROCKET RC60 B 27DT BP	UN	        4	       0	       0	        1,729.04	             0.00	            0.00
+		3396176	0230	MRE007	SPROCKET RC60 B 27DT BP	UN	        4	       0	       0	       10,564.86	             0.00	            0.00
 		3396834	0230	MRE003	RETENEDOR 42433	UN	        2	       0	       0	          443.00	             0.00	            0.00
 		3396841	0230	MRE002	RODAMIENTO M822049	UN	        4	       0	       0	        6,303.60	             0.00	            0.00
 		3398091	0230	MRE012	SENSOR TEMPERATURA TMR35-A1DBDBAB1ABA	UN	        1	       0	       0	        6,875.00	             0.00	            0.00
@@ -2444,7 +2442,7 @@
 		3451535	0231	MRE1195	SENSOR SEGURIDAD EL.0005849 301999213764	UN	        6	       0	       0	        6,116.60	             0.00	            0.00
 		3451536	0231	MRE1195	INTERRUPTOR EL.0006361 301999222313	UN	        4	       0	       0	        9,746.01	             0.00	            0.00
 		3451538	0231	MRE1195	PROFINET EL.0003467 301999201069	UN	        4	       0	       0	       18,233.64	             0.00	            0.00
-		3451851	0231	MRE1185	BRAZO DE TRANSMISION B06LR/36LM 95340665	UN	       12	       0	       0	      158,536.00	             0.00	            0.00
+		3451851	0231	MRE1185	BRAZO DE TRANSMISION B06LR/36LM 95340665	UN	       12	       0	       0	      158,867.60	             0.00	            0.00
 		3451852	0231	MRE1185	PINZA GABEL HAKEN XHR 95340576	UN	       10	       0	       0	       71,873.84	             0.00	            0.00
 		3451961	0231	MRE000178	INTERRUPTOR DE APROXIMACION 0904182995	UN	        4	       0	       0	          931.53	             0.00	            0.00
 		3451962	0231	MRE000178	ESTRELLA BLOQUEO 7 ESTN 0905260215	UN	        1	       0	       0	        1,991.59	             0.00	            0.00
@@ -2565,7 +2563,7 @@
 		3458377	0231	MRE1196	TORNILLO M4X10 ISO 4762 301999229130	UN	       15	       0	       0	           56.02	             0.00	            0.00
 		3458378	0231	MRE1196	CLAVIJA P-0060198 301999229127	UN	       15	       0	       0	       14,213.40	             0.00	            0.00
 		3459451	0230	MRE113	SOPORTE CILINDRO SIMONAZZI 158928	UN	        5	       0	       0	       22,790.15	             0.00	            0.00
-		3459782	0231	MRE1185	RESORTE DE PRESION MANDRIL 94172521	UN	       40	       0	       0	       10,847.58	             0.00	            0.00
+		3459782	0231	MRE1185	RESORTE DE PRESION MANDRIL 94172521	UN	       40	       0	       0	       10,851.27	             0.00	            0.00
 		346783	0230	MRE438	SEAL GDI425 (80000GDI425)	UN	        4	       0	       0	          635.92	             0.00	            0.00
 		346867	0230	MRE295	O-RING 0-900-06-024-2	UN	        4	       0	       0	        1,346.25	             0.00	            0.00
 		347231	0230	MRE008	FILTER 5 MICRON 44369	UN	        1	       0	       0	          284.57	             0.00	            0.00
@@ -2803,7 +2801,6 @@
 		353807	0230	MRE740	RELE ESTADO SOLIDO EG100663 (EE300022)	UN	        3	       0	       0	       11,442.67	             0.00	            0.00
 		354145	0230	MRE002	RODAMIENTO 6317ZZC3/2AS	UN	        2	       0	       0	        3,261.00	             0.00	            0.00
 		354233	0230	MRE014	ACEITE OMEGA 647 SAE 90	L	       20	       0	       0	       10,785.66	             0.00	            0.00
-		354322	0230	MRE014	GRASA OMEGA 58 NLGI 0	KG	        5	       0	       0	        3,297.59	             0.00	            0.00
 		354324	0230	MRE014	ACEITE OMEGA 690 ISO 460	L	       20	       0	       0	       10,977.08	             0.00	            0.00
 		354326	0230	MRE014	ACEITE ZETALUBE 228 ISO 460	L	        4	       0	       0	          598.56	             0.00	            0.00
 		354686	0230	MRE452	SERVO MOTOR EM100070	UN	        1	       0	       0	       31,209.14	             0.00	            0.00
@@ -3405,4 +3402,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,507,348.14	             0.00	       16,160.53
+	*									   16,508,887.24	             0.00	       16,160.53
