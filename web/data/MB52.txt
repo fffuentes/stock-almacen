@@ -248,7 +248,7 @@
 		301097	0230	MRE005	RACOR QSL-1/2-12 CURVO	UN	        2	       0	       0	          163.66	             0.00	            0.00
 		301098	0230	MRE005	RACOR QSL-1/4-10 CURVO	UN	       12	       0	       0	          550.20	             0.00	            0.00
 		301099	0230	MRE005	RACOR QSL-1/4-12 CURVO	UN	        6	       0	       0	          306.39	             0.00	            0.00
-		301100	0230	MRE005	RACOR QSL-1/4-6 CODO	UN	       19	       0	       0	          584.44	             0.00	            0.00
+		301100	0230	MRE005	RACOR QSL-1/4-6 CODO	UN	       17	       0	       0	          522.92	             0.00	            0.00
 		301101	0230	MRE005	RACOR QSL-1/4-8 CODO	UN	       15	       0	       0	          522.43	             0.00	            0.00
 		301102	0230	MRE005	RACOR QSL-1/8-6 CODO	UN	       22	       0	       0	          612.86	             0.00	            0.00
 		301103	0230	MRE005	RACOR QSL-1/8-8 CODO	UN	       18	       0	       0	          604.21	             0.00	            0.00
@@ -345,7 +345,7 @@
 		301781	0230	MRE011	BROCA 5/8" CONCRETO.	UN	        2	       0	       0	           35.35	             0.00	            0.00
 		301783	0230	MRE011	BROCA 6MM. HSS	UN	       26	       0	       0	          430.41	             0.00	            0.00
 		301789	0230	MRE011	BROCA DE CENTRO No. 3	UN	        2	       0	       0	          185.69	             0.00	            0.00
-		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	        9	       0	       0	          383.94	             0.00	            0.00
+		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	        8	       0	       0	          341.28	             0.00	            0.00
 		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	        2	       0	       0	            9.82	             0.00	            0.00
 		301795	0230	MRE011	BROCHA PLASTICO 3"	UN	        5	       0	       0	           44.64	             0.00	            0.00
 		301797	0230	MGR055	BROCHA DE CERDA 5""	UN	        4	       0	       0	           90.31	             0.00	            0.00
@@ -873,7 +873,7 @@
 		308120	0230	MRE011	MANGUERA HIDRAULICA12X150" 12FJ10	UN	   29.500	       0	       0	          566.30	             0.00	            0.00
 		308142	0230	MRE011	BROCA 3/16" CONCRETO	UN	        1	       0	       0	            4.44	             0.00	            0.00
 		308195	0230	MRE004	CORREA A44	UN	        3	       0	       0	           60.60	             0.00	            0.00
-		308230	0230	MRE011	BURIL DE PASTILLA 1/2" DERECHO	UN	        2	       0	       0	          124.99	             0.00	            0.00
+		308230	0230	MRE011	BURIL DE PASTILLA 1/2" DERECHO	UN	        1	       0	       0	           62.49	             0.00	            0.00
 		308294	0230	MRE003	RETENEDOR 45*85*10	UN	        4	       0	       0	          299.16	             0.00	            0.00
 		308302	0230	MRE001	TUBO 2 1/2" INOX SANITARIO	UN	        3	       0	       0	        3,011.01	             0.00	            0.00
 		308337	0230	MRE011	ANGULAR 2" * 2" * 1/4	UN	        6	       0	       0	        3,352.13	             0.00	            0.00
@@ -3411,4 +3411,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,481,647.33	             0.00	       16,160.53
+	*									   16,481,480.65	             0.00	       16,160.53
