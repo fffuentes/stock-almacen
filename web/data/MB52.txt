@@ -357,7 +357,7 @@
 		301827	0230	MRE011	CHORRO 1/2" CON ROSCA	UN	       12	       0	       0	          821.43	             0.00	            0.00
 		301832	0230	MRE011	CINTA 2" SEÑALIZACION AMARILLA	UN	        8	       0	       0	          700.65	             0.00	            0.00
 		301833	0230	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        5	       0	       0	          613.82	             0.00	            0.00
-		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       10	       0	       0	          501.65	             0.00	            0.00
+		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	        9	       0	       0	          451.48	             0.00	            0.00
 		301837	0230	MRE011	CINTA PLASTICA DE "PELIGRO" AMARILLA	UN	        4	       0	       0	          339.31	             0.00	            0.00
 		301845	0230	MRE011	CODO 3" 90° H.N. ROSCABLE	UN	        1	       0	       0	          162.20	             0.00	            0.00
 		301856	0230	MRE011	CODO 1 1/2" 90º H.G.	UN	        5	       0	       0	          116.10	             0.00	            0.00
@@ -390,7 +390,7 @@
 		301940	0230	MRE011	ELECTRODO 1/8" HIERRO FUNDIDO	LB	       10	       0	       0	        2,544.70	             0.00	            0.00
 		301941	0230	MRE011	ELECTRODO 1/8" UTP 312	LB	        9	       0	       0	        1,000.86	             0.00	            0.00
 		301942	0230	MRE011	ELECTRODO 3/32 UTP 312	LB	        9	       0	       0	        1,909.59	             0.00	            0.00
-		301943	0230	MRE011	ELECTRODO 3/32" 6011	LB	       10	       0	       0	          160.79	             0.00	            0.00
+		301943	0230	MRE011	ELECTRODO 3/32" 6011	LB	        9	       0	       0	          144.71	             0.00	            0.00
 		301944	0230	MRE011	ELECTRODO PUNTO CAFÉ 3/32" 6013	LB	        6	       0	       0	           80.50	             0.00	            0.00
 		301945	0230	MRE011	ELECTRODO 3/32" 7018	LB	       11	       0	       0	          185.23	             0.00	            0.00
 		301961	0230	MRE011	ESPAGUETI 1/4"	TF	       40	       0	       0	          991.20	             0.00	            0.00
@@ -655,7 +655,6 @@
 		303461	0230	MRE013	ROLDANA PLANA 3/4" INOX	UN	        1	       0	       0	            2.66	             0.00	            0.00
 		303462	0230	MRE013	ROLDANA PLANA 3/8" INOXIDABLE	UN	       34	       0	       0	           42.51	             0.00	            0.00
 		303463	0230	MRE013	ROLDANA PLANA 5/16" INOXIDABLE	UN	       95	       0	       0	           25.79	             0.00	            0.00
-		303464	0230	MRE013	ROLDANA PLANA 5/8" INOXIDABLE	UN	       11	       0	       0	            8.91	             0.00	            0.00
 		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       68	       0	       0	           48.96	             0.00	            0.00
 		303466	0230	MRE013	ROLDANA PLANA 8MM INOX.	UN	      106	       0	       0	           95.22	             0.00	            0.00
 		303467	0230	MRE013	ROLDANA DE PRESION 3/4" INOX.	UN	       58	       0	       0	          166.63	             0.00	            0.00
@@ -915,7 +914,7 @@
 		311709	0230	MRE012	PULSADOR LUMINOSO ROJO 24V.	UN	        5	       0	       0	        1,049.15	             0.00	            0.00
 		311710	0230	MRE012	PULSADOR LUMINOSO VERDE 24V.	UN	        2	       0	       0	          419.66	             0.00	            0.00
 		311880	0230	MRE012	GUARDAMOTOR PKZMO-16 10-16A. MOELLER	UN	        1	       0	       0	        1,152.40	             0.00	            0.00
-		312030	0230	MRE012	CABLE TSJ 4*14	M	      163	       0	       0	        2,667.92	             0.00	            0.00
+		312030	0230	MRE012	CABLE TSJ 4*14	M	       43	       0	       0	          703.81	             0.00	            0.00
 		312126	0230	MRE012	MODULO 1769-OB32 AB 32 SALIDAS 24VDC	UN	        1	       0	       0	        3,995.09	             0.00	            0.00
 		312170	0230	MRE012	PRENSA ESTOPA PG16	UN	        9	       0	       0	          148.95	             0.00	            0.00
 		312210	0230	MRE012	CABLE PROTOFLEX 3X1.5MM	M	       20	       0	       0	          223.30	             0.00	            0.00
@@ -1214,7 +1213,7 @@
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321690	0230	MRE011	LAMINA POLICARBONATO de 1/8x4*x8*	UN	        1	       0	       0	          803.55	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
-		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      230	       0	       0	        2,627.10	             0.00	            0.00
+		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      205	       0	       0	        2,341.55	             0.00	            0.00
 		3321948	0230	MRE012	SUPRESTHOR TRS9 p 480 VAC 300KAP Cat."B"	UN	        1	       0	       0	        1,325.90	             0.00	            0.00
 		3322020	0230	MRE012	CONECTOR P/BOBINA MSN1W-110-50/60-OD	UN	        7	       0	       0	          236.04	             0.00	            0.00
 		3322136	0230	MRE012	MODULO ET 200	UN	        4	       0	       0	        7,500.00	             0.00	            0.00
@@ -1503,6 +1502,7 @@
 		3353251	0230	MRE012	AMPLIFICADOR BOSCH VT-VSPA2-50-1X/T1	UN	        1	       0	       0	       21,703.51	             0.00	            0.00
 		3353425	0230	MRE012	CABLE # 12 THHN ROJO	M	      200	       0	       0	          945.84	             0.00	            0.00
 		3353633	0230	MRE012	CABLE No. 14 THHN NEGRO	M	      200	       0	       0	          607.90	             0.00	            0.00
+		3354660	0230	MRE012	PROPILENO GLICOL	GLN	      110	       0	       0	       27,009.40	             0.00	            0.00
 		3354850	0230	MRE005	VALVULA DE ASIENTO INCLINADO DE 3/4"	UN	        4	       0	       0	        6,187.86	             0.00	            0.00
 		3355444	0230	MRE002	RODAMIENTO 6801 2RS	UN	        8	       0	       0	          584.33	             0.00	            0.00
 		3356353	0230	MRE003	RETENEDOR 95*170*13	UN	        2	       0	       0	          375.00	             0.00	            0.00
@@ -1594,6 +1594,7 @@
 		3361466	0230	MRE012	MODULO ENTRADA ANALOGICA 8 AI 1769-IF8	UN	        1	       0	       0	       17,216.63	             0.00	            0.00
 		3361473	0230	MRE012	VARIADOR POWERFLEX 525 15HP 25B-D024N104	UN	        1	       0	       0	       13,952.15	             0.00	            0.00
 		3361491	0230	MRE011	PLATINA HIERRO NEGRO 1" X 3/16" X 6 MTS	UN	        2	       0	       0	          207.59	             0.00	            0.00
+		3362744	0230	MRE010	JUEGO DESTORNILLADOR INDUSTRIAL	UN	        1	       0	       0	        4,153.83	             0.00	            0.00
 		336481	0230	MRE138	AQUAFINE UV LAMPGOLD-L 60"	UN	        1	       0	       0	        4,285.72	             0.00	            0.00
 		337518	0231	MRE293	BALL BEARING 6008 DIN625 0950270189	UN	        2	       0	       0	        9,038.66	             0.00	            0.00
 		337624	0230	MRE295	MANOMETRIC SWITCH 0-900-78-615-0	UN	        2	       0	       0	        1,237.16	             0.00	            0.00
@@ -3301,7 +3302,7 @@
 		390608	0230	MRE569	TRASFORMATORE AMPEROMETRICO 80061264	UN	        3	       0	       0	        1,298.22	             0.00	            0.00
 		390609	0231	MRE569	LAMP. 2000W2500K R.CERAMIC. P14 80064602	UN	        6	       0	       0	        8,539.95	             0.00	            0.00
 		390610	0230	MRE569	LAMP. 3000W2650K R.CERAMIC. P14 80064614	UN	        3	       0	       0	        3,102.57	             0.00	            0.00
-		390611	0231	MRE569	LAMP. 2000W2500K R.CERAMIC. P19 80064760	UN	       10	       0	       0	       11,958.79	             0.00	            0.00
+		390611	0231	MRE569	LAMP. 2000W2500K R.CERAMIC. P19 80064760	UN	        7	       0	       0	        8,371.15	             0.00	            0.00
 		390612	0230	MRE569	CAVO UNIPOL. G/V 1,5MMQ 80325647	UN	       20	       0	       0	           69.80	             0.00	            0.00
 		390613	0230	MRE569	CAVO UNIPOLARE NERO 1.5MMQ 80325648	UN	       75	       0	       0	          261.75	             0.00	            0.00
 		390614	0230	MRE569	CAVO UNIPOL. ROSSO 1,5MMQ 80325649	UN	       20	       0	       0	           69.80	             0.00	            0.00
@@ -3410,4 +3411,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,456,396.56	             0.00	       16,160.53
+	*									   16,481,647.33	             0.00	       16,160.53
