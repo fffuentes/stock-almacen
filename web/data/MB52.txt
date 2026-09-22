@@ -3,7 +3,7 @@
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    5,729	       0	       0	      104,071.23	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    9,729	       0	       0	      179,120.83	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	       17	       0	       0	          567.34	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        5	       0	       0	          207.74	             0.00	            0.00
@@ -653,7 +653,7 @@
 		303422	0230	MRE013	PERNO DE ANCLAJE 5/8" * 3 1/2"	UN	       23	       0	       0	          155.37	             0.00	            0.00
 		303432	0230	MRE013	PIN EXPANSION 6 * 26 MM INOX	UN	       11	       0	       0	           79.27	             0.00	            0.00
 		303435	0230	MRE013	REMACHE ALUMINIO 3/16 TIPO POP	UN	      335	       0	       0	           77.42	             0.00	            0.00
-		303438	0230	MRE013	ROLDANA DE PRESION 1 /4" INOX	UN	       94	       0	       0	           50.76	             0.00	            0.00
+		303438	0230	MRE013	ROLDANA DE PRESION 1 /4" INOX	UN	       82	       0	       0	           44.28	             0.00	            0.00
 		303441	0230	MRE013	ROLDANA DE PRESION 1/2" INOX	UN	       48	       0	       0	           42.72	             0.00	            0.00
 		303442	0230	MRE013	ROLDANA DE PRESION 10MM INOX.	UN	      105	       0	       0	          239.01	             0.00	            0.00
 		303443	0230	MRE013	ROLDANA DE PRESION 16MM. INOX.	UN	       11	       0	       0	           28.18	             0.00	            0.00
@@ -3434,4 +3434,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,553,252.64	             0.00	       16,160.53
+	*									   16,628,295.76	             0.00	       16,160.53
