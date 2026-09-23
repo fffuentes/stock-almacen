@@ -439,7 +439,8 @@
 		302158	0230	MRE011	NIPLE 3/4" * 3" A.INOX	UN	        2	       0	       0	           58.93	             0.00	            0.00
 		302159	0230	MRE011	NIPLE 3/4" * 5" H.G.	UN	       11	       0	       0	          102.32	             0.00	            0.00
 		302161	0230	MRE011	NIPLE 1/2" * 4" H.N. CORRIDO	UN	        3	       0	       0	           25.90	             0.00	            0.00
-		302163	0230	MRE011	NIPLE 1/4" * 3" A.INOX	UN	        4	       0	       0	           59.84	             0.00	            0.00
+		302163	0230	MRE011	NIPLE 1/4" * 3" A.INOX	UN	        4	       0	       0	           63.54	             0.00	            0.00
+		302163	0280	MRE011	NIPLE 1/4" * 3" A.INOX	UN	       20	       0	       0	          317.70	             0.00	            0.00
 		302164	0230	MRE011	NIPLE 1/4" * 3" H.G.	UN	       20	       0	       0	          178.60	             0.00	            0.00
 		302170	0230	MRE011	NITROGENO GASEOSO EN CILINDRO	UN	        3	       0	       0	          648.21	             0.00	            0.00
 		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        6	       0	       0	        1,296.42	             0.00	            0.00
@@ -1456,7 +1457,8 @@
 		3340247	0230	MRE001	REDUCIDOR INOX SOLDABLE 2" - 1 1/2"	UN	        1	       0	       0	           30.26	             0.00	            0.00
 		3340248	0230	MRE001	TUBO INOX. SANITARIO 1 1/2"	UN	        3	       0	       0	        1,312.50	             0.00	            0.00
 		3340249	0230	MRE001	TE CLAMP INOX. 1 1/2"	UN	        2	       0	       0	          230.70	             0.00	            0.00
-		3340260	0230	MRE001	CODO INOX. 90° 1 1/2" SOLDABLE	UN	        1	       0	       0	           37.50	             0.00	            0.00
+		3340260	0230	MRE001	CODO INOX. 90° 1 1/2" SOLDABLE	UN	        1	       0	       0	           39.88	             0.00	            0.00
+		3340260	0280	MRE001	CODO INOX. 90° 1 1/2" SOLDABLE	UN	        8	       0	       0	          319.06	             0.00	            0.00
 		3340261	0230	MRE001	FERRULE INOX. 1 1/2"	UN	        5	       0	       0	           53.60	             0.00	            0.00
 		334028	0231	MRE211	PERFIL DESGASTE PARED EXT. 43271-1	TF	        8	       0	       0	        2,743.61	             0.00	            0.00
 		334145	0230	MRE101	CONECTOR P/SONDA BALLUF BKS-S 32M-05	UN	        1	       0	       0	        8,122.80	             0.00	            0.00
@@ -1658,7 +1660,7 @@
 		3394453	0230	MRE001	IMPELLERNUT O-RING029 ARP Ø37,82X1,78	UN	        1	       0	       0	           18.62	             0.00	            0.00
 		3394643	0230	MRE005	VALVULA DE SEG. 1" LANDEFELD HSV 10-25	UN	        2	       0	       0	       15,385.72	             0.00	            0.00
 		3394904	0230	MRE012	SENSOR ALLEN BRADLEY 871F-D70NN50-E2	UN	        1	       0	       0	        2,025.49	             0.00	            0.00
-		3394998	0280	MRE001	SELLO DN 65 P/VALVULA MARIPOSA INOXPA	UN	        4	       0	       0	        1,035.72	             0.00	            0.00
+		3394998	0230	MRE001	SELLO DN 65 P/VALVULA MARIPOSA INOXPA	UN	        4	       0	       0	        1,035.72	             0.00	            0.00
 		3395052	0230	MRE011	Guia central Divisor de paquetes L3	UN	        2	       0	       0	        1,428.58	             0.00	            0.00
 		3395268	0230	MRE012	VARIADOR POWER FLEX 525 20 HP 480 VAC	UN	        1	       0	       0	       15,404.28	             0.00	            0.00
 		3395695	0230	MRE007	BANDA XLG1505-595MM REXNORD	TF	  137.630	       0	       0	       90,534.49	             0.00	            0.00
@@ -3441,4 +3443,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,593,304.48	             0.00	       16,160.53
+	*									   16,593,947.32	             0.00	       16,160.53
