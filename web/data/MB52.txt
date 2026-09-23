@@ -1658,6 +1658,7 @@
 		3394453	0230	MRE001	IMPELLERNUT O-RING029 ARP Ø37,82X1,78	UN	        1	       0	       0	           18.62	             0.00	            0.00
 		3394643	0230	MRE005	VALVULA DE SEG. 1" LANDEFELD HSV 10-25	UN	        2	       0	       0	       15,385.72	             0.00	            0.00
 		3394904	0230	MRE012	SENSOR ALLEN BRADLEY 871F-D70NN50-E2	UN	        1	       0	       0	        2,025.49	             0.00	            0.00
+		3394998	0280	MRE001	SELLO DN 65 P/VALVULA MARIPOSA INOXPA	UN	        4	       0	       0	        1,035.72	             0.00	            0.00
 		3395052	0230	MRE011	Guia central Divisor de paquetes L3	UN	        2	       0	       0	        1,428.58	             0.00	            0.00
 		3395268	0230	MRE012	VARIADOR POWER FLEX 525 20 HP 480 VAC	UN	        1	       0	       0	       15,404.28	             0.00	            0.00
 		3395695	0230	MRE007	BANDA XLG1505-595MM REXNORD	TF	  137.630	       0	       0	       90,534.49	             0.00	            0.00
@@ -3440,4 +3441,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,592,268.76	             0.00	       16,160.53
+	*									   16,593,304.48	             0.00	       16,160.53
