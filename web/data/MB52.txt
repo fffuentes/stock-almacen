@@ -3253,7 +3253,7 @@
 		301833	0230	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        5	       0	       0	          613.82	             0.00	            0.00
 		301833	0231	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		301833	0280	MRE011	CINTA 5" 30 PRECAUCION AMARILLA	UN	        0	       0	       0	            0.00	             0.00	            0.00
-		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       81	       0	       0	        2,937.92	             0.00	            0.00
+		301834	0230	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	       80	       0	       0	        2,901.65	             0.00	            0.00
 		301834	0231	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		301834	0280	MRE011	CINTA DE AISLAR SCOTCH NO. 33	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		301835	0230	MRE011	CINTA DE ALUMINIO 2"" AUTOADHESIVA	UN	        0	       0	       0	            0.00	             0.00	            0.00
@@ -11880,7 +11880,7 @@
 		3336278	0230	MRE010	ESMERIL DE BANCO 1/2 HP	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		3336278	0231	MRE010	ESMERIL DE BANCO 1/2 HP	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		3336278	0280	MRE010	ESMERIL DE BANCO 1/2 HP	UN	        0	       0	       0	            0.00	             0.00	            0.00
-		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	       15	       0	       0	        3,113.85	             0.00	            0.00
+		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	       13	       0	       0	        2,698.67	             0.00	            0.00
 		3336279	0231	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		3336279	0280	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		3336295	0230	MRE010	SHOCK DE 4 MORDAZAS UNIVERSAL	UN	        0	       0	       0	            0.00	             0.00	            0.00
@@ -33542,4 +33542,4 @@ EVDIS00IT0 2FVEE0007	UN	        0	       0	       0	            0.00	           
 		BA000455	0230	MPT748	Corona 355 ml Vidrio no retornable	UN	        0	       0	       0	            0.00	             0.00	            0.00
 		TA095095	0230	MOP201	Tarima Retorn. Madera 1.2 x 1 m	UN	        0	       0	       0	            0.00	             0.00	            0.00
 
-	*									   16,583,605.23	             0.00	       16,160.53
+	*									   16,583,153.78	             0.00	       16,160.53
