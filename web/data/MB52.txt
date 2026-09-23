@@ -293,6 +293,7 @@
 		301327	0230	MRE007	CADENA PLASTICA AMARILLA N0.8099-0837-	M	       50	       0	       0	        1,060.95	             0.00	            0.00
 		301330	0230	MRE007	CADENA SS815 3 1/4" RECTA	TF	       10	       0	       0	        1,603.52	             0.00	            0.00
 		301331	0230	MRE007	CADENA SS815K 7 1/2" RECTA AUSTENITICA	TF	       28	       0	       0	        7,723.74	             0.00	            0.00
+		301333	0280	MRE007	CADENA SS881TK 3¼ CURVA ACERO INOX.	TF	       40	       0	       0	       11,809.20	             0.00	            0.00
 		301352	0230	MRE007	GUIA PLASTICA TIPO DOBLE "T" = PERFIL	M	       12	       0	       0	       10,446.48	             0.00	            0.00
 		301383	0230	MRE007	PERFIL "C" 2"*15MM*2.44MTSEN PLASTIDUR	M	       40	       0	       0	       14,821.60	             0.00	            0.00
 		301390	0230	MRE007	PERFIL "Z" PLASTICO PIEZA 5ZZ00107 DE 1"	TF	      100	       0	      53	        9,004.03	             0.00	        4,772.13
@@ -663,12 +664,15 @@
 		303450	0230	MRE013	ROLDANA DE PRESION 5/8" INOX	UN	       17	       0	       0	           24.18	             0.00	            0.00
 		303451	0230	MRE013	ROLDANA DE PRESION 6MM INOX	UN	       84	       0	       0	           45.36	             0.00	            0.00
 		303452	0230	MRE013	ROLDANA DE PRESION 8MM INOX	UN	       45	       0	       0	           31.50	             0.00	            0.00
-		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       19	       0	       0	           33.82	             0.00	            0.00
-		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	       28	       0	       0	            3.92	             0.00	            0.00
+		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	       19	       0	       0	           19.94	             0.00	            0.00
+		303454	0280	MRE013	ROLDANA PLANA 1/2" INOX	UN	      200	       0	       0	          209.88	             0.00	            0.00
+		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	       28	       0	       0	            3.67	             0.00	            0.00
+		303456	0280	MRE013	ROLDANA PLANA 1/4" INOX	UN	      200	       0	       0	           26.25	             0.00	            0.00
 		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	       81	       0	       0	          233.28	             0.00	            0.00
 		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       43	       0	       0	           98.45	             0.00	            0.00
 		303459	0230	MRE013	ROLDANA PLANA 16MM INOX.	UN	       71	       0	       0	          273.66	             0.00	            0.00
 		303460	0230	MRE013	ROLDANA PLANA 3/16" INOXIDABLE	UN	       51	       0	       0	           50.03	             0.00	            0.00
+		303461	0280	MRE013	ROLDANA PLANA 3/4" INOX	UN	      200	       0	       0	          340.00	             0.00	            0.00
 		303462	0230	MRE013	ROLDANA PLANA 3/8" INOXIDABLE	UN	       34	       0	       0	           42.51	             0.00	            0.00
 		303463	0230	MRE013	ROLDANA PLANA 5/16" INOXIDABLE	UN	       95	       0	       0	           25.79	             0.00	            0.00
 		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       68	       0	       0	           48.96	             0.00	            0.00
@@ -773,7 +777,8 @@
 		303717	0230	MRE013	TORNILLO HEXAGONAL 10 * 25MM INOX	UN	       33	       0	       0	          243.54	             0.00	            0.00
 		303719	0230	MRE013	TORNILLO HEXAGONAL 12 * 30MM INOX	UN	       28	       0	       0	          123.32	             0.00	            0.00
 		303723	0230	MRE013	TORNILLO HEXAGONAL 4 * 40MM INOX R/C	UN	      100	       0	       0	          189.24	             0.00	            0.00
-		303724	0230	MRE013	TORNILLO HEXAGONAL 5 * 40MM INOX R/C	UN	        6	       0	       0	           23.70	             0.00	            0.00
+		303724	0230	MRE013	TORNILLO HEXAGONAL 5 * 40MM INOX R/C	UN	        6	       0	       0	           16.64	             0.00	            0.00
+		303724	0280	MRE013	TORNILLO HEXAGONAL 5 * 40MM INOX R/C	UN	       75	       0	       0	          208.06	             0.00	            0.00
 		303725	0230	MRE013	TORNILLO HEXAGONAL 6 * 20MM INOX	UN	       80	       0	       0	          168.80	             0.00	            0.00
 		303726	0230	MRE013	TORNILLO HEXAGONAL 6 * 40MM INOX R/C	UN	       57	       0	       0	          202.65	             0.00	            0.00
 		303729	0230	MRE013	TORNILLO HEXAGONAL 6 * 45MM INOX	UN	       12	       0	       0	           77.91	             0.00	            0.00
@@ -804,7 +809,8 @@
 		303784	0230	MRE013	TUERCA 5/16" ROSCA FINA	UN	       34	       0	       0	          307.60	             0.00	            0.00
 		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	       11	       0	       0	           38.17	             0.00	            0.00
 		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	       39	       0	       0	            8.60	             0.00	            0.00
-		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	       22	       0	       0	           19.78	             0.00	            0.00
+		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	       22	       0	       0	            5.53	             0.00	            0.00
+		303789	0280	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	      200	       0	       0	           50.25	             0.00	            0.00
 		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	      118	       0	       0	           63.22	             0.00	            0.00
 		303796	0230	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	       90	       0	       0	           40.54	             0.00	            0.00
 		303797	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX R/FINA	UN	        8	       0	       0	           24.33	             0.00	            0.00
@@ -857,6 +863,7 @@
 		305138	0230	MRE011	TUBO PVC DE 1/2"	UN	        3	       0	       0	           81.16	             0.00	            0.00
 		305185	0230	MRE012	UPS 850VA 120V APC	UN	        1	       0	       0	        1,114.80	             0.00	            0.00
 		305201	0230	MRE012	BORNE A TIERRA AB1T432	UN	       15	       0	       0	          308.85	             0.00	            0.00
+		305392	0280	MRE013	TORNILLO HEX. 3/4" * 4"	UN	       50	       0	       0	          826.00	             0.00	            0.00
 		305401	0230	MRE013	TORNILLO AUTORROSCABLE 1X8	UN	      237	       0	       0	          189.13	             0.00	            0.00
 		305403	0230	MRE013	TORNILLO AVELLANADO 1/4 X 1 1/4	UN	       53	       0	       0	          334.14	             0.00	            0.00
 		305404	0230	MRE013	TORNILLO AVELLANADO 5/16 x1"	UN	       22	       0	       0	           38.39	             0.00	            0.00
@@ -1137,6 +1144,7 @@
 		3304927	0230	MRE012	BALASTRO 2*54W 120V	UN	       20	       0	       0	        2,829.85	             0.00	            0.00
 		3305131	0230	MRE004	CORREA A-41	UN	        4	       0	       0	          134.14	             0.00	            0.00
 		3305133	0230	MRE012	VARIADOR DANFOS FC302 3HP 380-500V 2.2KW	UN	        2	       0	       0	       11,524.24	             0.00	            0.00
+		3305200	0280	MRE013	TUERCA DE SEGURIDAD 5MM INOX	UN	      200	       0	       0	           44.00	             0.00	            0.00
 		3305302	0230	MRE005	KIT EMPAQUES CILIND. FESTO DNC-50-PPV-S2	UN	        3	       0	       0	        7,291.61	             0.00	            0.00
 		3305401	0230	MRE011	ABRAZADERA CLAMP DE 4" ACERO INOX.	UN	        4	       0	       0	          169.08	             0.00	            0.00
 		3305426	0230	MRE011	VALVULA DE 1/2" TOMA MUESTRA SANIT.	UN	        3	       0	       0	          910.99	             0.00	            0.00
@@ -1243,7 +1251,7 @@
 		3322345	0230	MRE003	RETENEDOR 1 1/4" * 2" * 5/16" CR-544086	UN	       19	       0	       0	          444.60	             0.00	            0.00
 		3322351	0230	MRE002	RODAMIENTO AXIAL 51204	UN	        1	       0	       0	           87.15	             0.00	            0.00
 		3322375	0230	MRE013	TORNILLO HEXAGONAL 3/4"*2" INOX	UN	       26	       0	       0	        1,373.98	             0.00	            0.00
-		3322399	0230	MRE012	INTERRUPTOR ALLEN BRADLEY 194E-Y16-1753-	UN	        4	       0	       0	        5,138.21	             0.00	            0.00
+		3322399	0230	MRE012	INTERRUPTOR ALLEN BRADLEY 194E-Y16-1753-	UN	        3	       0	       0	        3,853.66	             0.00	            0.00
 		3322400	0230	MRE012	GUARDAMOTOR ALLEN BRADLEY UA1/AA1 1-10 A	UN	        3	       0	       0	        3,285.76	             0.00	            0.00
 		3322528	0230	MRE002	RODAMIENTO 30310	UN	        2	       0	       0	          887.13	             0.00	            0.00
 		3322588	0230	MRE012	TRANSDUCTOR ELECTRONEUMATICO	UN	        1	       0	       0	        2,580.36	             0.00	            0.00
@@ -3432,4 +3440,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,580,075.11	             0.00	       16,160.53
+	*									   16,592,268.76	             0.00	       16,160.53
