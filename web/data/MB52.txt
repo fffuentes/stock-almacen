@@ -3,7 +3,7 @@
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    7,771	       0	       0	      143,072.05	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    7,771	       0	       0	      143,071.89	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	       17	       0	       0	          567.34	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        5	       0	       0	          207.74	             0.00	            0.00
@@ -338,7 +338,7 @@
 		301746	0230	MRE011	BROCA 8MM HSS	UN	        1	       0	       0	           26.34	             0.00	            0.00
 		301754	0230	MRE011	BROCA 1/4" COBALTO	UN	       14	       0	       0	          449.96	             0.00	            0.00
 		301755	0230	MRE011	BROCA 1/4" HSS	UN	       15	       0	       0	          140.70	             0.00	            0.00
-		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	       13	       0	       0	           92.45	             0.00	            0.00
+		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	       12	       0	       0	           85.34	             0.00	            0.00
 		301757	0230	MRE011	BROCA HSS 1/8 IN	UN	       10	       0	       0	           44.70	             0.00	            0.00
 		301758	0230	MRE011	BROCA 1/8" TUGSTENO	UN	       26	       0	       0	        4,953.39	             0.00	            0.00
 		301765	0230	MRE011	BROCA 3/16" COBALTO	UN	        1	       0	       0	           13.40	             0.00	            0.00
@@ -677,7 +677,7 @@
 		303468	0230	MRE013	PIN EXPANSION 4 * 10 MM INOX	UN	       19	       0	       0	          221.79	             0.00	            0.00
 		303472	0230	MRE013	SEGURO EXTERIOR 64MM INOXIDABLE	UN	        1	       0	       0	          102.68	             0.00	            0.00
 		303477	0230	MRE013	TARUGO DE EXPANSION 3/8"	UN	       11	       0	       0	          133.46	             0.00	            0.00
-		303481	0230	MRE013	TARUGO PLASTICO 1/4" VERDE	UN	       30	       0	       0	            5.10	             0.00	            0.00
+		303481	0230	MRE013	TARUGO PLASTICO 1/4" VERDE	UN	       20	       0	       0	            3.40	             0.00	            0.00
 		303483	0230	MRE013	TORNILLO ALLEN 3/8 X 3 1/2 GRADO 8	UN	       16	       0	       0	           76.26	             0.00	            0.00
 		303484	0230	MRE013	TORNILLO ALLEN 1/2 * 1"	UN	       54	       0	       0	          224.71	             0.00	            0.00
 		303487	0230	MRE013	TORNILLO C/PLANA ALLEN 1/4" * 1 1/4"	UN	       40	       0	       0	          313.60	             0.00	            0.00
@@ -3432,4 +3432,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,580,122.83	             0.00	       16,160.53
+	*									   16,580,113.86	             0.00	       16,160.53
