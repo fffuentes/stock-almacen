@@ -403,7 +403,7 @@
 		301945	0230	MRE011	ELECTRODO 3/32" 7018	LB	       10	       0	       0	          168.39	             0.00	            0.00
 		301946	0230	MRE011	ELECTRODO 3/32" ACERO INOX UTP65	LB	       15	       0	       0	        3,683.10	             0.00	            0.00
 		301961	0230	MRE011	ESPAGUETI 1/4"	TF	       24	       0	       0	          594.72	             0.00	            0.00
-		301962	0230	MRE011	ESPAGUETI 4MM	TF	        8	       0	       0	           21.60	             0.00	            0.00
+		301962	0230	MRE011	ESPAGUETI 4MM	TF	        6	       0	       0	           16.20	             0.00	            0.00
 		301967	0230	MRE011	ESTOPA 1/2" TEFLONADA	TF	       15	       0	       0	          468.75	             0.00	            0.00
 		301969	0230	MRE011	ESTOPA 1/8" GRAFITADA	TF	       34	       0	       0	          263.50	             0.00	            0.00
 		301973	0230	MRE011	ESTOPA 3/8" TEFLONADA	TF	        5	       0	       0	          245.53	             0.00	            0.00
@@ -967,7 +967,7 @@
 		318984	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 2" INOX	UN	        7	       0	       0	          262.50	             0.00	            0.00
 		318986	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 1" INOX	UN	       10	       0	       0	          167.70	             0.00	            0.00
 		319319	0230	MRE011	ARMAFLEX EN LAMINAS 36 X 48 X 3/4"	UN	        3	       0	       0	          952.36	             0.00	            0.00
-		319326	0230	MRE011	SUPER BONDER 495	UN	       30	       0	       0	        3,027.00	             0.00	            0.00
+		319326	0230	MRE011	SUPER BONDER 495	UN	       29	       0	       0	        2,926.10	             0.00	            0.00
 		319772	0230	MRE001	TUBO CUADRADO DE ACERO INOX DE 2"x2"x1.5	UN	        2	       0	       0	          834.48	             0.00	            0.00
 		319774	0230	MRE011	HEMBRA PLATINA INOX DE 1/8"x1/2"	UN	        4	       0	       0	          196.44	             0.00	            0.00
 		319819	0230	MRE004	CORREA EN V TIPO A76	UN	        6	       0	       0	          292.39	             0.00	            0.00
@@ -3438,4 +3438,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,707,388.90	             0.00	       16,160.53
+	*									   16,707,282.60	             0.00	       16,160.53
