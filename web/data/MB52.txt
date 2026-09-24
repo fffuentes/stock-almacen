@@ -265,7 +265,6 @@
 		301127	0230	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        1	       0	       0	          952.10	             0.00	            0.00
 		301136	0230	MRE005	REGULADOR DE CAUDAL GRLA 3/8	UN	        2	       0	       0	          702.22	             0.00	            0.00
 		301140	0230	MRE005	REGULADOR DE PRESION LR-1/4-D MIDI	UN	        1	       0	       0	          921.76	             0.00	            0.00
-		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        3	       0	       0	          336.03	             0.00	            0.00
 		301166	0230	MRE005	UNIDAD MANTENIMIENTO FRC-1/2"-D-MIDI	UN	        3	       0	       0	        5,806.39	             0.00	            0.00
 		301183	0230	MRE006	CADENA DOBLE No. 60 P/ESLABON	TF	       20	       0	       0	        1,574.72	             0.00	            0.00
 		301186	0230	MRE006	CADENA No. 60 P/ESLABON	TF	       20	       0	       0	          967.30	             0.00	            0.00
@@ -605,7 +604,8 @@
 		303151	0230	MRE012	RIEL 35MM P/BORNERAS/CONTACTORES	M	        4	       0	       0	           93.18	             0.00	            0.00
 		303165	0230	MRE012	SENSOR DE PROXIMIDAD SMEO-01LED-24	UN	        2	       0	       0	        2,279.64	             0.00	            0.00
 		303179	0230	MRE012	SENSOR INDUCTIVO CILIN.18mm.PNP24VDS XS1	UN	        2	       0	       0	        1,396.99	             0.00	            0.00
-		303181	0230	MRE012	SENSOR INDUCTIVO CILIND.30mm.PNP10-30VDC	UN	        1	       0	       0	          827.81	             0.00	            0.00
+		303181	0230	MRE012	SENSOR INDUCTIVO CILIND.30mm.PNP10-30VDC	UN	        1	       0	       0	          553.57	             0.00	            0.00
+		303181	0280	MRE012	SENSOR INDUCTIVO CILIND.30mm.PNP10-30VDC	UN	        6	       0	       0	        3,321.40	             0.00	            0.00
 		303212	0230	MRE012	STOP TIPO HONGO ROJO	UN	        3	       0	       0	          817.87	             0.00	            0.00
 		303219	0230	MRE012	TAPADERA PARA TOMACORRIENTE	UN	        6	       0	       0	           51.94	             0.00	            0.00
 		303273	0230	MRE012	TERMINAL MACHO AISL.C-63-1203 16-14AWG	UN	       81	       0	       0	          115.83	             0.00	            0.00
@@ -1492,7 +1492,7 @@
 		3347225	0230	MRE005	JUEGO DE JUNTAS DNC-63-PPV-A	UN	        3	       0	       0	        5,350.24	             0.00	            0.00
 		3347526	0230	MRE007	SPROCK Ø3.1" 79MM 16 DIENTES EJE 40MM	UN	        9	       0	       0	        1,943.26	             0.00	            0.00
 		3347545	0230	MRE001	VALVULA DE BOLA 1/4" 150 PSI	UN	        1	       0	       0	           71.42	             0.00	            0.00
-		3347546	0230	MRE005	MANOMETRO 2.5" 0-200 PSI	UN	        2	       0	       0	          187.50	             0.00	            0.00
+		3347546	0230	MRE005	MANOMETRO 2.5" 0-200 PSI	UN	        1	       0	       0	           93.75	             0.00	            0.00
 		3347663	0230	MRE005	MODULO CULATA DELANTERA P/DNC-63-PPV	UN	        5	       0	       0	        6,299.57	             0.00	            0.00
 		3350128	0230	MRE011	BARRA CUADRADA COLD ROLED 3/8" X 3/8"	TF	        7	       0	       0	           71.19	             0.00	            0.00
 		3350129	0230	MRE002	RODAMIENTO 6205-2RSH/C3GJN	UN	        3	       0	       0	          150.46	             0.00	            0.00
@@ -2824,6 +2824,7 @@
 		3511723	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 2" NPT	UN	        2	       0	       0	       36,193.50	             0.00	            0.00
 		3511724	0230	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	       11,703.47	             0.00	            0.00
 		3511724	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	       11,703.47	             0.00	            0.00
+		3512311	0280	MRE005	VALVULA DE BOLA QH-QS-4-1/8	UN	        1	       0	       0	          178.75	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		3512641	0230	MRE012	VARIADOR FREC 250HP 380-460V ATV610	UN	        1	       0	       0	       54,017.86	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
@@ -3442,4 +3443,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,725,521.95	             0.00	       16,160.53
+	*									   16,728,318.08	             0.00	       16,160.53
