@@ -227,7 +227,7 @@
 		301017	0230	MRE005	MANGUERA PUN-16X2.5 BL NEUMATICA	M	       13	       0	       0	          769.54	             0.00	            0.00
 		301018	0230	MRE005	MANGUITO QM-1/8-1/8	UN	       13	       0	       0	          249.86	             0.00	            0.00
 		301022	0230	MRE005	MANOMETRO 0-600PSI C/GLICE 1/4"INOX VERT	UN	        1	       0	       0	          312.50	             0.00	            0.00
-		301030	0230	MRE005	MANOMETRO MA-40-10-1/8	UN	        3	       0	       0	          539.23	             0.00	            0.00
+		301030	0230	MRE005	MANOMETRO MA-40-10-1/8	UN	        2	       0	       0	          359.49	             0.00	            0.00
 		301032	0230	MRE005	MANOMETRO RAIZ 1/4" 0-60 PSI GLICERINA	UN	        2	       0	       0	          213.19	             0.00	            0.00
 		301033	0230	MRE005	MANOMETRO RAIZ 1/4" 0-100 PSI C.2.5"	UN	        4	       0	       0	          935.06	             0.00	            0.00
 		301034	0230	MRE005	MANOMETRO RAIZ 1/4" 0-100 PSI GLICERINA	UN	        7	       0	       0	        1,166.05	             0.00	            0.00
@@ -1492,7 +1492,7 @@
 		3347225	0230	MRE005	JUEGO DE JUNTAS DNC-63-PPV-A	UN	        3	       0	       0	        5,350.24	             0.00	            0.00
 		3347526	0230	MRE007	SPROCK Ø3.1" 79MM 16 DIENTES EJE 40MM	UN	        9	       0	       0	        1,943.26	             0.00	            0.00
 		3347545	0230	MRE001	VALVULA DE BOLA 1/4" 150 PSI	UN	        1	       0	       0	           71.42	             0.00	            0.00
-		3347546	0230	MRE005	MANOMETRO 2.5" 0-200 PSI	UN	        1	       0	       0	           93.75	             0.00	            0.00
+		3347546	0230	MRE005	MANOMETRO 2.5" 0-200 PSI	UN	        2	       0	       0	          187.50	             0.00	            0.00
 		3347663	0230	MRE005	MODULO CULATA DELANTERA P/DNC-63-PPV	UN	        5	       0	       0	        6,299.57	             0.00	            0.00
 		3350128	0230	MRE011	BARRA CUADRADA COLD ROLED 3/8" X 3/8"	TF	        7	       0	       0	           71.19	             0.00	            0.00
 		3350129	0230	MRE002	RODAMIENTO 6205-2RSH/C3GJN	UN	        3	       0	       0	          150.46	             0.00	            0.00
@@ -3443,4 +3443,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,728,318.08	             0.00	       16,160.53
+	*									   16,728,232.09	             0.00	       16,160.53
