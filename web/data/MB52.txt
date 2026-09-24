@@ -787,7 +787,7 @@
 		303744	0230	MRE013	TORNILLO HEXAGONAL 12 * 25MM INOX	UN	       14	       0	       0	          199.15	             0.00	            0.00
 		303745	0230	MRE013	TORNILLO HEXAGONAL 12 * 40MM INOX	UN	       29	       0	       0	          389.80	             0.00	            0.00
 		303752	0230	MRE013	TORNILLO HEXAGONAL 4 * 60MM INOX	UN	       32	       0	       0	          255.33	             0.00	            0.00
-		303754	0230	MRE013	TORNILLO HEXAGONAL 5 * 16MM INOXIDABLE	UN	      100	       0	       0	           31.00	             0.00	            0.00
+		303754	0230	MRE013	TORNILLO HEXAGONAL 5 * 16MM INOXIDABLE	UN	       96	       0	       0	           29.76	             0.00	            0.00
 		303757	0230	MRE013	TORNILLO HEXAGONAL 6 * 25M INOX42-9003B	UN	      107	       0	       0	           51.67	             0.00	            0.00
 		303767	0230	MRE013	TUERCA HEXAGONAL 1/2" INOX.	UN	       46	       0	       0	           81.89	             0.00	            0.00
 		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       90	       0	       0	           79.80	             0.00	            0.00
@@ -2746,7 +2746,7 @@
 		349880	0230	MRE108	MANGUERA FLEXIBLE 1/2" X 34	UN	        1	       0	       0	        1,959.82	             0.00	            0.00
 		3500092	0230	MRE008	ADITIVO PARA LIMPIEZA GENERAL	UN	       13	       0	       0	        3,021.71	             0.00	            0.00
 		3500093	0230	MRE008	ADDITIVE-A188-4 X 0.8L	UN	        7	       0	       0	        2,044.77	             0.00	            0.00
-		3500094	0230	MRE008	TINTA MB243-4X0.8L	UN	       10	       0	       0	       20,869.13	             0.00	            0.00
+		3500094	0230	MRE008	TINTA MB243-4X0.8L	UN	        9	       0	       0	       18,782.22	             0.00	            0.00
 		3500096	0230	MRE011	RESORTE 122MM X 22MM CALIBRE 18" ACERADO	UN	        5	       0	       0	          781.25	             0.00	            0.00
 		3500417	0230	MRE012	INTERRUPTOR DE SEG. MAGNETICO RE11-SA05	UN	        1	       0	       0	          702.86	             0.00	            0.00
 		3501550	0230	MRE353	20J300A8502 0 JOINT FIBRE	UN	       29	       0	       0	        8,594.33	             0.00	            0.00
@@ -2818,11 +2818,7 @@
 		3511548	0230	MRE011	GUIA ENCAUZAMIENTO POS 15D PMR0137PACK	UN	        1	       0	       0	        1,425.89	             0.00	            0.00
 		3511549	0230	MRE011	PLACA DE ENTRADA IZQ POS 19S PMR0138PACK	UN	        1	       0	       0	        2,193.75	             0.00	            0.00
 		3511550	0230	MRE011	BANDERIN INTERCAMBIO POS 14 PMR0135PACK	UN	        1	       0	       0	        6,579.46	             0.00	            0.00
-		3511721	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 47700-A	UN	        2	       0	       0	       26,907.72	             0.00	            0.00
-		3511722	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 570 77B	UN	        2	       0	       0	       21,665.60	             0.00	            0.00
-		3511723	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 2" NPT	UN	        2	       0	       0	       36,193.50	             0.00	            0.00
-		3511724	0230	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	       11,703.47	             0.00	            0.00
-		3511724	0231	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	       11,703.47	             0.00	            0.00
+		3511724	0230	MRE011	TRAMPA DE VAPOR SPIRAX SARCO 50899 1"	UN	        2	       0	       0	       11,703.46	             0.00	            0.00
 		3512311	0280	MRE005	VALVULA DE BOLA QH-QS-4-1/8	UN	        1	       0	       0	          178.75	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
 		3512641	0230	MRE012	VARIADOR FREC 250HP 380-460V ATV610	UN	        1	       0	       0	       54,017.86	             0.00	            0.00
@@ -3442,4 +3438,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   16,802,497.35	             0.00	       16,160.53
+	*									   16,703,938.90	             0.00	       16,160.53
