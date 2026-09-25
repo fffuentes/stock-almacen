@@ -242,7 +242,7 @@
 		301086	0230	MRE005	RACOR QS-1/4-10	UN	       10	       0	       0	          284.38	             0.00	            0.00
 		301087	0230	MRE005	RACOR QS-1/4-12 RECTO	UN	       27	       0	       0	          893.16	             0.00	            0.00
 		301088	0230	MRE005	RACOR QS-1/4-6 RECTO	UN	       23	       0	       0	          453.79	             0.00	            0.00
-		301089	0230	MRE005	RACOR QS-1/4-8 RECTO	UN	      476	       0	       0	        8,936.58	             0.00	            0.00
+		301089	0230	MRE005	RACOR QS-1/4-8 RECTO	UN	      475	       0	       0	        8,917.81	             0.00	            0.00
 		301091	0230	MRE005	RACOR QS-1/8-6 RECTO	UN	        6	       0	       0	          107.94	             0.00	            0.00
 		301092	0230	MRE005	RACOR QS-1/8-8 RECTO	UN	       16	       0	       0	          343.52	             0.00	            0.00
 		301094	0230	MRE005	RACOR QS-6	UN	        9	       0	       0	          213.44	             0.00	            0.00
@@ -489,7 +489,7 @@
 		302406	0230	MRE011	TE 2" A. INOX ROSCADA	UN	        2	       0	       0	          341.04	             0.00	            0.00
 		302410	0230	MRE011	TE 3/4" PVC	UN	        5	       0	       0	            9.89	             0.00	            0.00
 		302412	0230	MRE011	TE 3/4" H.G.	UN	       10	       0	       0	           66.95	             0.00	            0.00
-		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       16	       0	       0	           64.31	             0.00	            0.00
+		302416	0230	MRE011	TEFLON EN CINTA 1/2"	UN	       11	       0	       0	           44.21	             0.00	            0.00
 		302417	0230	MRE011	TEFLON EN PASTA 59231 LOCTITE	UN	       26	       0	       0	        4,586.92	             0.00	            0.00
 		302445	0230	MRE011	UNION UNIVERSAL 1 1/2" A.INOX	UN	        2	       0	       0	          321.50	             0.00	            0.00
 		302447	0230	MRE011	UNION UNIVERSAL 1 1/2" H.G.	UN	        4	       0	       0	          340.01	             0.00	            0.00
@@ -555,7 +555,7 @@
 		302731	0230	MRE012	CONECTOR TERMINAL CHUCHO P/CAB 1/0	UN	       32	       0	       0	          268.80	             0.00	            0.00
 		302734	0230	MRE012	CONECTOR TUBO DUCTO 1/2"	UN	        6	       0	       0	           12.21	             0.00	            0.00
 		302737	0230	MRE012	CONTACTO AUXILIAR 3RH1921-1DA11	UN	        8	       0	       0	          501.22	             0.00	            0.00
-		302741	0230	MRE012	CONTACTOR 3RT1026 1AP00 SERIE SIRIUS	UN	        3	       0	       0	        1,405.92	             0.00	            0.00
+		302741	0230	MRE012	CONTACTOR 3RT1026 1AP00 SERIE SIRIUS	UN	        2	       0	       0	          937.28	             0.00	            0.00
 		302744	0230	MRE012	CONTACTOR 3RT1036-1AK60 110V	UN	        1	       0	       0	        1,182.53	             0.00	            0.00
 		302751	0230	MRE012	CONTACTOR 3TF42 BOB. 110V 3RT1025-1AK60	UN	        4	       0	       0	        1,680.27	             0.00	            0.00
 		302756	0230	MRE012	CONTACTOR 3TF46 SIEMENS	UN	        2	       0	       0	        2,142.86	             0.00	            0.00
@@ -938,7 +938,7 @@
 		312170	0230	MRE012	PRENSA ESTOPA PG16	UN	        9	       0	       0	          148.95	             0.00	            0.00
 		312210	0230	MRE012	CABLE PROTOFLEX 3X1.5MM	M	       20	       0	       0	          223.30	             0.00	            0.00
 		312457	0230	MRE011	PLATINA INOX DE 1/8" X 1"	UN	        2	       0	       0	          419.64	             0.00	            0.00
-		312790	0230	MRE012	CABLE TSJ 2 * 10	M	       70	       0	       0	        1,569.41	             0.00	            0.00
+		312790	0230	MRE012	CABLE TSJ 2 * 10	M	       50	       0	       0	        1,121.01	             0.00	            0.00
 		313017	0230	MRE025	GOLOSO PUNTA BROCA 1"	UN	      168	       0	       0	           60.48	             0.00	            0.00
 		313370	0230	MRE012	BORNERAS DE 35MM	UN	       20	       0	       0	        1,600.00	             0.00	            0.00
 		315239	0230	MRE012	CONECTOR RECTO LT 2"	UN	       12	       0	       0	          389.11	             0.00	            0.00
@@ -953,8 +953,7 @@
 		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        9	       0	       0	       21,885.27	             0.00	            0.00
 		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        7	       0	       0	           82.25	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        3	       0	       0	          137.55	             0.00	            0.00
-		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	        1	       0	       0	           23.77	             0.00	            0.00
-		316413	0280	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	       25	       0	       0	          594.23	             0.00	            0.00
+		316413	0230	MRE005	REDUCIRDOR QS 8-6 FESTO	UN	       25	       0	       0	          594.23	             0.00	            0.00
 		316414	0230	MRE005	REDUCIRDOR QS 6-4 FRESTO	UN	       12	       0	       0	          442.28	             0.00	            0.00
 		316574	0230	MRE013	TUERCA HEX.SEGURIDAD 5/8"" NC INOX.	UN	       40	       0	       0	          964.40	             0.00	            0.00
 		316591	0230	MRE011	BARRA ACERO INOX 10MM	TF	    2.500	       0	       0	           33.50	             0.00	            0.00
@@ -3451,4 +3450,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   17,257,077.10	             0.00	       16,160.53
+	*									   17,256,097.42	             0.00	       16,160.53
