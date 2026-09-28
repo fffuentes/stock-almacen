@@ -598,7 +598,7 @@
 		303083	0230	MRE012	PLAFONERA SENCILLA	UN	        6	       0	       0	           66.00	             0.00	            0.00
 		303098	0230	MRE012	PRESOSTATO P70CA-3 PENN	UN	        3	       0	       0	        4,456.44	             0.00	            0.00
 		303101	0230	MRE012	PULSADOR VERDE LUMINOSO E-991-00-030-1	UN	        2	       0	       0	          490.44	             0.00	            0.00
-		303102	0230	MRE012	PULSADOR ROJO 110V SIEMEMS COMPLETO	UN	        5	       0	       0	        1,227.68	             0.00	            0.00
+		303102	0230	MRE012	PULSADOR ROJO 110V SIEMEMS COMPLETO	UN	        3	       0	       0	          736.61	             0.00	            0.00
 		303113	0230	MRE012	REFLECTOR PARA INTEMPERIE 110 VAC	UN	        5	       0	       0	        1,339.30	             0.00	            0.00
 		303114	0230	MRE012	REGLETA DE 6 ENTRADAS	UN	        8	       0	       0	          392.88	             0.00	            0.00
 		303151	0230	MRE012	RIEL 35MM P/BORNERAS/CONTACTORES	M	        4	       0	       0	           93.18	             0.00	            0.00
@@ -765,7 +765,7 @@
 		303690	0230	MRE013	TORNILLO HEX. 5/16" * 2 1/2"	UN	       32	       0	       0	          134.97	             0.00	            0.00
 		303693	0230	MRE013	TORNILLO HEX. 5/16" * 1 1/2" INOX	UN	       19	       0	       0	           83.17	             0.00	            0.00
 		303695	0230	MRE013	TORNILLO HEX. 5/8" * 1 1/2" INOXIDABLE	UN	       30	       0	       0	          294.84	             0.00	            0.00
-		303698	0230	MRE013	TORNILLO HEX. 5/8" * 2 1/2" INOX	UN	       55	       0	       0	          402.60	             0.00	            0.00
+		303698	0230	MRE013	TORNILLO HEX. 5/8" * 2 1/2" INOX	UN	       47	       0	       0	          344.04	             0.00	            0.00
 		303703	0230	MRE013	TORNILLO HEX. 5/8" * 5" INOXIDABLE	UN	       19	       0	       0	        1,205.55	             0.00	            0.00
 		303713	0230	MRE013	TORNILLO HEX. 7/16" * 3/4"	UN	       16	       0	       0	           65.99	             0.00	            0.00
 		303714	0230	MRE013	TORNILLO HEXAGONAL 10 *150MM INOX	UN	       26	       0	       0	        1,754.84	             0.00	            0.00
@@ -802,7 +802,7 @@
 		303780	0230	MRE013	TUERCA HEXAGONAL 4MM INOX.	UN	       20	       0	       0	           17.80	             0.00	            0.00
 		303783	0230	MRE013	TUERCA HEXAGONAL 5/16" INOX.	UN	       74	       0	       0	           46.85	             0.00	            0.00
 		303784	0230	MRE013	TUERCA 5/16" ROSCA FINA	UN	       34	       0	       0	          307.60	             0.00	            0.00
-		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	       11	       0	       0	           38.17	             0.00	            0.00
+		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	        3	       0	       0	           10.41	             0.00	            0.00
 		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	       39	       0	       0	            8.60	             0.00	            0.00
 		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	      222	       0	       0	           55.78	             0.00	            0.00
 		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	      112	       0	       0	           60.01	             0.00	            0.00
@@ -1116,7 +1116,7 @@
 		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       10	       0	       0	        4,598.05	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      527	       0	       0	        3,293.75	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      521	       0	       0	        3,256.25	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        2	       0	       0	           64.27	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -2616,7 +2616,7 @@
 		347982	0230	MRE452	CHAIN JOINT GROUP F997SSSMMI0718	UN	        9	       0	       0	        6,447.19	             0.00	            0.00
 		347987	0230	MRE452	CHAIN JOINT GROUP 80062045	UN	        7	       0	       0	        5,014.48	             0.00	            0.00
 		347997	0230	MRE452	PHOTOCELL 80062070	UN	        1	       0	       0	          879.24	             0.00	            0.00
-		348001	0280	MRE589	EXTENS. 0001300994 00000176720 (255321)	UN	        3	       0	       0	       17,631.18	             0.00	            0.00
+		348001	0280	MRE589	EXTENS. 0001300994 00000176720 (255321)	UN	        3	       0	       0	       17,631.16	             0.00	            0.00
 		348040	0230	MRE458	AUXILIARY CONTACT C800KKKMM0488	UN	        1	       0	       0	           80.15	             0.00	            0.00
 		348041	0230	MRE458	AUXILIARY CONTACT C800KKKMM0389	UN	       15	       0	       0	        1,298.92	             0.00	            0.00
 		348046	0230	MRE458	ET200S MODULE C800SSSSS0771	UN	        6	       0	       0	        4,008.82	             0.00	            0.00
@@ -2834,7 +2834,7 @@
 		3511970	0280	MRE108	VALVULA SELENOIDE BURKE 6430 D8.0 NBR MS	UN	        6	       0	       0	       28,861.98	             0.00	            0.00
 		3512311	0280	MRE005	VALVULA DE BOLA QH-QS-4-1/8	UN	        1	       0	       0	          178.75	             0.00	            0.00
 		351239	0230	MRE507	RODAMIENTO INA SL045005-PP 5043448	UN	       26	       0	       0	       13,816.52	             0.00	            0.00
-		3512613	0280	MRE012	SENSOR FOTOELECTRICO BANNER D12SP6FP	UN	        2	       0	       0	        9,853.22	             0.00	            0.00
+		3512613	0280	MRE012	SENSOR FOTOELECTRICO BANNER D12SP6FP	UN	        2	       0	       0	        9,853.21	             0.00	            0.00
 		3512641	0230	MRE012	VARIADOR FREC 250HP 380-460V ATV610	UN	    0.170	       0	       0	        9,183.04	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
 		351383	0230	MRE113	TUERCA HHA016/26/210823	UN	        7	       0	       0	           35.87	             0.00	            0.00
@@ -2936,7 +2936,8 @@
 		361371	0231	MRE029	PEINE DE TRANSFERENCIA MA901971	UN	        5	       0	       0	        4,552.43	             0.00	            0.00
 		361640	0230	MRE475	MCO 305 MOTION CONTR FC300 C800DDNNN0186	UN	        1	       0	       0	        6,668.13	             0.00	            0.00
 		361827	0230	MRE007	PERFIL TIPO "T" 2 mm	UN	        2	       0	       0	          415.93	             0.00	            0.00
-		361828	0230	MRE007	PERFIL TIPO "F" 8 mm	UN	        1	       0	       0	          602.67	             0.00	            0.00
+		361828	0230	MRE007	PERFIL TIPO "F" 8 mm	UN	        1	       0	       0	        1,872.33	             0.00	            0.00
+		361828	0280	MRE007	PERFIL TIPO "F" 8 mm	UN	        4	       0	       0	        7,489.30	             0.00	            0.00
 		362152	0230	MRE535	RULO RODILLO DE TRACCION 8L10000378	UN	        1	       0	       0	        9,235.94	             0.00	            0.00
 		362153	0230	MRE535	COJINETE RODILLO TRACC. 8L50000225	UN	        2	       0	       0	          139.90	             0.00	            0.00
 		362155	0230	MRE535	EJE RODILLO TRACCION 8L10017659	UN	        1	       0	       0	        5,219.22	             0.00	            0.00
@@ -3458,4 +3459,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   17,258,052.34	             0.00	       16,160.53
+	*									   17,266,196.38	             0.00	       16,160.53
