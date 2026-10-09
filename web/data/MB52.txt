@@ -345,7 +345,7 @@
 		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	        7	       0	       0	           49.79	             0.00	            0.00
 		301757	0230	MRE011	BROCA HSS 1/8 IN	UN	        6	       0	       0	           26.82	             0.00	            0.00
 		301758	0230	MRE011	BROCA 1/8" TUGSTENO	UN	       26	       0	       0	        4,953.39	             0.00	            0.00
-		301765	0230	MRE011	BROCA 3/16" COBALTO	UN	       17	       0	       0	          281.62	             0.00	            0.00
+		301765	0230	MRE011	BROCA 3/16" COBALTO	UN	       15	       0	       0	          248.49	             0.00	            0.00
 		301772	0230	MRE011	BROCA 3/8" CONCRETO	UN	        4	       0	       0	           42.84	             0.00	            0.00
 		301774	0230	MRE011	BROCA 4MM. HSS	UN	        2	       0	       0	           32.14	             0.00	            0.00
 		301775	0230	MRE011	BROCA 5/16" TUGSTENO	UN	        8	       0	       0	        4,535.76	             0.00	            0.00
@@ -522,7 +522,7 @@
 		302494	0230	MRE011	VALVULA DE BOLA 2" H/N	UN	        4	       0	       0	        1,334.08	             0.00	            0.00
 		302500	0230	MRE011	VALVULA DE COMPUERTA 1" HN	UN	        1	       0	       0	          500.00	             0.00	            0.00
 		302534	0230	MRE011	VARILLA TIG 1/16" DE APORTE. (UN=LIBRA)	UN	       10	       0	       0	          535.75	             0.00	            0.00
-		302535	0230	MRE011	VARILLA TIG INOXIDABLE 1/8" DE APORTE.	LB	        5	       0	       0	          357.15	             0.00	            0.00
+		302535	0230	MRE011	VARILLA TIG INOXIDABLE 1/8" DE APORTE.	LB	        4	       0	       0	          285.72	             0.00	            0.00
 		302538	0230	MRE011	VISOR PARA TANQUES SALA DE JARABES.	UN	        2	       0	       0	          861.00	             0.00	            0.00
 		302547	0230	MRE012	ABRAZADERA ADHESIVA P/CABLE	UN	       59	       0	       0	          472.00	             0.00	            0.00
 		302549	0230	MRE012	CAPACITOR DE ARRANQUE 340-408MFD 110V	UN	        1	       0	       0	           61.16	             0.00	            0.00
@@ -658,7 +658,7 @@
 		303421	0280	MRE013	PERNO DE ANCLAJE 3/8" * 3" INOXIDABLE	UN	       80	       0	       0	        2,714.40	             0.00	            0.00
 		303422	0230	MRE013	PERNO DE ANCLAJE 5/8" * 3 1/2"	UN	       23	       0	       0	          155.37	             0.00	            0.00
 		303432	0230	MRE013	PIN EXPANSION 6 * 26 MM INOX	UN	       11	       0	       0	           79.27	             0.00	            0.00
-		303435	0230	MRE013	REMACHE ALUMINIO 3/16 TIPO POP	UN	      275	       0	       0	           63.55	             0.00	            0.00
+		303435	0230	MRE013	REMACHE ALUMINIO 3/16 TIPO POP	UN	      267	       0	       0	           61.70	             0.00	            0.00
 		303438	0230	MRE013	ROLDANA DE PRESION 1 /4" INOX	UN	       78	       0	       0	           42.12	             0.00	            0.00
 		303441	0230	MRE013	ROLDANA DE PRESION 1/2" INOX	UN	       48	       0	       0	           42.72	             0.00	            0.00
 		303442	0230	MRE013	ROLDANA DE PRESION 10MM INOX.	UN	      105	       0	       0	          239.01	             0.00	            0.00
@@ -3357,7 +3357,7 @@
 		389507	0230	MRE029	SOPORTE EK200113	UN	       12	       0	       0	        5,182.02	             0.00	            0.00
 		389603	0231	MRE443	ESTAQUILLA SEPARADO MA801090	UN	       12	       0	       0	        5,952.04	             0.00	            0.00
 		389920	0230	MRE007	PIE ARTICULADO M16X110 D80 R0323	UN	       18	       0	       0	        2,732.22	             0.00	            0.00
-		390247	0230	MRE014	CELEROL 7007-7009 904173639 904902828	UN	       50	       0	       0	       18,821.53	             0.00	            0.00
+		390247	0230	MRE014	CELEROL 7007-7009 904173639 904902828	UN	       45	       0	       0	       16,939.38	             0.00	            0.00
 		390251	0230	MRE014	CELEROL 7402 0902970340/ 0-904-46-065-8	UN	        2	       0	       0	          719.27	             0.00	            0.00
 		390338	0230	MRE000163	CENTRADOR 3 DIENTES PHTA00001701	UN	       12	       0	       0	       20,931.80	             0.00	            0.00
 		390582	0230	MRE569	STRUMENTO DI MISURA 80029050	UN	        1	       0	       0	        7,239.73	             0.00	            0.00
@@ -3487,4 +3487,4 @@
 		399357	0231	MRE764	FILTRO 117X117X11CM 0-904-45-241-2	UN	        2	       0	       0	       37,766.91	             0.00	            0.00
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 
-	*									   18,384,022.88	             0.00	       16,160.53
+	*									   18,382,034.32	             0.00	       16,160.53
