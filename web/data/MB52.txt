@@ -1,9 +1,9 @@
-06.11.2026                                   Salida dinámica de lista                                                                                        1
+10.11.2026                                   Salida dinámica de lista                                                                                        1
 
 
 		Material	Alm.	Grupo art.	Texto breve material	UMB	LibrUtiliz	Insp.cal.	Bloqueado	Valor libre util.	Valor en insp.cal.	Valor stock bloq.
 
-		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    6,380	       0	       0	      127,786.03	             0.00	            0.00
+		260515	0230	MGR050	FUEL OIL BUNKER	GLN	    6,088	       0	       0	      122,858.48	             0.00	            0.00
 		300000	0230	MRE001	ABRAZADERA 1 1/2" 13MHHM 119-28 CLAMP SA	UN	        9	       0	       0	          300.35	             0.00	            0.00
 		300002	0230	MRE001	ABRAZADERA 2" 13MHHM 119-30 CLAMP	UN	       14	       0	       0	          492.92	             0.00	            0.00
 		300003	0230	MRE001	ABRAZADERA 3" 13MHHM 119-34 CLAMP	UN	        4	       0	       0	          166.19	             0.00	            0.00
@@ -79,14 +79,14 @@
 		300323	0230	MRE002	RODAMIENTO 33205	UN	        6	       0	       0	        2,188.68	             0.00	            0.00
 		300354	0230	MRE002	RODAMIENTO 51110	UN	        2	       0	       0	          100.29	             0.00	            0.00
 		300364	0230	MRE002	RODAMIENTO 2D3KRR2	UN	        2	       0	       0	          464.28	             0.00	            0.00
-		300366	0230	MRE002	RODAMIENTO 6000 2RS	UN	        6	       0	       0	          167.16	             0.00	            0.00
+		300366	0230	MRE002	RODAMIENTO 6000 2RS	UN	        5	       0	       0	          139.30	             0.00	            0.00
 		300367	0230	MRE002	RODAMIENTO 6001 2RS	UN	       30	       0	       0	          616.20	             0.00	            0.00
 		300368	0230	MRE002	RODAMIENTO 6002 2RS 0-400-30-120-1	UN	       25	       0	       0	          535.75	             0.00	            0.00
 		300369	0230	MRE002	RODAMIENTO 6002 Z HT51	UN	        8	       0	       0	          225.10	             0.00	            0.00
 		300370	0230	MRE002	RODAMIENTO 6003 2RS	UN	       12	       0	       0	          365.23	             0.00	            0.00
 		300371	0230	MRE002	RODAMIENTO 6004 2RS	UN	        7	       0	       0	          220.65	             0.00	            0.00
 		300373	0230	MRE002	RODAMIENTO 6004 2Z HT51 (GJN)	UN	       14	       0	       0	          374.06	             0.00	            0.00
-		300376	0230	MRE002	RODAMIENTO 6005-2Z	UN	       26	       0	       0	          973.17	             0.00	            0.00
+		300376	0230	MRE002	RODAMIENTO 6005-2Z	UN	       25	       0	       0	          935.74	             0.00	            0.00
 		300377	0230	MRE002	RODAMIENTO 6006 2RS	UN	        5	       0	       0	          256.50	             0.00	            0.00
 		300378	0230	MRE002	RODAMIENTO 6007 2RS	UN	       19	       0	       0	        1,228.47	             0.00	            0.00
 		300379	0230	MRE002	RODAMIENTO 6008 2RS 0400301571 KRONES	UN	        5	       0	       0	          355.15	             0.00	            0.00
@@ -97,8 +97,8 @@
 		300387	0230	MRE002	RODAMIENTO 6017 2RS = 3412908	UN	        4	       0	       0	        2,194.50	             0.00	            0.00
 		300401	0230	MRE002	RODAMIENTO 6201 2RS	UN	        9	       0	       0	          108.02	             0.00	            0.00
 		300403	0230	MRE002	RODAMIENTO 6202 2RS = 0-400-30-423-1	UN	       19	       0	       0	          419.87	             0.00	            0.00
-		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	        8	       0	       0	          237.40	             0.00	            0.00
-		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	        7	       0	       0	          176.08	             0.00	            0.00
+		300404	0230	MRE002	RODAMIENTO 6203 2RS	UN	        7	       0	       0	          207.72	             0.00	            0.00
+		300406	0230	MRE002	RODAMIENTO 6203 ZZ HT51	UN	        6	       0	       0	          150.93	             0.00	            0.00
 		300407	0230	MRE002	RODAMIENTO 6204 2RS	UN	        5	       0	       0	          177.70	             0.00	            0.00
 		300408	0230	MRE002	RODAMIENTO 6204 ZZ HT 51	UN	       10	       0	       0	          287.50	             0.00	            0.00
 		300409	0230	MRE002	RODAMIENTO 6205 2RS 0-900-41-502-7	UN	       11	       0	       0	          427.24	             0.00	            0.00
@@ -114,8 +114,8 @@
 		300430	0230	MRE002	RODAMIENTO 6300 2RS	UN	        9	       0	       0	          253.09	             0.00	            0.00
 		300431	0230	MRE002	RODAMIENTO 6301 2RS	UN	       18	       0	       0	          530.28	             0.00	            0.00
 		300432	0230	MRE002	RODAMIENTO 6302 2RS	UN	       28	       0	       0	          875.00	             0.00	            0.00
-		300433	0230	MRE002	RODAMIENTO 6303 2RS	UN	       17	       0	       0	          795.50	             0.00	            0.00
-		300434	0230	MRE002	RODAMIENTO 6304 2RS SKF	UN	       21	       0	       0	          952.37	             0.00	            0.00
+		300433	0230	MRE002	RODAMIENTO 6303 2RS	UN	       16	       0	       0	          748.71	             0.00	            0.00
+		300434	0230	MRE002	RODAMIENTO 6304 2RS SKF	UN	       20	       0	       0	          907.02	             0.00	            0.00
 		300435	0230	MRE002	RODAMIENTO 6305 2RS	UN	       13	       0	       0	          721.22	             0.00	            0.00
 		300436	0230	MRE002	RODAMIENTO 6306 2RS	UN	       14	       0	       0	        1,023.91	             0.00	            0.00
 		300437	0230	MRE002	RODAMIENTO 6307 2RS	UN	       19	       0	       0	        2,003.08	             0.00	            0.00
@@ -157,7 +157,7 @@
 		300588	0230	MRE003	RETENEDOR 17X30X7	UN	        5	       0	       0	           89.75	             0.00	            0.00
 		300589	0230	MRE003	RETENEDOR 17*32*7 = 221730	UN	        6	       0	       0	          101.38	             0.00	            0.00
 		300590	0230	MRE003	RETENEDOR 17*40*7	UN	        6	       0	       0	          109.80	             0.00	            0.00
-		300595	0230	MRE003	RETENEDOR 18*35*8 = 221735	UN	        4	       0	       0	           86.93	             0.00	            0.00
+		300595	0230	MRE003	RETENEDOR 18*35*8 = 221735	UN	       29	       0	       0	          541.18	             0.00	            0.00
 		300599	0230	MRE003	RETENEDOR 20*35*7	UN	       16	       0	       0	          300.15	             0.00	            0.00
 		300602	0230	MRE003	RETENEDOR 20*47*7	UN	       11	       0	       0	          329.87	             0.00	            0.00
 		300620	0230	MRE003	RETENEDOR 25*35*8	UN	       14	       0	       0	          211.78	             0.00	            0.00
@@ -172,12 +172,12 @@
 		300647	0230	MRE003	RETENEDOR 30*45*8 = 223015	UN	        3	       0	       0	           75.00	             0.00	            0.00
 		300657	0230	MRE003	RETENEDOR 323238	UN	        2	       0	       0	           16.00	             0.00	            0.00
 		300665	0230	MRE003	RETENEDOR 35*54*8	UN	        3	       0	       0	           40.15	             0.00	            0.00
-		300666	0230	MRE003	RETENEDOR 35X47X7	UN	       10	       0	       0	          259.77	             0.00	            0.00
+		300666	0230	MRE003	RETENEDOR 35X47X7	UN	       10	       0	       0	          259.76	             0.00	            0.00
 		300668	0230	MRE003	RETENEDOR 35*52*7	UN	        3	       0	       0	           98.73	             0.00	            0.00
 		300670	0230	MRE003	RETENEDOR 35*72*10 L1 MRE054	UN	        2	       0	       0	           80.22	             0.00	            0.00
 		300676	0230	MRE003	RETENEDOR 40*85*11	UN	        6	       0	       0	          322.00	             0.00	            0.00
 		300677	0230	MRE003	RETENEDOR 40*90*8	UN	        5	       0	       0	          598.20	             0.00	            0.00
-		300678	0230	MRE003	RETENEDOR 40*52*7 = 224015	UN	        2	       0	       0	           46.89	             0.00	            0.00
+		300678	0230	MRE003	RETENEDOR 40*52*7 = 224015	UN	       27	       0	       0	          721.14	             0.00	            0.00
 		300681	0230	MRE003	RETENEDOR 40*60*10 = 224040	UN	        4	       0	       0	          107.16	             0.00	            0.00
 		300685	0230	MRE003	RETENEDOR 40*72*7	UN	        6	       0	       0	          129.12	             0.00	            0.00
 		300695	0230	MRE003	RETENEDOR 45*60*9	UN	        9	       0	       0	          293.58	             0.00	            0.00
@@ -186,12 +186,13 @@
 		300723	0230	MRE003	RETENEDOR 472924	UN	        1	       0	       0	            8.00	             0.00	            0.00
 		300731	0230	MRE003	RETENEDOR 50*70*9	UN	        6	       0	       0	           48.00	             0.00	            0.00
 		300732	0230	MRE003	RETENEDOR 50*90*10	UN	        4	       0	       0	          169.68	             0.00	            0.00
-		300733	0230	MRE003	RETENEDOR 50*65*8	UN	       19	       0	       0	          625.64	             0.00	            0.00
+		300733	0230	MRE003	RETENEDOR 50*65*8	UN	       19	       0	       0	          625.62	             0.00	            0.00
 		300735	0230	MRE003	RETENEDOR 50*80*8	UN	       29	       0	       0	        1,275.49	             0.00	            0.00
 		300741	0230	MRE003	RETENEDOR 55*72*8	UN	        7	       0	       0	          306.10	             0.00	            0.00
 		300744	0230	MRE003	RETENEDOR 55*80*10	UN	        6	       0	       0	          251.28	             0.00	            0.00
 		300745	0230	MRE003	RETENEDOR 55*90*9/10	UN	       10	       0	       0	          511.50	             0.00	            0.00
 		300748	0230	MRE003	RETENEDOR 60*75*9	UN	        5	       0	       0	          167.65	             0.00	            0.00
+		300750	0230	MRE003	RETENEDOR 60*85*8	UN	        5	       0	       0	          239.29	             0.00	            0.00
 		300755	0230	MRE003	RETENEDOR 65*100*10 = 226550	UN	       12	       0	       0	          623.28	             0.00	            0.00
 		300757	0230	MRE003	RETENEDOR 65*90*10 AE=3409	UN	        4	       0	       0	          234.35	             0.00	            0.00
 		300760	0230	MRE003	RETENEDOR 70*100*10	UN	        3	       0	       0	          203.56	             0.00	            0.00
@@ -210,7 +211,7 @@
 		300837	0230	MRE004	CORREA A43	UN	        7	       0	       0	          155.37	             0.00	            0.00
 		300838	0230	MRE004	CORREA A46	UN	        3	       0	       0	           78.55	             0.00	            0.00
 		300843	0230	MRE004	CORREA A53	UN	        3	       0	       0	          107.40	             0.00	            0.00
-		300848	0230	MRE004	CORREA A61	UN	       13	       0	       0	          452.46	             0.00	            0.00
+		300848	0230	MRE004	CORREA A61	UN	       10	       0	       0	          348.05	             0.00	            0.00
 		300853	0230	MRE004	CORREA B100	UN	        5	       0	       0	          424.01	             0.00	            0.00
 		300854	0230	MRE004	CORREA B108	UN	        9	       0	       0	          802.49	             0.00	            0.00
 		300855	0230	MRE004	CORREA B111	UN	        8	       0	       0	          697.77	             0.00	            0.00
@@ -244,10 +245,10 @@
 		301061	0230	MRE005	RACOR ACK-3/8-PK-9	UN	        6	       0	       0	          339.54	             0.00	            0.00
 		301084	0230	MRE005	RACOR QS-1/2-12 RECTO	UN	        6	       0	       0	          281.97	             0.00	            0.00
 		301085	0230	MRE005	RACOR QS-1/2-16	UN	        7	       0	       0	          629.72	             0.00	            0.00
-		301086	0230	MRE005	RACOR QS-1/4-10	UN	        9	       0	       0	          255.94	             0.00	            0.00
+		301086	0230	MRE005	RACOR QS-1/4-10	UN	        8	       0	       0	          227.50	             0.00	            0.00
 		301087	0230	MRE005	RACOR QS-1/4-12 RECTO	UN	       27	       0	       0	          893.16	             0.00	            0.00
 		301088	0230	MRE005	RACOR QS-1/4-6 RECTO	UN	       11	       0	       0	          217.03	             0.00	            0.00
-		301089	0230	MRE005	RACOR QS-1/4-8 RECTO	UN	      468	       0	       0	        8,786.39	             0.00	            0.00
+		301089	0230	MRE005	RACOR QS-1/4-8 RECTO	UN	      467	       0	       0	        8,767.62	             0.00	            0.00
 		301091	0230	MRE005	RACOR QS-1/8-6 RECTO	UN	       43	       0	       0	          638.61	             0.00	            0.00
 		301092	0230	MRE005	RACOR QS-1/8-8 RECTO	UN	       16	       0	       0	          343.52	             0.00	            0.00
 		301094	0230	MRE005	RACOR QS-6	UN	       40	       0	       0	          948.60	             0.00	            0.00
@@ -266,15 +267,13 @@
 		301113	0230	MRE005	RACOR QST-8	UN	       18	       0	       0	          940.27	             0.00	            0.00
 		301125	0230	MRE005	REDUCCION D-3/8-1/2 3385	UN	        7	       0	       0	          162.54	             0.00	            0.00
 		301126	0230	MRE005	REDUCIDOR NEUM. D-1/8i-1/4a	UN	        3	       0	       0	           36.57	             0.00	            0.00
-		301127	0230	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        3	       0	       0	        1,740.74	             0.00	            0.00
-		301127	0280	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        6	       0	       0	        3,481.48	             0.00	            0.00
+		301127	0230	MRE005	REGULADOR DE PRESION LR-D-MIDI 1/2"	UN	        9	       0	       0	        5,222.22	             0.00	            0.00
 		301129	0230	MRE005	REGULADOR 1/4" PARA AIRE 200 PSI	UN	        2	       0	       0	          680.86	             0.00	            0.00
 		301129	0280	MRE005	REGULADOR 1/4" PARA AIRE 200 PSI	UN	        7	       0	       0	        2,383.01	             0.00	            0.00
 		301136	0230	MRE005	REGULADOR DE CAUDAL GRLA 3/8	UN	        2	       0	       0	          702.22	             0.00	            0.00
 		301140	0230	MRE005	REGULADOR DE PRESION LR-1/4-D MIDI	UN	        6	       0	       0	        3,535.17	             0.00	            0.00
 		301140	0280	MRE005	REGULADOR DE PRESION LR-1/4-D MIDI	UN	        1	       0	       0	          589.20	             0.00	            0.00
-		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        4	       0	       0	          421.48	             0.00	            0.00
-		301160	0280	MRE005	SILENCIADOR U-1/4-B 6842	UN	        1	       0	       0	          105.37	             0.00	            0.00
+		301160	0230	MRE005	SILENCIADOR U-1/4-B 6842	UN	        5	       0	       0	          526.85	             0.00	            0.00
 		301166	0230	MRE005	UNIDAD MANTENIMIENTO FRC-1/2"-D-MIDI	UN	        2	       0	       0	        3,870.93	             0.00	            0.00
 		301183	0230	MRE006	CADENA DOBLE No. 60 P/ESLABON	TF	       20	       0	       0	        1,574.72	             0.00	            0.00
 		301186	0230	MRE006	CADENA No. 60 P/ESLABON	TF	       20	       0	       0	          967.30	             0.00	            0.00
@@ -302,7 +301,6 @@
 		301330	0230	MRE007	CADENA SS815 3 1/4" RECTA	TF	       90	       0	       0	       24,655.54	             0.00	            0.00
 		301331	0230	MRE007	CADENA SS815K 7 1/2" RECTA AUSTENITICA	TF	       78	       0	       0	       21,623.66	             0.00	            0.00
 		301352	0230	MRE007	GUIA PLASTICA TIPO DOBLE "T" = PERFIL	M	       12	       0	       0	       10,446.48	             0.00	            0.00
-		301383	0230	MRE007	PERFIL "C" 2"*15MM*2.44MTSEN PLASTIDUR	M	       40	       0	       0	       14,821.60	             0.00	            0.00
 		301390	0230	MRE007	PERFIL "Z" PLASTICO PIEZA 5ZZ00107 DE 1"	TF	      100	       0	      53	        9,004.03	             0.00	        4,772.13
 		301391	0230	MRE007	PERFIL HONGO PLASTICO PIEZA 3ZZ00050	TF	       20	       0	       0	        3,214.40	             0.00	            0.00
 		301409	0230	MRE007	SOPORTE PARA TRASPORTADOR	UN	       70	       0	       0	      102,453.22	             0.00	            0.00
@@ -320,7 +318,7 @@
 		301682	0230	MRE011	ABRAZADERA 1 1/2" UNISTRUD	UN	        4	       0	       0	           17.12	             0.00	            0.00
 		301683	0230	MRE011	ABRAZADERA HANGER HG 1 1/4 IN CLAMP	UN	       10	       0	       0	           30.40	             0.00	            0.00
 		301684	0230	MRE011	ABRAZADERA 1 1/4" UNISTRUT	UN	       15	       0	       0	           66.68	             0.00	            0.00
-		301685	0230	MRE011	ABRAZADERA 1" CASTIGADERA	UN	       27	       0	       0	          102.60	             0.00	            0.00
+		301685	0230	MRE011	ABRAZADERA 1" CASTIGADERA	UN	        1	       0	       0	            3.80	             0.00	            0.00
 		301686	0230	MRE011	ABRAZADERA 1" HANGERDE PENDULO	UN	        9	       0	       0	           32.83	             0.00	            0.00
 		301688	0230	MRE011	ABRAZADERA 1/2" CASTIGADERA	UN	       37	       0	       0	          288.97	             0.00	            0.00
 		301689	0230	MRE011	ABRAZADERA 1/2" HANGERDE PENDULO	UN	       39	       0	       0	           64.02	             0.00	            0.00
@@ -328,7 +326,7 @@
 		301691	0230	MRE011	LAMINA MOSQUITERA H.N. 3' X 7' X 1/32"	UN	        3	       0	       0	          595.28	             0.00	            0.00
 		301693	0230	MRE011	ABRAZADERA 2" CASTIGADERA A/I	UN	       67	       0	       0	          703.15	             0.00	            0.00
 		301695	0230	MRE011	ABRAZADERA 3/4" CASTIGADERA INOX	UN	       44	       0	       0	          235.98	             0.00	            0.00
-		301697	0230	MRE011	ABRAZADERA 3/4" CASTIGADERA INOX	UN	       37	       0	       0	           87.31	             0.00	            0.00
+		301697	0230	MRE011	ABRAZADERA 3/4" CASTIGADERA INOX	UN	       13	       0	       0	           30.68	             0.00	            0.00
 		301701	0230	MRE011	ABRAZADERA 4" CASTIGADERA	UN	       12	       0	       0	          273.27	             0.00	            0.00
 		301704	0230	MRE011	ACETILENO UN 1001	UN	        1	       0	       0	          589.29	             0.00	            0.00
 		301710	0230	MRE011	ADAPTADOR HEMBRA PVC 1/2"	UN	       20	       0	       0	           36.02	             0.00	            0.00
@@ -336,7 +334,7 @@
 		301714	0230	MRE011	ADAPTADOR MACHO PVC 1/2"	UN	       13	       0	       0	           25.40	             0.00	            0.00
 		301715	0230	MRE011	ADAPTADOR MACHO 2" PVC	UN	       14	       0	       0	          106.40	             0.00	            0.00
 		301716	0230	MRE011	ADAPTADOR MACHO PVC 3/4"	UN	       12	       0	       0	           36.52	             0.00	            0.00
-		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	       12	       0	       0	          632.14	             0.00	            0.00
+		301718	0230	MRE011	LUBRICANTE WD-40     BOTE 11 ONZ	UN	        9	       0	       0	          474.10	             0.00	            0.00
 		301720	0230	MRE011	FILTRO HIDRAULICO ROSCA NPT 1-1/4"	GLN	        1	       0	       0	        1,704.46	             0.00	            0.00
 		301727	0230	MRE011	ARGON EN CILINDRO	UN	        1	       0	       0	          750.35	             0.00	            0.00
 		301729	0230	MRE011	AVELLANADOR 1/2" A 45°	UN	        5	       0	       0	          133.90	             0.00	            0.00
@@ -346,10 +344,10 @@
 		301746	0230	MRE011	BROCA 8MM HSS	UN	       31	       0	       0	          166.97	             0.00	            0.00
 		301754	0230	MRE011	BROCA 1/4" COBALTO	UN	       11	       0	       0	          353.54	             0.00	            0.00
 		301755	0230	MRE011	BROCA 1/4" HSS	UN	        9	       0	       0	           84.41	             0.00	            0.00
-		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	       18	       0	       0	          222.34	             0.00	            0.00
+		301756	0230	MRE011	BROCA CONCRETO 1/4 IN	UN	       18	       0	       0	          222.33	             0.00	            0.00
 		301757	0230	MRE011	BROCA HSS 1/8 IN	UN	        5	       0	       0	           22.35	             0.00	            0.00
-		301758	0230	MRE011	BROCA 1/8" TUGSTENO	UN	       23	       0	       0	        4,381.84	             0.00	            0.00
-		301765	0230	MRE011	BROCA 3/16" COBALTO	UN	       30	       0	       0	          501.60	             0.00	            0.00
+		301758	0230	MRE011	BROCA 1/8" TUGSTENO	UN	       21	       0	       0	        4,000.81	             0.00	            0.00
+		301765	0230	MRE011	BROCA 3/16" COBALTO	UN	       29	       0	       0	          484.88	             0.00	            0.00
 		301770	0230	MRE011	BROCA 3/8" TUNGSTENO	UN	       11	       0	       0	       10,803.54	             0.00	            0.00
 		301772	0230	MRE011	BROCA 3/8" CONCRETO	UN	        4	       0	       0	           42.84	             0.00	            0.00
 		301774	0230	MRE011	BROCA 4MM. HSS	UN	        2	       0	       0	           32.14	             0.00	            0.00
@@ -361,13 +359,13 @@
 		301789	0230	MRE011	BROCA DE CENTRO No. 3	UN	       20	       0	       0	          571.40	             0.00	            0.00
 		301790	0230	MRE011	BROCA DE CENTRO No. 4	UN	       11	       0	       0	          454.12	             0.00	            0.00
 		301791	0230	MRE011	BROCA DE CENTRO No. 5	UN	       20	       0	       0	          892.80	             0.00	            0.00
-		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	       65	       0	       0	          355.17	             0.00	            0.00
+		301792	0230	MRE011	BROCHA DE CERDA 1"	UN	       64	       0	       0	          349.71	             0.00	            0.00
 		301794	0230	MRE011	BROCHA PLASTICO 2"	UN	       39	       0	       0	          209.03	             0.00	            0.00
-		301795	0230	MRE011	BROCHA PLASTICO 3"	UN	       40	       0	       0	          357.19	             0.00	            0.00
+		301795	0230	MRE011	BROCHA PLASTICO 3"	UN	       39	       0	       0	          348.26	             0.00	            0.00
 		301796	0230	MRE011	BROCHA PLASTICO 4"	UN	       17	       0	       0	          197.37	             0.00	            0.00
 		301797	0230	MGR055	BROCHA DE CERDA 5""	UN	        4	       0	       0	           90.31	             0.00	            0.00
 		301802	0230	MRE011	MEMB EPDM SILVER II PARA DIFUSOR 9 COM	UN	       42	       0	       0	       12,708.76	             0.00	            0.00
-		301814	0230	MRE011	CANDADO 40MM	UN	       30	       0	       0	        1,312.22	             0.00	            0.00
+		301814	0230	MRE011	CANDADO 40MM	UN	       28	       0	       0	        1,224.74	             0.00	            0.00
 		301818	0230	MRE011	CEPILLO DE ALAMBRE PLÁSTICO 30CM	UN	       30	       0	       0	          261.30	             0.00	            0.00
 		301827	0230	MRE011	CHORRO 1/2" CON ROSCA	UN	       11	       0	       0	          752.98	             0.00	            0.00
 		301832	0230	MRE011	CINTA 2" SEÑALIZACION AMARILLA	UN	        5	       0	       0	          437.91	             0.00	            0.00
@@ -418,9 +416,10 @@
 		301969	0230	MRE011	ESTOPA 1/8" GRAFITADA	TF	       34	       0	       0	          263.50	             0.00	            0.00
 		301973	0230	MRE011	ESTOPA 3/8" TEFLONADA	TF	        5	       0	       0	          245.53	             0.00	            0.00
 		302002	0230	MRE011	FITTING CODO 1/4" BRONCE NPT	UN	        6	       0	       0	           80.34	             0.00	            0.00
-		302023	0230	MRE011	FRESA 1/4" 4 FILOS HSS	UN	       24	       0	       0	        2,356.99	             0.00	            0.00
+		302023	0230	MRE011	FRESA 1/4" 4 FILOS HSS	UN	       22	       0	       0	        2,160.57	             0.00	            0.00
 		302024	0230	MRE011	FRESA 1/8" 4 FILOS HSS	UN	       16	       0	       0	        1,236.85	             0.00	            0.00
 		302026	0230	MRE011	FRESA 14MM 4 FILOS HSS	UN	        1	       0	       0	          276.79	             0.00	            0.00
+		302026	0280	MRE011	FRESA 14MM 4 FILOS HSS	UN	       20	       0	       0	        5,535.80	             0.00	            0.00
 		302029	0230	MRE011	FRESA 3/16" 2 FILOS HSS	UN	        3	       0	       0	          294.64	             0.00	            0.00
 		302030	0230	MRE011	FRESA 3/16" 4 FILOS HSS	UN	        5	       0	       0	          425.00	             0.00	            0.00
 		302033	0230	MRE011	FRESA 5/16" 2 FILOS HSS	UN	        9	       0	       0	          883.87	             0.00	            0.00
@@ -430,7 +429,7 @@
 		302091	0230	MRE011	LIJA DE AGUA No. 400	UN	        4	       0	       0	           13.10	             0.00	            0.00
 		302094	0230	MRE011	LIJA DE AGUA No. 80	UN	       39	       0	       0	          238.05	             0.00	            0.00
 		302095	0230	MRE011	LIJA DE ESMERIL No. 80	UN	       81	       0	       0	          468.63	             0.00	            0.00
-		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	       38	       0	       0	       11,155.28	             0.00	            0.00
+		302097	0230	MRE011	LIMPIA CONTACTO ELECTRONICO	UN	       38	       0	       0	       11,155.03	             0.00	            0.00
 		302111	0230	MRE011	MACHUELO 3/16" NC	UN	        4	       0	       0	          119.06	             0.00	            0.00
 		302117	0230	MRE011	MACHUELO 4MM	JGO	        1	       0	       0	           69.81	             0.00	            0.00
 		302120	0230	MRE011	MACHUELO 5MM	JGO	        2	       0	       0	           90.03	             0.00	            0.00
@@ -439,23 +438,22 @@
 		302125	0230	MRE011	MACHUELO 12MM*1.50	UN	        9	       0	       0	          763.38	             0.00	            0.00
 		302140	0230	MRE011	MANGUERA TAYGON 1 1/2" SANITA-RIA	TF	      100	       0	       0	        5,312.50	             0.00	            0.00
 		302141	0230	MRE011	MANGUERA TAYGON 1" SANI. 300 PSI	TF	       97	       0	       0	          352.23	             0.00	            0.00
-		302145	0230	MRE011	MANGUERA TAYGON 3/4"	TF	      149	       0	       0	        2,261.94	             0.00	            0.00
+		302145	0230	MRE011	MANGUERA TAYGON 3/4"	TF	       98	       0	       0	        1,486.81	             0.00	            0.00
 		302152	0230	MRE011	NEOPRENO ¼" CON LONA	UN	        1	       0	       0	        2,107.15	             0.00	            0.00
 		302155	0230	MRE011	NIPLE 1/2" * 5" H.G.	UN	       10	       0	       0	           89.30	             0.00	            0.00
 		302156	0230	MRE011	NIPLE 1/4" * 5" H.G.	UN	        6	       0	       0	           67.02	             0.00	            0.00
 		302158	0230	MRE011	NIPLE 3/4" * 3" A.INOX	UN	       25	       0	       0	          558.00	             0.00	            0.00
 		302159	0230	MRE011	NIPLE 3/4" * 5" H.G.	UN	        9	       0	       0	           83.72	             0.00	            0.00
-		302161	0230	MRE011	NIPLE 1/2" * 4" H.N. CORRIDO	UN	       19	       0	       0	          169.67	             0.00	            0.00
+		302161	0230	MRE011	NIPLE 1/2" * 4" H.N. CORRIDO	UN	       18	       0	       0	          160.74	             0.00	            0.00
 		302163	0230	MRE011	NIPLE 1/4" * 3" A.INOX	UN	        9	       0	       0	          142.96	             0.00	            0.00
 		302164	0230	MRE011	NIPLE 1/4" * 3" H.G.	UN	       20	       0	       0	          178.60	             0.00	            0.00
 		302170	0230	MRE011	NITROGENO GASEOSO EN CILINDRO	UN	        2	       0	       0	          432.14	             0.00	            0.00
-		302195	0230	MRE011	OXIGENO EN CILINDRO	UN	        2	       0	       0	          455.71	             0.00	            0.00
-		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	       11	       0	       0	          373.23	             0.00	            0.00
+		302198	0230	MRE011	PEGAMENTO PARA PVC EN POMO	UN	       10	       0	       0	          339.30	             0.00	            0.00
 		302200	0230	MRE011	PERMATEX No.1 (FORM A GASKET)	UN	       25	       0	       0	        1,812.10	             0.00	            0.00
 		302208	0230	MRE011	PISTOLA PARA CARTUCHO SILICONE	UN	        1	       0	       0	           71.43	             0.00	            0.00
 		302219	0230	MRE011	PLANCHA DE HULE SANITARIO 1/4"	UN	        4	       0	       0	       13,928.58	             0.00	            0.00
 		302224	0230	MRE011	REDUCIDOR BUSHING 1" A 1/2" H.G.	UN	       26	       0	       0	          214.17	             0.00	            0.00
-		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	       14	       0	       0	           87.50	             0.00	            0.00
+		302229	0230	MRE011	REDUCIDOR BUSHING 1/2" A 1/4" H.G.	UN	       13	       0	       0	           81.25	             0.00	            0.00
 		302234	0230	MRE011	REDUCIDOR BUSHING 1 1/2" A 1" H.G.	UN	        3	       0	       0	           50.90	             0.00	            0.00
 		302239	0230	MRE011	UNION REDUCTOR BUSHING HG 2IN X 1 1/2IN	UN	       15	       0	       0	          334.95	             0.00	            0.00
 		302245	0230	MRE011	REDUCCION BUSHING INOX 3/4 - 1/2 NPT	UN	       24	       0	       0	          446.40	             0.00	            0.00
@@ -469,20 +467,20 @@
 		302300	0230	MRE011	SEGURO EXTERIOR 33mm.	UN	        2	       0	       0	           34.20	             0.00	            0.00
 		302319	0230	MRE011	SEGURO INTERNO 45mm HIERRO NEGRO	UN	       10	       0	       0	          518.51	             0.00	            0.00
 		302320	0230	MRE011	SEGURO INTERNO 55 MM INOXIDABLE	UN	        2	       0	       0	          593.57	             0.00	            0.00
-		302323	0230	MRE011	SELLADOR ADHESIVO 243 LOCTITE 242	UN	        3	       0	       0	          830.37	             0.00	            0.00
-		302326	0230	MRE011	SELLADOR ADHESIVO 609-31 LOCTITE VERDE	UN	       15	       0	       0	        4,011.19	             0.00	            0.00
+		302323	0230	MRE011	SELLADOR ADHESIVO 243 LOCTITE 242	UN	        1	       0	       0	          276.79	             0.00	            0.00
+		302326	0230	MRE011	SELLADOR ADHESIVO 609-31 LOCTITE VERDE	UN	       12	       0	       0	        3,208.95	             0.00	            0.00
 		302329	0230	MRE011	SELLO MECANICO 1 1/2" PAC SEAL	UN	       15	       0	       0	        2,343.85	             0.00	            0.00
-		302330	0230	MRE011	SELLO MECANICO 1-1/4IN	UN	        1	       0	       0	          116.07	             0.00	            0.00
+		302330	0230	MRE011	SELLO MECANICO 1-1/4IN	UN	        1	       0	       0	          116.08	             0.00	            0.00
+		302330	0280	MRE011	SELLO MECANICO 1-1/4IN	UN	       20	       0	       0	        2,321.59	             0.00	            0.00
 		302331	0230	MRE011	SELLO MECANICO 1 1/8"	UN	       20	       0	       0	        1,785.71	             0.00	            0.00
 		302332	0230	MRE011	SELLO MECANICO 1 3/4" RESORTE LARGO.	UN	        7	       0	       0	        1,562.50	             0.00	            0.00
 		302333	0230	MRE011	SELLO MECANICO 1 5/8"	UN	        4	       0	       0	        1,111.60	             0.00	            0.00
 		302336	0230	MRE011	SELLO MECANICO 3/4"	UN	        3	       0	       0	          226.19	             0.00	            0.00
 		302337	0230	MRE011	SELLO MECANICO 30MM	UN	        6	       0	       0	          736.64	             0.00	            0.00
-		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	       16	       0	       0	        1,013.39	             0.00	            0.00
+		302338	0230	MRE011	SELLO MECANICO 5/8IN	UN	       15	       0	       0	          950.05	             0.00	            0.00
 		302339	0230	MRE011	SELLO MECANICO 7/8"	UN	        4	       0	       0	          321.43	             0.00	            0.00
-		302343	0230	MRE011	SIERRA ACERO PLATA 18T 12"	UN	        2	       0	       0	           21.42	             0.00	            0.00
 		302345	0230	MRE011	SILICONE CLARO 66BR (LOCTITE)	UN	       30	       0	       0	          768.55	             0.00	            0.00
-		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	       52	       0	       0	        1,300.00	             0.00	            0.00
+		302347	0230	MRE011	SILICONE ROJO 26BR (LOCTITE)	UN	       50	       0	       0	        1,250.00	             0.00	            0.00
 		302356	0230	MRE011	TAPON HEMBRA 1/2" PVC	UN	        3	       0	       0	           12.07	             0.00	            0.00
 		302360	0230	MRE011	TAPON HEMBRA 1" PVC	UN	        7	       0	       0	           16.64	             0.00	            0.00
 		302370	0230	MRE011	TAPON MACHO 1" PVC	UN	        3	       0	       0	           29.90	             0.00	            0.00
@@ -518,7 +516,7 @@
 		302467	0230	MRE011	VALVULA 1 1/2" DE BOLA HIERRO NEGRO	UN	        3	       0	       0	        1,212.05	             0.00	            0.00
 		302470	0230	MRE011	VALVULA 1" DE VAPOR 150PSI. 49	UN	        2	       0	       0	          241.06	             0.00	            0.00
 		302471	0230	MRE011	TEE PVC DE 1/2"	UN	       20	       0	       0	           49.20	             0.00	            0.00
-		302472	0230	MRE011	VALVULA 1/2" DE BOLA ACERO INOXIDABLE	UN	       25	       0	       0	        1,562.50	             0.00	            0.00
+		302472	0230	MRE011	VALVULA 1/2" DE BOLA ACERO INOXIDABLE	UN	       24	       0	       0	        1,500.00	             0.00	            0.00
 		302475	0230	MRE011	VALVULA 2" DE BOLA ACERO INOXIDABLE	UN	        3	       0	       0	        1,293.02	             0.00	            0.00
 		302477	0230	MRE011	LLAVE DE PASO GALVANIZADAS 1/2	UN	        3	       0	       0	           93.75	             0.00	            0.00
 		302479	0230	MRE011	VALVULA BOLA 1/2" PVC	UN	        3	       0	       0	           32.13	             0.00	            0.00
@@ -578,16 +576,14 @@
 		302805	0230	MRE012	COPLA ELECTRICA 1/2"	UN	        2	       0	       0	           72.20	             0.00	            0.00
 		302806	0230	MRE012	COPLA ELECTRICA 2"	UN	       30	       0	       0	           17.25	             0.00	            0.00
 		302825	0230	MRE012	ESPIGA TRIFASICA 250V 50A AGUILA	UN	        2	       0	       0	           56.59	             0.00	            0.00
-		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       25	       0	       0	          178.74	             0.00	            0.00
+		302827	0230	MRE012	ESPIGA TIPO PENDULO 110 VOLTIOS POL.	UN	       24	       0	       0	          171.59	             0.00	            0.00
 		302842	0230	MRE012	FLIPON 1*20 SIEMENS	UN	        2	       0	       0	           85.89	             0.00	            0.00
 		302844	0230	MRE012	FLIPON 2*50 AMP. SIEMENS	UN	        3	       0	       0	          329.26	             0.00	            0.00
 		302850	0230	MRE012	FLIPON BIPOLAR 20 AMP.	UN	        3	       0	       0	          329.92	             0.00	            0.00
 		302855	0230	MRE012	FLIPON 3POLOS 50A 480/277V GHB3050 EATON	UN	        1	       0	       0	          709.82	             0.00	            0.00
 		302860	0230	MRE012	FOTOCELDA OMROM E3S-RS30B42-30 C/ESP	UN	        2	       0	       0	       10,199.23	             0.00	            0.00
 		302863	0230	MRE012	FOTOCELDA OMRON E3L-2E450 12/24 VDE 2M	UN	        5	       0	       0	       15,178.62	             0.00	            0.00
-		302872	0230	MRE012	FOTOCELDA WL27-2F-440 WLA26P-24162100A00	UN	        1	       0	       0	        2,249.07	             0.00	            0.00
-		302886	0230	MRE012	FUENTE SITOP 24 VDC. 5A 120/230V 6EP1334	UN	        1	       0	       0	        1,629.26	             0.00	            0.00
-		302886	0280	MRE012	FUENTE SITOP 24 VDC. 5A 120/230V 6EP1334	UN	        6	       0	       0	        9,775.58	             0.00	            0.00
+		302886	0230	MRE012	FUENTE SITOP 24 VDC. 5A 120/230V 6EP1334	UN	        7	       0	       0	       11,404.82	             0.00	            0.00
 		302887	0230	MRE012	FUENTE SITOP 24 VDC.40A6EP1 437-2BA10	UN	        1	       0	       0	        6,315.50	             0.00	            0.00
 		302891	0230	MRE012	FUSIBLE 0.5AMP.	UN	       14	       0	       0	          256.24	             0.00	            0.00
 		302907	0230	MRE012	FUSIBLE 2AMP 5*20MM 250V	UN	        2	       0	       0	            4.48	             0.00	            0.00
@@ -595,7 +591,6 @@
 		302944	0230	MRE012	GUARDAMOTOR 3RV DE 20-26 3RV1021-4DA10	UN	        2	       0	       0	        1,517.91	             0.00	            0.00
 		302946	0230	MRE012	GUARDAMOTOR 3RV1031-4FA1028- 40 AMP.	UN	        2	       0	       0	        2,375.01	             0.00	            0.00
 		302949	0230	MRE012	GUARDAMOTOR 3VU 22-32 AMP 3RV1031-4EA10	UN	        1	       0	       0	        1,268.26	             0.00	            0.00
-		302952	0230	MRE012	GUARDAMOTOR 3VU13 DE 2.4-4A 3RV1021-1EA1	UN	        1	       0	       0	          680.47	             0.00	            0.00
 		302953	0230	MRE012	GUARDAMOTOR 3VU13 DE 4-6A 3RV1021-1GA10	UN	        2	       0	       0	        1,160.66	             0.00	            0.00
 		302956	0230	MRE012	GUARDAMOTOR 3VU1600 36-52A 3RV1031-4AA10	UN	        2	       0	       0	        2,900.68	             0.00	            0.00
 		303014	0230	MRE012	LAMPARA DE EMERGENCIA 2 FOCOS	UN	       10	       0	       0	        1,350.99	             0.00	            0.00
@@ -622,7 +617,7 @@
 		303219	0230	MRE012	TAPADERA PARA TOMACORRIENTE	UN	        4	       0	       0	           34.62	             0.00	            0.00
 		303273	0230	MRE012	TERMINAL MACHO AISL.C-63-1203 16-14AWG	UN	       81	       0	       0	          115.83	             0.00	            0.00
 		303310	0230	MRE012	TIMBRE DE CAMPANA 110V.	UN	        2	       0	       0	          263.53	             0.00	            0.00
-		303317	0230	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	       24	       0	       0	          257.28	             0.00	            0.00
+		303317	0230	MRE012	TOMACORRIENTE TIPO PENDULO 110V	UN	       22	       0	       0	          235.84	             0.00	            0.00
 		303331	0230	MRE012	TUBO DUCTO 1/2"	TF	       40	       0	       0	          258.10	             0.00	            0.00
 		303366	0230	MRE012	VENTILADOR 120V.TIPO PANEL	UN	        2	       0	       0	          274.00	             0.00	            0.00
 		303370	0230	MRE012	VENTILADOR TIPO PANEL 220V. 60HZ 40W	UN	        4	       0	       0	       10,444.73	             0.00	            0.00
@@ -676,15 +671,15 @@
 		303452	0230	MRE013	ROLDANA DE PRESION 8MM INOX	UN	      403	       0	       0	           74.10	             0.00	            0.00
 		303454	0230	MRE013	ROLDANA PLANA 1/2" INOX	UN	      187	       0	       0	          196.24	             0.00	            0.00
 		303456	0230	MRE013	ROLDANA PLANA 1/4" INOX	UN	      178	       0	       0	           23.36	             0.00	            0.00
-		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	       77	       0	       0	          221.76	             0.00	            0.00
-		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       31	       0	       0	           70.98	             0.00	            0.00
+		303457	0230	MRE013	ROLDANA PLANA 10MM INOX.	UN	       63	       0	       0	          181.44	             0.00	            0.00
+		303458	0230	MRE013	ROLDANA PLANA 12MM INOX.	UN	       23	       0	       0	           52.66	             0.00	            0.00
 		303459	0230	MRE013	ROLDANA PLANA 16MM INOX.	UN	       66	       0	       0	          254.39	             0.00	            0.00
 		303460	0230	MRE013	ROLDANA PLANA 3/16" INOXIDABLE	UN	      387	       0	       0	           40.76	             0.00	            0.00
 		303461	0230	MRE013	ROLDANA PLANA 3/4" INOX	UN	      198	       0	       0	          336.60	             0.00	            0.00
 		303462	0230	MRE013	ROLDANA PLANA 3/8" INOXIDABLE	UN	      300	       0	       0	           86.11	             0.00	            0.00
 		303463	0230	MRE013	ROLDANA PLANA 5/16" INOXIDABLE	UN	       91	       0	       0	           24.70	             0.00	            0.00
 		303464	0230	MRE013	ROLDANA PLANA 5/8" INOXIDABLE	UN	      142	       0	       0	          107.92	             0.00	            0.00
-		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       48	       0	       0	           34.56	             0.00	            0.00
+		303465	0230	MRE013	ROLDANA PLANA 6MM INOX.	UN	       33	       0	       0	           23.76	             0.00	            0.00
 		303466	0230	MRE013	ROLDANA PLANA 8MM INOX.	UN	       66	       0	       0	           59.28	             0.00	            0.00
 		303467	0230	MRE013	ROLDANA DE PRESION 3/4" INOX.	UN	       58	       0	       0	          166.63	             0.00	            0.00
 		303468	0230	MRE013	PIN EXPANSION 4 * 10 MM INOX	UN	       19	       0	       0	          221.79	             0.00	            0.00
@@ -715,7 +710,7 @@
 		303519	0230	MRE013	TORNILLO ALLEN 3/16" * 2"	UN	       26	       0	       0	          102.15	             0.00	            0.00
 		303521	0230	MRE013	TORNILLO ALLEN 3/8" * 1 ¼"	UN	       16	       0	       0	          462.45	             0.00	            0.00
 		303522	0230	MRE013	TORNILLO ALLEN 3/8" * 1 1/2"	UN	       33	       0	       0	          111.03	             0.00	            0.00
-		303523	0230	MRE013	TORNILLO ALLEN 3/8" * 1" ACERO INOX	UN	       49	       0	       0	          433.16	             0.00	            0.00
+		303523	0230	MRE013	TORNILLO ALLEN 3/8" * 1" ACERO INOX	UN	       39	       0	       0	          344.76	             0.00	            0.00
 		303524	0230	MRE013	TORNILLO C/PLANA ALLEN 3/8" * 1"	UN	       30	       0	       0	          284.85	             0.00	            0.00
 		303526	0230	MRE013	TORNILLO ALLEN 3/8" * 2" INOXIDABLE	UN	       50	       0	       0	          132.00	             0.00	            0.00
 		303528	0230	MRE013	TORNILLO ALLEN 3/8" * 3/4" INOXIDABLE	UN	       19	       0	       0	           46.22	             0.00	            0.00
@@ -732,7 +727,7 @@
 		303548	0230	MRE013	TORNILLO ALLEN 6 * 20MM INOX.	UN	       70	       0	       0	          134.40	             0.00	            0.00
 		303549	0230	MRE013	TORNILLO ALLEN 6 * 25MM INOX	UN	       68	       0	       0	          174.69	             0.00	            0.00
 		303550	0230	MRE013	TORNILLO ALLEN 6 * 40MM INOX. R/C	UN	        8	       0	       0	           74.53	             0.00	            0.00
-		303551	0230	MRE013	TORNILLO ALLEN 6 * 60MM INOX. R/C.	UN	       10	       0	       0	          175.20	             0.00	            0.00
+		303551	0230	MRE013	TORNILLO ALLEN 6 * 60MM INOX. R/C.	UN	       30	       0	       0	          282.40	             0.00	            0.00
 		303553	0230	MRE013	TORNILLO C/PLANA ALLEN 6 * 20MM INOX	UN	       49	       0	       0	           87.68	             0.00	            0.00
 		303554	0230	MRE013	TORNILLO ALLEN 6 * 20MM H.N. GRADO 12.9	UN	        6	       0	       0	            2.44	             0.00	            0.00
 		303556	0230	MRE013	TORNILLO C/PLANA ALLEN 6 * 30MM INOX	UN	       87	       0	       0	           77.35	             0.00	            0.00
@@ -744,7 +739,7 @@
 		303567	0230	MRE013	TORNILLO ALLEN 8 * 30MM INOX	UN	       80	       0	       0	          195.16	             0.00	            0.00
 		303568	0230	MRE013	TORNILLO ALLEN 8 * 35M INOX 8893B-28	UN	       29	       0	       0	          117.74	             0.00	            0.00
 		303574	0230	MRE013	TORNILLO AUTORROSCABLE 1/4" * 1" INOX	UN	      402	       0	       0	          787.92	             0.00	            0.00
-		303576	0230	MRE013	TORNILLO AUTORROSCABLE 3/16 * 1/2 INOX	UN	      124	       0	       0	          105.40	             0.00	            0.00
+		303576	0230	MRE013	TORNILLO AUTORROSCABLE 3/16 * 1/2 INOX	UN	      109	       0	       0	           92.65	             0.00	            0.00
 		303577	0230	MRE013	TORNILLO AUTORROSCABLE 1/4" * 1" INOX	UN	       76	       0	       0	          148.96	             0.00	            0.00
 		303581	0230	MRE013	TORNILLO AVELLANADO 3/8" * 1 1/2" INOX.	UN	       50	       0	       0	          418.41	             0.00	            0.00
 		303582	0230	MRE013	TORNILLO AVELLANADO 5/16" * 1 1/2"	UN	       34	       0	       0	          153.76	             0.00	            0.00
@@ -756,7 +751,7 @@
 		303629	0230	MRE013	TORNILLO C/PLANA ALLEN 8 * 50MM INOX	UN	      105	       0	       0	          349.36	             0.00	            0.00
 		303634	0230	MRE013	TORNILLO HEX. 1/4 * 1 1/2" INOX	UN	       78	       0	       0	          120.12	             0.00	            0.00
 		303636	0230	MRE013	TORNILLO HEX. 3/4" * 3" INOX.	UN	       51	       0	       0	        1,468.28	             0.00	            0.00
-		303640	0230	MRE013	TORNILLO HEX. 1/2 * 1 1/2" H.N. GRADO 8	UN	       32	       0	       0	          234.62	             0.00	            0.00
+		303640	0230	MRE013	TORNILLO HEX. 1/2 * 1 1/2" H.N. GRADO 8	UN	       30	       0	       0	          219.96	             0.00	            0.00
 		303641	0230	MRE013	TORNILLO HEX. 1/2 * 1 1/2" INOX	UN	       36	       0	       0	          295.05	             0.00	            0.00
 		303645	0230	MRE013	TORNILLO HEX. 1/2" * 1" INOX.	UN	       21	       0	       0	          107.84	             0.00	            0.00
 		303648	0230	MRE013	TORNILLO HEX. 1/2" * 2" INOX = 303653	UN	        5	       0	       0	           48.51	             0.00	            0.00
@@ -775,7 +770,7 @@
 		303685	0230	MRE013	TORNILLO HEX. 5/16" * 1 1/2" INOXIDABLE	UN	       63	       0	       0	          112.45	             0.00	            0.00
 		303687	0230	MRE013	TORNILLO HEX. 5/16" * 1" INOX.	UN	       35	       0	       0	           87.50	             0.00	            0.00
 		303689	0230	MRE013	TORNILLO HEX. 5/16" * 1/2" INOX	UN	       15	       0	       0	           29.24	             0.00	            0.00
-		303690	0230	MRE013	TORNILLO HEX. 5/16" * 2 1/2"	UN	       32	       0	       0	          134.97	             0.00	            0.00
+		303690	0230	MRE013	TORNILLO HEX. 5/16" * 2 1/2"	UN	       28	       0	       0	          118.10	             0.00	            0.00
 		303693	0230	MRE013	TORNILLO HEX. 5/16" * 1 1/2" INOX	UN	       19	       0	       0	           83.17	             0.00	            0.00
 		303695	0230	MRE013	TORNILLO HEX. 5/8" * 1 1/2" INOXIDABLE	UN	       30	       0	       0	          294.84	             0.00	            0.00
 		303698	0230	MRE013	TORNILLO HEX. 5/8" * 2 1/2" INOX	UN	       43	       0	       0	          314.76	             0.00	            0.00
@@ -793,33 +788,33 @@
 		303729	0230	MRE013	TORNILLO HEXAGONAL 6 * 45MM INOX	UN	       12	       0	       0	           77.91	             0.00	            0.00
 		303730	0230	MRE013	TORNILLO HEXAGONAL 8 *100MM INOX.	UN	       20	       0	       0	          540.53	             0.00	            0.00
 		303733	0230	MRE013	TORNILLO HEXAGONAL 8 * 30MM INOX	UN	       71	       0	       0	           58.56	             0.00	            0.00
-		303734	0230	MRE013	TORNILLO HEXAGONAL 8 * 60MM INOX	UN	       18	       0	       0	          384.32	             0.00	            0.00
+		303734	0230	MRE013	TORNILLO HEXAGONAL 8 * 60MM INOX	UN	       54	       0	       0	          409.21	             0.00	            0.00
 		303736	0230	MRE013	TORNILLO HEXAGONAL 8 * 25MM INOX	UN	       34	       0	       0	          208.08	             0.00	            0.00
 		303738	0230	MRE013	TORNILLO HEXAGONAL 6 * 80MM INOX	UN	       23	       0	       0	          241.36	             0.00	            0.00
-		303739	0230	MRE013	TORNILLO HEXAGONAL 10 * 40MM INOX	UN	       24	       0	       0	          240.66	             0.00	            0.00
+		303739	0230	MRE013	TORNILLO HEXAGONAL 10 * 40MM INOX	UN	       12	       0	       0	          120.33	             0.00	            0.00
 		303740	0230	MRE013	TORNILLO HEXAGONAL 10 * 50MMINOX 7180-10	UN	       28	       0	       0	          346.64	             0.00	            0.00
 		303744	0230	MRE013	TORNILLO HEXAGONAL 12 * 25MM INOX	UN	       14	       0	       0	          199.15	             0.00	            0.00
-		303745	0230	MRE013	TORNILLO HEXAGONAL 12 * 40MM INOX	UN	       66	       0	       0	          299.38	             0.00	            0.00
+		303745	0230	MRE013	TORNILLO HEXAGONAL 12 * 40MM INOX	UN	       62	       0	       0	          281.24	             0.00	            0.00
 		303752	0230	MRE013	TORNILLO HEXAGONAL 4 * 60MM INOX	UN	       32	       0	       0	          255.33	             0.00	            0.00
 		303754	0230	MRE013	TORNILLO HEXAGONAL 5 * 16MM INOXIDABLE	UN	       84	       0	       0	           26.04	             0.00	            0.00
 		303757	0230	MRE013	TORNILLO HEXAGONAL 6 * 25M INOX42-9003B	UN	      103	       0	       0	           49.74	             0.00	            0.00
 		303767	0230	MRE013	TUERCA HEXAGONAL 1/2" INOX.	UN	      130	       0	       0	          187.41	             0.00	            0.00
 		303770	0230	MRE013	TUERCA DE SEGURIDAD 1/4" INOX.	UN	       67	       0	       0	           59.41	             0.00	            0.00
-		303771	0230	MRE013	TUERCA HEXAGONAL 10MM INOX.	UN	       54	       0	       0	           94.53	             0.00	            0.00
-		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       42	       0	       0	          162.00	             0.00	            0.00
+		303771	0230	MRE013	TUERCA HEXAGONAL 10MM INOX.	UN	       50	       0	       0	           87.53	             0.00	            0.00
+		303772	0230	MRE013	TUERCA HEXAGONAL 12MM INOX.	UN	       38	       0	       0	          146.57	             0.00	            0.00
 		303773	0230	MRE013	TUERCA HEXAGONAL 3MM INOX	UN	       17	       0	       0	            3.19	             0.00	            0.00
 		303774	0230	MRE013	TUERCA HEXAGONAL 3/16" INOX	UN	      267	       0	       0	          216.27	             0.00	            0.00
 		303775	0230	MRE013	TUERCA HEXAGONAL 3/4" HIERRO NEGRO	UN	        5	       0	       0	            6.17	             0.00	            0.00
 		303776	0230	MRE013	TUERCA HEXAGONAL 3/4" INOX	UN	       26	       0	       0	          182.40	             0.00	            0.00
 		303777	0230	MRE013	TUERCA DE SEGURIDAD 3/8" INOX.	UN	       59	       0	       0	          156.33	             0.00	            0.00
-		303779	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX	UN	       86	       0	       0	           71.29	             0.00	            0.00
+		303779	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX	UN	       63	       0	       0	           52.23	             0.00	            0.00
 		303780	0230	MRE013	TUERCA HEXAGONAL 4MM INOX.	UN	      404	       0	       0	           75.56	             0.00	            0.00
-		303783	0230	MRE013	TUERCA HEXAGONAL 5/16" INOX.	UN	       56	       0	       0	           35.46	             0.00	            0.00
+		303783	0230	MRE013	TUERCA HEXAGONAL 5/16" INOX.	UN	       52	       0	       0	           32.93	             0.00	            0.00
 		303784	0230	MRE013	TUERCA 5/16" ROSCA FINA	UN	       34	       0	       0	          307.60	             0.00	            0.00
 		303787	0230	MRE013	TUERCA HEXAGONAL 5/8" INOX.	UN	      200	       0	       0	          598.00	             0.00	            0.00
-		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	        1	       0	       0	            0.22	             0.00	            0.00
+		303788	0230	MRE013	TUERCA HEXAGONAL 5MM INOX.	UN	      501	       0	       0	           65.22	             0.00	            0.00
 		303789	0230	MRE013	TUERCA HEXAGONAL 6MM INOX.	UN	      176	       0	       0	           44.23	             0.00	            0.00
-		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       88	       0	       0	           47.15	             0.00	            0.00
+		303794	0230	MRE013	TUERCA HEXAGONAL 8MM INOX	UN	       84	       0	       0	           45.01	             0.00	            0.00
 		303796	0230	MRE013	TUERCA HEXAGONAL 1/4" INOX.	UN	       66	       0	       0	           29.73	             0.00	            0.00
 		303797	0230	MRE013	TUERCA HEXAGONAL 3/8" INOX R/FINA	UN	        8	       0	       0	           24.33	             0.00	            0.00
 		303801	0230	MRE013	TUERCA HEXAGONAL 14MM INOX	UN	       86	       0	       0	          329.52	             0.00	            0.00
@@ -828,7 +823,7 @@
 		303810	0230	MRE013	UNION PARA CADENA N. 80	UN	        3	       0	       0	           66.72	             0.00	            0.00
 		303811	0230	MRE013	ROLDANA DE PRESION 3MM INOX	UN	       58	       0	       0	           47.24	             0.00	            0.00
 		303819	0230	MRE014	ACEITE HIDRAULIC AW ISO 46	GLN	       15	       0	       0	        2,594.87	             0.00	            0.00
-		303827	0230	MRE014	ACEITE RANDO 68 CENTRAL HIDRAULICA	GLN	      145	       0	       0	       28,482.34	             0.00	            0.00
+		303827	0230	MRE014	ACEITE RANDO 68 CENTRAL HIDRAULICA	GLN	      135	       0	       0	       26,518.04	             0.00	            0.00
 		303829	0230	MRE014	ACEITE SOLUBLE PARA TORNO	GLN	        5	       0	       0	        1,796.87	             0.00	            0.00
 		303849	0230	MRE014	GRASA MOLUB ALLOY 860/220-2	LB	       32	       0	       0	        3,552.13	             0.00	            0.00
 		303854	0230	MRE014	GRASA TRIBOL 936 SFH	LB	   20.500	       0	       0	        2,171.26	             0.00	            0.00
@@ -836,6 +831,7 @@
 		303947	0230	MRE007	PERFIL PLANO 1/8" * 1 1/2"	M	      420	       0	       0	       35,250.60	             0.00	            0.00
 		303951	0230	MRE007	PEINETA S/400/1200 C/ACC.(A4D4R5XXX) L9	UN	        8	       0	       0	        1,758.23	             0.00	            0.00
 		303951	0231	MRE007	PEINETA S/400/1200 C/ACC.(A4D4R5XXX) L9	UN	       20	       0	       0	        4,395.59	             0.00	            0.00
+		303957	0230	MRE010	SOPLADORA ELÉCTRICA 1440 W	UN	        1	       0	       0	        5,464.30	             0.00	            0.00
 		303968	0230	MRE011	ANGULAR 3/4" * 1/8" * 20'	UN	        5	       0	       0	          700.00	             0.00	            0.00
 		303980	0230	MRE012	CABLE TSJ 2 * 14 AWG	M	      145	       0	       0	        1,367.18	             0.00	            0.00
 		303981	0230	MRE012	FOTOCELDA 15A 240V	UN	       21	       0	       0	        1,340.50	             0.00	            0.00
@@ -853,8 +849,9 @@
 		304294	0230	MRE007	PERFIL PLANO 1/8" * 1"	TF	      100	       0	       0	        8,483.00	             0.00	            0.00
 		304380	0230	MRE011	TUBO CUADRADO DE 1" X 1"	UN	        3	       0	       0	          592.54	             0.00	            0.00
 		304393	0230	MRE007	RODILLO S/RESPALDO DE RETORNO DE CADENA	UN	       84	       0	       0	        6,784.79	             0.00	            0.00
-		304410	0230	MRE011	VENTILADOR DE ALUMINIO 6" P/MOTOR	UN	        1	       0	       0	          191.92	             0.00	            0.00
-		304470	0230	MRE003	RETENEDOR 45 * 75 * 8	UN	       18	       0	       0	          836.15	             0.00	            0.00
+		304410	0230	MRE011	VENTILADOR DE ALUMINIO 6" P/MOTOR	UN	        1	       0	       0	          179.78	             0.00	            0.00
+		304410	0280	MRE011	VENTILADOR DE ALUMINIO 6" P/MOTOR	UN	       10	       0	       0	        1,797.84	             0.00	            0.00
+		304470	0230	MRE003	RETENEDOR 45 * 75 * 8	UN	       15	       0	       0	          696.79	             0.00	            0.00
 		304490	0230	MRE007	PERFIL PLANO 1/8*1 1/2	M	      143	       0	       0	       16,580.97	             0.00	            0.00
 		304580	0230	MRE011	ANGULAR 1*1/8*20	UN	        4	       0	       0	          417.16	             0.00	            0.00
 		304581	0230	MRE012	BOMBILLO DE MERCURIO 175W / 240V	UN	       10	       0	       0	          341.98	             0.00	            0.00
@@ -874,7 +871,7 @@
 		305185	0230	MRE012	UPS 850VA 120V APC	UN	        8	       0	       0	        9,480.00	             0.00	            0.00
 		305201	0230	MRE012	BORNE A TIERRA AB1T432	UN	       15	       0	       0	          308.85	             0.00	            0.00
 		305392	0230	MRE013	TORNILLO HEX. 3/4" * 4"	UN	       49	       0	       0	          809.48	             0.00	            0.00
-		305401	0230	MRE013	TORNILLO AUTORROSCABLE 1X8	UN	      189	       0	       0	          150.83	             0.00	            0.00
+		305401	0230	MRE013	TORNILLO AUTORROSCABLE 1X8	UN	      179	       0	       0	          142.85	             0.00	            0.00
 		305403	0230	MRE013	TORNILLO AVELLANADO 1/4 X 1 1/4	UN	       53	       0	       0	          334.14	             0.00	            0.00
 		305404	0230	MRE013	TORNILLO AVELLANADO 5/16 x1"	UN	       22	       0	       0	           38.39	             0.00	            0.00
 		306485	0230	MRE013	TORNILLO AUTORROSCABLE 3/16" * 1" INOX	UN	      200	       0	       0	           80.00	             0.00	            0.00
@@ -885,13 +882,13 @@
 		306701	0230	MRE005	RACOR QS 3/8-10	UN	       21	       0	       0	          520.00	             0.00	            0.00
 		306874	0230	MRE013	TORNILLO 3/16 * 2" HEXAGONAL	UN	       76	       0	       0	          115.53	             0.00	            0.00
 		306880	0230	MRE013	TORNILLO HEXAGONAL 10 * 80MM INOX	UN	       16	       0	       0	          404.96	             0.00	            0.00
-		306891	0230	MRE012	CINCHO PLASTICO 12"	UN	    1,200	       0	       0	          192.06	             0.00	            0.00
+		306891	0230	MRE012	CINCHO PLASTICO 12"	UN	      700	       0	       0	          112.03	             0.00	            0.00
 		306910	0230	MRE001	ABRAZADERA 1" CLAMP INOX	UN	        5	       0	       0	          133.95	             0.00	            0.00
 		307239	0230	MRE002	CHUMACERA P/COJINETE 22218	UN	        2	       0	       0	        9,120.00	             0.00	            0.00
 		307258	0230	MRE013	TORNILLO ALLEN 1/4" * 3"	UN	       19	       0	       0	           97.35	             0.00	            0.00
 		307259	0230	MRE013	TORNILLO ALLEN 6*50MM INOX	UN	       64	       0	       0	          125.04	             0.00	            0.00
 		307260	0230	MRE013	TORNILLO ALLEN 8 * 20MM INOX	UN	       48	       0	       0	          418.08	             0.00	            0.00
-		307305	0230	MRE012	TEMPORIZADOR SIEMENS 0-20S	UN	        7	       0	       0	        3,468.78	             0.00	            0.00
+		307305	0230	MRE012	TEMPORIZADOR SIEMENS 0-20S	UN	        7	       0	       0	        3,468.75	             0.00	            0.00
 		307342	0230	MRE001	CODO 2", 45° SOLDABLE INOX	UN	        3	       0	       0	          308.10	             0.00	            0.00
 		307416	0230	MRE003	RETENEDOR 30*47*7	UN	        5	       0	       0	          138.77	             0.00	            0.00
 		307437	0230	MRE005	RACOR QS-12	UN	        9	       0	       0	          501.38	             0.00	            0.00
@@ -909,6 +906,7 @@
 		308120	0230	MRE011	MANGUERA HIDRAULICA12X150" 12FJ10	UN	   29.500	       0	       0	          566.30	             0.00	            0.00
 		308142	0230	MRE011	BROCA 3/16" CONCRETO	UN	        1	       0	       0	            4.44	             0.00	            0.00
 		308195	0230	MRE004	CORREA A44	UN	        3	       0	       0	           60.60	             0.00	            0.00
+		308208	0230	MRE011	TUBO 2" PVC	UN	        5	       0	       0	          254.50	             0.00	            0.00
 		308230	0230	MRE011	BURIL DE PASTILLA 1/2" DERECHO	UN	        4	       0	       0	          203.56	             0.00	            0.00
 		308294	0230	MRE003	RETENEDOR 45*85*10	UN	        4	       0	       0	          299.16	             0.00	            0.00
 		308302	0230	MRE001	TUBO 2 1/2" INOX SANITARIO	UN	        3	       0	       0	        3,011.01	             0.00	            0.00
@@ -919,7 +917,7 @@
 		308623	0230	MRE025	BROCA DE COBALTO 1/8"	UN	       42	       0	       0	          316.95	             0.00	            0.00
 		308871	0230	MRE012	CABLE TSJ 3 * 12	M	       35	       0	       0	          721.70	             0.00	            0.00
 		309021	0230	MRE011	ANGULAR 1/8" * 1" * 20' INOXIDABLE	UN	        3	       0	       0	        1,084.83	             0.00	            0.00
-		309162	0230	MRE011	MANGUERA TRANSPARENTE 3/4"	M	       92	       0	       0	          982.56	             0.00	            0.00
+		309162	0230	MRE011	MANGUERA TRANSPARENTE 3/4"	M	       91	       0	       0	          971.88	             0.00	            0.00
 		309393	0230	MRE002	RODAMIENTO 6903 2RS	UN	       13	       0	       0	          797.71	             0.00	            0.00
 		309476	0230	MRE006	CADENA 120B-2	TF	        5	       0	       0	        2,002.70	             0.00	            0.00
 		309526	0230	MRE013	CADENA PASO-120 SIMPLE	TF	       20	       0	       0	        3,614.80	             0.00	            0.00
@@ -939,9 +937,10 @@
 		310811	0230	MRE011	BARRA ACERO INOX 40MM	TF	        3	       0	       0	          736.65	             0.00	            0.00
 		310812	0230	MRE011	BARRA ACERO INOX 45MM	TF	        5	       0	       0	        2,366.07	             0.00	            0.00
 		310816	0230	MRE011	BARRA DE BRONCE 1 1/2"	TF	        1	       0	       0	        1,071.43	             0.00	            0.00
-		310817	0230	MRE011	BARRA DE BRONCE 2"	TF	        6	       0	       0	       10,714.29	             0.00	            0.00
+		310817	0230	MRE011	BARRA DE BRONCE 2"	TF	        4	       0	       0	        7,142.86	             0.00	            0.00
 		310819	0230	MRE011	BARRA DE BRONCE 3"	TF	        2	       0	       0	        4,121.43	             0.00	            0.00
 		310831	0230	MRE011	BARRA TERMOPLASTICA 1"	TF	    4.500	       0	       0	          292.72	             0.00	            0.00
+		310835	0230	MRE011	BARRA TERMOPLASTICA 3"	TF	        1	       0	       0	          700.90	             0.00	            0.00
 		310836	0230	MRE011	BARRA TERMOPLASTICA 4"	TF	        6	       0	       0	        3,852.72	             0.00	            0.00
 		310921	0230	MRE012	CABLE TSJ 2*16	M	   65.500	       0	       0	          353.74	             0.00	            0.00
 		311282	0230	MRE011	TUBO INOX 1/2" CEDULA 40	UN	        1	       0	       0	          334.74	             0.00	            0.00
@@ -961,7 +960,7 @@
 		313370	0230	MRE012	BORNERAS DE 35MM	UN	       20	       0	       0	        1,600.00	             0.00	            0.00
 		314069	0230	MRE002	TAPERED BEARING 55437	UN	        2	       0	       0	        2,175.92	             0.00	            0.00
 		315239	0230	MRE012	CONECTOR RECTO LT 2"	UN	       12	       0	       0	          389.11	             0.00	            0.00
-		316001	0230	MRE011	VARILLA LISA DE 3/8" DE ACERO INOXIDABLE	UN	        9	       0	       0	          883.88	             0.00	            0.00
+		316001	0230	MRE011	VARILLA LISA DE 3/8" DE ACERO INOXIDABLE	UN	        8	       0	       0	          785.67	             0.00	            0.00
 		316002	0230	MRE005	Cilindro doble efecto ADN-50-60-I-P-A-Q	UN	        2	       0	       0	        3,486.66	             0.00	            0.00
 		316003	0230	MRE013	TORNILLOS DE EXPANCION DE 1/2* x 2" INOX	UN	       22	       0	       0	        1,846.73	             0.00	            0.00
 		316176	0230	MRE002	COJINETE LM 603049/011/Q	UN	        4	       0	       0	          426.44	             0.00	            0.00
@@ -970,7 +969,7 @@
 		316332	0230	MRE007	HEMBRA PLATINA ACERO INOX DE 2"x1/4"x 4M	UN	        6	       0	       0	        2,542.25	             0.00	            0.00
 		316383	0230	MRE011	LAMINA DE ACERO INOX DE 1/8" 4*8"	UN	        2	       0	       0	        4,732.14	             0.00	            0.00
 		316385	0230	MRE014	GRASA OMEGA 57 P/COJ. U21854	UN	       17	       0	       0	       11,687.50	             0.00	            0.00
-		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        9	       0	       0	       21,885.27	             0.00	            0.00
+		316387	0230	MRE014	ACEITE OMEGA 609 ISO VG32	UN	        8	       0	       0	       19,453.57	             0.00	            0.00
 		316411	0230	MRE012	PRENSA ESTOPA PG12	UN	        6	       0	       0	           70.50	             0.00	            0.00
 		316412	0230	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	        1	       0	       0	           20.51	             0.00	            0.00
 		316412	0280	MRE005	REDUCIRDOR QS 10-8 FESTO	UN	       50	       0	       0	        1,025.34	             0.00	            0.00
@@ -986,8 +985,8 @@
 		318984	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 2" INOX	UN	        7	       0	       0	          262.50	             0.00	            0.00
 		318985	0230	MRE001	ABRAZADERA DE FIJACION H. DE 2.1/2" INOX	UN	        6	       0	       0	          241.14	             0.00	            0.00
 		318986	0230	MRE001	ABRAZADERA DE FIJACION HEX. DE 1" INOX	UN	       10	       0	       0	          167.70	             0.00	            0.00
-		319319	0230	MRE011	ARMAFLEX EN LAMINAS 36 X 48 X 3/4"	UN	        8	       0	       0	        1,454.57	             0.00	            0.00
-		319326	0230	MRE011	SUPER BONDER 495	UN	        7	       0	       0	          706.30	             0.00	            0.00
+		319319	0230	MRE011	ARMAFLEX EN LAMINAS 36 X 48 X 3/4"	UN	        8	       0	       0	        1,454.54	             0.00	            0.00
+		319326	0230	MRE011	SUPER BONDER 495	UN	       56	       0	       0	        5,036.01	             0.00	            0.00
 		319772	0230	MRE001	TUBO CUADRADO DE ACERO INOX DE 2"x2"x1.5	UN	        8	       0	       0	        2,607.06	             0.00	            0.00
 		319774	0230	MRE011	HEMBRA PLATINA INOX DE 1/8"x1/2"	UN	        3	       0	       0	          147.33	             0.00	            0.00
 		319819	0230	MRE004	CORREA EN V TIPO A76	UN	        4	       0	       0	          194.93	             0.00	            0.00
@@ -1025,7 +1024,7 @@
 		323512	0230	MRE113	ABRAZADERA 012558-4	UN	       12	       0	       0	       13,680.02	             0.00	            0.00
 		323513	0230	MRE113	ABRAZADERA 80000149564	UN	       23	       0	       0	        9,394.72	             0.00	            0.00
 		323515	0230	MRE113	ANILLO 113738/001-91-205988	UN	        7	       0	       0	          520.59	             0.00	            0.00
-		323516	0230	MRE113	EMPAQUETADURA 80000GAD140	UN	       84	       0	       0	        2,842.15	             0.00	            0.00
+		323516	0230	MRE113	EMPAQUETADURA 80000GAD140	UN	       74	       0	       0	        2,503.80	             0.00	            0.00
 		323517	0230	MRE113	ANILLO RETENCION GAD907-6-194123	UN	       32	       0	       0	        2,628.25	             0.00	            0.00
 		323518	0230	MRE113	ANILLO V 65 A. GAA166-37-200779	UN	       34	       0	       0	          272.00	             0.00	            0.00
 		323522	0230	MRE113	ARANDELA ELASTICA HRU106-49-18 5226	UN	      145	       0	       0	        1,160.00	             0.00	            0.00
@@ -1034,7 +1033,7 @@
 		323530	0230	MRE113	BRIDA PRENSAMUELA 80000178573	UN	       10	       0	       0	        4,446.36	             0.00	            0.00
 		323534	0230	MRE113	CASQUILLO VCB355-40-205988/001	UN	       74	       0	       0	          224.75	             0.00	            0.00
 		323537	0230	MRE113	CILINDRO NEUMATICO PAD260-38-210460	UN	        1	       0	       0	          622.72	             0.00	            0.00
-		323541	0230	MRE113	CORREA TLB420-03-137180	UN	       14	       0	       0	        1,812.77	             0.00	            0.00
+		323541	0230	MRE113	CORREA TLB420-03-137180	UN	       13	       0	       0	        1,683.29	             0.00	            0.00
 		323547	0230	MRE113	ELEMENTO INFERIOR CAMPANILLA 8102153/013	UN	       28	       0	       0	       11,483.95	             0.00	            0.00
 		323547	0231	MRE113	ELEMENTO INFERIOR CAMPANILLA 8102153/013	UN	       40	       0	       0	       16,405.64	             0.00	            0.00
 		323554	0231	MRE113	EMPAQUETADURA 80000GEA586	UN	      100	       0	       0	        5,389.23	             0.00	            0.00
@@ -1044,7 +1043,7 @@
 		323559	0230	MRE113	EMPAQUETADURA GEA875-38-206054(exGEA859)	UN	      149	       0	       0	        3,951.41	             0.00	            0.00
 		323567	0230	MRE113	ESTRELLA GZC551-4-205988/001	UN	       30	       0	       0	        1,389.22	             0.00	            0.00
 		323571	0230	MRE113	GUIA 164770-6-185226	UN	       12	       0	       0	           96.00	             0.00	            0.00
-		323578	0230	MRE113	O RING 80000GAF119	UN	      240	       0	       0	        1,446.59	             0.00	            0.00
+		323578	0230	MRE113	O RING 80000GAF119	UN	      230	       0	       0	        1,386.32	             0.00	            0.00
 		323580	0230	MRE113	O-RING GAL137-177-205988/001	UN	       60	       0	       0	          394.00	             0.00	            0.00
 		323584	0230	MRE113	O-RING No. 014 GBV014-57-206054	UN	       80	       0	       0	          409.64	             0.00	            0.00
 		323585	0230	MRE113	ORING No. 017 GBV-017	UN	       63	       0	       0	          264.69	             0.00	            0.00
@@ -1083,12 +1082,12 @@
 		323663	0230	MRE083	BRIDA 5389E-1	UN	       17	       0	       0	          136.00	             0.00	            0.00
 		323682	0230	MRE108	FILTRO P/BUNKER CALDERA CB400	UN	        3	       0	       0	       36,455.36	             0.00	            0.00
 		323703	0230	MRE115	Junta tórica FPM 80Sh(A)	UN	        6	       0	       0	          458.10	             0.00	            0.00
-		323704	0230	MRE115	BOQUILLA HEMBRA 7120.0154/16/3121.0003	UN	       33	       0	       0	        5,821.86	             0.00	            0.00
+		323704	0230	MRE115	BOQUILLA HEMBRA 7120.0154/16/3121.0003	UN	       13	       0	       0	        2,293.46	             0.00	            0.00
 		323705	0230	MRE115	CENTRALIZ.RESORTE 7120.0154/11/3121.0005	UN	       65	       0	       0	        5,610.37	             0.00	            0.00
-		323706	0230	MRE115	CENTRALIZADOR 7120.0154/08/3121.0007	UN	      108	       0	       0	        8,228.91	             0.00	            0.00
+		323706	0230	MRE115	CENTRALIZADOR 7120.0154/08/3121.0007	UN	       78	       0	       0	        5,943.10	             0.00	            0.00
 		323708	0230	MRE115	PLACA PARA CABEZAL DE ENCAJONADORA	UN	        1	       0	       0	        4,500.00	             0.00	            0.00
 		323712	0230	MRE115	PRENSA BOTELLAS C/RANURADO POLAR	UN	      117	       0	       0	        3,981.83	             0.00	            0.00
-		323716	0230	MRE115	TUERCA CENTRALIZ.7120.0154/09/3121.0006	UN	       78	       0	       0	        3,570.95	             0.00	            0.00
+		323716	0230	MRE115	TUERCA CENTRALIZ.7120.0154/09/3121.0006	UN	       53	       0	       0	        2,426.41	             0.00	            0.00
 		323717	0230	MRE117	ANILLO "O" 7010.0434/23/9000.7147	UN	       77	       0	       0	          225.29	             0.00	            0.00
 		323718	0230	MRE117	BUJE 55mm. 7010.0416/10/4011.	UN	        7	       0	       0	           56.00	             0.00	            0.00
 		323723	0230	MRE117	GUIA DE SALIDA 3016.0048-26	UN	        7	       0	       0	        8,261.34	             0.00	            0.00
@@ -1116,7 +1115,7 @@
 		327375	0230	MRE122	ACTUADOR KIESELMANN DN 40/50/65	UN	        1	       0	       0	        3,682.28	             0.00	            0.00
 		327440	0230	MRE115	BARRA 2121.0002 POS.7	UN	       25	       0	       0	        5,263.50	             0.00	            0.00
 		327441	0230	MRE115	RESORTE DE TULIPA 4121.0015 POS.10	UN	       54	       0	       0	        3,183.40	             0.00	            0.00
-		327443	0230	MRE115	BOQUILLA MACHO 2121.0001 POS.13	UN	       79	       0	       0	        9,303.37	             0.00	            0.00
+		327443	0230	MRE115	BOQUILLA MACHO 2121.0001 POS.13	UN	       59	       0	       0	        6,948.09	             0.00	            0.00
 		327444	0230	MRE113	PRENSA MUELLE 80000191945	UN	        6	       0	       0	        1,060.15	             0.00	            0.00
 		328375	0231	MRE088	CEPILLO ESTRACTOR ETIQUETA, A-22-166	UN	        3	       0	       0	       16,493.80	             0.00	            0.00
 		329067	0230	MRE121	SONDA BALLUFF BTL2-E17-1500-B-532	UN	        1	       0	       0	       14,541.57	             0.00	            0.00
@@ -1132,10 +1131,10 @@
 		3300144	0230	MRE002	CHUMACERA COMPLETA UCF211 D1 55MM	UN	        2	       0	       0	        1,276.79	             0.00	            0.00
 		3300146	0230	MRE002	COJINETE UC212 P/EJE DE 60MM	UN	        7	       0	       0	        2,698.52	             0.00	            0.00
 		330023	0230	MRE113	VALVULA DPE078-1-209234	UN	        1	       0	       0	       16,767.02	             0.00	            0.00
-		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	       10	       0	       0	        4,598.05	             0.00	            0.00
+		3300449	0230	MRE012	CONTACTOR DIL M9-10 XTCE009B10 24 VDC	UN	        9	       0	       0	        4,138.24	             0.00	            0.00
 		3300453	0230	MRE012	LR44 BATTERY	UN	        2	       0	       0	           71.43	             0.00	            0.00
 		3300480	0230	MRE113	O RING 7mm x 3mm x 2mm D70°	UN	       60	       0	       0	        1,993.93	             0.00	            0.00
-		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      753	       0	       0	        4,706.25	             0.00	            0.00
+		3300488	0230	MRE011	RETAZO LIMPIADOR 12X15	LB	      734	       0	       0	        4,587.50	             0.00	            0.00
 		3301019	0230	MRE003	50 X 80 X 10 A-NBR SEAL	UN	        3	       0	       0	          102.38	             0.00	            0.00
 		3301267	0230	MRE010	MACHUELO HSS 1/16" NPT	JGO	        2	       0	       0	           64.27	             0.00	            0.00
 		3301483	0230	MRE002	CHUMACERA UCP 212	UN	        3	       0	       0	        2,413.03	             0.00	            0.00
@@ -1147,9 +1146,8 @@
 		3301580	0230	MRE101	SENSOR INDUCTIVO IM30-10BPS-ZUK SICK	UN	        2	       0	       0	        1,649.78	             0.00	            0.00
 		330195	0231	MRE188	ANILLO "O" 0-162-20-012-6	UN	       10	       0	       0	           76.26	             0.00	            0.00
 		3302079	0230	MRE004	CORREA SPA2832	UN	        6	       0	       0	        2,025.00	             0.00	            0.00
-		3302080	0230	MRE012	CONECTOR RECTOR HEMBRA M8-4 POLOS C/CABL	UN	        5	       0	       0	        1,097.03	             0.00	            0.00
-		3302080	0280	MRE012	CONECTOR RECTOR HEMBRA M8-4 POLOS C/CABL	UN	       11	       0	       0	        2,413.47	             0.00	            0.00
-		3302306	0230	MRE011	DESENGRASANTE DIELTRON 1	UN	       11	       0	       0	        4,125.00	             0.00	            0.00
+		3302080	0230	MRE012	CONECTOR RECTOR HEMBRA M8-4 POLOS C/CABL	UN	       16	       0	       0	        3,510.50	             0.00	            0.00
+		3302306	0230	MRE011	DESENGRASANTE DIELTRON 1	UN	        9	       0	       0	        3,375.00	             0.00	            0.00
 		3302421	0230	MRE001	SELLO 3" P/VALVULA MARIPOSA	UN	        5	       0	       0	          932.61	             0.00	            0.00
 		3302688	0230	MRE003	RETENEDOR 40*55*7	UN	       12	       0	       0	          523.19	             0.00	            0.00
 		3302736	0230	MRE003	RETENEDOR 65*100*12	UN	        4	       0	       0	           68.51	             0.00	            0.00
@@ -1179,7 +1177,7 @@
 		3308978	0230	MRE012	MOD. DE ENT DIG. A-B 16PT 24DC 1762-IQ16	UN	        2	       0	       0	        2,743.40	             0.00	            0.00
 		3308979	0230	MRE012	MOD. ANAL A-B 2CH I/O 24DC 1762-IF2OF2	UN	        2	       0	       0	        4,599.66	             0.00	            0.00
 		3308980	0230	MRE012	PLC ALLEN-BRADLEY MICROLOGIX 1400	UN	        1	       0	       0	        7,024.02	             0.00	            0.00
-		3309016	0230	MRE013	TUERCA 1/2" A/C GRADO 8	UN	        9	       0	       0	            8.72	             0.00	            0.00
+		3309016	0230	MRE013	TUERCA 1/2" A/C GRADO 8	UN	       59	       0	       0	           29.22	             0.00	            0.00
 		3309552	0230	MRE007	2Pz ORDENADORES P/N 128 GUIA DE RODILLOS	UN	        1	       0	       0	        2,671.40	             0.00	            0.00
 		3309844	0230	MRE013	PERNO HEXAGONAL 1/2" X 4 1/2" INOX	UN	       12	       0	       0	          158.64	             0.00	            0.00
 		3309874	0230	MRE012	SENSOR DE PERSION SICK S/N 09070042	UN	        2	       0	       0	        9,164.63	             0.00	            0.00
@@ -1261,7 +1259,7 @@
 		3321663	0230	MRE005	MANGUERA ROJA 3/4" 200PSI GATES	M	       15	       0	       0	        3,442.95	             0.00	            0.00
 		3321690	0230	MRE011	LAMINA POLICARBONATO de 1/8x4*x8*	UN	        1	       0	       0	          803.55	             0.00	            0.00
 		3321701	0230	MRE001	MANERAL 2 POSICIONES DN 80-100/3"-4" A.	UN	        2	       0	       0	          642.86	             0.00	            0.00
-		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      487	       0	       0	        4,877.52	             0.00	            0.00
+		3321702	0230	MRE011	DISCO DE CORTE EHT 115-1,0 A 60 R SG-INO	UN	      477	       0	       0	        4,777.37	             0.00	            0.00
 		3321948	0230	MRE012	SUPRESTHOR TRS9 p 480 VAC 300KAP Cat."B"	UN	        1	       0	       0	        1,325.90	             0.00	            0.00
 		3322020	0230	MRE012	CONECTOR P/BOBINA MSN1W-110-50/60-OD	UN	        7	       0	       0	          236.04	             0.00	            0.00
 		3322136	0230	MRE012	MODULO ET 200	UN	        4	       0	       0	        7,500.00	             0.00	            0.00
@@ -1300,7 +1298,8 @@
 		3325661	0230	MRE005	JUNTAS FESTO DNC-80-PPV-A	JGO	        5	       0	       0	        9,795.76	             0.00	            0.00
 		3325697	0230	MRE001	CHEQUE VERTICAL 2" ACERO INOX CLAMP.	UN	        6	       0	       0	        4,709.82	             0.00	            0.00
 		3325699	0230	MRE011	ESPUMA DE/POLIURETANO SIKABOOM 500ML	UN	        6	       0	       0	          521.29	             0.00	            0.00
-		3325762	0230	MRE010	CINTA DE VYNIL 1/2" BLANCA 6001266U	UN	        9	       0	       0	        2,758.09	             0.00	            0.00
+		3325762	0230	MRE010	CINTA DE VYNIL 1/2" BLANCA 6001266U	UN	        8	       0	       0	        2,451.64	             0.00	            0.00
+		3325814	0230	MRE011	CODO 90° DE 2" PVC	UN	        5	       0	       0	          134.00	             0.00	            0.00
 		332608	0231	MRE295	PRESSURE SPRING 1-099-04-732-0	UN	        4	       0	       0	          117.08	             0.00	            0.00
 		3326220	0230	MRE001	VALVULA MARIPOSA DE 3" TYPO WAFER	UN	        2	       0	       0	        1,482.14	             0.00	            0.00
 		3326320	0230	MRE001	REDUCIDOR CONCENTRICO 1 1/2 A 1"	UN	        1	       0	       0	           41.30	             0.00	            0.00
@@ -1308,7 +1307,7 @@
 		3326332	0230	MRE010	CINTA DE VINIL DE 1/2" AMARILLA 6001343U	UN	        1	       0	       0	          308.04	             0.00	            0.00
 		332637	0231	MRE293	O-RING (19*2 EPDM) 0-900-06-028-0	UN	        3	       0	       0	           37.67	             0.00	            0.00
 		3326503	0230	MRE011	LAMINA DE METAL DESPLEGADO4X8X1/8 INOX	UN	        2	       0	       0	        4,076.93	             0.00	            0.00
-		3326543	0230	MRE008	CLEANING V905 Q	UN	        7	       0	       0	            0.00	             0.00	            0.00
+		3326543	0230	MRE008	CLEANING V905 Q	UN	        6	       0	       0	            0.00	             0.00	            0.00
 		3326571	0230	MRE007	PERFIL 20MM*20MM DIVISOR DE PAQUETES	TF	        6	       0	       0	          937.50	             0.00	            0.00
 		3326615	0230	MRE001	REDUCCION BUSHING 3/4" A 3/8" INOX ROSCA	UN	        3	       0	       0	           41.29	             0.00	            0.00
 		3326651	0230	MRE007	FAJA ROUGH-TOP NEGRA 350MM BANDA PLANA	M	    2.540	       0	       0	          566.95	             0.00	            0.00
@@ -1348,7 +1347,8 @@
 		3332244	0230	MRE007	SPROCKET NS 881 25T REX 1 1/4 BIPARTIDO	UN	        5	       0	       0	        3,330.03	             0.00	            0.00
 		3332261	0230	MRE011	BARRA DE BRONCE GRAFITADO 3/4"	TF	        5	       0	       0	        7,098.25	             0.00	            0.00
 		3332277	0230	MRE001	EMPAQUE NITRILO RECTANGULAR 12X14MM	TF	       36	       0	       0	        7,681.83	             0.00	            0.00
-		3332364	0230	MRE012	CINTA DE AISLAR COLOR AMARILLO	UN	        9	       0	       0	          131.19	             0.00	            0.00
+		3332364	0230	MRE012	CINTA DE AISLAR COLOR AMARILLO	UN	        9	       0	       0	          127.85	             0.00	            0.00
+		3332364	0280	MRE012	CINTA DE AISLAR COLOR AMARILLO	UN	       60	       0	       0	          852.34	             0.00	            0.00
 		3332391	0230	MRE011	CAUCHO LOVEJOY S-FLEX SIZE 9	UN	        6	       0	       0	        4,506.29	             0.00	            0.00
 		3332420	0230	MRE011	BARRA DE ACERO 1045 DIAMETRO 45MM	TF	        6	       0	       0	        1,411.03	             0.00	            0.00
 		3332480	0230	MRE014	POWER LUBE LUBRICANTE GRADO ALIMENT.	UN	       47	       0	       0	        6,029.16	             0.00	            0.00
@@ -1368,7 +1368,7 @@
 		3333517	0230	MRE003	RETENEDOR 62*120*12	UN	        3	       0	       0	          575.37	             0.00	            0.00
 		3333873	0230	MRE011	VALVULA DE PEDAL	UN	        4	       0	       0	        2,946.40	             0.00	            0.00
 		3334583	0230	MRE014	KLUBERPLEX BEM 41-132	KG	        4	       0	       0	        1,607.33	             0.00	            0.00
-		3334589	0230	MRE012	UPS 1,500 VA 120 VOLT 60 HZ	UN	        3	       0	       0	        4,216.01	             0.00	            0.00
+		3334589	0230	MRE012	UPS 1,500 VA 120 VOLT 60 HZ	UN	        1	       0	       0	        1,405.34	             0.00	            0.00
 		3334640	0230	MRE001	BASE P/ACTUADOR NEUMA P/VALVULA DE 2"	UN	        3	       0	       0	          651.80	             0.00	            0.00
 		3334641	0230	MRE001	BASE P/ACTUADOR NEUMA P/VALVULA DE 2.5"	UN	        7	       0	       0	          859.27	             0.00	            0.00
 		3334650	0230	MRE013	TUERCA DE 1 1/2" INOX	UN	       16	       0	       0	        2,385.31	             0.00	            0.00
@@ -1390,8 +1390,7 @@
 		3335548	0230	MRE012	SIRENA CON ESTROBO FIRE 24 VDC	UN	        5	       0	       0	        2,625.00	             0.00	            0.00
 		3335620	0230	MRE007	SPROCKET NS815 25T 40mm BIPARTIDO	UN	        6	       0	       0	        4,478.29	             0.00	            0.00
 		3335716	0230	MRE011	LAMINA POLICARBONATO de 1/4¨ x 4´ x 8´	UN	        1	       0	       0	        1,250.00	             0.00	            0.00
-		3335766	0230	MRE011	FRESA 5/8¨ 4 FILOS TUGSTENO	UN	        7	       0	       0	        6,874.98	             0.00	            0.00
-		3335766	0280	MRE011	FRESA 5/8¨ 4 FILOS TUGSTENO	UN	        3	       0	       0	        2,946.42	             0.00	            0.00
+		3335766	0230	MRE011	FRESA 5/8¨ 4 FILOS TUGSTENO	UN	        9	       0	       0	        8,839.26	             0.00	            0.00
 		3335767	0230	MRE011	FRESA 1¨ 4 FILOS TUGSTENO	UN	        3	       0	       0	       12,857.16	             0.00	            0.00
 		3335781	0230	MRE011	VALVULA ASIENTO INCLINADO 2" SIMP.EFECTO	UN	        2	       0	       0	        3,886.62	             0.00	            0.00
 		3336204	0230	MRE101	SELLO DN 100 PARA BALVULA MARIPOSA	UN	        1	       0	       0	          156.25	             0.00	            0.00
@@ -1400,12 +1399,12 @@
 		3336254	0230	MRE012	MOTOREDUC.SEW KA77/TDRE90L4 2HP 230/460V	UN	        1	       0	       0	       19,598.22	             0.00	            0.00
 		3336259	0230	MRE002	ROTULA GEEW32ES	UN	        5	       0	       0	        1,114.95	             0.00	            0.00
 		3336264	0230	MRE012	INTERRUPTOR DE EMERGENCIA FIRE	UN	        1	       0	       0	          460.00	             0.00	            0.00
-		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	       11	       0	       0	        2,308.06	             0.00	            0.00
+		3336279	0230	MRE010	NAVAJA DE ACERO INOX C/MANGO DE PLASTICO	UN	        4	       0	       0	          839.29	             0.00	            0.00
 		3336362	0230	MRE012	SWITCH FIN DE CARRERA ZCMD21C12	UN	        2	       0	       0	        5,112.05	             0.00	            0.00
 		3336408	0230	MRE012	PUNTAS P/ MULTIMETRO FLUKE 179	UN	        2	       0	       0	           17.85	             0.00	            0.00
 		3336706	0230	MRE012	ORING PARA LAMPARA UV OPTIMA 320U	UN	       24	       0	       0	        1,114.32	             0.00	            0.00
 		3336707	0230	MRE012	ORING PARA LAMPARA UV OPTIMA XH-2BDL	UN	        4	       0	       0	          157.16	             0.00	            0.00
-		3336807	0230	MRE013	TORNILLO C/PLANA ALLEN 10 * 70MM INOX	UN	        6	       0	       0	          444.62	             0.00	            0.00
+		3336807	0230	MRE013	TORNILLO C/PLANA ALLEN 10 * 70MM INOX	UN	       36	       0	       0	        1,285.82	             0.00	            0.00
 		3337005	0230	MRE012	BATERIS BUTTOM LITHIUM CR1220	UN	        9	       0	       0	          482.36	             0.00	            0.00
 		3337081	0230	MRE002	CHUMACERA 1 1/4 4 AGUJEROS P/ PARED	UN	        2	       0	       0	          344.17	             0.00	            0.00
 		3337092	0230	MRE003	RETEN 1 X 2 X 3/8"	UN	        4	       0	       0	          107.15	             0.00	            0.00
@@ -1422,7 +1421,7 @@
 		3337390	0230	MRE011	BARRA CUADRADA COLL ROLED 1/2¨ x 1/2¨	M	        2	       0	       0	          131.82	             0.00	            0.00
 		3337430	0230	MRE001	CODO 1 1/2 x 1/16 A. INOX SOLDABLE	UN	        2	       0	       0	           57.86	             0.00	            0.00
 		3337600	0230	MRE012	CONTACTO AUX. 1NA/1NC 194E-A25-A100	UN	        3	       0	       0	          214.28	             0.00	            0.00
-		3337618	0230	MRE011	BARRA TIBER 2"	TF	       11	       0	       0	        1,484.32	             0.00	            0.00
+		3337618	0230	MRE011	BARRA TIBER 2"	TF	       11	       0	       0	        1,484.28	             0.00	            0.00
 		3337643	0230	MRE012	CABLE TSJ 3 X 8	M	       78	       0	       0	        4,283.76	             0.00	            0.00
 		3337658	0230	MRE011	BARRA TIBAR DE 1 3/4¨	TF	        4	       0	       0	          535.68	             0.00	            0.00
 		3337672	0230	MRE012	TERMINAL P/ENTALLAR 6AWG AGU/1/2" 90°	UN	       12	       0	       0	          628.85	             0.00	            0.00
@@ -1437,12 +1436,11 @@
 		3337790	0230	MRE012	TOMACORRIENTE TIPO PENDULO 3 POLOS C/S	UN	        6	       0	       0	           45.02	             0.00	            0.00
 		3337803	0230	MRE012	NIPLE BUSHING GALVANIZADO DE 1 1/2	UN	        2	       0	       0	           17.94	             0.00	            0.00
 		3337804	0230	MRE013	TARUGO PLASTICO EXPANSIVO DE 1/4¨	UN	      238	       0	       0	           57.84	             0.00	            0.00
-		3337806	0230	MRE013	TARUGO PLASTICO EXPANSIVO DE 3/8¨	UN	       44	       0	       0	           38.69	             0.00	            0.00
+		3337806	0230	MRE013	TARUGO PLASTICO EXPANSIVO DE 3/8¨	UN	      444	       0	       0	          218.69	             0.00	            0.00
 		3337807	0230	MRE013	TORNILLO PULSAR DE 3/8 X 1 1/2	UN	       16	       0	       0	           42.70	             0.00	            0.00
 		3337814	0230	MRE005	ACTUADOR NEUM. INOXPA DN 50	UN	        3	       0	       0	        5,330.37	             0.00	            0.00
 		3337911	0230	MRE013	TORNILLO CAB.AVELLANADA M3X15MM INOX.	UN	       10	       0	       0	           26.80	             0.00	            0.00
-		3338015	0230	MRE011	MANGUERA SANITARIA 3/4¨	M	      125	       0	       0	       21,448.01	             0.00	            0.00
-		3338015	0280	MRE011	MANGUERA SANITARIA 3/4¨	M	       50	       0	       0	        8,579.20	             0.00	            0.00
+		3338015	0230	MRE011	MANGUERA SANITARIA 3/4¨	M	       15	       0	       0	        2,573.76	             0.00	            0.00
 		3338049	0230	MRE005	ELECTROVAL. CPV10-M1H-2X3-OLS-M7 161417	UN	        4	       0	       0	        6,183.67	             0.00	            0.00
 		3338090	0230	MRE005	ELECTROVAL. CPV10-M1H-5LS-M7 161414	UN	        4	       0	       0	        4,491.68	             0.00	            0.00
 		3338204	0230	MRE005	CILINDRO DOBLE EFECTO DSBC-50-250	UN	        1	       0	       0	        1,431.25	             0.00	            0.00
@@ -1496,9 +1494,9 @@
 		3343974	0230	MRE012	SENSOR AUTOSWITC DETECTOR SMC PNP	UN	        1	       0	       0	          223.21	             0.00	            0.00
 		3344095	0230	MRE012	LAMPARA LED 2 TUBOS 18 WATTS IP65	UN	       17	       0	       0	        2,440.29	             0.00	            0.00
 		3344124	0230	MRE012	PT100 TRMRSIS J-50 A 600 C 200MM	UN	        1	       0	       0	        3,566.96	             0.00	            0.00
-		3344125	0230	MRE011	BARRA TIBAR 1 1/4"	TF	       15	       0	       0	          696.45	             0.00	            0.00
+		3344125	0230	MRE011	BARRA TIBAR 1 1/4"	TF	       15	       0	       0	          696.43	             0.00	            0.00
+		3344292	0230	MRE011	ABRAZADERA PARA TUBO DE DOS OREJAS - 2"	UN	        6	       0	       0	           18.78	             0.00	            0.00
 		3344324	0230	MRE011	LAMINA POLICARBONATO DE 1/16"x4´x8´	UN	        1	       0	       0	        1,160.71	             0.00	            0.00
-		3344386	0230	MRE007	RODO FIJO 4"	UN	        2	       0	       0	        2,130.00	             0.00	            0.00
 		3344423	0230	MRE001	ABRAZADERA FIJACION HEX. DE 1 1/2" INOX	UN	        2	       0	       0	           37.50	             0.00	            0.00
 		3344464	0230	MRE013	TORNILLO BUSCA ROSCA # 08 X 2"	UN	       44	       0	       0	           34.75	             0.00	            0.00
 		3344850	0230	MRE011	FIBRA CAFÉ 7440	UN	        9	       0	       0	          148.68	             0.00	            0.00
@@ -1574,13 +1572,14 @@
 		3356770	0230	MRE011	MANGUERA PROLONGACION 6.907-321.0	M	        1	       0	       0	        4,736.60	             0.00	            0.00
 		3356820	0230	MRE011	CERROJO DIGITAL	UN	        2	       0	       0	        1,782.14	             0.00	            0.00
 		3356884	0230	MRE012	TARJ. DE MEMORIA CONTROL P/VARIADOR	UN	        1	       0	       0	        1,272.73	             0.00	            0.00
+		3356938	0230	MRE012	FUSIBLE TIPO K 100AMP	UN	       10	       0	       0	          446.50	             0.00	            0.00
 		3356939	0230	MRE012	CORTACIRCUITO 15KV 100A 110KV	UN	        2	       0	       0	        1,212.50	             0.00	            0.00
 		3357213	0230	MRE012	CERAPHANT PTP33B-AA3M1PGB3EJ 2" CLAMP	UN	        2	       0	       0	       11,281.26	             0.00	            0.00
 		3357302	0230	MRE011	CANDADO 40MM MASTER LOCK 3D37402SP	UN	       17	       0	       0	        2,140.18	             0.00	            0.00
 		3357303	0230	MRE011	LLAVE MAESTRA DE CANDDO MASTER LOCK 3D	UN	        1	       0	       0	           60.72	             0.00	            0.00
 		3357313	0230	MRE011	LLAVE P/LAVABO INDIVIDUAL C/ SENSOR	UN	        2	       0	       0	        1,718.89	             0.00	            0.00
 		3357406	0230	MRE011	TOPE PARA PUERTA AL PISO DE 4"	UN	        3	       0	       0	          141.14	             0.00	            0.00
-		3357440	0230	MOP101	RELANIT 100	GLN	       15	       0	       0	        5,404.57	             0.00	            0.00
+		3357440	0230	MOP101	RELANIT 100	GLN	       12	       0	       0	        4,323.66	             0.00	            0.00
 		3357466	0230	MRE014	CEPSA GRASA BLAMEDOL GB2 NSF	LB	       18	       0	       0	        1,086.86	             0.00	            0.00
 		3357468	0230	MRE014	CEPSA ENGRANAJES HP ISO 320	L	      180	       0	       0	        7,031.25	             0.00	            0.00
 		3357562	0230	MRE001	MIRILLA PARA TUBO CLAMP SS316 2 " INOXPA	UN	        2	       0	       0	        2,053.58	             0.00	            0.00
@@ -1593,7 +1592,6 @@
 		3357862	0230	MRE012	CODO DUCTON 1/2	UN	        3	       0	       0	            3.90	             0.00	            0.00
 		3357878	0230	MRE013	TUERCA DE BRONCE PV-1 PARA MARMITA	UN	        3	       0	       0	        1,913.55	             0.00	            0.00
 		3357894	0230	MRE005	ELECTROVAL. MAC 5/2-1/4 24VDC MOD 0647	UN	        3	       0	       0	        6,894.76	             0.00	            0.00
-		3357901	0230	MRE005	CILINDRO DOBLE EFECTO DSNU-20-15-P-A	UN	        1	       0	       0	          685.98	             0.00	            0.00
 		3357945	0230	MRE012	POTENCIOMETRO COMPLETO 10000 22MM -R10K	UN	        3	       0	       0	        2,086.35	             0.00	            0.00
 		3357947	0230	MRE012	SENSOR TEMPERATURA THTS-1AAT-10506MZ	UN	        1	       0	       0	        4,990.76	             0.00	            0.00
 		3357948	0230	MRE012	LAMPARA ROTATIVA LED 24V CON BUZZER	UN	        1	       0	       0	          405.00	             0.00	            0.00
@@ -1675,6 +1673,7 @@
 		3383740	0230	MRE012	CONECREC M12-4 POLOS/RJ45SSL-2J04-G05ME	UN	        1	       0	       0	        1,074.86	             0.00	            0.00
 		3383854	0230	MRE012	BUTTON CELL 357 A	UN	        3	       0	       0	          277.36	             0.00	            0.00
 		3384109	0230	MRE003	RETENEDOR CR 12X24X7 HMSA10 RG	UN	        3	       0	       0	           54.93	             0.00	            0.00
+		3384888	0280	MRE013	TORNILLO POLZER PUNTA BROCA 1/4"X 2 1/2"	UN	       24	       0	       0	          405.12	             0.00	            0.00
 		3384913	0230	MRE012	PASACABLES M20	UN	        3	       0	       0	           68.58	             0.00	            0.00
 		339246	0230	MRE329	SOLENOID COIL 120V 60Hz 205209	UN	        5	       0	       0	        4,995.55	             0.00	            0.00
 		3393947	0230	MRE011	SELLO MECANICO CONICO P/EJE 22MM.	UN	        1	       0	       0	          446.43	             0.00	            0.00
@@ -1729,7 +1728,7 @@
 		3412097	0230	MRE000178	PALETA ESCOLADORA 0-905-82-361-4	UN	       17	       0	       0	       35,041.06	             0.00	            0.00
 		3412101	0230	MRE000178	PALETA ESCOLADORA 0-905-74-787-9	UN	       33	       0	       0	       64,901.15	             0.00	            0.00
 		3412101	0231	MRE000178	PALETA ESCOLADORA 0-905-74-787-9	UN	        1	       0	       0	        1,966.70	             0.00	            0.00
-		3412102	0230	MRE000178	SERVOMOTOR 0-904-59-637-7	UN	        2	       0	       0	       42,789.08	             0.00	            0.00
+		3412102	0230	MRE000178	SERVOMOTOR 0-904-59-637-7	UN	        1	       0	       0	       21,394.54	             0.00	            0.00
 		3412102	0231	MRE000178	SERVOMOTOR 0-904-59-637-7	UN	        1	       0	       0	       21,394.54	             0.00	            0.00
 		3412103	0230	MRE000178	JUEGO DE JUNTAS 0-904-59-974-9	UN	        6	       0	       0	        6,264.97	             0.00	            0.00
 		3412106	0230	MRE000178	RESISTOR/RESISTENCIA 0-900-54-192-5	UN	        1	       0	       0	          911.53	             0.00	            0.00
@@ -2729,9 +2728,14 @@
 		350508	0230	MRE475	JUNTA C130GIUNT0017	UN	        1	       0	       0	        3,230.55	             0.00	            0.00
 		3505082	0230	MRE012	CONTACTOR SCHNEIDER ELECTRIC LC1K09	UN	        2	       0	       0	        2,254.48	             0.00	            0.00
 		3505083	0230	MRE014	ACEITE LUNARIA NH 68	GLN	       60	       0	       0	       10,331.62	             0.00	            0.00
+		3505085	0230	MRE012	FUSIBLE TIPO K 200AMP	UN	        6	       0	       0	          401.82	             0.00	            0.00
+		3505118	0230	MRE001	BUSHING 12.45 14 8	UN	       36	       0	       0	        1,236.24	             0.00	            0.00
+		3505119	0230	MRE001	SELLO BRB DN25	UN	       24	       0	       0	        1,228.80	             0.00	            0.00
+		3505120	0230	MRE001	SELLO CPB DN25	UN	       12	       0	       0	        8,928.00	             0.00	            0.00
 		3505198	0230	MRE012	RECTIFICADOR DE FRENO 8253846 SEW	UN	        2	       0	       0	          885.00	             0.00	            0.00
+		3505220	0230	MRE012	TUBO PORTAFUSIBLE 15KV 200A	UN	        6	       0	       0	        4,258.98	             0.00	            0.00
 		3505297	0230	MRE005	RACOR ACERO INOX NPQR-L-Q6	UN	       10	       0	       0	        3,708.48	             0.00	            0.00
-		3505318	0230	MRE008	ADITIVO A2188-4X0.8L	UN	        4	       0	       0	        1,337.20	             0.00	            0.00
+		3505318	0230	MRE008	ADITIVO A2188-4X0.8L	UN	        2	       0	       0	          668.60	             0.00	            0.00
 		3505345	0230	MRE117	BOMBA REXROTH F 000 510 707 19W17-7362	UN	        1	       0	       0	        7,839.29	             0.00	            0.00
 		3505446	0230	MRE006	BUSHING SF 1/2" MARTIN	UN	        1	       0	       0	          968.75	             0.00	            0.00
 		3505598	0230	MRE005	RACOR QSMLL M5 4 10	UN	       10	       0	       0	          564.30	             0.00	            0.00
@@ -2752,6 +2756,7 @@
 		3507742	0231	MRE007	BANDA MODULAR INTRALOX S400-119.9" GRIS	M	       50	       0	       0	      423,310.44	             0.00	            0.00
 		3508058	0230	MRE515	CONTROL EUROTHERM 2416/CC/VH/H2/R2	UN	        1	       0	       0	        8,482.14	             0.00	            0.00
 		3508098	0230	MRE012	DB9 MACHO /CUBIERTA CONECTOR PA SOLDAR	UN	        2	       0	       0	           20.00	             0.00	            0.00
+		3508182	0230	MRE012	TUBO PORTAFUSIBLE 15KV/100A	UN	       10	       0	       0	        2,053.70	             0.00	            0.00
 		3508266	0230	MRE011	BARRA DE HIERRO NEGRO 2"	TF	        2	       0	       0	          285.72	             0.00	            0.00
 		3508338	0230	MRE012	SENSOR CERAPHANT PTP33B AA7M1PGB1JJ+F3	UN	        2	       0	       0	       13,250.00	             0.00	            0.00
 		3508348	0230	MRE002	CHUMACERA REDONDA FYC60 60MM	UN	        1	       0	       0	          924.11	             0.00	            0.00
@@ -2793,6 +2798,8 @@
 		3512610	0230	MRE005	COPLE UNION DIÁMETRO 63 MM	UN	        2	       0	       0	        1,496.41	             0.00	            0.00
 		3512611	0230	MRE005	VÁLVULA DE ESFERA 63 MM	UN	        1	       0	       0	        2,151.38	             0.00	            0.00
 		3512794	0230	MRE012	VENTILA PARA SERVO 8214 JH3 EBM-PAPST	UN	        5	       0	       0	        3,262.50	             0.00	            0.00
+		3512931	0280	MRE012	LOGO DISPLAY 6ED1055-4MH08-0BA1	UN	        1	       0	       0	        3,838.08	             0.00	            0.00
+		3512937	0280	MRE013	TORNILLO EXPANSIVO 3/8" X 2 1/4"	UN	       24	       0	       0	          514.32	             0.00	            0.00
 		351314	0230	MRE508	BUJE PLASTICO JUN 01 16 5037795	UN	      256	       0	       0	       20,641.77	             0.00	            0.00
 		351383	0230	MRE113	TUERCA HHA016/26/210823	UN	        7	       0	       0	           35.87	             0.00	            0.00
 		351384	0230	MRE113	CASQUILLO 80000149542 / 149542/22/210826	UN	       36	       0	       0	        2,087.56	             0.00	            0.00
@@ -2857,8 +2864,8 @@
 		358351	0230	MRE569	RACOR F.RMI 09.1102/JV 503501100	UN	        2	       0	       0	          534.49	             0.00	            0.00
 		358354	0230	MRE569	GUIA D10P=22 mm 4033460500	UN	        3	       0	       0	        6,142.78	             0.00	            0.00
 		358355	0230	MRE569	DESACELERADOR P/N SP-22988.8002934000	UN	       12	       0	       0	       16,210.52	             0.00	            0.00
-		358529	0230	MRE013	TUERCA HEX. 1/2" GRADO 5	UN	       56	       0	       0	           51.51	             0.00	            0.00
-		358530	0230	MRE013	ROLDANA PLANA 1/2" GRADO 5	UN	       68	       0	       0	           70.85	             0.00	            0.00
+		358529	0230	MRE013	TUERCA HEX. 1/2" GRADO 5	UN	       54	       0	       0	           49.67	             0.00	            0.00
+		358530	0230	MRE013	ROLDANA PLANA 1/2" GRADO 5	UN	       66	       0	       0	           68.77	             0.00	            0.00
 		358571	0230	MRE013	ROLDANA DE PRESION 1/2" GRADO 5	UN	       90	       0	       0	          116.17	             0.00	            0.00
 		358572	0230	MRE013	TORNILLO HEX. 1/2" X 2" R. CORRIDA GRADO	UN	       32	       0	       0	          141.11	             0.00	            0.00
 		358882	0230	MRE131	MODULO ETHERCAT MAST CAN OPEN EL6751	UN	        2	       0	       0	       12,321.44	             0.00	            0.00
@@ -3230,8 +3237,8 @@
 		387427	0230	MRE532	MUELLE DESENGANCHE P75Q03615500	UN	       24	       0	       0	        1,951.84	             0.00	            0.00
 		387430	0230	MRE532	MUELLE COMPENSACION R KG 20 P75V03767300	UN	        3	       0	       0	        1,557.41	             0.00	            0.00
 		387498	0230	MRE742	GRUPO CABEZA HISTERESIS D75VRT03K020	UN	        1	       0	       0	       36,181.95	             0.00	            0.00
-		387621	0230	MRE008	V4220-L INK BLACK 1 LITER	UN	        5	       0	       0	            0.00	             0.00	            0.00
-		387622	0230	MRE008	V7223-L MAKE-UP 1 LITER	UN	        5	       0	       0	            0.00	             0.00	            0.00
+		387621	0230	MRE008	V4220-L INK BLACK 1 LITER	UN	        4	       0	       0	            0.00	             0.00	            0.00
+		387622	0230	MRE008	V7223-L MAKE-UP 1 LITER	UN	        4	       0	       0	            0.00	             0.00	            0.00
 		387649	0230	MRE063	PRESURE GAUGE MA-40-10 0-902-63-673-9	UN	        1	       0	       0	          212.32	             0.00	            0.00
 		387693	0230	MRE454	PRESSURE REGULATOR 8L50000768	UN	        2	       0	       0	          293.50	             0.00	            0.00
 		387792	0230	MRE535	POLEA DENTATA 24-8M-50 80083712	UN	        2	       0	       0	        5,696.35	             0.00	            0.00
@@ -3371,7 +3378,7 @@
 		393608	0230	MRE762	RODAMIENTO RÍGIDO 16004 0-954-00-300-2	UN	        1	       0	       0	           26.59	             0.00	            0.00
 		393630	0230	MRE764	OBTURACIÓN PERFIL 275X6.6 0-902-99-896-7	UN	        2	       0	       0	          789.58	             0.00	            0.00
 		393649	0231	MRE757	CUCHILLA/CORTADOR 0-904-57-308-4	UN	        1	       0	       0	        8,583.38	             0.00	            0.00
-		393691	0230	MRE957	CORREA FDA BLANCO SV.2286 P81H74990002	UN	        9	       0	       0	       16,042.52	             0.00	            0.00
+		393691	0230	MRE957	CORREA FDA BLANCO SV.2286 P81H74990002	UN	        8	       0	       0	       14,260.02	             0.00	            0.00
 		393749	0230	MRE297	KIT,REPAIR,HS PROLINE,OVERHAUL 36882	UN	        1	       0	       0	        5,455.38	             0.00	            0.00
 		395790	0230	MRE594	KIT DE SERVICIO 44W1075A212	UN	        3	       0	       0	        1,452.65	             0.00	            0.00
 		395897	0230	MRE569	ORING 7012820 80042665	UN	        1	       0	       0	           30.27	             0.00	            0.00
@@ -3399,7 +3406,7 @@
 		396753	0230	MRE569	TUERCA E. M12X1,5 UNI5588-6SZNT 80056486	UN	       24	       0	       0	       13,566.11	             0.00	            0.00
 		396794	0230	MRE569	GUARNICION 5018887	UN	        2	       0	       0	          241.81	             0.00	            0.00
 		397498	0230	MRE569	DISCO 4044970200/4031533800	UN	        3	       0	       0	        9,958.31	             0.00	            0.00
-		397506	0230	MRE113	DEFLECTOR 80000GEA561	UN	    2,760	       0	       0	       53,999.17	             0.00	            0.00
+		397506	0230	MRE113	DEFLECTOR 80000GEA561	UN	    2,560	       0	       0	       50,086.19	             0.00	            0.00
 		397579	0231	MRE972	PLATE 0903540575	UN	        1	       0	       0	          186.48	             0.00	            0.00
 		397665	0230	MRE975	SLIDER HP 0902980360	UN	        1	       0	       0	        2,599.58	             0.00	            0.00
 		397666	0231	MRE975	SLIDER HP 0902980361	UN	        1	       0	       0	        5,300.74	             0.00	            0.00
@@ -3419,4 +3426,4 @@
 		399667	0230	MRE117	ACOPLE ELASTICO 0017211/2	UN	        2	       0	       0	       31,189.15	             0.00	            0.00
 		399796	0230	MRE206	ACOPLE ELASTICO	UN	        4	       0	       0	        1,622.88	             0.00	            0.00
 
-	*									   16,410,186.36	             0.00	       16,160.53
+	*									   16,345,942.47	             0.00	       16,160.53
