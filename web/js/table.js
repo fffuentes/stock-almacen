@@ -171,7 +171,6 @@ function renderTable(headers, rows) {
     const emptyState = document.querySelector(".empty-state");
     const statusValue = document.querySelector(".status-value.status-pending");
     const regsValue = document.querySelectorAll(".status-value")[1];
-    const fechaValue = document.querySelectorAll(".status-value")[0];
 
     // 1. Generar encabezados dinámicamente (con clases CSS) -------------
     if (theadRow) {
@@ -273,20 +272,6 @@ function renderTable(headers, rows) {
     }
     if (regsValue) {
         regsValue.textContent = count;
-    }
-    if (fechaValue) {
-        const ahora = new Date();
-        fechaValue.textContent =
-            ahora.toLocaleDateString("es-GT", {
-                day: "2-digit",
-                month: "2-digit",
-                year: "numeric",
-            }) +
-            " " +
-            ahora.toLocaleTimeString("es-GT", {
-                hour: "2-digit",
-                minute: "2-digit",
-            });
     }
 
     // ── DIAGNÓSTICO ───────────────────────────────────────────────
